@@ -1,0 +1,14 @@
+- What is the difference between position: absolute and position: fixed ?
+    A:
+    An element having position: absolute is removed from the normal document flow. It will be positioned
+    relative to the closes parent. If there is no parent, it will be positioned relative to the containing block.
+
+    An element having position: fixed is also removed from the normal document flow. This elements position on the other hand, 
+    is relative to the browser window as opposed to the containing element or a parent. Fixed elements do not affect any surrounding elements' position.
+
+- With CSS3, how do we access the third element within another element?
+    A:
+    With the use of :nth-child().
+    
+    For example:   
+    element > element:nth-child(3)

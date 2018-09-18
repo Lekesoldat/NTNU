@@ -1,0 +1,47 @@
+body {
+  background-color: lightgray;
+  color: #323232;
+}
+
+article {
+  min-width: 65ch;
+  max-width: 75ch;
+  font-size: 18px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 0%;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+header {
+  border-bottom: 1px solid; 
+}
+
+p, blockquote, ul, ol {
+  font-size: 1em;
+  line-height: 150%;
+  font-family: Verdana, Georgia;
+}
+
+#facts {
+  margin: 1em 0em 1em 1em;
+  width: 50%;
+  border: 1px dashed;
+  float: right;
+}
+
+#facts > ul {
+  list-style-image: url("../img/cup-icon.svg");
+  line-height: 1.5em;
+  padding-left: 1.5em;
+}
+
+#cover {
+  width: 100%;
+}

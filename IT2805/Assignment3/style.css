@@ -1,0 +1,23 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Part 4 */
+ul {
+  list-style-type: square;
+}
+
+/*A generic sublist*/
+li li:last-of-type {
+  color: indianred;
+}
+
+/*
+This could also work, but will only work with a sublist with the structure specified.
+
+ul ul li:last-child {
+  color: indianred;
+}
+*/

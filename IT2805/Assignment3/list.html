@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+
+<html lang="no">
+  <head>
+
+    <meta charset="utf-8">
+    <title>A list apart</title>
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    
+    <style>
+      /* Part 3*/
+      .wrapper {
+        min-height:   calc(100vh - 65px)          /*100% of viewport height - 70px*/
+      }
+
+      .sticky-footer {
+        height:       45px;                       /*Height of the footer */
+        text-align:   center;
+      }
+
+      /*The 20px-difference between the wrapper and the sticky-footer is because I am assuming that the bottom margin of the content in the wrapper is about 20px. This will avoid any content overlapping. */
+
+    </style>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      <h1>This is a list</h1>
+
+      <!-- List -->
+      <ul>
+        <li>HTML5</li>
+        <li>CSS
+
+          <!-- Sublist -->
+          <ul>
+            <li>LESS</li>
+            <li>Sass</li>
+            <li>SCSS</li>
+          </ul>
+
+        </li>
+
+        <li>JavaScript
+
+          <!-- Sublist -->
+          <ul>
+            <li>React</li>
+            <li>Node</li>
+            <li>Jquery</li>
+            <li>AngularJS</li>
+            <li>Backbone</li>
+            <li>Ember</li>
+            <li>Babel</li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+
+    <!--
+      Moved <footer> outside the div. 
+      I read a bit about wrappers, and according to css-tricks.com (https://css-tricks.com/best-way-implement-wrapper-css/) the main purpose of a
+      wrapper is to wrap around a single object to provide functionality and interface to it. 
+
+      I believe the single object in this case was the list, and therefore i placed the footer on its own. This also made it easier to make it sticky, just the way the assignment specified. 
+
+      Spoke to a stud.ass about this solution, and it was confirmed that this was allowed, - I just had to explain why I did it.
+    -->
+    <footer class="sticky-footer"> - This is a footer - </footer>
+
+  </body>
+</html>

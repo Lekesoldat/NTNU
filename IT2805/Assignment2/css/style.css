@@ -1,0 +1,18 @@
+h1, h2 {
+  font-family: Verdana, Geneva, Arial;
+}
+
+p {
+  font-family: 'Montserrat', 'Times New Roman', sans-serif;
+}
+
+body {
+  background-color: lightgray;
+}
+
+#mePicture {
+  max-width: 150px;
+  padding: 1px;
+  border: 1px solid #021a40;
+  background-color:rgb(255, 255, 255);
+}
