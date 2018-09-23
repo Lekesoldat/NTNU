@@ -13,7 +13,7 @@ console.log('PART 3');
 
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
 
-/* Have to different solutions on this one. I think the first is the best. In case we want to expand to make it work for 7's instead of 5's, it is just one simple number to change. In case we want to add criterias for it working on 11's and 15's aswell, those are just two new lines of code. If I wanted to use the second solution provided on the case i mentioned above, it would be a nightmare of if/else if and else statements. 
+/* Have two different solutions on this one. I think the first is the best. In case we want to expand to make it work for 7's instead of 5's, it is just one simple number to change. In case we want to add criterias for it working on 11's and 15's aswell, those are just two new lines of code. If I wanted to use the second solution provided on the case i mentioned above, it would be a nightmare of if/else if and else statements. 
 
 Traversing the array*/
 for (let i = 0; i < numbers.length; i++) {
