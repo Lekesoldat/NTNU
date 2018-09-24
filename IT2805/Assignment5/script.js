@@ -14,19 +14,20 @@ console.log('PART 3');
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
 
 /* Have two different solutions on this one. I think the first is the best. In case we want to expand to make it work for 7's instead of 5's, it is just one simple number to change. In case we want to add criterias for it working on 11's and 15's aswell, those are just two new lines of code. If I wanted to use the second solution provided on the case i mentioned above, it would be a nightmare of if/else if and else statements. 
+Using a for of loop here since an array is an iterable.
 
 Traversing the array*/
-for (let i = 0; i < numbers.length; i++) {
+for (number of numbers) {
     // Declare variable output as an empty string.
     let output = "";
 
     // If divisible by 3, concatenate "eple" to the output-string. Same with 5.
     // If divisible by both 3 and 5, the output-string will have both eple and kake concatenated. 
-    if (numbers[i] % 3 === 0) { output += "eple"; }
-    if (numbers[i] % 5 === 0) { output += "kake"; }
+    if (number % 3 === 0) { output += "eple"; }
+    if (number % 5 === 0) { output += "kake"; }
 
     // If nothing is added to the string, output numbers[i]
-    if (output === "") { output = numbers[i] }
+    if (output === "") { output = number }
 
     // Log the output.
     console.log(output);
