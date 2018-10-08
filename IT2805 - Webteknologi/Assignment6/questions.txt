@@ -1,0 +1,22 @@
+Why does the following expression 0.1 + 0.2 === 0.3 evaluate to false in Javascript?
+    A:
+    Because triple equals is for strict comparisons. In JS 0.1 + 0.2 = 0.3000000.. and NOT 0.3. 
+
+What does the method attribute on a form element decide?
+    A:
+    It decides which method to transfer the data. Either with POST or GET.
+
+Explain why the form fields appear in the URL when the method on form element is changed to GET ?
+    A:
+    The GET method appends the form-data to the URL in name/value pairs. It is really bad practice to use the GET method
+    when sending sensitive information.
+    The POST method on the other hand appends the form-data in the body of the HTTP-request. 
+
+Why is it considered bad practice to only validate form input with HTML5 and/or Javascript?
+    A: 
+    When you submit the data, it can be tempered with. The JS or HTML might also make an error, but if you have an extra layer of validation to check
+    if the data is actually correct you'll experience less errors and tempered data.
+
+When is it appropriate to use textarea over input ?
+    A: 
+    When you want to type longer text-inputs. The input type 'text' has a character-limitation, and even though you can type rather large inputs it's better practice to use 'textarea'. You can resize the text-area and show multiple lines instead of the one line from a regular 'text'-input.
