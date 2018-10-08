@@ -1,0 +1,7 @@
+The PDF didn't want to cooperate so here you have the table for part 6. 
+
+| Real name   | Gender | E-Mail                     | Birthyear | Hero name | Spandex | Strength | Speed | Intelligence | Wealth     | Income    | Tax
+|-------------|--------|----------------------------|-----------|-----------|---------|----------|-------|--------------|----------- |-----------|-----
+| Nick Nedd   | Male   | nick@tick.com              | 1976      | The Tick  | Yes     | 9        | 7     | 5            | 0          | 90 287    | 29 794
+| Bruce Wayne | Male   | bruce@wayneenterprises.com | 1974      | Batman    | No      | 7        | 4     | 9            | 50 144 501 | 3 343 891 | 11 132 384
+| Selina Kyle | Female | selina@whiskas.com         | 1977      | Catwoman  | Yes     | 6        | 6     | 9            | 2 987 323  | 0         | 597 464
