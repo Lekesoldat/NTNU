@@ -1,5 +1,16 @@
 # NTNU
-Private documents from Computer Science studies at NTNU, Trondheim.
+Documents from Computer Science studies at NTNU, Trondheim.  
+
+# Disclaimer:  
+Feel free to have a look at the content, experiment and play with it, and use it as an inspiration for your own work. However you are not under **any** circumstances allowed to copy and/or deliver my work as your own assignment, nor claim that it is yours.
+
+*I hereby disclaim all responsibility for your actions, and I can not in any way be held responsible for any consequences that may occur.*
+
+Assignments will be published two weeks after the due-date to prevent plagiarism/'kok'.  
+
+<hr>
+
+On the other hand, - If you have any requests for improvement, feel free to add a comment, and I might have a look at it.
 
 ## Autumn 2018 - First semester
 - [IT2805 - Webteknologi](https://github.com/Lekesoldat/NTNU/tree/master/IT2805%20-%20Webteknologi)
