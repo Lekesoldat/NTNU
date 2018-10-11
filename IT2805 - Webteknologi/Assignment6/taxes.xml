@@ -1,61 +1,44 @@
 <taxes>
   <entry>
-    <realName></realName>
-    <gender></gender>
-    <mail></mail>
-    <birthyear></birthyear>
-    <heroName></heroName>
-    <spandex></spandex>
-    <strength></strength>
-    <speed></speed>
-    <intelligence></intelligence>
-    <wealth></wealth>
-    <income></income>
-    <tax></tax>
+    <realName>Nick Nedd</realName>
+    <gender>Male</gender>
+    <email>nick@tick.com</email>
+    <birthyear>1976</birthyear>
+    <heroName>The Tick</heroName>
+    <spandex>Yes</spandex>
+    <strength>9</strength>
+    <speed>7</speed>
+    <intelligence>5</intelligence>
+    <wealth>0</wealth>
+    <income>90 287</income>
+    <tax>29 794</tax>
   </entry>
-
   <entry>
-    <realName></realName>
-    <gender></gender>
-    <mail></mail>
-    <birthyear></birthyear>
-    <heroName></heroName>
-    <spandex></spandex>
-    <strength></strength>
-    <speed></speed>
-    <intelligence></intelligence>
-    <wealth></wealth>
-    <income></income>
-    <tax></tax>
+    <realName>Bruce Wayne</realName>
+    <gender>Male</gender>
+    <email>bruce@wayneenterprises.com</email>
+    <birthyear>1974</birthyear>
+    <heroName>Batman</heroName>
+    <spandex>No</spandex>
+    <strength>7</strength>
+    <speed>4</speed>
+    <intelligence>9</intelligence>
+    <wealth>50 144 501</wealth>
+    <income>3 343 891</income>
+    <tax>11 132 384</tax>
   </entry>
-
   <entry>
-    <realName></realName>
-    <gender></gender>
-    <mail></mail>
-    <birthyear></birthyear>
-    <heroName></heroName>
-    <spandex></spandex>
-    <strength></strength>
-    <speed></speed>
-    <intelligence></intelligence>
-    <wealth></wealth>
-    <income></income>
-    <tax></tax>
-  </entry>
-
-  <entry>
-    <realName></realName>
-    <gender></gender>
-    <mail></mail>
-    <birthyear></birthyear>
-    <heroName></heroName>
-    <spandex></spandex>
-    <strength></strength>
-    <speed></speed>
-    <intelligence></intelligence>
-    <wealth></wealth>
-    <income></income>
-    <tax></tax>
+    <realName>Selina Kyle</realName>
+    <gender>Female</gender>
+    <email>selina@whiskas.com</email>
+    <birthyear>1977</birthyear>
+    <heroName>Catwoman</heroName>
+    <spandex>Yes</spandex>
+    <strength>6</strength>
+    <speed>6</speed>
+    <intelligence>9</intelligence>
+    <wealth>2 987 323</wealth>
+    <income>0</income>
+    <tax>597 464</tax>
   </entry>
 </taxes>
