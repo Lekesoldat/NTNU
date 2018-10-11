@@ -1,3 +1,5 @@
+# Was provided a table that was to be converted to xml, - way too boring to do that manually.
+# Below is a script that converts that specific table structure to XML and writes to a file.
 from lxml import etree
 
 def strip(values):
