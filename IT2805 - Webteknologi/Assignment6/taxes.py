@@ -1,7 +1,7 @@
 from lxml import etree
 
-def strip(lines):
-    return [line.strip() for line in lines]
+def strip(values):
+    return [value.strip() for value in values]
 
 def append(parent, tag_name, value):
     child = etree.Element(tag_name)
@@ -16,11 +16,11 @@ with open('table.txt') as file:
         values = strip(lines[i].split('|'))
         entry = etree.Element('entry')
 
-        append(entry, 'name', values[1])
+        append(entry, 'realName', values[1])
         append(entry, 'gender', values[2])
         append(entry, 'email', values[3])
         append(entry, 'birthyear', values[4])
-        append(entry, 'hero', values[5])
+        append(entry, 'heroName', values[5])
         append(entry, 'spandex', values[6])
         append(entry, 'strength', values[7])
         append(entry, 'speed', values[8])
@@ -31,4 +31,8 @@ with open('table.txt') as file:
 
         taxes.append(entry)
 
-    print(etree.tostring(taxes, pretty_print=True).decode('utf-8'))
+    # print(etree.tostring(taxes, pretty_print=True).decode('utf-8'))
+
+    # Creates output file with the data
+    with open('output.xml', 'w') as output:
+        output.write(etree.tostring(taxes, pretty_print=True).decode('utf-8'))
