@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+
+  <!-- To give a slightly better look -->
+  <title>Todoist 2.0</title>
+  <link rel="shortcut icon" type="image/png" href="https://www.androidpolice.com/wp-content/uploads/2015/09/nexus2cee_Todoist-Thumb.png">
+  <link rel="stylesheet" type="text/css" href="./style.css" />
+</head>
+<body>
+  <section>
+    <h1>Welcome to Todoist 2.0</h1>
+
+    <label>What has to be done?
+      <input id="inputField" autofocus>
+    </label>
+    <button id="addItem" onclick="addTask()">Add tasks</button>
+
+    <div id="listWrapper">
+      <ul id="taskList">
+      </ul>
+    </div>
+
+    <p id="completed"></p>
+
+  </section>
+  <script src="todo.js"></script>
+</body>
+</html>
