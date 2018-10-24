@@ -38,9 +38,22 @@
       for (let i = 0; i < 10; i++) {
         let income = 1000000 - i * 100000;
         let y = i * 55;
-        drawLineWithText(income, 100, y, 600, y);
+        drawLineWithText(income, 100, y, 550, y);
+      }
+      
+      // Simplifies rectangle creation
+      const drawRectangle =  (x, y, width, height, color) => {
+        context.fillStyle = color;
+        context.fillRect(x, y, width, height);
       }
 
+      drawText("Income", 630, 25);
+      drawText("Wealth", 630, 60);
+
+      //Draw the red and blue rectangles beside income and wealth
+      drawRectangle(560, 10, 60, 25, "#ff2323");
+      drawRectangle(560, 45, 60, 25, "#3620f9");
+      
     </script>
   </body>
 </html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tax forms: Bar chart with lines</title>
+    <meta charset="UTF-8">
+    <script src="./scripts/taxForms.js"></script>
+  </head>
+  <body>
+
+    <canvas id="chart" width="700" height="550"></canvas>
+    <script>
+      const canvas = document.getElementById('chart');
+      const context = canvas.getContext('2d');
+
+      /* Draw a line from (fromX, fromY) to (toX, toY) */
+      function drawLine(fromX, fromY, toX, toY) {
+        context.beginPath();
+        context.moveTo(toX, toY);
+        context.lineTo(fromX, fromY);
+        context.stroke();
+      };
+
+      /* Draw a text (string) on (x, y) */
+      function drawText(text, x, y) {
+        context.fillStyle = 'black';
+        context.fillText(text, x, y);
+      };
+
+      /* Draw a text and with a line to its right */
+      function drawLineWithText(text, fromX, fromY, toX, toY) {
+        drawText(text, fromX - 50, fromY + 10);
+        drawLine(fromX, fromY, toX, toY);
+      };
+
+      /* Insert your code here. */
+      // Draw money lines
+      for (let i = 0; i < 10; i++) {
+        let income = 1000000 - i * 100000;
+        let y = i * 55;
+        drawLineWithText(income, 100, y, 550, y);
+      };
+
+      // Simplifies rectangle creation
+      const drawRectangle =  (x, y, width, height, color) => {
+        context.fillStyle = color;
+        context.fillRect(x, y, width, height);
+      };
+
+      drawText("Income", 630, 25);
+      drawText("Wealth", 630, 60);
+
+      // Draw color codes
+      drawRectangle(560, 10, 60, 25, "red");
+      drawRectangle(560, 45, 60, 25, "blue");
+
+      // Base variables
+      let baseX = 120;
+      let baseY = canvas.height;
+
+      // Draw bar based on value ues
+      const drawBar = (value, color) => {
+        // Calculate percentage
+        let valuePercentage = value / 1000000;
+        
+        // Calculate rectangle height relative to the canvas
+        let height = -(valuePercentage * canvas.height);
+
+        drawRectangle(baseX, baseY, 50, height, color);
+      };
+      
+      // Iterates over the heroes
+      for (let hero of taxForms) {
+        // Draw for income
+        drawBar(hero.income, "red");
+        baseX += 60;
+
+        // Draw for wealth
+        drawBar(hero.wealth, "blue");
+        baseX += 90;
+      };
+    </script>
+  </body>
+</html>

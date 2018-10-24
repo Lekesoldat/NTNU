@@ -3,11 +3,16 @@
   <head>
     <title>Income greather than 500 000</title>
     <meta charset="UTF-8">
-    <script src="taxForms.js"></script>
+    <script src="./scripts/taxForms.js"></script>
   </head>
   <body>
     <script>
-      console.log(taxForms);
+      // Part 1
+      for (let superhero of taxForms) {
+        if (superhero.income > 500000){
+          console.log(superhero.realName);
+        }
+      }
     </script>
   </body>
 </html>
