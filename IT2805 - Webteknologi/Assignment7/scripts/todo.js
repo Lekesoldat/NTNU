@@ -1,9 +1,7 @@
 // Grab items on page
-// Function made to practice arrow functions
 const grabElement = id => document.getElementById(id);
 
 const inputField = grabElement('inputField');
-const button = grabElement('addItem');
 const taskList = grabElement('taskList');
 const status = grabElement('completed');
 
@@ -16,7 +14,7 @@ const createListEntry = text => {
   element.appendChild(createCheckboxItem(text));
 
   return element;
-}
+};
 
 // Creates the following HTML <label><input type='checkbox'>text</label>
 const createCheckboxItem = text => {
@@ -31,27 +29,32 @@ const createCheckboxItem = text => {
   element.appendChild(document.createTextNode(text));
 
   return element;
-}
+};
 
-// Creates and object and renders UI
+// Creates an object and renders UI
 const addTask = () => {
-  tasks.push({
-    description: inputField.value,
-    createdAt: new Date().getTime(),
-    html: createListEntry(inputField.value)
-  });
-
-  updateUI();
-}
+  // Check for empty input
+  if (inputField.value != '') {
+    tasks.push({
+      description: inputField.value,
+      createdAt: new Date().getTime(),
+      html: createListEntry(inputField.value)
+    });
+  
+    updateUI();
+  } else {
+    alert('Fill in a task!');
+  }
+};
 
 const updateUI = () => {
   inputField.value = '';
   for (let task of tasks) {
-    taskList.insertBefore(task.html, taskList.firstChild);
+    taskList.prepend(task.html);
   }
 
   updateCompletedTasks();
-}
+};
 
 // If a task is checked, update both UI and counter.
 const isCompleted = (me) => {
@@ -64,7 +67,7 @@ const isCompleted = (me) => {
   }
 
   updateCompletedTasks();
-}
+};
 
 // Render the sentence displaying how many tasks are completed
 const updateCompletedTasks = () => status.innerText = completedTasks + '/' + tasks.length + ' tasks completed';
