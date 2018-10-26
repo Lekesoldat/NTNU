@@ -1,5 +1,5 @@
-# NTNU
-Documents from Computer Science studies at NTNU, Trondheim.  
+# Norwegian University of Science and Technology
+Documents from Software Engineering studies.
 
 # Disclaimer:  
 Feel free to have a look at the content, experiment and play with it, and use it as an inspiration for your own work. However you are not under **any** circumstances allowed to copy and/or deliver my work as your own assignment, nor claim that it is yours.
