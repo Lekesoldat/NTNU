@@ -5,5 +5,3 @@ opc | imm  alu  regw  branch
  5  |  0    5    1     0
  3  |  0    1    1     0
  4  |  0    2    0     1
-
-Se: 3 State Machine, s. 5 i o4.pdf
