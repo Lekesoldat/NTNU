@@ -60,10 +60,10 @@
       // Draw bar based on value ues
       const drawBar = (value, color) => {
         // Calculate percentage
-        let valuePercentage = value / 1000000;
+        const valuePercentage = value / 1000000;
         
         // Calculate rectangle height relative to the canvas
-        let height = -(valuePercentage * canvas.height);
+        const height = -(valuePercentage * canvas.height);
 
         drawRectangle(baseX, baseY, 50, height, color);
       };
