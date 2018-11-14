@@ -33,7 +33,7 @@
     - *Instruksjoner* og *data* ligger i samme minnenhet.
     - Bruker samme BUS for instruksjoner og data. Simpelt design - færre komponenter. 
       - Beregninger skjer **sekvensielt** pga. dette.
-    - Kan endre sin egen programkode.
+    - Denne arkitekturen gjør det mulig å skrive program som kan endre sin egen programkode.
     - Komponentene er hver for seg.
       - 'Arbeidslager' som inneholder *data* og *instruksjoner* på **binær** form.
       - ALU som kunne utføre en del matematiske og logiske operasjoner.
@@ -41,12 +41,17 @@
       - I/O-enheter som sørger for kommunikasjon mellom bruker og kontrollenhet (CPU).
     - Utfordringen i dag er dataoverføring mellom minne og CPU. For stor hastighetsforskjell.
 
+    - Moderne datamaskiner har ALU og kontrollenhet på prosessor (CPU) som benytter seg av registre, hurtigbuffere, busser og millioner av transistorer, men konseptet er veldig likt.
+
   - **Harward:**
     - Separert BUS for *instruksjoner* og *data*. Kan aksessere både *data* og *instruksjoner* i parallell.
     - Komponenter er hver for seg i parallell.
       - CPU
       - Instruksjonsminne
       - Dataminne
+
+- **Superskalar CPU:**
+  - En superskalar-prosessor implementerer en form for parallellitet som kalles *instruksjonsnivåparallellitet*. Dette betyr at den kan utføre flere instruksjoner per klokkesyklus. (Dupliserer CPU-enheter).
 
 - **Hardware Components**
   - Valgfritt å ha med.
@@ -63,7 +68,7 @@
   - ISA + Mikroarkitektur + Harware Components
 
 - **MIR** (Micro Instruction Register)
-  - **Addr** - (Address) peker på neste mikroinstruksjon.
+  - **Addr** - (Address) peker på neste mikroinstruksjon i instruksjonen.
   - **J** - (Jam) sier ifra om ALU har flagget neste mikrinstruksjon eller om det kommer et betinget hopp.
   - **ALU** - (Aritmethic Logic Unit) bestemmer hvilken funksjon ALU skal gjennomføre.
   - **C** - (C-BUS) inneholder adressen til C-BUSen => Adressen til registeret det skal skrives *til*.
@@ -80,6 +85,24 @@
   - **DRAM** - (Dynamisk RAM) må friskes opp jevnlig. Tar mindre plass enn SRAM (2 vs. 6 transistorer)
   - **SDRAM** - (Synkront Dynamisk RAM) betyr at data blir overført til/fra *RAM* synkront med klokken (og system**BUS**en).
 
+- **CMP** - (Chip-Level MultiProsessor) er flere prosessorer på samme brikke. Disse bruker samme hurtigbuffer.
+  - **Homogene kjerner** - alle kjernene er like.
+  - **Heterogene kjerner** - forskjellige kjerner til forskjellige oppgaver, dvs de har forskjellig instruksjonssett og/eller ytelse.
+
+  - Fordelen med CMP er lavere effekt/varmeutvikling, bedre utnyttelse av prosessorkraft, mulighet for 'ur av rekkefølge' og letter å utnytte 'instruksjonsnivåparallellitet'.
+
+- **Adressering** - Måten instruksjonen angir hvor data skal hentes fra kalles en adresseringsmodus.
+  - **Immidiate** - operanden er innbakt i instruksjonen Dersom operanden er kjent (en konstant) når programmet lages, kan verdien av denne legges inn i selve instruksjonen.
+  - **Direkte** - Instruksjonen angir adressen til operand i RAM.
+  - **Indirekte** - Instruksjonen angir adresse til RAM-celle som igjen inneholder adressen til operand.
+  - **Register** - Instruksjon har nummer på register som inneholder operand. Populært å ruke.
+  - **Indirekte register** - Instruksjon har nummer på register som inneholder adresse til operand i RAM.
+  - **Stakk** - Adressen er implisitt gitt av stakkpeker.
+
+- **Branch Prediction** - Forgreningspredikering
+  - **Statisk** - forutsier hopp uavhengig av hvor hopp har forekommet før. Forutsier alltid/aldri hopp.
+  - **Dynamisk** - forutsier hopp ut i fra hvor det har skjedd hopp tidligere.
+
 - **IC** - (Integrated Circuit)
 - **Multiplex - 2ⁿ** data inputs, *1* data output og *n* kontroll input.
 - **Demultiplex - 1** datainput, **2ⁿ** data output og *n* kontroll input.
@@ -94,11 +117,11 @@
 - **Latency Hiding** - Cache brukes til dette for å øke ytelse. 
 
 - **Lokalitet:**
-  - **Rom** - Kommer sannsynligvis til å lese fra naboadressen om vi leste fra en adresse. 
-  - **Tid** - KOmmer sannsynligvis til å lese samme data om igjen.
+  - **Tid** - om vi leste fra en minneadresse er det sannsynlig at vi snart vil lese fra den samme adressen igjen.
+  - **Rom** - om vi leste fra en minneadresse er det sannsynlig at vi snart vil lese fra naboadressen
 
 ## Forkortelser: Register
-- **PC** - (Program Counter) inneholder adressen til instruksjonen som utføres, eller neste instruksjon som skal utføres. Dette er uavhengig av måten maskinen er bygd.
+- **PC** - (Program Counter) inneholder adressen til instruksjonen som utføres, eller neste instruksjon som skal utføres. Dette er avhengig av måten maskinen er bygd.
 - **IR** - (Instruction Register) er der kontrollenheten lagrer instruksjonen som blig gjennomført nå. Den ligger i dette registeret så lenge instruksjonen blir dekodet, startet og gjennomført.
 - **MAR** - (Memory Address Register) inneholder adresse til neste minnelokasjon der vi finner neste instruksjon.
 - **MDR** - (Memory Data Register) inneholder data som skal bli lagret i hovedminne (RAM), eller data som har blitt hentet fra minnet. Dette virker som en buffer så data er klar for prosessor.
