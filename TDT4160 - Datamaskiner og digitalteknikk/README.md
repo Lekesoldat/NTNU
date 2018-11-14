@@ -48,27 +48,56 @@
       - Instruksjonsminne
       - Dataminne
 
-  - **Hardware Components**
-    - Valgfritt å ha med.
-    - Eksempler:
-      - **RAM** (Random Access Memory)
-      - **ROM** (Read-Only Memory)
-      - **I/O**-porter.
+- **Hardware Components**
+  - Valgfritt å ha med.
+  - Eksempler:
+    - **RAM** (Random Access Memory)
+    - **ROM** (Read-Only Memory)
+    - **I/O**-porter.
 
-  **LES MER PÅ DETTE**
-  - Mikro**prosessor**
-    - ISA + Mikroarkitekturer
-  
-  - Mikro**kontroller**
-    - ISA + Mikroarkitektur + Harware Components
+**LES MER PÅ DETTE**
+- Mikro**prosessor**
+  - ISA + Mikroarkitekturer
 
-  - **MIR** (Micro Instruction Register)
-    - **Addr** - (Address) peker på neste mikroinstruksjon.
-    - **J** - (Jam) sier ifra om ALU har flagget neste mikrinstruksjon eller om det kommer et betinget hopp.
-    - **ALU** - (Aritmethic Logic Unit) bestemmer hvilken funksjon ALU skal gjennomføre.
-    - **C** - (C-BUS) inneholder adressen til C-BUSen => Adressen til registeret det skal skrives til.
-    - **Mem** - (Memory) - sier ifra om det skal gjøres noe med minnet.
+- Mikro**kontroller**
+  - ISA + Mikroarkitektur + Harware Components
 
+- **MIR** (Micro Instruction Register)
+  - **Addr** - (Address) peker på neste mikroinstruksjon.
+  - **J** - (Jam) sier ifra om ALU har flagget neste mikrinstruksjon eller om det kommer et betinget hopp.
+  - **ALU** - (Aritmethic Logic Unit) bestemmer hvilken funksjon ALU skal gjennomføre.
+  - **C** - (C-BUS) inneholder adressen til C-BUSen => Adressen til registeret det skal skrives *til*.
+  - **Mem** - (Memory) - sier ifra om det skal gjøres noe med minnet.
+  - **B** - (B-BUS) inneholder adressen til B-BUSen => Adressen til registeret det skal leses *fra*.
+
+- **Dataavhengigheter:**
+  - **RAW** - (Read-After-Write) (sanne dataavhengigheter) er når f.eks. instruksjon 1 skriver til et register og instruksjon 2 skal lese fra det samme registeret.
+  - **WAW** - (Write-After-Write) (utavhengigheter) er når f.eks. instruksjon 3 skriver til register 1 og instruksjon 1 skriver til register 1.
+  - **WAR** - (Write-After-Read) antiavhengigheter) er når f.eks. instruksjon 3 skriver til register 1 og instruksjon 2 leser fra R1.
+
+- **RAM** - (Random Access Memory)
+  - **SRAM** - (Statisk RAM) er raskt og trenger ikke oppdateres. Brukes i *hurtigbuffere*.
+  - **DRAM** - (Dynamisk RAM) må friskes opp jevnlig. Tar mindre plass enn SRAM (2 vs. 6 transistorer)
+  - **SDRAM** - (Synkront Dynamisk RAM) betyr at data blir overført til/fra *RAM* synkront med klokken (og system**BUS**en).
+
+- **IC** - (Integrated Circuit)
+- **Multiplex - 2ⁿ** data inputs, *1* data output og *n* kontroll input.
+- **Demultiplex - 1** datainput, **2ⁿ** data output og *n* kontroll input.
+- **Half-adder** - A + B = sum + carry
+- **Full-adder** - 2 Half-adders.
+- **Klokkepuls:**
+  - Vanligvis: 100Mhz - 4GHz.
+  - Verdier: 0/1
+  - Asymmetrisk (?)
+  - Utfører operasjoner på 0, - 0 er derfor lengre enn 1.
+
+- **Latency Hiding** - Cache brukes til dette for å øke ytelse. 
+
+- **Lokalitet:**
+  - **Rom** - Kommer sannsynligvis til å lese fra naboadressen om vi leste fra en adresse. 
+  - **Tid** - KOmmer sannsynligvis til å lese samme data om igjen.
+
+## Forkortelser: Register
 - **** - ()
 - **** - ()
 - **** - ()
@@ -77,13 +106,4 @@
 - **** - ()
 - **** - ()
 - **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
+
