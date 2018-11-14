@@ -98,12 +98,31 @@
   - **Tid** - KOmmer sannsynligvis til å lese samme data om igjen.
 
 ## Forkortelser: Register
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
-- **** - ()
+- **PC** - (Program Counter) inneholder adressen til instruksjonen som utføres, eller neste instruksjon som skal utføres. Dette er uavhengig av måten maskinen er bygd.
+- **IR** - (Instruction Register) er der kontrollenheten lagrer instruksjonen som blig gjennomført nå. Den ligger i dette registeret så lenge instruksjonen blir dekodet, startet og gjennomført.
+- **MAR** - (Memory Address Register) inneholder adresse til neste minnelokasjon der vi finner neste instruksjon.
+- **MDR** - (Memory Data Register) inneholder data som skal bli lagret i hovedminne (RAM), eller data som har blitt hentet fra minnet. Dette virker som en buffer så data er klar for prosessor.
+- **MBR** - (Memory Buffer Register) er et bufferregister mellom minne og prosessor.
+- **LV** - (Local Variable) inneholder pekerverdi.
+- **SP** - (Stack pointer) inneholder pekeverdi.
+- **CPP** - (Constant Pool Pointer) inneholder pekerverdi.
+- **TOS** - (Top of Stack) inneholder 'word' på toppen av stakken.
+- **OPC** - (OpCode | Operation Code) register kan fritt brukes. F.eks. MOV, ADD, LOAD.
+- **H** - (Holding Register) inneholder verdien som skal inn i A-inngangen til ALU.
 
+## ALU-flagg
+- **N** - settes når svaret fra ALU er negativt.
+- **Z** - settes når svaret fra ALU er 0.
+- **C** - carry. 
+- **V** - overflow. 
+
+## Instruksjon i Micro Program Memory
+<pre>
+. MPC
+0000 0 0100
+. . . . . . . .Shift ALU . . C buss . mem B buss
+1: H  ← . . TOS: 00 010100 1000000000 000 0111
+2: SP ← H + OPC: 00 111100 . 00001000 000 1000
+</pre>
+
+**SE MER PÅ DETTE**
