@@ -30,3 +30,25 @@ Tradisjonell helseforskning er preget av vitenskaper som undersøker hva som gj�
 - I 2050 vil prosentandelen av mennesker som er 80 og eldre være 31% mot 18% i 1980.
 - Om 30 år er antallet over 65 år mer en doblet (1,3 mrd)
 - *Hvordan kan man utvikle samfunnsstrukturer og systemer som kan legge til rette for at mennesker skal oppleve å ha god helse på sine gamle dager?
+
+>Hva sier gamle mennesker om situasjonen?  
+- De ønsker å bli sett på som en ressurs. De vil ta ansvar.
+- Vil delta i meningsfulle aktiviteter.
+- Mulighet til å besøke venner.
+- *GOD HELSE*
+- Ønsker en følelse av trygghet
+- Ikke bli 'gjort med', ikke bli behandlet som passive mottakere.
+
+> Lag et samfunn som passer gamle, da passer det for alle.
+
+**Presset på unge:**  
+- Dårlig mestringsfølelse.
+- Økende mentale problemer.
+- Færre fullfører VGS (50% frafall i Finnmark)
+
+
+**Ulikheter:**  
+- Mellom individer, grupper nasjoner og regioner.
+- Syd-Europa: Lost generation, - arbeidsledighet.
+- Ensomhetsfølelse blant gamle og unge.
+- Migrasjon for arbeid og et bedre liv, - flukt fra fattigdom og katastrofer.
