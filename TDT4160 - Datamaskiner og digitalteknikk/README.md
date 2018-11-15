@@ -148,4 +148,8 @@
 2: SP ← H + OPC: 00 111100 . 00001000 000 1000
 </pre>
 
-**SE MER PÅ DETTE**
+
+
+## Sekvensiell logikk
+
+- **
