@@ -179,5 +179,4 @@
 
   - **Mealy machine:**
     - Output blir bestemt av både 'current state' og 'current input'.
-    - Dette er en deterministisk tilstandsmaskin: *For hver state og input finnest det kun én 'transition'.
-    
+    - Dette er en deterministisk tilstandsmaskin: *For hver state og input finnest det kun én 'transition'*.
