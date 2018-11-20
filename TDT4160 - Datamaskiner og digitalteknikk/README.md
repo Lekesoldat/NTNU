@@ -153,3 +153,31 @@
 ## Sekvensiell logikk
 
 - **
+
+
+## Relevant informasjon fra eksamenssett:
+
+**Fra eksamen 2015:**  
+
+- **IFU** - (Instruction Fetch Unit)
+  - En del av IU (Instruction Unit) som igjen er en del av CPU.
+  - Ansvarlig for *organisering* av programinstruksjoner som skal hentes fra minnet og utføres.
+
+  - **Fetch cycle**:
+    - Innholdet i PC (Program Counter) plasseres på adresse*BUS*en. 
+    - Innholdet sendes til minneenheten, og minneenheten returnerer instruksjonen som er på gitt adresse.
+    - Denne havner i IR (Instruction Register) og innholdet i PC blir overskrevet eller inkrementert med en ny verdi.
+
+
+- **FSM** - (Finite State Machine) 
+  - Matematisk modell som brukes for å designe dataprogrammer og *digitale logiske kretser*.
+  - En abstrakt maskin som befinner seg i én av endelig antall tilstander.
+  - En utløsende hendelse elelr betingelse kan få tilstandsmaskinen til å gå fra en tilstand til en annen -> 'transition'.
+
+  - **Moore machine:**
+    - Output blir kun bestemt av 'current state'. 
+
+  - **Mealy machine:**
+    - Output blir bestemt av både 'current state' og 'current input'.
+    - Dette er en deterministisk tilstandsmaskin: *For hver state og input finnest det kun én 'transition'.
+    
