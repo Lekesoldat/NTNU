@@ -245,68 +245,70 @@
 **Utbrenthet skiller seg fra andre begreper som depresjon og stress fordi**  
 > utbrenthet er arbeidsrelatert og mer kronisk.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 61***  
+**Den mest anerkjente og brukte definisjonen på utbrenthet er laget av Maslach. Hun deler utbrenthet inn i:**  
+> tre dimensjoner  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 62***  
+**Nyere oppsummering av forskningsstatur vedrørende strategier for reduksjon av alkoholrelaterte skader i samfunnet, viser at en strategi som har høy grad av effekt er:**  
+> selvhjelpsgrupper  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 63***  
+**Totalforbruksteorien handler om**  
+> totalforbruket er den dominerende faktor som styrer alkoholskadenes omfang i samfunnet, men ikke den eneste faktor.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 64***  
+**Hvilke av personlighetstrekkene nedenfor er sterkest relatert til rapportering av symptomer**  
+> nevrotisisme  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 65***  
+**Hva kjennetegner, ifølge Friedman og kollegaer, personer som lever lenge?**  
+> de scorer lavt på optimisme og høyt på planmessighet  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 66***  
+**Med forkortningen BMI**  
+> mener vi vanligvis Body Mass Index  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 67***  
+**Innen medisin og sykepleie defineres 'livskvalitet' oftest som:**  
+> fysisk, psykisk, sosialt og materielt velvære  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 68***  
+**Livskvalitet måles oftest ved hjelp av**  
+> selvrapportering  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 69***  
+**De fleste som må fjerne livmoren lider av:**  
+> smerter og store blødninger  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 70***  
+**De fleste 'cancer survivors' opplever en god livskvalitet fordi:**  
+> oppfatningen av hva som er viktigst i livet endres  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 71***  
+**Det finnes forskjellige risikofaktorer knyttet til enkeltindividers helseutvikling i vestlige land i dag. Hvilken vurderes å være den skumleste i nær fremtid?**  
+> økende overvekt.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 72***  
+**Et måleinstrument med høy reliabilitet er:**  
+> et instrument som vil gi samme resultat hver gang gitt at det som blir målt var det samme.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+## Diverse
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 73***  
+**I 1980 definerte helsepsykologen Matarazzo helsepsykologi som:**  
+> Det samlede bidrag psykologien gir for å forstå helse og velvære.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 74***  
+**Hvilke metoder foretrekker helsepsykologien å fokusere på i arbeidet?**  
+> helsefremming og forebygging  
 
-***Spørsmål n***  
-**Tekst**  
+***Spørsmål 75***  
+**Hvor lang tid omtrent har helsepsykologi eksistert som egen disiplin her i landet?**  
+> ca. 10 år  
+
+***Spørsmål 76***  
+****  https://memorizer.io/HLS0001/all/76
 > Svar  
 
 ***Spørsmål n***  
