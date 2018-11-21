@@ -1,5 +1,6 @@
 # Memorizer
 
+## Eksamen H12
 ***Spørsmål 1***  
 **Hvem lanserte begrepet generalized resistance resources (GRRs)?**  
 > Aaron Antonovsky  
@@ -119,6 +120,210 @@
 ***Spørsmål 30***  
 **Definisjonen av folkehelsearbeidet lyder som følger: 'Folkehelsearbeidet er samfunnets innsats for å påvirke faktorer som direkte eller indirekte fremmer befolkningens helse og trivsel, forebygger psykisk og somatisk sykdom, skade eller lidelse, eller som beskytter mot helsetrusler, samt arbeid for en jevnere fordeling av faktorer som direkte eller indirekte påvirke helsen.' Forebyggende arbeid deles inn i 3 kategorier, men ikke alt er folkehelsearbeid. Hvilken av de følgende påstandene om forebyggende arbeid er en del av folkehelsearbeidet:**  
 > Universelt (primærforebyggende) og selektivt (sekundærforebyggende) forebyggende arbeidet i symptomfri fase og fasen tidlig intervensjon er en del av folkehelsearbeidet.   
+
+***Spørsmål 31***  
+**Hvilke lovverk forankrer Folkehelsearbeidet, listet i bestemmende rekkefølge:**  
+> Plan og bygningsloven, Folkehelseloven og Helse- og omsorgstjenesteloven  
+
+***Spørsmål 32***  
+**Arbeidet for å redusere sosiale helseforskjeller vil kreve langsiktig og målrettet innsats på mange områder. I følge Nasjonal strategi for å utjevne sosiale helseforskjeller - innledning til Stortingsmelding nr. 20 (2006 - 2007) er dette de viktigste innsatsområder for å følge utviklingen:**  
+> Inntekt, oppvekst, arbeid og arbeidsmiljø, helseatferd, helsetjenester, sosial inkludering.  
+
+***Spørsmål 33***  
+**Begrepet dualisme...**  
+> stammer fra en overbevisning om at mennesket består av to adskilte deler, kropp og en sjel.  
+
+***Spørsmål 34***  
+**Den kognitive terapimodellen kjennetegnes ved...**  
+> - et særskilt fokus på til dels uløste emosjonelle konflikter.
+> - at tanker, følelser og kroppslige symptomer, samt atferd henger sammen og påvirker hverandre. 
+> - at man er spesielt opptatt av lært atferd, og ser på denne atferden som noe som kan avlæres.     
+
+***Spørsmål 35***  
+**George Stone (1987) mener at de ulike helsedefinisjonene grovt sett faller innenfor to kategorier: Hvilke?**  
+> Noen definerer helse som en ideell tilstand, mens de andre definerer helse som en bevegelse i en positiv retning.  
+
+***Spørsmål 36***  
+**Med self-efficacy eller mestringsforventning på norsk mener Albert Bandura:**  
+> at sannsynligheten for at vi skal gjøre noe, øker proporsjonalt med den troen vi har på at vi vil få det til.  
+
+***Spørsmål 37***  
+**I det psykonevroimmunologiske perspektivet er en opptatt av...**  
+> hvordan psykiske lidelser og sykdommer påvirker immunforsvaret.  
+
+***Spørsmål 38***  
+**Albert Banduras (1969, 1977) sosial- kognitive teori skiller seg ut fra klassisk behaviorisme på flere områder. Hvilken påstand stemmer IKKE?**  
+> Banduras vektla like mye forholder i samfunnet rundt individet for å forklare atferd.  
+
+***Spørsmål 39***  
+**Hvilken vei var det vanlig å tenke seg årsak og virkning når det gjaldt psykisk - fysiske problemer, symptomer og sykdommer i romertiden?**  
+> Fysiske problemer slo ut i psykiske symptomer.  
+
+***Spørsmål 40***  
+**Korrelasjonsstudier benyttes ofte i helseforskning. Hva er den viktigste svakheten med slike studier?**  
+> En kan ikke dra årsak-virkningskonklusjoner fra slike studier.  
+
+***Spørsmål 41***  
+**Primærforebgygende helsearbeid har som mål å**  
+> Redusere risikofaktorer og styrke motstandskraft  
+
+***Spørsmål 42***  
+**Sammenheng mellom uavhengig og avhengig variabel i eksperimenter er...**  
+> Den uavhengige variabelen er den en bevisst varierer.  
+
+## Eksamen V09
+
+***Spørsmål 43***  
+**Helsepsykologien kjennetegnes ved at den er...**  
+> ser på mennesket som en helhet  
+
+***Spørsmål 44***  
+**... er en relativt stabil disposisjon knyttet til spesielle atferdsmessige mønster (Epstein, 1977). Er en definisjon av...**  
+> et personlighetstrekk  
+
+***Spørsmål 45***  
+**Med en bio-psyko-sosial helsemodell menes**  
+> en modell som tar inn både biologiske, psykologisk og sosiale faktorer i forklaringen av utviklingen av helse.  
+
+***Spørsmål 46***  
+**I psykomatikk og helsepsykologi benyttes ulike metoder og instrumenter for å samle data om ulike forskjeller eller sammenhenger. En sier at en slik metode er valig når den:**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
 
 ***Spørsmål n***  
 **Tekst**  
