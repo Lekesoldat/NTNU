@@ -187,63 +187,63 @@
 
 ***Spørsmål 46***  
 **I psykomatikk og helsepsykologi benyttes ulike metoder og instrumenter for å samle data om ulike forskjeller eller sammenhenger. En sier at en slik metode er valig når den:**  
-> Svar  
+> måler eksakt det en ønsker å måle.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 47***  
+**Lazarus og Selye er kjent for sine teorier om**  
+> stress  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 48***  
+**Type a atferdsmønster er blitt forbundet med utviklingen av en bestemt sykdom. Det er:**  
+> hjerteinfarkt  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 49***  
+**I hvilken landsdel i Norge er selvmordsforekomsten lavest?**  
+> vestlandet  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 50***  
+**I Oslo har det ofte tidligere vært snakk om at forventet levetid er høyere i vest enn i øst. Nye undersøkelser viser at:**  
+> det fortsatt er slik  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 51***  
+**Er det farlig å snakke om selvmord?**  
+> Nei, men det er viktig hvilken måte man snakker om det på.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 52***  
+**Det synspunktet at menneskelige fenomener (f.eks. ærlighet og depresjon) grunnleggende sett er det samme (kvalitativt) i alle kulturer kalles:**  
+> universalisme  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 53***  
+**En person med type B atferdsmønster**  
+> tar livet som det kommer, lar seg ofte flyte med i livsstrømmen.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 54***  
+**En kultur der sykdom blir sett på som forårsaket av faktorer i det enkelte individ kalles:**  
+> individualistisk  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 55***  
+**Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykomatikk benytter se gvanligvis av den mest moderne modellen, og dne kales for:**  
+> bio-psyko-sosial helsemodell  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 56***  
+**Det er minst fire måter å beskrive forholdet mellom helse og livskvalitet. En av de er mer dekkende enn andre. Hvilken?**  
+> helse og livskvalitet kan være overlappende begreper med en felles kjerne.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 57***  
+**Livskvalitet er et lett forståelig begrep. Er det også lett å måle i vitenskapelige studier? Hvilket alternativ er riktig?**  
+> Nei, livskvalitet er komplisert å måle fordi begrepet er multi-dimensjonalt. Det er et fenomen under kontinuerlig endring, og det innebefatter en subjektiv opplevelse av å ha det godt eller dårlig.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 58***  
+**'Det generelle adaptasjonssyndromet' (GAS) som begrep**  
+> stammer fra Selyes beskrivelse av reaksjoner på stress.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 59***  
+**Hvem regnes som utbrenthetbegrepets 'far' og skrev de første artiklene?**  
+> Freudenberger  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 60***  
+**Utbrenthet skiller seg fra andre begreper som depresjon og stress fordi**  
+> utbrenthet er arbeidsrelatert og mer kronisk.  
 
 ***Spørsmål n***  
 **Tekst**  
