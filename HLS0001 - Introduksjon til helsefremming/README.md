@@ -52,3 +52,169 @@ Tradisjonell helseforskning er preget av vitenskaper som undersøker hva som gj�
 - Syd-Europa: Lost generation, - arbeidsledighet.
 - Ensomhetsfølelse blant gamle og unge.
 - Migrasjon for arbeid og et bedre liv, - flukt fra fattigdom og katastrofer.
+
+
+<br>
+
+# Memorizer
+
+***Spørsmål 1***  
+**Hvem lanserte begrepet generalized resistance resources (GRRs)?**  
+> Aaron Antonovsky  
+
+***Spørsmål 2***  
+**I følge senere tids skoleforskning; Hva synes å ha størst betydning for gutters skoletrivsel?**  
+> Det å ha mange kompiser på skolen  
+
+***Spørsmål 3***  
+**Teorien om self-transcendence (ST) relatrerer ST til noen sentrale begrep. Hvilke?**  
+> Velvære (wellbeing) og sårbarhet  
+
+***Spørsmål 4***  
+**Opplevelse av sammenheng OAS(SOC, engelsk forkortelse) har tre dimensjoner. Hva er viktigst å ta i betraktning når man skal evaluere OAS?**  
+> Dimensjonen meningsfullhet  
+
+***Spørsmål 5***  
+**I tråd med Aaron Antonovsky er Salutogenese først og fremst**  
+> En systemteori | En individteori  
+
+***Spørsmål 6***  
+**Helsefremmende arbeid (HFA) i tråd med med WHOs Ottawa-charter (1986) betrakter helse som...**  
+> En tilstand av velvære  
+
+***Spørsmål 7***  
+**Hvilken av følgende setninger beskriver best hvordan helse påvirkes av den kulturelle konteksten vi vokser opp i?**  
+> Kulturen påvirker hvordan vi opplever oss selv og vår forhold til verden rundt oss. Det kan derfor være fundamentale forskjeller i hvordan helse oppleves, noe som gjør seg utslag i hvordan vi prøver å oppnå god helse, hvem vi søker hjelp hos og hvilke valg vi tar.  
+
+***Spørsmål 8***  
+**Hvilken av de følgende omstendigheter er IKKE en vanlig grunn for varig nedsatt helse etter en migrasjon?**  
+> At man blir utsatt for uvante bakterier og virus  
+
+***Spørsmål 9***  
+**Hvilket begre er spesielt sentralt i forbindelse med utvikling av opplevelse av sammenheng (SOC)?**  
+> Generelle motstandsressurser  
+
+***Spørsmål 10***  
+**Hva er en stress-moderator?**  
+> Faktorer som påvirker retningen og styrken mellom stress og en annen variabel  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
