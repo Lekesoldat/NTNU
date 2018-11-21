@@ -98,85 +98,85 @@ Tradisjonell helseforskning er preget av vitenskaper som undersøker hva som gj�
 **Hva er en stress-moderator?**  
 > Faktorer som påvirker retningen og styrken mellom stress og en annen variabel  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 11***  
+**Hvilken stressteoretiker beskrev 'det generelle adaptasjonssyndromet' (GAS)?**  
+> Hans Selye  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 12***  
+**Den biopsykososiale sykdomsmodellen (Espnes og Smedslund, 2001) viser at det åndelige systemet kan ha betydning for helseutvikling i relasjon til...**  
+> Det psykologiske, biologiske og sosiale systemet, samt i systemet for samspill mellom kroppslige og fysiske symptomer (psyche- soma)  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 13***  
+**Et av svaralternativene nedenfor blir hevdet å være viktigst for å oppleve god livskvalitet. Hvilket?**  
+> At man har gode og nære relasjoner med venner og familie.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 14***  
+**Den mest anerkjente og brukte definisjonen på utbrenthet er forfattet av Maslach. Hun deler utbrenthet inn i?**  
+> Tre dimensjoner  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 15***  
+**Med psykosomatisk forskning menes?**  
+> Helseforskning som søker å se på hvordan menneskers helse utvikles som en sum av de faktorer, indre og ytre, som det påvirkes av.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 16***  
+**Hva er i følge Holmes og Rahe's forskning den mest stressende livshendelse?**  
+> Dødsfall hos ektefelle.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 17***  
+**At en undersøkelse har god validitet vil si...**  
+> At undersøkelsen måler det den er ment å måle.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 18***  
+**At en undersøkelse har god reliabilitet vil si...**  
+> At undersøkelsen er pålitelig.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 19***  
+**Andelen av nordmenn som driver med fysisk aktivitet på fritiden siden 1940 og frem til i dag varierer fra...**  
+> 40 - 60 %  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 20***  
+**KAP-modellen er en viden brukt helseatferdmodell. K står for 'knowledge', A for 'attitude' og P for 'practice' (kunnskap, holdning, atferd). Hva har vært den vanligste kritikken mot denne modellens gangbarhet?**  
+> At den er for tydelig på at den rekkefølgen bare går en vei.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 21***  
+**Hvilken type religionsdefinisjon kan Sigmund Freud sies å primært vektlegge i boken 'A future of an Illusion' (1927)?**  
+> En funksjonell religionsdefinisjon.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 22***  
+**Å betrakte helse som en ressurs innebærer å se på helse som:**  
+> Evnen til å utvikle motstandsressurser som kan fremme livsmot, livsglede og mestring av hverdagslivets ulike situasjoner.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 23***  
+**Å måle individers livskvalitet er vanskelig først og fremst fordi:**  
+> Det er en subjektiv opplevelse som favner alle sider ved vår tilværelse.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 24***  
+**Forskjellen på helsefremming og forebyggende helsearbeid er at:**  
+> Helsefremming handler om å legge til rette for at individet, i samspill med sine omgivelser, kan ta ansvar for å fremme egen helse, mens forebyggende helsearbeid handler om å redusere risikofaktorer for sykdom.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 25***  
+**Hva er definisjonen av positiv psykologi?**  
+> Det vitenskapelige studiet av optimal fungering.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 26***  
+**Hva mente Antonovsky med begrepet 'Sence of Coherence'?**  
+> En meningsfull sammenheng i tilværelsen.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 27***  
+**Hva kjennetegner såkalte 'løvetannbarn'?**  
+> At de har hatt dårlige oppvekstvilkår og klart seg bra.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 28***  
+**Hvilke metoder foretrekker helsepsykologien å fokusere på i arbeidet?**  
+> Helsefremming og forebygging.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 29***  
+**Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av den mest moderne av disse modellene og den kalles for...**  
+> bio-psyko-sosial helsemodell.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 30***  
+**Definisjonen av folkehelsearbeidet lyder som følger: 'Folkehelsearbeidet er samfunnets innsats for å påvirke faktorer som direkte eller indirekte fremmer befolkningens helse og trivsel, forebygger psykisk og somatisk sykdom, skade eller lidelse, eller som beskytter mot helsetrusler, samt arbeid for en jevnere fordeling av faktorer som direkte eller indirekte påvirke helsen.' Forebyggende arbeid deles inn i 3 kategorier, men ikke alt er folkehelsearbeid. Hvilken av de følgende påstandene om forebyggende arbeid er en del av folkehelsearbeidet:**  
+> Universelt (primærforebyggende) og selektivt (sekundærforebyggende) forebyggende arbeidet i symptomfri fase og fasen tidlig intervensjon er en del av folkehelsearbeidet.   
 
 ***Spørsmål n***  
 **Tekst**  
