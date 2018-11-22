@@ -449,6 +449,319 @@
 **Å gjøre en problemstilling forskar kalles for å ...**  
 > operasjonalisere problemet  
 
+***Spørsmål 110***  
+**Sammenheng mellom uavhengig og avhengig variabel i eksperimenter er**  
+> den uavhengige variabelen er den en bevisst varierer  
+
+***Spørsmål 111***  
+**Klassisk kasus-kontrollstudier kjennetegnes ved at en har:**  
+> en gruppe som naturlig eller eksperimentelt utsettes for et eller annet og som har en kontrollgruppe
+  
+
+***Spørsmål 112***  
+**Hvilket ord mangler? '... er enhver aktivitet hos en person som oppfatter seg som frisk, og hvor målet er å forebygge sykdom eller oppdage sykdom før den bryter ut.'**  
+> helseatferd  
+
+***Spørsmål 113***  
+**Hva er den grunnleggende hensikten med vaksinasjon?**  
+> at de som vaksineres skal utvikle resistens  
+
+***Spørsmål 114***  
+**KAP-modellen er en viden brukt helseatferdmodell. K står for knowledge, A for attitude og P for pratice (kunnskap, holdning og atferd). Hva har vært den vanligste kritikken mot denne modellens gangbarhet?**  
+> at den er for tydelig på at den rekkefølgen går bare en vei  
+
+***Spørsmål 115***  
+**Med Self-Efficacy eller mestringsforventning på norsk mener Albert Bandura...:**  
+> at sannsynligheten for at vi skal gjøre noe, øker proporsjonalt med den troen vi har på at vi vil få det til  
+
+***Spørsmål 116***  
+**I en artikkel fra 2000 bryjer Taylor og medarbeidere uttrykket 'tend and befriend'. Med dette uttrykket forsøker Taylor og medarbeidere å beskrive...:**  
+> kjønnsforskjeller i responser på stress - dette er kvinnenes typiske respons  
+
+***Spørsmål 117***  
+**Hva er i følge Homes og Rahe's forskning den mest stressende livshendelse?**  
+> dødsfall hos ektefelle.  
+
+***Spørsmål 118***  
+**Hva menes i helsepsykologien med begrepet 'The Big Five'?**  
+> de 5 hovedfaktorene som beskriver vår personlighet  
+
+***Spørsmål 119***  
+**Hvilke ord mangler? '... har samme formål å redusere forekomsten av sykdommer, skader, sosiale problemer, død og risikofaktorer.**  
+> forebyggende tiltak.  
+
+***Spørsmål 120***  
+**Korrelasjonsstudier benyttes ofte i helseforskning. Hva er den største svakheten med slike studier?**  
+> en kan ikke dra årsak-virknings-konklusjoner fra slike studier.  
+
+***Spørsmål 121***  
+**Sommeren 2008 kom en artikkel fra den kjente forskeren Martin Seligman. Her foreslo han et nytt forskningsfelt. Hva var det?**  
+> positive health  
+
+***Spørsmål 122***  
+**Helsepsykologien kjennetegnes ved at den er**  
+> ser på mennesket som en helhet  
+
+***Spørsmål 123***  
+**... er en relativt stabil disposisjon knyttet til spesielle atferdsmessige mønstre (Epstein 1977). Er en definisjon av...**  
+> et personlighetstrekk  
+
+***Spørsmål 124***  
+**Med en bio-psyko-sosial helsemodell menes:**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
 ***Spørsmål n***  
 **Tekst**  
 > Svar  
