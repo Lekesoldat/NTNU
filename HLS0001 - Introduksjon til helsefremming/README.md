@@ -1,3 +1,9 @@
+# Kjappe fakta
+- Oppmøte i *1/13* forelesninger. Det var én for mye.
+- Ta dette faget om du trenger å ha ett fag mindre i semestere. Virkelig, arbeidsmengden er ikke-eksisterende. 
+- Du får ikke A.
+![Skala](./images/hls0001.png)
+
 # Svar på samtlige spørsmål på [Memorizer](https://memorizer.io/HLS0001/all/1)
 
 ## Eksamen H12
