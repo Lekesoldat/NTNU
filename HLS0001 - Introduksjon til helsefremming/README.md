@@ -1,4 +1,4 @@
-# Memorizer
+# Svar på samtlige spørsmål på [Memorizer](https://memorizer.io/HLS0001/all/1)
 
 ## Eksamen H12
 ***Spørsmål 1***  
@@ -327,17 +327,17 @@
 **Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av den mest moderne av disse modellene og kalles for**  
 > bio-psyko-sosial helsemodell  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 81***  
+**Det er minst fire måter å beskrive forholdet mellom helse og livskvalitet. En av de fire måtene nedenfor er mest dekkende. Hvilken?**  
+> helse og livskvalitet kan være overlappende begreper med en felles kjerne  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 82***  
+**Et av svaralternativene nedenfor blir hevdet å være viktigst for å oppleve en god livskvalitet. Hvilket?**  
+> at man har gode og nære relasjoner med familie og venner  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 83***  
+**Livskvalitet er et lett forståelig begrep. Er det også lett å måle i vitenskapelige studier? Et av svaralternativene nedenfor er riktig. Hvilket?**  
+> Nei, livskvalitet er komplisert å måle fordi begrepet er multidimensjonalt, det er et fenomen under kontinuerlig endring, og det innbefatter en subjektiv opplevelse av å ha det godt eller dårlig.  
 
 ***Spørsmål n***  
 **Tekst**  
