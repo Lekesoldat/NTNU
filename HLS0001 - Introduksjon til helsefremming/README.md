@@ -308,24 +308,24 @@
 > ca. 10 år  
 
 ***Spørsmål 76***  
-****  https://memorizer.io/HLS0001/all/76
-> Svar  
+**I psykosomatikk og helsepsykologi benyttes ulike metoder og instrumenter for å samle data om ulike forskjeller eller sammenhenger. En sier at en slik metode er valid når den:**  
+> måler eksakt det en ønsker å måle  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 77***  
+**Type A atferdsmønster er blitt forbundet med utviklingen av en bestemt sykdom. Det er:**  
+> hjerteinfarkt  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 78***  
+**I Oslo har det ofte tidligere vært snakk om at forventet levetid er høyere vest i byen enn øst i byen. I de nyeste undersøkelsene viser det seg at nå er dette slik at:**  
+> alt er som før  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 79***  
+**En person med type B atferdsmønster**  
+> tar livet som det kommer og lar seg flyte med livsstrømmen  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 80***  
+**Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av den mest moderne av disse modellene og kalles for**  
+> bio-psyko-sosial helsemodell  
 
 ***Spørsmål n***  
 **Tekst**  
