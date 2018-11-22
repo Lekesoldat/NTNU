@@ -596,10 +596,6 @@
 **John Gunnar Mæland er opptatt av begrepene helse og livskvalitet. Mener han at:**  
 > Helse og livskvalitet er overlappende, og vi har behov for begge begrepene i forskning.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
 ***Spørsmål 146***  
 **Albert Banduras (1969, 1977) sosial- kognitive teori skiller seg ut fra klassisk behaviorisme på flere områder. Hvilken påstand stemmer IKKE?**  
 > Bandura vektla like mye forholder i samfunnet rundt individet for å forklare atferd  
