@@ -508,155 +508,157 @@
 
 ***Spørsmål 124***  
 **Med en bio-psyko-sosial helsemodell menes:**  
-> Svar  
+> en modell som tar inn både biologiske, psykologiske og sosiale faktorer i forklaringen av utvikling av helse  
+
+***Spørsmål 125***  
+**I psykosomatikk og helsepsykologi benyttes ulike metoder og instrumenter for å samle data om ulike forskjeller eller sammenhenger. En sier at en slik metode er valid når den:**  
+> måler eksakt det en ønsker å måle
+
+***Spørsmål 126***  
+**Lazarus og Selye er kjent for sine teorier om ...**  
+> stress  
+
+***Spørsmål 127***  
+**Type A atferdsmønster er blitt forbundet med utviklingen av en bestemt sykdom. Det er:**  
+> hjerteinfarkt  
+
+***Spørsmål 128***  
+**Er det farlig å snakke om selvmord?**  
+> nei, men det er viktig hvilken måte man snakker om det på  
+
+***Spørsmål 129***  
+**En kultur der sykdom blir sett på som forårsaket av faktorer i det enkelte individet kalles:**  
+> individualistisk  
+
+***Spørsmål 130***  
+**'Det generelle adaptasjonssyndromet' (GAS) som begrep...**  
+> stammer fra Seyles beskrivelse av reaksjoner på stress  
+
+***Spørsmål 131***  
+**Hvem regnes som Utbrenthetsbegrepets 'far' og skrev de første artiklene?**  
+> Freudenberger  
+
+***Spørsmål 132***  
+**Utbrenthet skiller seg fra andre begrep som depresjon og stress fordi**  
+> utbrenthet er arbeidsrelatert og mer kronisk  
+
+***Spørsmål 133***  
+**Nyere oppsummering av forskningsstatus vedrørende strategier for reduksjonen av alkoholrelaterte skader i samfunnet viser at en strategi som har høy grad av effekt er:**  
+> selvhjelpsgrupper/alkoholopplsning i skolen  
+
+***Spørsmål 134***  
+**Totalforbruksteorien handler om ...**  
+> totalforbruket er den dominerende faktor som styrer alkoholskadene omfang i samfunnet, men ikke den eneste faktor  
+
+***Spørsmål 135***  
+**Med forkortningen BMI**  
+> mener vi vanligvis Body Mass Index  
+
+***Spørsmål 136***  
+**Det musikalske elementet som i størst grad påvirker hjernens plastivitet er:**  
+> Klangfarge  
+
+***Spørsmål 137***  
+**Opplevelse av sammenheng (Sense of coherence (SOC)) er et viktig element i teorien om salutgenese. I dette**  
+> Forståelighet, påvirkelighet, meningsfulhet  
+
+## Eksamen H13
+
+***Spørsmål 138***  
+**Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av den mest moderne av disse modellene og kalles for ..**  
+> bio-psyko-sosial helsemodell  
+
+***Spørsmål 139***  
+**Forskjellen på helsefremming og forebyggende helsearbeid er at:**  
+> Helsefremming handler om å legge til rette for at individet, i samspill med sine omgivelser, kan ta ansvar for å fremme egen helse, mens forebyggende helsearbeid handler om å redusere risikofaktorer for sykdom.  
+
+***Spørsmål 140***  
+**Å gjøre en problemstilling forskbar kalles for å ...**  
+> operasjonalisere problemstillingen.  
+
+***Spørsmål 141***  
+**Hvem er opprinnelsen til begrepet 'sense of coherence'?**  
+> Aaron Antonovsky  
+
+***Spørsmål 142***  
+**Data fra ungdomsdel en av Helseundersøkelsen Nord-Trøndelag, Ung-HUNT, viser at elever med frafall i videregående skole har større sjanse for å bli langtidssykemeldt/uføretrygdet. Sjansen for å bli langtidssykemeldt/uføretrygdet for de med frafall sammenlignet med de som fullfører er:**  
+> Tre-fire ganger så høy  
+
+***Spørsmål 143***  
+**Frafall i videregående skole er et samfunnsproblem, og det er sammenheng mellom helse og frafall. I hvilken helseregion ligger det fylket som hadde størst gjennomstrømming (fullført og bestått etter 5 år) av elever i perioden 2002-2004-2006?**  
+> Helse Vest  
+
+***Spørsmål 144***  
+**Her presenteres en påstand: 'Rike mennesker ser ut til å være mer lykkelig enn andre'. Denne påstanden er fiølge Firebaugh (2005):**  
+> Riktig, og det er om du tjener mer enn jevnaldrende som har betydning.  
+
+***Spørsmål 145***  
+**John Gunnar Mæland er opptatt av begrepene helse og livskvalitet. Mener han at:**  
+> Helse og livskvalitet er overlappende, og vi har behov for begge begrepene i forskning.  
 
 ***Spørsmål n***  
 **Tekst**  
 > Svar  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 146***  
+**Albert Banduras (1969, 1977) sosial- kognitive teori skiller seg ut fra klassisk behaviorisme på flere områder. Hvilken påstand stemmer IKKE?**  
+> Bandura vektla like mye forholder i samfunnet rundt individet for å forklare atferd  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 147***  
+**Primærforebyggende helsearbeid har som mål å...**  
+> Redusere risikofaktorer og styrke motstandskraft  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 148***  
+**Hva kjennetegner såkalte 'løvetannbarn'?**  
+> At de har vokst opp med dårlige oppvekstsvilkår og klart seg bra  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 149***  
+**Hva menes med begrepet ”Sense of Coherence”?**  
+> En meningsfull sammenheng i tilværelsen  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 150***  
+**Hva er definisjonen av positiv psykologi?**  
+> Det vitenskapelige studiet av optimalfungering  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 151***  
+**Medisinsk screening betyr at man...**  
+> Leter etter sykdom i en befolkning uten symptomer.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 152***  
+**Hvilket av utsagnene under er feil?**  
+> En frisk person som får et positivt screeningresultat har fått riktig resultat.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 153***  
+**Det raskest voksende alderssegmentet er mennesker over...**  
+> 80 år  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 154***  
+**Ifølge Folkehelserapporten (Folkehelseinstituttet,2010) viser forskning at det prosentvise antallet av 15-16 år gamle gutters symptomer på angst og depresjon ligger på:**  
+> Mellom 13-15 %  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 155***  
+**Ifølge Folkehelserapporten (Folkehelseinstituttet,2010) viser forskning at det prosentvise antallet av 15-16 år gamle jenters symptomer på angst og depresjon ligger på:**  
+> Mellom 31-35 %  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 156***  
+**Ifølge senere tids skoleforskning; Hva synes å ha størst betydning for gutters skoletrivsel?**  
+> det å ha mange kompiser på skolen  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 157***  
+**Hvem lanserte begrepet generalized resistance resources (GRRs)?**  
+> Aaron Antonovsky  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 158***  
+**Walter Cannon (1932) var en av de første i moderne forskningssammenheng som for alvor ble interessert i...**  
+> Stressorer  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 159***  
+**Aaron Wildavsky er opphavet til en regel som lyder; ”Det er bare 10% av folks helseproblemer helsetjenesten kan gjøre noe med. De resterende 90 % må løses utenfor helsetjenesten ved at folk får bedre livsstil og ved bedring av de generelle livsvilkårene” Hva kalles regelen?**  
+> 10-90 regelen  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 160***  
+**I år 1993 var forekomsten av fedme (BMI over 30) hos norske 9-åringer 0,9 %. Hva var de samme verdiene i år 2000?**  
+> 3.6%  
 
 ***Spørsmål n***  
 **Tekst**  
