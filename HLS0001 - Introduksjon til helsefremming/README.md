@@ -660,161 +660,113 @@
 **I år 1993 var forekomsten av fedme (BMI over 30) hos norske 9-åringer 0,9 %. Hva var de samme verdiene i år 2000?**  
 > 3.6%  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 161***  
+**Ifølge nyere forskning (Høie, 2005) er gjennomsnittlig levetid på et sykehjem:**  
+> 2 - 3 år  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 162***  
+**Et av de viktigste teoretiske begrepene innenfor helsepsykologien er self-efficacy eller mestringsforventning. Hvem innførte dette begrepet?**  
+> Albert Bandura  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 163***  
+**Med self-efficacy eller mestringsforventning på norsk menes...**  
+> at sannsynligheten for at vi skal gjøre noe, øker proporsjonalt med den troen vi har på at vi vil få det til.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 164***  
+**Livskvalitet har vært et kjent begrep i:**  
+> 30-40 år (økonomisk oppsving)  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 165***  
+**KAP-modellen er en ofte brukt helseatferdmodell. K står for knowledge, A for attitude og P for practice (kunnskap, holdning og atferd). Hva har vært den vanligste kritikken mot denne modellens gangbarhet?**  
+> At den er for tydelig på at den rekkefølgen bare går en vei.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 166***  
+**I tråd med Aaron Antonovsky er Salutogenese først og fremst...**  
+> en systemteori  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 167***  
+**Hvilket begrep er spesielt sentralt i forbindelse med utvikling av opplevelse av sammenheng (SOC)?**  
+> Generelle motstandsressurser  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 168***  
+**Hvilken type religionsdefinisjon kan Sigmund Freud sies å primært vekt legge i boken ”A future of an lllusion” skrevet i 1927?**  
+> en funksjonell religionsdefinisjon  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 169***  
+**Å betrakte helse som en ressurs innebærer å se på helse som:**  
+> Evnen til å utvikle motstandsressurser som kan fremme livsmot, livsglede og mestring av hverdagslivets ulike situasjoner.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 170***  
+**Definisjonen av folkehelsearbeidet lyder som følger: ”Folkehelsearbeidet er samfunnets innsats for å påvirke faktorer som direkte eller indirekte fremmer befolkningens helse og trivsel, forebygger psykisk og somatisk sykdom, skade eller lidelse, eller som beskytter mot helsetrusler, samt arbeid for en jevnere fordeling av faktorer som direkte eller indirekte påvirker helsen.” Forebyggende arbeid deles inn i 3 kategorier men ikke alt er folkehelsearbeid. Hvilken av de følgende påstandene om forebyggende arbeid er en del av folkehelsearbeidet?**  
+> Universelt (primærforebyggende) og selektivt (sekundærforebyggende) forebyggende arbeid i symptomfri fase og fasen tidlig intervensjon er en del av folkehelsearbeidet.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 171***  
+**Hvilke lovverk forankrer Folkehelsearbeidet, listet i bestemmende rekkefølge:**  
+> Plan- og bygningsloven, Folkehelseloven og Helse- og omsorgstjenesteloven  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 172***  
+**Psykiske lidelser koster det norske samfunnet ca. 72 milliarder kroner per år, noe som er mer enn driftskostnadene totalt for forsvaret. Den største delen av kostnadene er såkalte indirekte kostnader. Hva skulle gi den beste helsefremmende effekten for å få ned disse kostnadene?**  
+> Høykvalitets barnehage  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 173***  
+**Helsinki-deklarasjonen er..**  
+> Forskningsetiske retningslinjer  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 174***  
+**NEO-PI-R er et verktøy for å måle:**  
+> Personlighetsfaktorer  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 175***  
+**At en undersøkelse har god validitet vil si...**  
+> at undersøkelsen måler det den er ment å måle  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 176***  
+**At en undersøkelse har god reliabilitet vil si...**  
+> at undersøkelsen er pålitelig  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 177***  
+**Sosial mobilitet er et begrep som er direkte knyttet til...**  
+> Sosiale klasser  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 178***  
+**Uttrykket ”den epidemiologiske overgangen” viser til...**  
+> En forandring i befolkningshelse  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 179***  
+**Verdens første internasjonale konferanse om helsefremming ble holdt i...**  
+> Ottawa i 1986  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 180***  
+**Sommeren 2008 kom en artikkel fra den kjente forskeren Martin Seligman. Her foreslo han et nytt forskningsfelt. Hva var det?**  
+> positive health  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 181***  
+**I 2003 truet ”noen” WHO (verdens helseorganisasjon) med å oppfordre den amerikanske kongressen til å trekke tilbake sin støtte til WHO på 406 millioner. Trusselen kom på bakgrunn av en rapport. Hva handlet rapporten om?**  
+> Diett og ernæring  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 182***  
+**Hva er ”myalgisk encefalopati” et annet navn for?**  
+> Kronisk tretthetssyndrom  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 183***  
+**”Hawthorne-effekten” viser…**  
+> At vissheten om at man blir observert har effekt  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 184***  
+**Sosialgerontologi omfatter de…**  
+> Psykologiske, sosiologiske og sosiale aspektene ved aldring  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 185***  
+**Bergensprosjektet som pågikk fra 1993-1996, hadde til hensikt…**  
+> Å få langtidssykemeldte tilbake på jobb  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 186***  
+**Hva forklarer Lipostaseteorien?**  
+> At det er samspillet mellom hormoner som er den viktigeste forklaringen på overvekt  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
-
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 187***  
+**Selyes forsket på stress, og hans arbeid kan sammenfattes under begrepet ”det generelle adaptasjonssyndromet” (GAS). GAS rommer tre stadier. Hvilket av de følgende begrepene er IKKE ett av disse tre?**  
+> Normalisering  
 
 
 # Forelesning 1
