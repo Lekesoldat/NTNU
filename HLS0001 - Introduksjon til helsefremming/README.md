@@ -345,6 +345,134 @@
 **Livskvalitet er et lett forståelig begrep. Er det også lett å måle i vitenskapelige studier? Et av svaralternativene nedenfor er riktig. Hvilket?**  
 > Nei, livskvalitet er komplisert å måle fordi begrepet er multidimensjonalt, det er et fenomen under kontinuerlig endring, og det innbefatter en subjektiv opplevelse av å ha det godt eller dårlig.  
 
+***Spørsmål 84***  
+**Har økningen i levekår og inntekt i vår del av verden de siste 50 årene bidratt til økt lykkefølelse?**  
+> nei, til tross for at vi har hatt en sterk økning i levekår og personlig inntekt de siste 50 årene, har lykkefølelsen holdt seg omtrent konstant.  
+
+***Spørsmål 85***  
+**Utbrenthet skiller seg fra andre begrep som depresjon og stress fordi**  
+> utbrenthet er arbeidsrelatert og mer kronisk  
+
+***Spørsmål 87***  
+**Den mest anerkjente og brukte definisjonen på utbrenthet er forfattet av Maslach. Hun deler utbrentheten inn i?**  
+> tre dimensjoner  
+
+***Spørsmål 87***  
+**Hvilke av personlighetstrekkene nedenfor er sterkest relatert til rapportering av symptomer?**  
+> nevrotisisme  
+
+***Spørsmål 88***  
+**Hva kjennetegner, i følge Friedman og kollegaer, personer som lever lenge?**  
+> de scorer lavt på optimisme og høyt på planmessighet (conscientiousness)  
+
+***Spørsmål 89***  
+**Livskvalitet har vært et kjent begrep i:**  
+> 30 - 40 år (økonomisk oppsving)  
+
+***Spørsmål 90***  
+**Innen medisin og sykepleie defineres 'livskvalitet' oftest som:**  
+> fysisk, psykisk, sosialt og materielt velvære  
+
+***Spørsmål 91***  
+**Livskvalitet måles oftest ved hjelp av:**  
+> selvrapportering  
+
+***Spørsmål 92***  
+**De fleste som må fjerne livmoren lider av:**  
+> smerter og store blødninger  
+
+***Spørsmål 93***  
+**For de fleste kvinner som får fjernet livmoren blir helsen:**  
+> bedre  
+
+***Spørsmål 94***  
+**Å fjerne livmoren fører ofte til komplikasjoner som:**  
+> ingen komplikasjoner  
+
+***Spørsmål 95***  
+**De fleste 'cancer survivors' opplever en god livskvalitet fordi:**  
+> oppfatningen av hva som er viktig i livet endres  
+
+***Spørsmål 96***  
+**Det finnes forskjellige risikofaktorer knyttet til enkeltindividers helseutvikling i vestlige land i dag. Hvilken blir vurdert til å være den skumleste i nærmeste framtid?**  
+> økende overvekt  
+
+***Spørsmål 97***  
+**Med psykosomatisk forskning menes?**  
+> helseforskning som søker å se på hvordan menneskers helse utvikles som en sum av de faktorer, indre og ytre, som det påvirkes av  
+
+***Spørsmål 98***  
+**Et måleinstrument med høy relabilitet er:**  
+> et instrument som vil gi samme resultat hver gang gitt at det som blir målt var det samme  
+
+***Spørsmål 99***  
+**Claudius Galnus (129 - 200) ofte referert til som Galen er kjent som:**  
+> lege og vitenskapsmann fra Lilleasia (Tyrkia)  
+
+***Spørsmål 100***  
+**Hvilken vei var det vanlig å tenke seg årsak og virkning når det gjaldt psykisk-fysiske problemer, symptomer og sykdommer i romeritden?**  
+> fysiske problemer slo ut i psykiske symptomer  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
+***Spørsmål n***  
+**Tekst**  
+> Svar  
+
 ***Spørsmål n***  
 **Tekst**  
 > Svar  
