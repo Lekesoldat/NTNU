@@ -413,41 +413,41 @@
 **Hvilken vei var det vanlig å tenke seg årsak og virkning når det gjaldt psykisk-fysiske problemer, symptomer og sykdommer i romeritden?**  
 > fysiske problemer slo ut i psykiske symptomer  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 101***  
+**Hippokrates - kjent lege fra det gamle Hellas, mente at personer med mye svart galle var**  
+> melankolske (depressive)  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 102***  
+**Begrepet dualisme...:**  
+> stammer fra en overbevisning om at mennesket består av to adskilte deler, kropp og en sjel  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 103***  
+**Hva mente filosofen og psykologen William James (1842 - 1910) med at vi var på sporet av en slags 'matematisk verdensformel'?**  
+> en formel som i prinsippet ville gjøre det mulig å forutsi all framtid med fullkommen nøyaktighet. Dette gjaldt alle hendelser i omgivelsene så vel som i oss selv  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 104***  
+**Hva menes med begrepet reduksjonisme?**  
+> reduksjonismen hvedet at 'sjelen' ikke var noe annet enn nerveimpulser i hjernen  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 105***  
+**George Stone (1987) mener at de ulike helsedefinisjonene grovt sett faller innenfor to kategorier. Hvilke?**  
+> Noen definerer helse som en ideell tilstand, mens de andre definerer helse som en bevegelse i positiv retning  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 106***  
+**Forskjellen på bio-medisinsk-sykdomsmodell og den bio-psyko-sosiale-helse- og sykdomsmodell kan grovt sett sies å være at:**  
+> Biopsykososiale-modellen er den mest moderne og tar med flere elementer for utvikling av helse og sykdom  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 107***  
+**I 1926 utgav Sigmund Freud avhandlingen Henunung, Symptom und Angst. Hva var det med den avhandlingen som var spesielt for arbeidet i psykosomatikken?**  
+> Han mente at agnst kunne betraktes som et forebyggende varselsignal for andre sykdommer.  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 108***  
+**'Er det usunt å spise egg?' kan være ... forskning.**  
+> en problemstilling for  
 
-***Spørsmål n***  
-**Tekst**  
-> Svar  
+***Spørsmål 109***  
+**Å gjøre en problemstilling forskar kalles for å ...**  
+> operasjonalisere problemet  
 
 ***Spørsmål n***  
 **Tekst**  
