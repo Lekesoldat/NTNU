@@ -313,23 +313,59 @@
     Your task is to fill in the missing JavaScript code so that the program works correctly. Notice that there are two images: pic_bulboff.gif and pic_bulbon.gif. (10% - 2% each box)
 
     ```HTML
-      <!DOCTYPE html>
-      <html>
-      <body>
-        <h1>JavaScript Can Change Images</h1>
-        <img id="myImage" onclick="changeImage()" src="pic_bulboff.gif" width="100" height="180">
-        <p>Click the light bulb to turn on/off the light.</p>
+    <!DOCTYPE html>
+    <html>
+    <body>
+      <h1>JavaScript Can Change Images</h1>
+      <img id="myImage" onclick="changeImage()" src="pic_bulboff.gif" width="100" height="180">
+      <p>Click the light bulb to turn on/off the light.</p>
+
+    <script>
+      function changeImage() {
+        const image = document.getElementById('myImage');
+        if (image.src.match("bulbon") {
+          image.src = "pic_bulboff.gif";
+        } else {
+          image.src = "pic_bulboon.gif";
+        }
+      }
+    </script>
+    </body>
+    </html>
+    ```
+
+5. **Below is an outline for a JavaScript program, with a “Try it” button that,when clicked, produces the output as shown in the before and after pictures below.**
+    ![TryIt](./img/tryIt.png)  
+    Your task is to fill in the missing JavaScript code so that the program works correctly. You must use a “while” loop statement, as indicated. (10% - 2% each box)
+
+    ```HTML
+    <!DOCTYPE html>
+    <html>
+
+    <body>
+      <p>Click the button to loop through a block of code as long as i is less than 10.</p>
+
+      <button onclick="myFunction()">Try it</button>
+
+      <p id="demo"></p>
 
       <script>
-        function changeImage() {
-          const image = document.getElementById('myImage');
-          if (image.src.match("bulbon") {
-            image.src = "pic_bulboff.gif";
-          } else {
-            image.src = "pic_bulboon.gif";
+        function myFunction() {
+          let i = 0;
+          let text = '';
+          while (i < 10) {
+            text += (`The number is ${i}\n`);
+            i++
           }
+
+          document.getElementById('demo').innerText = text;
         }
       </script>
-      </body>
-      </html>
+    </body>
+    </html>
     ```
+
+6. **Write JavaScript code to draw the following figure inside a ```<canvas>``` element: Don’t forget to access the canvas element from your script and use the 2D drawing API. We expect you to approximately draw the following figure, eg. line width, not fully centered to the canvas, color of the lines etc. are not problems. (6%)**
+    ![Canvas](./img/canvas.png)
+
+    View code [here](./code/task6.html).
