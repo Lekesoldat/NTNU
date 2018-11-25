@@ -286,4 +286,19 @@ from user). (8%)
       </p>
     ```
 
-5. Write JavaScript code to draw the following figure inside a ```<canvas> ```element. Don’t forget to access the canvas element from your script and use the 2D drawing API. We expect you to approximately draw the following figure, eg. line width, not fully centered to the canvas, color of the lines etc. are not problems. (10%)
+5. Write JavaScript code to draw the following figure inside a ```<canvas> ```element. Don’t forget to access the canvas element from your script and use the 2D drawing API. We expect you to approximately draw the following figure, eg. line width, not fully centered to the canvas, color of the lines etc. are not problems. (10%)  
+  ![Boat](./img/boat.png)  
+    ```HTML
+      <!DOCTYPE html>
+      <html>
+      <body>
+        <canvas id="myCanvas" width="200" height="200" style="border:1px solid #d3d3d3;">
+        Your browser does not support the HTML5 canvas tag.</canvas>
+      
+      <script>
+        // Found in file located in 'code'-folder.
+      </script>
+
+      </body>
+      <html>
+    ```
