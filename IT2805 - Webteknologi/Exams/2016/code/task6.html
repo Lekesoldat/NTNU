@@ -2,11 +2,38 @@
 <html>
 
 <body>
-  <canvas id="Canvas1" width="150" height="150" style="border:1px solid
-#d3d3d3;">Your browser does not support canvas.</canvas>
+  <canvas id="Canvas1" width="150" height="150" style="border:1px solid #d3d3d3;">Your browser does not support canvas.</canvas>
   <script>
-    …
+    const canvas = document.getElementById('Canvas1');
+    const context = canvas.getContext('2d');
+
+    /* Draw the rectangle */
+    context.beginPath();
+    context.strokeStyle = "blue";
+    context.lineWidth = 5;
+    // (x, y) (x, y)
+    context.strokeRect(5, 5, 140, 140);
+
+    /* Draw the cicle */
+    context.beginPath();
+    context.lineWidth = 5;
+    // arc(x, y, r, startAngle, endingAngle, counterClockWise)
+    context.arc(75, 75, 70, 0, Math.PI * 2, true);
+    context.stroke();
+
+    /* Draw the crossed lines */
+    context.beginPath();
+    context.lineWidth = 5;
+    
+    // Horisontal
+    context.moveTo(5, 75);
+    context.lineTo(145, 75);
+
+    // Vertikal
+    context.moveTo(75, 5);
+    context.lineTo(75, 145);
+    context.stroke();
+    
   </script>
 </body>
-
 </html>
