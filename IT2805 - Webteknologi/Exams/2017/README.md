@@ -204,4 +204,86 @@
       - Cannot be cached and bookmarked.
 
 ## Section C: Coding Related Questions (40%)
-Have a look at the [code](./code) here.
+1. Write the HTML code that produces the following table. The image is called mainbuilding.jpg and is stored in a folder called images. The images folder is inside the same folder of this HTML file. (5%)  
+*Have a look at the code [here](./code).*
+2. Consider the following HTML file:
+    ```HTML
+      <!DOCTYPE html>
+      <html>
+      <head>
+        <style>
+        …
+        </style>
+      </head>
+      <body>
+        <h1>This is a Heading </h1>
+        <p>This is a paragraph. </p>
+        <p>This is another paragraph. </p>
+        <p class="highlight">This is a third paragraph. </p>
+        <ul>
+          <li>Apple</li>
+          <li>Orange</li>
+          <li>Pear</li>
+        </ul>
+      </body>
+      </html>
+    ```
+
+    Write the CSS needed to (10% - 2% each):
+      - Position the ```<h1>``` element 20px left, and 30px down, relative to its normal position.
+        - ```CSS
+            h1 {
+              position: relative;
+              left: -20px;
+              top: 30px
+            }
+          ```
+      - Position the ```<h1>``` element 50px from the left, and 100px from the top, relative to the HTML page.
+        - ```CSS
+            h1 {
+              position: absolute;
+              left: 50px;
+              top: 100px;
+            }
+          ```
+      - Display the list items as inline elements.
+        - ```CSS
+            li {
+              display: inline;
+            }
+          ```
+      - Change the background color of the p element with the class "highlight" to "lightblue", when a user hovers over that p element.
+        - ```CSS
+            p.highlight:hover {
+              background-color: "lightblue";
+            }
+          ```
+      - Set text color to red, for the first line of the ```<p>``` elements.
+        - ```CSS
+            p::first-line {
+              color: red;
+            }
+          ```
+
+3. Write a JavaScript function that calculates the number of days left till the Christmas Date (7%).  
+*Have a look at the code [here](./code).*
+
+4. Write a JavaScript program to calculate multiplication and division of two numbers (input
+from user). (8%)  
+  The form will look like this:  
+  ![Form](./img/form.png)  
+  The HTML is given:  
+
+    ```HTML
+      <form>
+        1st Number : <input type="text" id="firstNumber" /><br>
+        2nd Number: <input type="text" id="secondNumber" /><br>
+        <input type="button" onClick="multiplyBy()" Value="Multiply" />
+        <input type="button" onClick="divideBy()" Value="Divide" />
+      </form>
+      <p>The Result is : <br>
+        <span id ="result"></span>
+      </p>
+    ```
+
+5. Write JavaScript code to draw the following figure inside a ```<canvas> ```element. Don’t forget to access the canvas element from your script and use the 2D drawing API. We expect you to approximately draw the following figure, eg. line width, not fully centered to the canvas, color of the lines etc. are not problems. (10%)
