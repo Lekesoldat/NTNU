@@ -205,7 +205,7 @@
 
 ## Section C: Coding Related Questions (40%)
 1. Write the HTML code that produces the following table. The image is called mainbuilding.jpg and is stored in a folder called images. The images folder is inside the same folder of this HTML file. (5%)  
-*Have a look at the code [here](./code).*
+*Have a look at the code [here](./code/task1.html).*
 2. Consider the following HTML file:
     ```HTML
       <!DOCTYPE html>
@@ -266,7 +266,7 @@
           ```
 
 3. Write a JavaScript function that calculates the number of days left till the Christmas Date (7%).  
-*Have a look at the code [here](./code).*
+*Have a look at the code [here](./code/task3.js).*
 
 4. Write a JavaScript program to calculate multiplication and division of two numbers (input
 from user). (8%)  
@@ -284,7 +284,7 @@ from user). (8%)
         <span id ="result"></span>
       </p>
     ```
-    *Have a look at the code [here](./code).*
+    *Have a look at the code [here](./code/task4.js).*
 
 5. Write JavaScript code to draw the following figure inside a ```<canvas> ```element. Don’t forget to access the canvas element from your script and use the 2D drawing API. We expect you to approximately draw the following figure, eg. line width, not fully centered to the canvas, color of the lines etc. are not problems. (10%)  
   ![Boat](./img/boat.png)  
@@ -301,4 +301,4 @@ from user). (8%)
       </body>
       <html>
     ```
-    *Have a look at the code [here](./code).*
+    *Have a look at the code [here](./code/task5.js).*
