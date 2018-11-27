@@ -764,6 +764,128 @@
 **Selyes forsket på stress, og hans arbeid kan sammenfattes under begrepet ”det generelle adaptasjonssyndromet” (GAS). GAS rommer tre stadier. Hvilket av de følgende begrepene er IKKE ett av disse tre?**  
 > Normalisering  
 
+<br>
+
+# Svar på samtlige spørsmål på [Kramster](https://kramster.it/NTNU/HLS0001/)
+
+## Eksamen 09 - I denne er flere av svarene på Kramster direkte feil. Mine er riktige, baset på googling og sammenlikning med Memoriser sin quiz og LF.
+
+***Spørsmål 1***  
+**Lazarus og Selye er kjent for sine teorier om...**  
+> Stress
+
+***Spørsmål 2***  
+**Type A atferdsmønster er blitt forbundet med utviklingen av en bestemt sykdom. Det er:**  
+> Hjerteinfarkt
+
+***Spørsmål 3***  
+**En kultur der sykdom blir sett på som forårsaket av faktorer i det enkelte individ kalles:**  
+> Individualistisk
+
+***Spørsmål 4***  
+**Innen medisin og sykepleie defineres 'livskvalitet' som:**  
+> Fysisk, psykisk, sosialt og materielt velvære
+
+***Spørsmål 5***  
+**'Det generelle adapsjonssyndromet' (GAS) som begrep**  
+> stammer fra Selyes beskrivelse av reaksjoner på stress
+
+***Spørsmål 6***  
+**Med en bio-psyko-sosial helsemodell menes:**  
+> En modell som tar inn både biologiske, psykologiske og sosiale faktorer i forklaringen av utvikling av helse.
+
+***Spørsmål 7***  
+**Den mest anerkjente og brukte definisjonen på utbrenthet er laget av Maslach. Hun deler utbrenthet inn i:**  
+> Tre dimensjoner
+
+***Spørsmål 8***  
+**Er det farlig å snakke om selvmord?**  
+> Nei, men det er viktig hvilken måte man snakker om det på
+
+***Spørsmål 9***  
+**De fleste 'cancer survivors' opplever en god livskvalitet fordi:**  
+> Oppfatningen av hva som er viktig i livet endres
+
+***Spørsmål 10***  
+**Totalforbruksteorien handler om**  
+> Totalforbruket som den dominerende faktor som styrer alkoholskadenes omfang i samfunnet, men ikke den eneste faktor
+
+***Spørsmål 11***  
+**En person med type B atferdsmlnster**  
+> Tar livet som det kommer seg, og lar seg flyte med livsstrømmen
+
+***Spørsmål 12***  
+**Hva kjennetegner, i følge Friedman og kolleger, personer som lever lenge?**  
+> De scorer lavt på optimisme og høyt på planmessighet (Conscientiousness)
+
+***Spørsmål 13***  
+**Med forkortningen BMI**  
+> Mener vi vanligvis Body Mass Index
+
+***Spørsmål 14***  
+**Utbrenthet skiller seg fra andre begrep om depresjon og stress fordi:**  
+> Utbrenthet er arbeidsrelatert og mer kronisk
+
+***Spørsmål 15***  
+**I Oslo har det ofte tidligere vært snakk om at forventet levetid er høyere vest i byenn enn øst i byen. I de nyeste undersøkelsene viser det seg at nå er dette slik at:**  
+> det fortsatt er slik
+
+***Spørsmål 16***  
+**... er en relativt stabil disposisjon knyttet til spesielle atferdsmessige mønster (Epstein 1977). Er definisjon av ...**  
+> et personlighetstrekk
+
+***Spørsmål 17***  
+**I psykosomatikk og helsepsykologi benyttes ulike metoder og instrumenter for å samle inn data om ulike forskjeller eller sammenhenger. En sier at en slik metode er valid når den:**  
+> måler eksakt det en ønsker å måle
+
+***Spørsmål 18***  
+**Helsepsykologi kjennetegnes ved at den er**  
+> ser på mennesket som en helhet
+
+***Spørsmål 19***  
+**De fleste som må fjerne livmoren lider av:**  
+> Smerter og store blødninger
+
+***Spørsmål 20***  
+**Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av den mest moderne av disse modellene og den kalles for**  
+> Bio-psyko-sosial helsemodell
+
+***Spørsmål 21***  
+**Det synspunktet at menneskelige fenomener (som for eksempel ærlighet og depresjon) er grunnleggende sett det samme (kvalitativt) i alle kulturer kalles:**  
+> universalisme
+
+***Spørsmål 22***  
+**Livskvalitet måles oftest ved hjelp av**  
+> Selvrapportering
+
+***Spørsmål 23***  
+**Det finnes forskjellige risikofaktorer knyttet til enkeltindividers helseutvikling i vestlige land i dag. Hvilken blir vurdert til å være den skumleste i nær fremtid?**  
+> Økende overvekt
+
+***Spørsmål 24***  
+**Nyere oppsummering av forskningsstatus vedrørende strategier for reduksjon av alkoholrelaterte skader i samfunnet viser at en strategi som har høy grad av effekt er:**  
+> selvhjelpsgrupper
+
+***Spørsmål 25***  
+**I hvilken landsdel i Norge er selvmordsforekomsten lavest?**  
+> vestlandet
+
+***Spørsmål 26***  
+**Hvem regnes som Utbrenthetsbegrepets «far» og skrev de første artiklene?**  
+> Freudenberger
+
+***Spørsmål 27***  
+**Hvilke av personlighetstrekkene nedenfor er sterkest relatert til rapportering av symptomer**  
+> Nevrotisme
+
+***Spørsmål 28***  
+**Livskvalitet er et lett forståelig begrep. Er det også lett å måle i vitenskapelige studier? Ett av svaralternativene nedenfor er riktig. Hvilket?**  
+> Nei, livskvalitet er komplisert å måle fordi begrepet er multi-dimensjonalt. Det er et fenomen under kontinuerlig endring, og det innebefatter en subjektiv opplevelse av å ha det godt eller dårlig.  
+
+***Spørsmål 29***  
+**Et måleinstrument med høy reliabilitet er**  
+> Et instrument som vil gi samme resultat hver gang gitt at det som blir målt var det samme
+
 
 # Forelesning 1
 
@@ -821,4 +943,4 @@ Tradisjonell helseforskning er preget av vitenskaper som undersøker hva som gj�
 - Migrasjon for arbeid og et bedre liv, - flukt fra fattigdom og katastrofer.
 
 
-<br>
+
