@@ -1064,116 +1064,116 @@
 ## **Ukjent år #2**
 
 ***Spørsmål 1***  
-**tekst**  
-> svar
+**Lazarus og Selye er kjent for sine teorier om**  
+> stress
 
 ***Spørsmål 2***  
-**tekst**  
-> svar
+**Type A atferdsmønster er blitt forbundet med utviklingen av en bestemt sykdom. Det er:**  
+> Hjerteinfarkt
 
 ***Spørsmål 3***  
-**tekst**  
-> svar
+**Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med sykomatikk benytter seg vanligvis av den mest moderne av disse modellene og den kalles for**  
+> bio-psyko-sosial helsemodell
 
 ***Spørsmål 4***  
-**tekst**  
-> svar
+**I Oslo har det ofte tidligere vært snakk om at forventet levetid er høyere vest i byen enn øst i byen. I de nyeste undersøkelsene viser det seg at nå er dette slik at**  
+> Det fortsatt er slik
 
 ***Spørsmål 5***  
-**tekst**  
-> svar
+**Livskvalitet er ett lett forståelig begrep. Er det også lett å måle i vitenskapelige studier? Ett av svaralternativene nedenfor er riktig. Hvilket?**  
+> Nei, livskvalitet er komplisert å måle fordi begrepet er multidimensjonalt, det er et fenomen under kontinuerlig endring, og det innebefatter en subjektiv opplevelse av å ha det godt eller dårlig
 
 ***Spørsmål 6***  
-**tekst**  
-> svar
+**Hva kjennetegner, i følge Friedman og kollegaer, personer som lever lenge?**  
+> De scorer lavt på optimisme og høyt på planmessighet (Conscientiousness)
 
 ***Spørsmål 7***  
-**tekst**  
-> svar
+**Hvem regnes som utbrenthetsbegrepets «far» og skrev de første artiklene?**  
+> Freudenberger
 
 ***Spørsmål 8***  
-**tekst**  
-> svar
+**I hvilken landsdel i Norge er selvmordsforekomsten lavest?**  
+> Vestlandet
 
 ***Spørsmål 9***  
-**tekst**  
-> svar
+**Helsepsykologien kjennetegnes ved at den er**  
+> ser på mennesket som en helhet
 
 ***Spørsmål 10***  
-**tekst**  
-> svar
+**Innen medisin og sykepleie defineres «livskvalitet» oftest som:**  
+> fysisk, psykisk, sosialt og materielt velvære
 
 ***Spørsmål 11***  
-**tekst**  
-> svar
+**Med en bio-psyko-sosial helsemodell menes:**  
+> en modell som tar inn både biologiske, psykologiske og sosiale faktorer i forklaringen av utvikling av helse
 
 ***Spørsmål 12***  
-**tekst**  
-> svar
+**Nyere oppsummering av forskningsstatus vedrørende strategier for reduksjon av alkoholrelaterte skader i samfunnet viser at en strategi som har høy grad av effekt er:**  
+> selvhjelpsgrupper
 
 ***Spørsmål 13***  
-**tekst**  
-> svar
+**Det finnes forskjellige risikofaktorer knyttet til enkeltindividers helseutvikling i vestlige land i dag. Hvilken blir vurdert til å være den skumleste i nær fremtid?**  
+> økende overvekt
 
 ***Spørsmål 14***  
-**tekst**  
-> svar
+**Er det farlig å snakke om selvmord?**  
+> nei, men det er viktig hvilken måte man snakker om det på
 
 ***Spørsmål 15***  
-**tekst**  
-> svar
+**Totalforbruksteorien handler om**  
+> Totalforbruket er den dominerende faktor som styrer alkoholskadenes omfang i samfunnet, men er ikke den eneste faktor
 
 ***Spørsmål 16***  
-**tekst**  
-> svar
+**Livskvalitet måles oftest ved hjelp av:**  
+> selvrapportering
 
 ***Spørsmål 17***  
-**tekst**  
-> svar
+**Det synspunkt at menneskelige fenomener (som f.eks ærlighet og depresjon) er grunnleggende kalles**  
+> universalisme
 
 ***Spørsmål 18***  
-**tekst**  
-> svar
+**En person med type B atferdsmønster**  
+> tar livet som det kommer, og lar seg flyte med i livsstrømmen
 
 ***Spørsmål 19***  
-**tekst**  
-> svar
+**... er en relativt stabil disposisjon knyttet til spesielle atferdsmessige mønster (Epstein 1977). Er definisjon av ..**  
+> et personlighetstrekk
 
 ***Spørsmål 20***  
-**tekst**  
-> svar
+**«Det generelle adaptasjonssyndromet» (GAS) som begrep**  
+> stammer fra Selyes beskrivelse av reaksjoner på stress
 
 ***Spørsmål 21***  
-**tekst**  
-> svar
+**Et måleinstrument med høy reliabilitet er**  
+> et instrument som vil gi samme resultat hver gang gitt at det som blir målt var det samme
 
 ***Spørsmål 22***  
-**tekst**  
-> svar
+**De fleste som må fjerne livmoren lider av:ekst**  
+> smerter og store blødninger
 
 ***Spørsmål 23***  
-**tekst**  
-> svar
+**Det er minst fire måter å beskrive forholdet mellom helse og livskvalitet. En av de fire måtene nevnt nedenfor er mest dekkende. Hvilken?**  
+> helse og livskvalitet kan være overlappende begreper med felles kjerne
 
 ***Spørsmål 24***  
-**tekst**  
-> svar
+**En kultur der sykdom blir sett på som forårsaket av faktorer i det enkelte individ kalles:**  
+> individualistisk
 
 ***Spørsmål 25***  
-**tekst**  
-> svar
+**Utbrenthet skiller seg fra andre begrep som depresjon og stress fordi:**  
+> utbrenthet er arbeidsrelatert og mer kronisk
 
 ***Spørsmål 26***  
-**tekst**  
-> svar
+**Med forkortningen BMI**  
+> mener vi vanligvis body mass index
 
 ***Spørsmål 27***  
-**tekst**  
-> svar
+**Hvilke av personlighetstrekkene nedenfor er sterkest relatert til rapportering av symptomer**  
+> nevrotisisme
 
 ***Spørsmål 28***  
-**tekst**  
-> svar
+**I psykomatikk og helsepsykologi benyttes ulike metoder og instrumenter for å samle data om ulike forskjeller eller sammenhenger. En sier at en slik metode er valid når den**  
+> måler det en ønsker å måle
 
 # Forelesning 1
 
