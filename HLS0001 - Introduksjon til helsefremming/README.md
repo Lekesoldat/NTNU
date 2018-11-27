@@ -1,6 +1,7 @@
 # Kjappe fakta
-- Oppmøte i *1/13* forelesninger. Det var én for mye.
+- Møtte i *1/n* forelesninger. Det var én for mye.
 - Ta dette faget om du trenger å ha ett fag mindre i semestere. Virkelig, arbeidsmengden er ikke-eksisterende. 
+- Det holder å øve på Kramster og Memorizer.
 - Du får ikke A.  
 ![Skala](./images/hls0001.png)
 
