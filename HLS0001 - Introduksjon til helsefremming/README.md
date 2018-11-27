@@ -768,7 +768,7 @@
 
 # Svar på samtlige spørsmål på [Kramster](https://kramster.it/NTNU/HLS0001/) - MYE feil i disse spørsmålene på nettsiden. Mine svar bør være korrekte basert på googling og sammenlokning med Memorizer samt LF.
 
-## **Eksamen 09
+## **Eksamen 09**
 
 ***Spørsmål 1***  
 **Lazarus og Selye er kjent for sine teorier om...**  
