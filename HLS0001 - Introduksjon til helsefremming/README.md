@@ -764,7 +764,7 @@
 **Selyes forsket på stress, og hans arbeid kan sammenfattes under begrepet ”det generelle adaptasjonssyndromet” (GAS). GAS rommer tre stadier. Hvilket av de følgende begrepene er IKKE ett av disse tre?**  
 > Normalisering  
 
-<br>
+<br />
 
 # Svar på samtlige spørsmål på [Kramster](https://kramster.it/NTNU/HLS0001/)
 
@@ -886,7 +886,7 @@
 **Et måleinstrument med høy reliabilitet er**  
 > Et instrument som vil gi samme resultat hver gang gitt at det som blir målt var det samme
 
-<br>
+<br />
 
 
 ## **Ukjent år #1**
@@ -1059,7 +1059,7 @@
 **Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av den mest moderne av disse modellene og den kalles for**  
 > bio-psyko-sosial helsemodell
 
-<br> 
+<br /> 
 
 ## **Ukjent år #2**
 
@@ -1175,6 +1175,96 @@
 **I psykomatikk og helsepsykologi benyttes ulike metoder og instrumenter for å samle data om ulike forskjeller eller sammenhenger. En sier at en slik metode er valid når den**  
 > måler det en ønsker å måle
 
+<br />
+
+## **Ukjent år 3**
+
+***Spørsmål 1***  
+**Livskvalitet er et lett forståelig begrep. Er det også lett å måle i vitenskapelige studier? Ett av svaralternativene nedenfor er riktig. Hvilket?**  
+> Nei, livskvalitet er komplisert å måle fordi begrepet er multidimensjonalt, det er et fenomen under kontinuerlig endring, og det innbefatter en subjektiv opplevelse av å ha det godt og dårlig.
+
+***Spørsmål 2***  
+**Den mest anerkjente og brukte definisjonen på utbrenthet er laget av Maslach. Hun deler utbrenthet inn i?**  
+> tre dimensjoner
+
+***Spørsmål 3***  
+**Totalforbruksteorien handler om**  
+> Totalforbruket er den dominerende faktor som styrer alkoholskadens omfang i samfunnet, men ikke den eneste faktor
+
+***Spørsmål 4***  
+**Innen medisin og sykepleie defineres «livskvalitet» som**  
+> fysisk, psykisk, sosialt og materielt velvære
+
+***Spørsmål 5***  
+**De fleste som må fjerne livmoren lider av**  
+> Smerter og store blødninger
+
+***Spørsmål 6***  
+**Hvem regnes som Utbrenthetsbegrepets «far» og skrev de første artiklene?**  
+> Freudenberger
+
+***Spørsmål 7***  
+**«Det generelle adaptasjonssyndromet» (GAS) som begrep**  
+> Stammer fra Selyes beskrivelse av reaksjon på stress
+
+***Spørsmål 8***  
+**I Oslo har det ofte tidligere vært snakk om at forventet levetid er høyere vest i byen enn øst i byen. I de nyeste undersøkelsene viser det seg at nå er dette slik at:**  
+> Det er fortsatt slik
+
+***Spørsmål 9***  
+**Utbrenthet skiller seg fra andre begrep om depresjon og stress fordi**  
+> Utbrenthet er arbeidsrelatert og mer kronisk
+
+***Spørsmål 10***  
+**En person med type B atferdsmønster**  
+> Tar livet som det kommer, og lar seg flyte med livsstrømmen
+
+***Spørsmål 11***  
+**Type A atferdsmønster er blitt forbundet med utviklingen av en bestemt sykdom. Det er:**  
+> hjerteinfarkt
+
+***Spørsmål 12***  
+**Hvilken av personlighetstrekkene nedefor er sterkest relatert til rapportering av symptomer?**  
+> nevrotisisme
+
+***Spørsmål 13***  
+**Med forkortningen BMI**  
+> mener vi vanligvis body mass index
+
+***Spørsmål 14***  
+**Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av den mest moderne av disse modellene og den kalles for**  
+> bio-psyko-sosial helsemodell
+
+***Spørsmål 15***  
+**Det synspunktet at menneskelige fenomener (som for eksempel ærlighet og depresjon) er grunnleggende sett det samme (kvalitativt) i alle kulturer kalles:**  
+> universalisme
+
+***Spørsmål 16***  
+**Er det farlig å snakke om selvmord?**  
+> Nei, men det er viktig hvilken måte man snakker om det på
+
+***Spørsmål 17***  
+**Livskvalitet måles oftest ved hjelp av**  
+> selvrapportering
+
+***Spørsmål 18***  
+**Hva kjennetegner, i følge Friedman og kollegaer, personer som lever lenge?**  
+> de scorer lavt på optimisme og høyt på planmessighet (Conscientiousness)
+
+***Spørsmål 19***  
+**Det er minst fire måter å beskrive forholdet mellom helse og livskvalitet. En av de fire måtene nevnt nedenfor er mest dekkende. Hvilken?**  
+> Helse og livskvalitet kan være overlappende begreper med felles kjerne
+
+***Spørsmål 20***  
+**De fleste «cancer survivors» opplever en god livskvalitet fordi**  
+> Oppfatningen av hva som er viktig i livet endres
+
+***Spørsmål 21***  
+**Nyere oppsummering av forskningsstatus vedrørende strategier for reduksjon av alkoholrelaterte skader i samfunnet viser at en strategi som har høy grad av effekt er:**  
+> selvhjelpsgrupper
+
+
+<br />
 # Forelesning 1
 
 **Hva er helse?**  
