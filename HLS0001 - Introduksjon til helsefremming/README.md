@@ -886,6 +886,180 @@
 **Et måleinstrument med høy reliabilitet er**  
 > Et instrument som vil gi samme resultat hver gang gitt at det som blir målt var det samme
 
+<br>
+
+
+## Ukjent år #1
+
+***Spørsmål 1***  
+**Har økningen i levekår og inntekt i vår del av verden de siste 50-årene bidratt til økt lykkefølelse?**  
+> Nei, til tross for at vi har hatt en sterk økning i levekår og personlig inntekt de siste 50 årene har lykkefølelsen holdt seg omtrent konstant.
+
+***Spørsmål 2***  
+**Å gjøre en problemstilling forskbar kalles for å**  
+> operasjonalisere problemet
+
+***Spørsmål 3***  
+**'Er det usunt å spise egg?' kan være ... forskning**  
+> en problemstilling for
+
+***Spørsmål 4***  
+**Hvor lang tid omtrent har helsepsykologi eksistert som egen disiplin her i landet?**  
+> ca. 10 år
+
+***Spørsmål 5***  
+**I 1980 definerte helsepsykologen Matarzzo helsepsykologi som:**  
+> 'det samlede bidrag psykologien gir for å forstå helse og velvære.'
+
+***Spørsmål 6***  
+**Hva menes i helsepsykologien med begrepet 'The Big Five'?**  
+> De 5 hovedfaktorene som beskriver vår personlighet
+
+***Spørsmål 7***  
+**Innen medisin og sykepleie defineres 'livskvalitet' oftest som:**  
+> fysisk, psykisk, sosialt og materielt velvære
+
+***Spørsmål 8***  
+**Livskvalitet har vært et kjent begrep i:**  
+> 30-40 år (økonomisk oppsving)
+
+***Spørsmål 9***  
+**Et av svaralternativene nedenfor blir hevdet å være viktigst for det å oppleve en god livskvalitet. Hvilket?**  
+> at man har gode og nære relasjoner med familie og venner
+
+***Spørsmål 10***  
+**Livskvalitet er et lett forståelig begrep. Er det også lett å måle i vitenskapelige studier? Et av svaralternativene nedenfor er riktig. Hvilket?**  
+> Nei, livskvalitet er komplisert å måle fordi begrepet er multidimensjonalt, det er et fenomen under kontinuerlig endring, og det innebefatter en subjektiv opplevelse av å ha det godt eller dårlig
+
+***Spørsmål 11***  
+**Utbrenthet skiller seg fra andre begrep som depresjon og stress fordi:**  
+> Utbrenthet er arbeidsrelatert og mer kronisk
+
+***Spørsmål 12***  
+**Claudius Galnus (129-200) ofte referert til som Galen er kjent som...**  
+> Lege og vitenskapsmann fra Lilleasia (Tyrkia)
+
+***Spørsmål 13***  
+**De fleste «cancer survivors» opplever en god livskvalitet fordi:**  
+> oppfatningen av hva som er viktig i livet endres
+
+***Spørsmål 14***  
+**Hvilke ord mangler? ......har som formål å redusere forekomsten av sykdommer, skader, sosiale problemer, død og risikofaktorer.**  
+> Forebyggende tiltak
+
+***Spørsmål 15***  
+**For de fleste kvinner som får fjernet livmoren blir helsen:**  
+> bedre
+
+***Spørsmål 16***  
+**De fleste som må fjerne livmoren lider av:**  
+> Smerter og store blødninger
+
+***Spørsmål 17***  
+**Med self-efficacy eller mestringsforventning på norsk mener Albert Bandura...**  
+> At sannsynligheten for at vi skal gjøre noe, øker proporsjonalt mde den troen vi har på at vi skal få det til
+
+***Spørsmål 18***  
+**Hvilken vei var det vanlig å tenke seg årsak virkning når det gjaldt psykisk-fysiske problemer, symptomer og sykdommer i romertiden?**  
+> Fysiske problemer slo ut i psykiske symptomer
+
+***Spørsmål 19***  
+**Type A atferdsmønster er blitt forbundet med utviklingen av en bestemt sykdom. Det er:**  
+> hjerteinfarkt
+
+***Spørsmål 20***  
+**I psykosomatikk og helsepsykologi benyttes ulike metoder og instrumenter for å samle data om ulike forskjeller eller sammenhenger. En sier at en slik metode er valid når den:**  
+> måler eksakt det den ønsker å måle
+
+***Spørsmål 21***  
+**Hva er den grunnleggende hensikten med vaksinasjon?**  
+> at de som vaksineres skal utvikle resistens
+
+***Spørsmål 22***  
+**I en artikkel fra 2000 bruker Taylor og medarbeidere uttrykket «tend and befriend». Med dette uttrykket forsøker Taylor og medarbeidere å beskrive**  
+> kjønnsforskjeller i responser på stress - dette er kvinnenes typiske respons
+
+***Spørsmål 23***  
+**Hvilke metoder foretrekker helsepsykologien å fokusere på i arbeidet?**  
+> helsefremming og forebygging
+
+***Spørsmål 24***  
+**Hva er ifølge Holmes and Rahe’s forskning den mest stressende livshendelse?**  
+> Dødsfall hos ektefelle
+
+***Spørsmål 25***  
+**Det er minst fire måter å beskrive forholdet mellom helse og livskvalitet. En av de fire måtene nevnt nedenfor er mest dekkende. Hvilken?**  
+> helse og livskvalitet kan være overlappende begreper med en felles kjerne
+
+***Spørsmål 26***  
+**Klassisk kasus-kontrollstudier kjennetegnes ved at en har**  
+> en gruppe som naturlig eller eksperimentelt utsettes for et eller annet og som har en kontrollgruppe
+
+***Spørsmål 27***  
+**Korrelasjonsstudier benyttes ofte i helseforskning. Hva er den største svakheten med slike studier?**  
+> en kan ikke dra årsak-virkningskonklusjoner fra slike studier
+
+***Spørsmål 28***  
+**Med psykosomatisk forskning menes?**  
+> helseforskning som søker å se på hvordan menneskers helse utvikles som en sum av de faktorer, indre og ytre, som det påvirkes av
+
+***Spørsmål 29***  
+**En person med Type B atferdsmønster**  
+> tar livet som det kommer og lar seg flyte med i livsstrømmen
+
+***Spørsmål 30***  
+**KAP-modellen er en viden brukt helseatferdsmodell. K står for knowledge, A for attitude og P for practice (kunnskap, holdninger og atferd). Hva har vært den vanligste kritikken mot denne modellens gangbarhet?**  
+> at den er for tydelig på at den rekkefølgen går bare en vei
+
+***Spørsmål 31***  
+**Det finnes forskjellige risikofaktorer knyttet til enkeltindividers helseutvikling i vestlige land i dag. Hvilken er vurdert til å være den skumleste i nær framtid?**  
+> økende overvekt
+
+***Spørsmål 32***  
+**Hvilke av personlighetstrekkene nedenfor er sterkest relatert til rapportering av symptomer?**  
+> nevrotisisme
+
+***Spørsmål 33***  
+**Den mest anerkjente og brukte definisjonen på utbrenthet er forfattet av Maslach. Hun deler utbrenthet inn i?**  
+> tre dimensjoner
+
+***Spørsmål 34***  
+**Hva kjennetegner, ifølge Friedman og kollegaer, personer som lever lenge?**  
+> De scorer lavt på optimisme og høyt på planmessighet (Conscientiousness)
+
+***Spørsmål 35***  
+**Å fjerne livmoren fører ofte til komplikasjoner som:**  
+> ingen komplikasjoner
+
+***Spørsmål 36***  
+**Sammenhengen mellom uavhengig og avhengig variabel i eksperimenter er**  
+> den uavhengige variabelen er den en bevisst varierer
+
+***Spørsmål 37***  
+**Hvilket ord mangler? ... er enhver aktivitet hos en person som oppfatter seg som frisk, og hvor målet er å forebygge sykdom eller oppdage sykdom før den bryter ut»**  
+> helseatferd
+
+***Spørsmål 38***  
+**Et måleinstrument med høy reliabilitet er**  
+> et instrument som viser samme resultat hver gang gitt at det som blir målt var det samme
+
+***Spørsmål 39***  
+**I Oslo har det ofte tidligere vært snakk om at forventet levetid er høyest vest i byen enn øst i byen. I de nyeste undersøkelsene viser det sg at nå er dette slik at:**  
+> Alt er som før
+
+***Spørsmål 40***  
+**Livskvalitet måles oftest ved hjelp av:**  
+> selvrapportering
+
+***Spørsmål 41***  
+**Sommeren 2008 kom en artikkel fra den kjente forskeren Martin Seligman. Her foreslo han et nytt forskningsfelt. Hva var det?**  
+> positive health
+
+***Spørsmål 42***  
+**Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av den mest moderne av disse modellene og den kalles for**  
+> bio-psyko-sosial helsemodell
+
+
 
 # Forelesning 1
 
