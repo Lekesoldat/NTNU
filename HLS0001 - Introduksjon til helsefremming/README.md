@@ -768,7 +768,7 @@
 
 # Svar på samtlige spørsmål på [Kramster](https://kramster.it/NTNU/HLS0001/)
 
-## Eksamen 09 - I denne er flere av svarene på Kramster direkte feil. Mine er riktige, baset på googling og sammenlikning med Memoriser sin quiz og LF.
+## **Eksamen 09 - I denne er flere av svarene på Kramster direkte feil. Mine er riktige, baset på googling og sammenlikning med Memoriser sin quiz og LF.**
 
 ***Spørsmål 1***  
 **Lazarus og Selye er kjent for sine teorier om...**  
@@ -889,7 +889,7 @@
 <br>
 
 
-## Ukjent år #1
+## **Ukjent år #1**
 
 ***Spørsmål 1***  
 **Har økningen i levekår og inntekt i vår del av verden de siste 50-årene bidratt til økt lykkefølelse?**  
@@ -1059,7 +1059,121 @@
 **Det finnes ulike sykdoms- og helsemodeller. Helsepsykologer og forskere som arbeider med psykosomatikk benytter seg vanligvis av den mest moderne av disse modellene og den kalles for**  
 > bio-psyko-sosial helsemodell
 
+<br> 
 
+## **Ukjent år #2**
+
+***Spørsmål 1***  
+**tekst**  
+> svar
+
+***Spørsmål 2***  
+**tekst**  
+> svar
+
+***Spørsmål 3***  
+**tekst**  
+> svar
+
+***Spørsmål 4***  
+**tekst**  
+> svar
+
+***Spørsmål 5***  
+**tekst**  
+> svar
+
+***Spørsmål 6***  
+**tekst**  
+> svar
+
+***Spørsmål 7***  
+**tekst**  
+> svar
+
+***Spørsmål 8***  
+**tekst**  
+> svar
+
+***Spørsmål 9***  
+**tekst**  
+> svar
+
+***Spørsmål 10***  
+**tekst**  
+> svar
+
+***Spørsmål 11***  
+**tekst**  
+> svar
+
+***Spørsmål 12***  
+**tekst**  
+> svar
+
+***Spørsmål 13***  
+**tekst**  
+> svar
+
+***Spørsmål 14***  
+**tekst**  
+> svar
+
+***Spørsmål 15***  
+**tekst**  
+> svar
+
+***Spørsmål 16***  
+**tekst**  
+> svar
+
+***Spørsmål 17***  
+**tekst**  
+> svar
+
+***Spørsmål 18***  
+**tekst**  
+> svar
+
+***Spørsmål 19***  
+**tekst**  
+> svar
+
+***Spørsmål 20***  
+**tekst**  
+> svar
+
+***Spørsmål 21***  
+**tekst**  
+> svar
+
+***Spørsmål 22***  
+**tekst**  
+> svar
+
+***Spørsmål 23***  
+**tekst**  
+> svar
+
+***Spørsmål 24***  
+**tekst**  
+> svar
+
+***Spørsmål 25***  
+**tekst**  
+> svar
+
+***Spørsmål 26***  
+**tekst**  
+> svar
+
+***Spørsmål 27***  
+**tekst**  
+> svar
+
+***Spørsmål 28***  
+**tekst**  
+> svar
 
 # Forelesning 1
 
