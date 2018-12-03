@@ -154,7 +154,6 @@
 
 - **
 
-
 ## Relevant informasjon fra eksamenssett:
 
 **Fra eksamen 2015:**  
