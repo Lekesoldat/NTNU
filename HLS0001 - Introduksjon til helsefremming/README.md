@@ -1,3 +1,12 @@
+# Image describing my experience with the course
+<div style="text-align: center;">
+  <img src="./images/cramming.jpg">
+</div>
+
+Hardcore pugg.
+
+---
+
 # Kjappe fakta
 - Møtte i *1/n* forelesninger. Det var én for mye.
 - Ta dette faget om du trenger å ha ett fag mindre i semestere. Virkelig, arbeidsmengden er ikke-eksisterende. 

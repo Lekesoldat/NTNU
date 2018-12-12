@@ -1,6 +1,4 @@
-# IT2805 - Webteknologi
-
-## Image describing my experience with the course
+# Image describing my experience with the course
 <div style="text-align: center;">
   <img src="./img/forcedHandicap.jpg">
 </div>
