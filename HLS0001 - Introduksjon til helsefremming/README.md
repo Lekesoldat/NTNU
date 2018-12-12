@@ -5,7 +5,7 @@
 - Du får ikke A.  
 ![Skala](./images/hls0001.png)
 
-# Svar på samtlige spørsmål på [Memorizer](https://memorizer.io/HLS0001/all/1)
+# Svar på samtlige spørsmål på [Memorizer](https://memorizer.io/HLS0001/all/1) (Desember 2018).
 
 ## Eksamen H12
 ***Spørsmål 1***  
