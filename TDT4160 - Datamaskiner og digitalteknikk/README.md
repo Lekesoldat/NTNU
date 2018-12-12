@@ -1,4 +1,11 @@
-# TDT4160 - Datamaskiner og Digitalteknikk
+# Image describing my experience with the course:
+<div style="text-align: center;">
+  <img src="./images/mindBlown.jpg">
+</div>
+
+Hardly understood anything until the last few days before the exam. True revelation right there.
+
+---
 
 - Ikke gå i forelesninger.
 - Om du går i forelesninger, kos deg med dette: https://olavbb.com/ggk
