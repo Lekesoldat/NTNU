@@ -5,7 +5,7 @@
   <img src="./img/forcedHandicap.jpg">
 </div>
 
-Favorite course this semster, however it drove me crazy not being able to use built in functionality as FlexBox, Grids etc.
+Favorite course this semester, however it drove me crazy not being able to use built in functionality as FlexBox, Grids etc. 
 
 ---
 
