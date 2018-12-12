@@ -17,8 +17,8 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 ## Autumn 2018 - First semester
 - [IT2805 - Webteknologi](https://github.com/Lekesoldat/NTNU/tree/master/IT2805%20-%20Webteknologi)
 - [TDT4160 -  Datamaskiner og digitalteknikk](https://github.com/Lekesoldat/NTNU/tree/master/TDT4160%20-%20Datamaskiner%20og%20digitalteknikk/)
-- [TDT4110 - Informasjonsteknologi, grunnkurs](https://github.com/Lekesoldat/NTNU/tree/master/TDT4110%20-%20Informasjonsteknologi%2C%20grunnkurs)
 - [HLS0001 - Introduksjon til helsefremming](https://github.com/Lekesoldat/NTNU/tree/master/HLS0001%20-%20Introduksjon%20til%20helsefremming)
+- [MA0001 - Brukerkurs i matematikk A](https://wiki.math.ntnu.no/ma0001)
 
 
 ## Spring / Summer 2019 - Second semester
@@ -27,3 +27,6 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 - [TDT4180 - Menneskemaskin-interaksjon](https://github.com/Lekesoldat/NTNU/tree/master/TDT4180%20-%20Menneskemaskin-interaksjon)
 - [TDT4145 - Datamodellering og databasesystemer](https://github.com/Lekesoldat/NTNU/tree/master/TDT4145%20-%20Datamodellering%20og%20databasesystemer)
 
+
+# Subjects not in a specific semester
+- [TDT4110 - Informasjonsteknologi, grunnkurs](https://github.com/Lekesoldat/NTNU/tree/master/TDT4110%20-%20Informasjonsteknologi%2C%20grunnkurs)
