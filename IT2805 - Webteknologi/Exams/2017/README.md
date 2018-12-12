@@ -43,11 +43,11 @@
       div p 
     ```
 
-8. **How do you display a border like this: (2%)**
+8. **How do you display a border like this: (2%)**  
     The top border = 10 pixels  
     The bottom border = 5 pixels  
     The left border = 20 pixels  
-    The right border = 1 pixel  
+    The right border = 1 pixel 
 
     ```CSS
       border-width: 10px 1px 5px 20px;
