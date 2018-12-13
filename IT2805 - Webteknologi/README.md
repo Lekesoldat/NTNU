@@ -7,6 +7,7 @@ Favorite course this semester, however it drove me crazy not being able to use b
 
 ---
 
+The big project can be found in my other [repository](https://github.com/Lekesoldat/DroneLOAN).
+
 Code is not the best, - was exploring higher order functions and functional programming towards the last assignments.
 
-The project can be found in my other [repository](https://github.com/Lekesoldat/DroneLOAN).
