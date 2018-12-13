@@ -108,21 +108,32 @@ Give the relative URL for each of the following connections (1% each - 4%):
 		```./genre/rap/DMX.html```
 
 2. Fill in the following sentences: (1% each word - 8%)
-	- The _________ image format tends to be good for drawn graphics and animations, but the _________ format is good for photos.
+	- The ***GIF*** image format tends to be good for drawn graphics and animations, but the ***JPEG*** format is good for photos.
 
-	- If you want to control which element sits on the top you use the _________ property. The _________ (higher/lower) value z-index property has the closer that element is to the front.
+	- If you want to control which element sits on the top you use the ***Z-index*** property. The (***higher***/lower) value z-index property has the closer that element is to the front.
 	
-	- You can concatenate __________ together with the + operator.
+	- You can concatenate ***STRINGS*** together with the + operator.
 	
-	- To link to an external JavaScript file from HTML, you need the _______attribute for the ```<script>``` element.		
+	- To link to an external JavaScript file from HTML, you need the ***src*** attribute for the ```<script>``` element.		
 	
-	- A parameter acts like a _____________ variable in the body of a function.
+	- A parameter acts like a ***local*** variable in the body of a function.
 
-	- The IP addresses are provided by _____________ that map symbolic names to their IP.
+	- The IP addresses are provided by ***Domain Name Server (DNS)*** that map symbolic names to their IP.
 
 3. Name each of the 4 required parts of a CSS rule and very briefly (one sentence) state the purpose of each part (4%)
+	- ***Selector***, identifies the HTML tag to be styled
+	- ***Declaration***, encapsulates Properties/values pairs
+	- ***Property***, identifies the style attribute to be styled
+	- ***Value***, specifies the value to set the Property to
 
 4. Name each of the 4 layers of the TCP/IP model and very briefly (one sentence) state the purpose of each part (4%).
+	- ***The Application Layer*** provides applications the ability to access the services of the other layers and defines the protocols that applications use to exchange data, includes protocols such as the HyperText Transfer Protocol (HTTP) and the Domain Name System (DNS).
+
+	- ***The Transport Layer*** is responsible for making sure that complete messages are delivered end to end, using the Transmission Control Protocol (TCP) or User Datagram Protocol (UDP).
+
+	- ***The Network/Internet Layer ***is responsible for routing messages from one place to another; all	routers on the Internet run the IP protocol.
+
+	- The bottom layer is the ***Physical Layer***. This is responsible for actually translating the software message into a physical representation and putting them on the wire (or through the air in a	wireless network or fiber-optic wire).
 
 5. Answer the following questions. (2% each - 6%)
 	```JavaScript
@@ -131,14 +142,14 @@ Give the relative URL for each of the following connections (1% each - 4%):
 	var humid = (temp > 80 && willRain == true);
 	```
 
-	- What is the value of humid? _____________
+	- What is the value of humid? ***true***
 
 	```JavaScript
 	var guess = 6;
 	var isValid = (guess >= 0 && guess <= 6);
 	```
 
-	- What is the value of isValid? _____________
+	- What is the value of isValid? ***true***
 
 	```JavaScript
 	var kB = 1287;
@@ -147,7 +158,7 @@ Give the relative URL for each of the following connections (1% each - 4%):
 	var sendFile = (urgent == true || tooBig == false);
 	```
 
-	- What is the value of sendFile? _____________
+	- What is the value of sendFile? ***true***
 
 
 6. What is the result of the following code? (2%)
@@ -157,7 +168,7 @@ Give the relative URL for each of the following connections (1% each - 4%):
 	var z = 14;
 	x = y;
 	z = z % x;
-	alert(y + z);
+	alert(y + z); // 9 
 	```
 7. What is the result of the following code? (2%)
 	```JavaScript
@@ -165,7 +176,7 @@ Give the relative URL for each of the following connections (1% each - 4%):
 	a = a + 1;
 	var b = "a is " + a;
 	a = 5;
-	alert(b);
+	alert(b); // 'a is 2'
 	```
 
 ## Section C: Coding Related Questions (40%)
