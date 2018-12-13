@@ -184,6 +184,13 @@ Give the relative URL for each of the following connections (1% each - 4%):
 	- name of the student
 	- his/her email address
 
+	```HTML
+	<label for="name">Name</label>
+	<input type="text" name="name" id="name">
+	<label for="email">E-mail</label>
+	<input type="email" name="email" id="email">
+	```
+
 2. Consider the following HTML file:
 	```HTML
 	<html>
@@ -202,15 +209,23 @@ Give the relative URL for each of the following connections (1% each - 4%):
 	</body
 	</html>
 	```
-
 	- Build (draw) the Document / HTML tree of the code above (1%)
+		![Tree](./img/tree.png)
+
 	- Write the CSS rules needed to produce the outcome shown below. The words  “first bold” and “third bold” shall be green (may not be visible on your question sheet in case of b/w print) (2%)
-
 		![Img](./img/task2.png)
-
+		```CSS
+		p > b {
+			color: green;
+		}
+		```
 		(b) Write the CSS rule needed to produce the outcome shown below. The lines “First paragraph” and “Third paragraph has a third bold too” shall be green (may not be visible on your question sheet in case of b/w print) (2%)
-
 		![Img2](./img/task22.png)
+		```CSS
+		h2+p {
+			color:green;
+		}
+		```
 
 3. Consider the following HTML:
 	```HTML
@@ -218,10 +233,22 @@ Give the relative URL for each of the following connections (1% each - 4%):
 	```
 
 	Write the CSS rules needed to (4%):  
-	1. Change the font for the sentence to fantasy  
+	1. Change the font for the sentence to fantasy
+		```CSS 
+		p {font-family: fantasy;}
+		```
 	2. Change its size to 24px.  
+		```CSS 
+		p {font-size: 24px;}
+		```
 	3. Make the text bold  
+		```CSS 
+		p {font-weight: bold;}
+		```
 	4. Make the text italics
+		```CSS 
+		p {font-style: italic;}
+		```
 
 4. Consider the following JavaScript code:
 	```JavaScript
@@ -237,12 +264,51 @@ Give the relative URL for each of the following connections (1% each - 4%):
 	}  
 	```
 
-	- Identify FIVE TYPES of errors in the code (don’t write more than a sentence per error). Note that each type of error may occur at more than one point in the code. This counts as a single
-error. Write the correct code. (5%)
+	- Identify FIVE TYPES of errors in the code (don’t write more than a sentence per error). Note that each type of error may occur at more than one point in the code. This counts as a single error. Write the correct code. (5%)
+
+		```JavaScript
+		const days = ["Sunday", "Monday", ...] // Must be strings
+		```
+
+		```JavaScript
+		for (var i = 0; i < days.length; i++) {} // Wrong loop counter
+		```
+
+		```JavaScript
+		if (i == today) // Assign in check
+		```
+
+		```JavaScript
+		document.write("Today is " + days[today] + "<br>"); // Missing + 
+		```
+
+		```JavaScript
+		document.write("Today is not " + days[i] + "<br>"); // Use i, not today
+		```
+
 	- Explain the effect that each error would cause when the script is run. (5%)
-	- Show what the corrected code would output. (2%)
+		- Refrence-error. n is not defined.
+		- Wont get the correct values. Undefined.
+		- Infinite loop, 
+		- Will not run.
+		- Will always output the same day.
+
+	- Show what the corrected code would output. (2%)  
+		***Looper alle dagene, sier hvilken dag det er og hvilken det ikke er.***
 
 5. Write some JavaScript that uses the current clock and tells whether class is over (class ends 12:20). (5%)
+	```JavaScript
+	const today = new Date();
+	const hour = today.getHours();
+	const minute = today.getMinutes();
+
+	if (hour > 12 || (hour == 12 && minute >= 20) ){
+		console.log('We outta here...';
+	} else {
+		console.log('Sug sug..');
+	}
+
+	```
 
 6. Write JavaScript code to draw the following figure inside a ```<canvas>``` element: Don’t forget to access the canvas element from your script and use the 2D drawing API. We expect you to approximately draw the following figure, eg. bigger eyes, face not centered to the canvas etc. are not problems. (10%)
 
@@ -257,4 +323,46 @@ error. Write the correct code. (5%)
 	…
 	</script>
 	</body> </html>
+	```
+
+	```JavaScript
+	// Test this.
+	const canvas = document.getElementById('myCanvas');
+	const c2 = canvas.getContext('2d');
+
+	c2.fillStyle = "red";
+	c2.lineWidth = "2";
+	c2.strokeStyle = "red";
+
+	c2.beginPath();
+	c2.arc(30, 70, 10, 0, 2 * Math.PI, false);
+	c2.closePath();
+	c2.stroke();
+
+	c2.beginPath()
+	c2.arc(50, 70, 10, 0, 2 * Math.PI, false);
+	c2.closePath();
+	c2.stroke();
+
+	c2.beginPath();
+	c2.moveTo(30, 60);
+	c2.lineTo(30, 30);
+	c2.closePath();
+	c2.stroke();
+
+	c2.beginPath();
+	c2.moveTo(50, 60);
+	c2.lineTo(50, 30);
+	c2.closePath();
+	c2.stroke();
+
+	c2.beginPath();
+	c2.arc(40, 30, 10, 0, Math.PI, true);
+	c2.closePath();
+	c2.stroke();
+
+	c2.beginPath();
+	c2.moveTo(40, 20);
+	c2.lineTo(40, 30);
+	c2.stroke();
 	```
