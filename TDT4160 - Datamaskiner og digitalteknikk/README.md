@@ -10,6 +10,7 @@ Hardly understood anything until the last few days before the exam. True revelat
 - Ikke gå i forelesninger.
 - Om du går i forelesninger, kos deg med dette: https://olavbb.com/ggk
 - Øv på eksamensoppgaver, samme hvert år.
+- [Kompendium](https://www.wikipendium.no/TDT4160_Datamaskiner_og_digitalteknikk/) skrevet av meg m/ fler.
 
 
 # Eksamensøving - (Takk [@niklasmh](https://github.com/niklasmh/ntnu/tree/master/TDT4160%20-%20Datamaskiner%20og%20Digitalteknikk/))
