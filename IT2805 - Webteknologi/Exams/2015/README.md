@@ -1,54 +1,54 @@
 # IT2805 - Web Technologies: Exam 2015
-
 ## Section A: Multiple Choice Questions (30%)
 
 1. The elements ```<div>``` and ```<span>``` have the following characteristics (2%)
     - Element ```<div>``` inherits properties defined for ```<span>``` in a stylesheet
     - ```<div>``` and ```<span>``` have no real meanings as html tags unless stylesheet is applied
-    - Elements ```<span>``` and ```<div>``` define content to be inline or block-level
+    - ***Elements ```<span>``` and ```<div>``` define content to be inline or block-level***
     - ```<div>``` and ```<span>``` are used as alternatives for the element ```<p>```
     - ```<div>``` is used inside element ```<p>```.
 
 2. In regards to the CSS box model, where is the margin property located? (2%)
     - Inside the box
-    - Outside the box
+    - ***Outside the box***
     - inside or outside depending on where you put it in your code
     - None of the above
 
 3. Which built-in HTML5 object is used to draw on the canvas? (2%)
-    - getContext
+    - ***getContext***
     - getContent
     - getGraphics
     - getCanvas
     
 4. Which primitive shape is supported by ```<canvas>```? (2%)
     - Cycle
-    - Rectangle
+    - ***Rectangle***
     - Polygon
     - Triangle
     
 5. While working on a JavaScript project, which function would you use to send messages to
 users requesting for text input? (2%)
 	 - Display()
-	 - Prompt()
+	 - ***Prompt()***
 	 - Alert()
 	 - GetInput()
 	 - Confirm()
+
 6. Which protocol is ideal for transmitting large files? (2%)
 	 - HTTP
-	 - FTP
+	 - ***FTP***
 	 - SMTP
 	 - RTP
+
 7. In HTML tables, the number of columns is determined by (2%)
-	 - how many ```<td>``` elements are inserted within each row
+	 - ***how many ```<td>``` elements are inserted within each row***
 	 - the width attribute of the ```<tr>``` element
 	 - the ```<col>``` element
 	 - none of the above
 
-8. If you'd like visited links to be green, unvisited links to be blue, and links that the mouse is
-over to be red, which CSS rules will you use? (2%)
+8. If you'd like visited links to be green, unvisited links to be blue, and links that the mouse is over to be red, which CSS rules will you use? (2%)
 	 - a:visited { color: green } a:unvisited { color: blue } a:mouseover { color: red }
-	 - a:link { color: blue } a:visited { color: green } a:hover { color: red }
+	 - ***a:link { color: blue } a:visited { color: green } a:hover { color: red }***
 	 - a:hover { color: red } a:visited { color: green } a:link { color: blue }
 	 - a:active { color: green } a:link { color: blue } a:hover { color: red }
 
@@ -56,11 +56,11 @@ over to be red, which CSS rules will you use? (2%)
 	 - border, margins, padding
 	 - margins, padding, border
 	 - padding, margins, border
-	 - margins, border, padding
+	 - ***margins, border, padding***
 
 10. The difference between margins and padding is.. (2%)
 	 - indistinguishable if there's no border
-	 - margin does not have a background color
+	 - ***margin does not have a background color***
 	 - padding is measured in EM; margins in PX;
 	 - there is no difference
 
@@ -68,17 +68,17 @@ over to be red, which CSS rules will you use? (2%)
 	 - relative
 	 - absolute
 	 - fixed
-	 - static
+	 - ***static***
 
 12. Which HTML attribute specifies an alternate text for an image, if the image cannot be
 displayed? (2%)
 	 - src
 	 - title
-	 - alt
+	 - ***alt***
 	 - longdesc
 
 13. Indicate whether each of the following statements is True or False (1% each - 6%)
-	 - This a "well formed" XML document:
+	 - [TRUE] This a "well formed" XML document:
 		```XML
 			<?xml version="1.0" encoding="UTF-8"?>
 			<book1>
@@ -86,22 +86,26 @@ displayed? (2%)
 				<name>XML Master Basic >2006&lt;</name>
 			</book1>
 		```
-	 - In a hierarchical structure, each page is linked with the pages that follow and precede it in
-an ordered chain
-	 - In HTML5 ```<video>``` element you don’t need to supply values for all attributes, e	 - control,
-loop; these attributes are on when they are there and off in case they don’	 -
-	 - Pseudo-class selects an element based on a state the element is in
-	 - POST requests are never cached
-	 - GET requests cannot be bookmarked
+	 - [FALSE] In a hierarchical structure, each page is linked with the pages that follow and precede it in an ordered chain 
+	 - [TRUE] In HTML5 ```<video>``` element you don’t need to supply values for all attributes, eg, control, loop; these attributes are on when they are there and off in case they don’t.
+	 - [TRUE] Pseudo-class selects an element based on a state the element is in
+	 - [TRUE] POST requests are never cached
+	 - [FALSE] GET requests cannot be bookmarked
 
 ## Section B: Longer Answer Questions (30%)
 
 1. You’re creating a music web site with the following folder and file structure:
+	![Struktur](./img/struktur.png)
 Give the relative URL for each of the following connections (1% each - 4%):
-		- From cd-used.html to stones.html (1%)
-		- From icecube.html to ramones.html (1%)
-		- From doors.html to stones.html (1%)
-		- From index.html to DMX.html (1%)
+
+	- From cd-used.html to stones.html (1%)  
+		```../genre/rock/classic/stones.html```
+	- From icecube.html to ramones.html (1%)  
+		```../rock/punk/ramones.html```
+	- From doors.html to stones.html (1%)  
+		```./stones.html```
+	- From index.html to DMX.html (1%)  
+		```./genre/rap/DMX.html```
 
 2. Fill in the following sentences: (1% each word - 8%)
 	- The _________ image format tends to be good for drawn graphics and animations, but the _________ format is good for photos.
@@ -197,17 +201,16 @@ Give the relative URL for each of the following connections (1% each - 4%):
 
 		![Img2](./img/task22.png)
 
-3. Consider the following HTML: 
-
+3. Consider the following HTML:
 	```HTML
 	<p> Lorem ipsum dolor…</p>
 	```
 
 	Write the CSS rules needed to (4%):  
-		1. Change the font for the sentence to fantasy  
-		2. Change its size to 24px.  
-		3. Make the text bold  
-		4. Make the text italics
+	1. Change the font for the sentence to fantasy  
+	2. Change its size to 24px.  
+	3. Make the text bold  
+	4. Make the text italics
 
 4. Consider the following JavaScript code:
 	```JavaScript
