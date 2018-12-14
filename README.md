@@ -7,6 +7,7 @@ Feel free to have a look at the content, experiment and play with it, and use it
 *I hereby disclaim all responsibility for your actions, and I can not in any way be held responsible for any consequences that may occur.*
 
 Assignments will be published two weeks after the due-date to prevent plagiarism/'kok'.  
+Want something removed? Contact me at <magnulho@stud.ntnu.no>
 
 <hr>
 
