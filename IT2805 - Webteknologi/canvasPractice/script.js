@@ -192,3 +192,47 @@ c4.lineTo(160, 150);
 c4.closePath();
 c4.fill();
 c4.stroke();
+
+
+/* Canvas 5 */
+const canvas5 = document.getElementById('canvas5');
+const c5 = canvas5.getContext('2d');
+
+c5.strokeStyle = "black";
+
+// VP
+c5.beginPath();
+c5.arc(50, 50, 50, 0, Math.PI * 2, true);
+c5.closePath();
+c5.stroke();
+
+// VN
+c5.fillStyle = "red";
+
+c5.beginPath();
+c5.arc(50, 50, 10, 0, Math.PI * 2, true);
+c5.closePath();
+c5.fill();
+c5.stroke();
+
+
+// HP
+c5.beginPath();
+c5.arc(150, 50, 50, 0, Math.PI * 2, true);
+c5.closePath();
+c5.stroke();
+
+// HN
+c5.fillStyle = "red";
+
+c5.beginPath();
+c5.arc(150, 50, 10, 0, Math.PI * 2, true);
+c5.closePath();
+c5.fill();
+c5.stroke();
+
+c5.beginPath();
+c5.moveTo(200, 50);
+c5.lineTo(215, 45);
+c5.lineTo(220, 50);
+c5.stroke();
