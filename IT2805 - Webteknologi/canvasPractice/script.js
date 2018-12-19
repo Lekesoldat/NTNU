@@ -137,3 +137,58 @@ function draw() {
 }
 
 init();
+
+
+/* Canvas 4 */
+const canvas4 = document.getElementById('canvas4');
+const c4 = canvas4.getContext('2d');
+
+
+// Body
+// Setup styling
+c4.fillStyle = "purple";
+c4.lineWidth = "2";
+c4.strokeStyle = "purple";
+
+c4.beginPath();
+c4.moveTo(20, 160);
+c4.lineTo(60, 175);
+c4.lineTo(150, 175);
+c4.lineTo(180, 160);
+c4.closePath();
+c4.fill();
+c4.stroke();
+
+// Pole
+// Setup Styling
+c4.strokeStyle = "red";
+
+c4.beginPath();
+c4.moveTo(100, 160);
+c4.lineTo(100, 30);
+c4.closePath();
+c4.stroke();
+
+// Left flag
+c4.fillStyle = "orange";
+c4.strokeStyle = "orange";
+
+c4.beginPath();
+c4.moveTo(45, 150);
+c4.lineTo(90, 130);
+c4.lineTo(90, 35);
+c4.closePath();
+c4.fill();
+c4.stroke();
+
+// Right Flag
+c4.fillStyle = "blue";
+c4.strokeStyle = "blue";
+
+c4.beginPath();
+c4.moveTo(110, 35);
+c4.lineTo(110, 150);
+c4.lineTo(160, 150);
+c4.closePath();
+c4.fill();
+c4.stroke();
