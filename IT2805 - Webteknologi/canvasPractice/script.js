@@ -236,3 +236,42 @@ c5.moveTo(200, 50);
 c5.lineTo(215, 45);
 c5.lineTo(220, 50);
 c5.stroke();
+
+// Smiley in frame
+const canvas6 = document.getElementById('canvas6');
+const c6 = canvas6.getContext('2d');
+
+c6.strokeStyle = "black";
+c6.fillStyle = "black";
+
+// Frame
+c6.rect(10, 10, 200, 200);
+c6.stroke();
+
+c6.beginPath();
+c6.arc(110, 110, 100, 0, Math.PI * 2, true);
+c6.closePath();
+c6.stroke();
+
+c6.beginPath();
+c6.arc(110, 110, 70, 0, Math.PI, false);
+c6.stroke();
+
+c6.beginPath();
+c6.arc(70, 70, 20, 0, Math.PI * 2, true);
+c6.closePath();
+c6.stroke();
+
+c6.beginPath();
+c6.arc(150, 70, 20, 0, Math.PI * 2, true);
+c6.closePath();
+c6.stroke();
+
+// Random test
+const addLines = () => {
+  const element = document.getElementById('linesGoHere');
+  let i = 0;
+  while (i < 10) {
+    element.innerHTML += `<br> tallet er ${i++}`;
+  }
+}
