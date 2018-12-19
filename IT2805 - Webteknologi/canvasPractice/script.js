@@ -268,10 +268,26 @@ c6.closePath();
 c6.stroke();
 
 // Random test
-const addLines = () => {
-  const element = document.getElementById('linesGoHere');
-  let i = 0;
-  while (i < 10) {
-    element.innerHTML += `<br> tallet er ${i++}`;
+const list = document.getElementById('meterList');
+const addMeters = () => {
+  for (let i = 0; i < 101; i += 10) {
+    const li = document.createElement('li');
+    li.appendChild(createPercentageMeter(Math.random()*100+1));
+    list.appendChild(li);
   }
+
+  setInterval(colorize, 1000);
+}
+
+function createPercentageMeter(value) {
+  const meter = document.createElement('meter');
+  meter.max = 100;
+  meter.min = 0;
+  meter.value = value;
+
+  return meter;
+}
+
+function colorize() {
+  document.querySelector('body').style.backgroundColor = `rgb(${Math.random() * (256 - 1 + 1) + 1}, ${Math.random() * (256 - 1 + 1) + 1}, ${Math.random() * (256 - 1 + 1) + 1})`;
 }
