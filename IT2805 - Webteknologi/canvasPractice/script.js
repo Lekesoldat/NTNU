@@ -291,3 +291,8 @@ function createPercentageMeter(value) {
 function colorize() {
   document.querySelector('body').style.backgroundColor = `rgb(${Math.random() * (256 - 1 + 1) + 1}, ${Math.random() * (256 - 1 + 1) + 1}, ${Math.random() * (256 - 1 + 1) + 1})`;
 }
+
+// Random
+(function iffy() {
+  console.log("Immediately-invoked Function Expression");
+}());
