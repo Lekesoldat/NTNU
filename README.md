@@ -26,7 +26,7 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 - [IT1501 - Programmeringslab for informatikk](https://github.com/Lekesoldat/NTNU/tree/master/IT1501%20-%20Programmeringslab%20for%20informatikk)
 - [TTM4100 - Kommunikasjon - Tjenester og nett](https://github.com/Lekesoldat/NTNU/tree/master/TTM4100%20-%20Kommunikasjon%20-%20Tjenester%20og%20nett)
 - [TDT4180 - Menneskemaskin-interaksjon](https://github.com/Lekesoldat/NTNU/tree/master/TDT4180%20-%20Menneskemaskin-interaksjon)
-- [TDT4145 - Datamodellering og databasesystemer](https://github.com/Lekesoldat/NTNU/tree/master/TDT4145%20-%20Datamodellering%20og%20databasesystemer)
+- [TDT4100 - Objektorientert Programmering](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering)
 
 
 # Subjects not in a specific semester
