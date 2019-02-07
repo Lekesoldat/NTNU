@@ -1,3 +1,7 @@
+/* 
+READ THE DISCLAIMER AT https://github.com/Lekesoldat/NTNU/blob/master/README.md before proceeding.
+Written by Magnus L. Holtet.
+*/
 package objectstructures;
 
 import java.util.List;
