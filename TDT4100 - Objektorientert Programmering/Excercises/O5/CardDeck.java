@@ -68,11 +68,11 @@ public class CardDeck {
 			hand.addCard(tmp);
 		}
 	}
-	
-	public static void main(String[] args) {
-		CardDeck cd = new CardDeck(13);
-		System.out.println(cd.deck.toString());
 		
-		System.out.println(cd.getCard(51));
+	public static void main(String[] args) {
+		CardDeck cardDeck = new CardDeck(13);
+		CardHand cardHand = new CardHand();
+		cardDeck.deal(cardHand, 10);
+		cardHand.play(10);
 	}
 }

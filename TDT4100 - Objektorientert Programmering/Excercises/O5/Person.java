@@ -2,7 +2,6 @@
 READ THE DISCLAIMER AT https://github.com/Lekesoldat/NTNU/blob/master/README.md before proceeding.
 Written by Magnus L. Holtet.
 */
-
 package objectstructures;
 
 import java.util.ArrayList;
@@ -17,7 +16,7 @@ public class Person {
 	private List<Person> children = new ArrayList<Person>();
 	
 	public Person(String name, char gender) {
-		if (!(gender == 'M' || gender == 'F')) {
+		if (gender != 'M' && gender != 'F') {
 			throw new IllegalArgumentException("Illegal gender.");
 		}
 		
@@ -83,44 +82,38 @@ public class Person {
 		if (m == this) {
 			throw new IllegalArgumentException("You cannot be your own mother.");
 		}
-		
-		if (m == null) {
-			if (this.mother != null) {
-				this.mother.removeChild(this);
-			}
-			
-		} else if (m.gender != 'F') {
-			throw new IllegalArgumentException("A mother is a female. Even in 2019");
-			
-		} else {
-			if (this.mother != null) {
-				this.mother.removeChild(this);
-			}
+      
+      	if (m != null && m.gender != 'F') {
+          	throw new IllegalArgumentException("A mother is a female. Even in 2019");
+        }
+      
+        if (this.mother != null) {
+            this.mother.removeChild(this);
+        }
+      
+      	if (m != null) {
 			m.addChild(this);
-			this.mother = m;			
-		}
+			this.mother = m;
+        }
 	}
 	
 	public void setFather(Person f) {
 		if (f == this) {
 			throw new IllegalArgumentException("You cannot be your own father.");
 		}
-		
-		if (f == null) {
-			if (this.father != null) {
-				this.father.removeChild(this);
-			}
-		} else if (f.gender != 'M') {
-			throw new IllegalArgumentException("A father is a male. Even in 2019");
-			
-		} else {
-			if (this.father != null) {
-				this.father.removeChild(this);
-			}
-			
-			f.addChild(this);
-			this.father = f;			
-		}
+      
+      	if (f != null && f.gender != 'M') {
+          	throw new IllegalArgumentException("A father is a male. Even in 2019");
+        }
+      
+        if (this.father != null) {
+            this.father.removeChild(this);
+        }
+      
+      	if (f != null) {
+			f.addChild(this);	
+			this.father = f;
+        }
 	}
 	
 	public void removeChild(Person c) {

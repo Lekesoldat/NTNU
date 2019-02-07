@@ -10,10 +10,6 @@ import java.util.List;
 public class CardHand {
 	private List<Card> hand = new ArrayList<Card>();
 	
-	public CardHand() {
-		
-	}
-	
 	public Card getCard(int pos) {
 		if (pos < 0 || pos > this.hand.size()) {
 			throw new IllegalArgumentException("Card not in range.");
@@ -36,5 +32,4 @@ public class CardHand {
 		
 		return tmp;
 	}
-	
 }
