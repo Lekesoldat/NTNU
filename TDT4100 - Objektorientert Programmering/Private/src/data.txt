@@ -1,0 +1,7 @@
+magnus,21,forhold
+andreas,20,holderpå,kjekk
+sigurd,20,forhold,stygg
+hilde,20,forhold
+ingrid,20,komplisert
+markus,20,singel
+ludvik,100,skjegg
