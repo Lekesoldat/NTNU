@@ -1,10 +1,7 @@
-/* 
-READ THE DISCLAIMER AT https://github.com/Lekesoldat/NTNU/blob/master/README.md before proceeding.
-Written by Magnus L. Holtet.
-*/
 package app;
 
 import java.time.Duration;
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import javafx.scene.control.*;
 
@@ -13,9 +10,10 @@ public class SleepEntry {
 	private LocalDateTime end;
 	private double timeSlept;
 	
-	public SleepEntry(DatePicker dStart, TextField tStart, DatePicker dEnd, TextField tEnd) {
-		this.start = dateValidation(dStart, tStart);
-		this.end = dateValidation(dEnd, tEnd);
+	public SleepEntry(LocalDate dStart, String tStart, LocalDate dEnd, String tEnd) {
+		
+		this.start = createLocalDateTime(dStart, tStart);
+		this.end = createLocalDateTime(dEnd, tEnd);
 		
 		if (!(start.isBefore(end))) {
 			throw new IllegalArgumentException("End has to be before start.");
@@ -24,23 +22,31 @@ public class SleepEntry {
 		this.timeSlept = Duration.between(start, end).toMinutes();
 	}
 	
-	private LocalDateTime dateValidation(DatePicker d, TextField t) {
-		if (!(d.getValue().toString().matches("\\d{4}\\-(0[1-9]|1[012])\\-(0[1-9]|[12][0-9]|3[01])"))) {
+	public LocalDateTime createLocalDateTime(LocalDate d, String hhmm) {
+		if (validateDate(d) == null || validateTimestamp(hhmm) == null) {
+			throw new IllegalArgumentException("Invalid inputs");
+		}
+
+		String[] parts = this.validateTimestamp(hhmm).split(":");
+		return d.atTime(Integer.parseInt(parts[0]), Integer.parseInt(parts[1]));
+	}
+
+	private LocalDate validateDate(LocalDate d) {
+		if (!d.toString().matches("\\d{4}\\-(0[1-9]|1[012])\\-(0[1-9]|[12][0-9]|3[01])")) {
 			return null;
 		}
-		
-		String[] hhmm = this.validateTimeStamp(t).split(":");
-		return d.getValue().atTime(Integer.parseInt(hhmm[0]), Integer.parseInt(hhmm[1]));
+
+		return d;
 	}
-	
-	private String validateTimeStamp(TextField text) {
-		if (!(text.getText().matches("(2[0-3]|[01][0-9]):[0-5][0-9]"))) {
+
+	private String validateTimestamp(String hhmm) {
+		if (!(hhmm.matches("(2[0-3]|[01][0-9]):[0-5][0-9]"))) {
 			return null;
 		}
-		
-		return text.getText();
+
+		return hhmm;
 	}
-	
+
 	@Override
 	public String toString() {
 		StringBuilder sb = new StringBuilder();

@@ -1,7 +1,3 @@
-/* 
-READ THE DISCLAIMER AT https://github.com/Lekesoldat/NTNU/blob/master/README.md before proceeding.
-Written by Magnus L. Holtet.
-*/
 package app;
 
 import java.util.List;
@@ -56,8 +52,7 @@ public class RegistrationFormController {
 		}
 		
 		AlertHelper.showAlert(Alert.AlertType.INFORMATION, "Entry submitted", "Submission complete!");
-		man.addEntry(new SleepEntry(dateStart, timeStart, dateEnd, timeEnd));
-		
+		man.addEntry(new SleepEntry(dateStart.getValue(), timeStart.getText(), dateEnd.getValue(), timeEnd.getText()));
 	}
 	
 	@FXML
