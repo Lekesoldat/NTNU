@@ -12,57 +12,57 @@ import javafx.scene.control.TextField;
 
 
 public class RegistrationFormController {
-	private EntryManager man = new EntryManager();
-	
-	@FXML
-	private DatePicker dateStart;
-	
-	@FXML
-	private TextField timeStart;
-	
-	@FXML
-	private DatePicker dateEnd;
-	
-	@FXML
-	private TextField timeEnd;
-	
-	@FXML
-	private Button submitButton;
-	
-	@FXML
-	protected void handleSubmitButtonAction(ActionEvent evt) {
-		if (this.dateStart.getValue() == null) {
-			AlertHelper.showAlert(Alert.AlertType.WARNING, "Date Warning!", "Must enter a start date.");
-			return;
-		}
-		
-		if (this.timeStart.getText().isEmpty()) {
-			AlertHelper.showAlert(Alert.AlertType.WARNING, "Timestamp Warning!", "Must enter a timestamp!");
-			return;
-		}
-		
-		if (this.dateEnd.getValue() == null) {
-			AlertHelper.showAlert(Alert.AlertType.WARNING, "Date Warning", "Must enter a end date.");
-			return;
-		}
-		
-		if (this.timeEnd.getText().isEmpty()) {
-			AlertHelper.showAlert(Alert.AlertType.WARNING, "Timestamp Warning!", "Must enter a timestamp!");
-			return;
-		}
-		
-		AlertHelper.showAlert(Alert.AlertType.INFORMATION, "Entry submitted", "Submission complete!");
-		man.addEntry(new SleepEntry(dateStart.getValue(), timeStart.getText(), dateEnd.getValue(), timeEnd.getText()));
-	}
-	
-	@FXML
-	protected void handleShowEntriesButtonAction(ActionEvent evt) {
-		List<SleepEntry> entries = man.getEntries();
-		
-		String output = entries.stream()
-						.map(SleepEntry::toString)
-						.collect(Collectors.joining("\n\n"));
-		
-		AlertHelper.showAlert(Alert.AlertType.INFORMATION, "All entries.", output);
-	}
+  private EntryManager man = new EntryManager();
+  
+  @FXML
+  private DatePicker dateStart;
+  
+  @FXML
+  private TextField timeStart;
+  
+  @FXML
+  private DatePicker dateEnd;
+  
+  @FXML
+  private TextField timeEnd;
+  
+  @FXML
+  private Button submitButton;
+  
+  @FXML
+  protected void handleSubmitButtonAction(ActionEvent evt) {
+    if (this.dateStart.getValue() == null) {
+      AlertHelper.showAlert(Alert.AlertType.WARNING, "Date Warning!", "Must enter a start date.");
+      return;
+    }
+    
+    if (this.timeStart.getText().isEmpty()) {
+      AlertHelper.showAlert(Alert.AlertType.WARNING, "Timestamp Warning!", "Must enter a timestamp!");
+      return;
+    }
+    
+    if (this.dateEnd.getValue() == null) {
+      AlertHelper.showAlert(Alert.AlertType.WARNING, "Date Warning", "Must enter a end date.");
+      return;
+    }
+    
+    if (this.timeEnd.getText().isEmpty()) {
+      AlertHelper.showAlert(Alert.AlertType.WARNING, "Timestamp Warning!", "Must enter a timestamp!");
+      return;
+    }
+    
+    AlertHelper.showAlert(Alert.AlertType.INFORMATION, "Entry submitted", "Submission complete!");
+    man.addEntry(new SleepEntry(dateStart.getValue(), timeStart.getText(), dateEnd.getValue(), timeEnd.getText()));
+  }
+  
+  @FXML
+  protected void handleShowEntriesButtonAction(ActionEvent evt) {
+    List<SleepEntry> entries = man.getEntries();
+    
+    String output = entries.stream()
+            .map(SleepEntry::toString)
+            .collect(Collectors.joining("\n\n"));
+    
+    AlertHelper.showAlert(Alert.AlertType.INFORMATION, "All entries.", output);
+  }
 }
