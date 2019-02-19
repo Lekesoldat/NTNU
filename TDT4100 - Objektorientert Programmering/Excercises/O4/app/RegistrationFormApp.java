@@ -9,7 +9,6 @@ public class RegistrationFormApp extends Application {
   public void start(final Stage primaryStage) throws Exception {
     Scene scene = new ScreenManager()
       .add("registration_form", RegistrationFormApp.class.getResource("registration_form.fxml"))
-      .add("Chess", RegistrationFormApp.class.getResource("Chess.fxml"))
       .activate("registration_form")
       .getScene();
     
