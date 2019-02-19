@@ -12,20 +12,20 @@
 
 
 <GridPane 
-	fx:controller="app.RegistrationFormController"
-	xmlns:fx="http://javafx.com/fxml" 
-	alignment="center"          
-	hgap="10" 
-	vgap="10"
+  fx:controller="app.RegistrationFormController"
+  xmlns:fx="http://javafx.com/fxml" 
+  alignment="center"          
+  hgap="10" 
+  vgap="10"
 >
           
     <padding>
-    	<!-- Insets class stores the inside offsets for the four sides of the rectangular area. -->
-    	<Insets top="40" right="40" bottom="40" left="40"/>
+      <!-- Insets class stores the inside offsets for the four sides of the rectangular area. -->
+      <Insets top="40" right="40" bottom="40" left="40"/>
     </padding>
     
     <columnConstraints>
-    	<!-- Column one -->
+      <!-- Column one -->
         <ColumnConstraints minWidth="100" prefWidth="100"
                            maxWidth="Infinity" halignment="RIGHT">
         </ColumnConstraints>
@@ -38,8 +38,8 @@
     
     <!-- The main title -->
     <Label 
-    	text="Sleep Tracker v1.0" 
-    	GridPane.columnIndex="0" 
+      text="Sleep Tracker v1.0" 
+      GridPane.columnIndex="0" 
         GridPane.rowIndex="0"
         GridPane.columnSpan="2" 
         GridPane.rowSpan="1" 
@@ -57,88 +57,88 @@
 
     <!-- The Date Picker -->
     <Label 
-	    text="Sleep start : " 
-	    GridPane.columnIndex="0" 
-	    GridPane.rowIndex="1" >
+      text="Sleep start : " 
+      GridPane.columnIndex="0" 
+      GridPane.rowIndex="1" >
     </Label>
     
     <!-- Date -->
     <DatePicker 
-    	fx:id="dateStart" 
-    	prefHeight="40" 
+      fx:id="dateStart" 
+      prefHeight="40" 
         GridPane.columnIndex="1" 
         GridPane.rowIndex="1"
      />
      
      <!-- Time -->
      <TextField
-     	fx:id ="timeStart"
-     	prefHeight="40"
-     	GridPane.columnIndex="1"
-     	GridPane.rowIndex="2"
-     	promptText="HH:MM"
+       fx:id ="timeStart"
+       prefHeight="40"
+       GridPane.columnIndex="1"
+       GridPane.rowIndex="2"
+       promptText="HH:MM"
      />
      
          <!-- The Date Picker -->
     <Label 
-	    text="Sleep end : " 
-	    GridPane.columnIndex="0" 
-	    GridPane.rowIndex="3" >
+      text="Sleep end : " 
+      GridPane.columnIndex="0" 
+      GridPane.rowIndex="3" >
     </Label>
     
     <!-- Date -->
     <DatePicker 
-    	fx:id="dateEnd" 
-    	prefHeight="40" 
+      fx:id="dateEnd" 
+      prefHeight="40" 
         GridPane.columnIndex="1" 
         GridPane.rowIndex="3"
      />
      
      <!-- Time -->
      <TextField
-     	fx:id ="timeEnd"
-     	prefHeight="40"
-     	GridPane.columnIndex="1"
-     	GridPane.rowIndex="4"
-     	promptText="HH:MM"
+       fx:id ="timeEnd"
+       prefHeight="40"
+       GridPane.columnIndex="1"
+       GridPane.rowIndex="4"
+       promptText="HH:MM"
      />
      
      <!-- Submit Button -->
      <Button 
-     	fx:id="submitButton"
-     	text="Register Sleep"
-     	prefWidth="200"
-     	prefHeight="40"
-     	defaultButton="true"
-     	GridPane.columnIndex="0"
-     	GridPane.rowIndex="5"
-     	GridPane.columnSpan="2"
-     	GridPane.rowSpan="1"
-     	GridPane.halignment="CENTER"
-     	onAction="#handleSubmitButtonAction"
+       fx:id="submitButton"
+       text="Register Sleep"
+       prefWidth="200"
+       prefHeight="40"
+       defaultButton="true"
+       GridPane.columnIndex="0"
+       GridPane.rowIndex="5"
+       GridPane.columnSpan="2"
+       GridPane.rowSpan="1"
+       GridPane.halignment="CENTER"
+       onAction="#handleSubmitButtonAction"
      >
-     	<GridPane.margin>
+       <GridPane.margin>
             <Insets top="20" right="0" bottom="20" left="0"></Insets>
         </GridPane.margin>
-     	
+       
      </Button>
      
      <Button
-     	fx:id="showEntriesButton"
-     	text="Show Entries"
-     	prefWidth="200"
-     	prefHeight="40"
-     	defaultButton="false"
-     	GridPane.columnIndex="0"
-     	GridPane.rowIndex="6"
-     	GridPane.columnSpan="2"
-     	GridPane.rowSpan="1"
-     	GridPane.halignment="CENTER"
-     	onAction="#handleShowEntriesButtonAction"
+       fx:id="showEntriesButton"
+       text="Show Entries"
+       prefWidth="200"
+       prefHeight="40"
+       defaultButton="false"
+       GridPane.columnIndex="0"
+       GridPane.rowIndex="6"
+       GridPane.columnSpan="2"
+       GridPane.rowSpan="1"
+       GridPane.halignment="CENTER"
+       onAction="#handleShowEntriesButtonAction"
      >
-	     <GridPane.margin>
-	            <Insets top="20" right="0" bottom="20" left="0"></Insets>
-	     </GridPane.margin>
+       <GridPane.margin>
+              <Insets top="20" right="0" bottom="20" left="0"></Insets>
+       </GridPane.margin>
      </Button>
      
      
