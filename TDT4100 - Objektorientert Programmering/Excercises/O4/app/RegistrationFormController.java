@@ -11,7 +11,7 @@ import javafx.scene.control.DatePicker;
 import javafx.scene.control.TextField;
 
 
-public class RegistrationFormController {
+public class RegistrationFormController extends ScreenController {
   private EntryManager man = new EntryManager();
   
   @FXML
@@ -64,5 +64,6 @@ public class RegistrationFormController {
             .collect(Collectors.joining("\n\n"));
     
     AlertHelper.showAlert(Alert.AlertType.INFORMATION, "All entries.", output);
+    screenManager.activate("Chess");
   }
 }
