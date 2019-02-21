@@ -4,9 +4,7 @@ const int triggerPin = 4;
 
 // Buzzer
 const int speakerOut = 11;
-int frequency = 300;
-int noteDuration = 200;
-long duration, cm;
+
 
 // Button
 const int button = 12;
@@ -33,7 +31,7 @@ void setup() {
 
 void loop() {
   if (digitalRead(touchIn) != 0) {
-    cm = calculateCm(echo());
+    long cm = calculateCm(echo());
     if (cm <= 100 && digitalRead(button) != 1) {
       tone(speakerOut, cm * 200);
     } else {
