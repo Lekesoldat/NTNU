@@ -15,10 +15,6 @@ timeout = 1.0 # in seconds
 
 # Create UDP client socket
 client = socket(AF_INET, SOCK_DGRAM)
-
-# Note the second parameter is NOT SOCK_STREAM
-# but the corresponding to UDP
-
 client.settimeout(timeout)
 
 # Sequence number of the ping message
