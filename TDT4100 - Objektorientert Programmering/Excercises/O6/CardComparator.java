@@ -53,13 +53,3 @@ public class CardComparator implements Comparator<Card> {
     System.out.println(l);
   }
 }
-
-
-/*
-1. Trumf og ikke trumf -> returner trumf
-
-2. Dersom de er samme type -> returner basert på tall (sjekk ess)
-
-3. Dersom det er ulik type -> returner basert på tall (sjekk ess)
-
-*/
