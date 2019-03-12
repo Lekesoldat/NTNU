@@ -15,63 +15,79 @@ parser.add_argument('-t', '--to', dest='toMail', required=True, metavar='<recipi
 args = parser.parse_args()
 fromMail = args.fromMail #Sender's email address
 toMail = args.toMail #Recipient's email address
-#username = args.username #SMTP username in case you are implementing the optional exercise
-
-#If using the authentication of the SMTP server, ask for a valid password (optional exercise)
-#password = gp.getpass(prompt='Password: ')
 
 # Message to send
 msg = "\r\n I love computer networks!"
 endmsg = "\r\n.\r\n"
 
-# Our mail server is smtp.stud.ntnu.no but it allows only authenticated communications. (optional exercise)
-#mailserver = 'smtp.stud.ntnu.no'
 # You can run a local simple SMTP server such as "Fake SMTP Server" and communicate with it without authentication.
 mailserver = 'localhost'
+mailPort = 25;
 
 # Create socket called clientSocket and establish a TCP connection
 # (use the appropriate port) with mailserver
-#Fill in start
+clientSocket = socket(AF_INET, SOCK_STREAM)
+clientSocket.connect((mailserver, mailPort))
+print("Connecting to {}:{}".format(mailserver, mailPort))
 
-#Fill in end
-
+# Returns a byte string
 recv = clientSocket.recv(1024)
-print("recv")
-if recv[:3] != '220':
+print("> Response: ", recv.decode(), "\n")
+# Must decode to match pattern.
+if recv.decode()[:3] != '220':
 	print('220 reply not received from server.')
 
 # Send HELO command and print server response.
 # Can use EHLO instead since HELO is obsolete, but the latter can still be used
-heloCommand = 'EHLO Hey\r\n'
-#clientSocket.send(heloCommand.encode()) #Python 3
-#clientSocket.send(heloCommand) #Python 2.7
+heloCommand = 'EHLO Magnus\r\n'
+clientSocket.send(heloCommand.encode()) #Python 3
+print("Sending EHLO")
+
 recv1 = clientSocket.recv(1024)
-print(recv1)
-if recv1[:3] != '250':
+print("> Response: ", recv1.decode(), "\n")
+
+# Must decode to match pattern.
+if recv1.decode()[:3] != '250':
 	print('250 reply not received from server.')
 
 # Send MAIL FROM command and print server response.
-# Fill in start
-# Fill in end
+mailFromCommand = 'MAIL FROM: <{}>\r\n'.format(fromMail)
+
+print("Sending MAIL FROM: <{}>".format(fromMail))
+clientSocket.send(mailFromCommand.encode())
+
+print("> Response: ", clientSocket.recv(1024).decode(), "\n")
 
 # Send RCPT TO command and print server response.
-# Fill in start
-# Fill in end
+rcptToCommand = 'RCPT TO: <{}>\r\n'.format(toMail)
+
+print("Sending RCPT TO: <{}>".format(toMail))
+clientSocket.send(rcptToCommand.encode())
+
+print("> Response: ", clientSocket.recv(1024).decode(), "\n")
 
 # Send DATA command and print server response.
-# Fill in start
-# Fill in end
+dataCommand = 'DATA\r\n'
+
+print("Sending DATA")
+clientSocket.send(dataCommand.encode())
+
+print("> Response: ", clientSocket.recv(1024).decode(), "\n")
 
 # Send message data.
-# Fill in start
-# Fill in end
+print("Sending MESSAGE")
+clientSocket.send(msg.encode());
 
 # Message ends with a single period.
-# Fill in start
-# Fill in end
+print("Sending END MESSAGE")
+clientSocket.send(endmsg.encode());
+
+print("> Response: ", clientSocket.recv(1024).decode(), "\n")
 
 # Send QUIT command and get server response.
-# Fill in start
-# Fill in end
+quitCommand = 'QUIT\r\n'
 
-#Note that there are more communications if you implement the optional exercise.
+print("Sending QUIT")
+clientSocket.send(quitCommand.encode())
+
+print("> Response: ", clientSocket.recv(1024).decode(), "\n")
