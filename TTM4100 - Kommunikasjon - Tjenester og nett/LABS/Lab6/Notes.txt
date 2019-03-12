@@ -1,0 +1,9 @@
+#For the optional exercise
+
+mailserver = smtp.stud.ntnu.no
+
+port = 25
+
+Some mail servers (at least gmail) will reject the e-mail and block it.
+
+Direct SSL connection is not possible anymore, only the TLS connection (port 587)
