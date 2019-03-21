@@ -1,0 +1,5 @@
+Oppgavefordeling:
+
+Andreas og Mathias: Bluetooth.
+Magnus og Carl: Robotprogrammering/bygging.
+Anhkha: JavaFX.

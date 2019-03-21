@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?emfs /fxcontroller/Example1.fxml; ?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="319.0" prefWidth="363.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="plab.gayshit.zumoController">
+   <children>
+      <Text layoutX="23.0" layoutY="35.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Serial port:">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Button fx:id="button" layoutX="23.0" layoutY="58.0" mnemonicParsing="false" onAction="#buttonPressed" prefHeight="240.0" prefWidth="323.0" text="Lys på" textFill="#5cc350">
+         <font>
+            <Font size="68.0" />
+         </font></Button>
+      <TextField fx:id="serialPortNameField" layoutX="104.0" layoutY="17.0" prefHeight="27.0" prefWidth="227.0" />
+   </children>
+</Pane>
