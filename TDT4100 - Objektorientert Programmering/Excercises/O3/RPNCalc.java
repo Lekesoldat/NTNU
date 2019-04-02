@@ -1,6 +1,5 @@
 package encapsulation;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
@@ -22,12 +21,10 @@ public class RPNCalc {
     return operandStack.size();
   }
   
-  // Operand on top of stack
   public void push(Double operand) {
      operandStack.push(operand);
    }
   
-  // Return top of stack
   public double pop() {
     return operandStack.isEmpty() ? Double.NaN : operandStack.pop();
   }
@@ -44,14 +41,5 @@ public class RPNCalc {
       operandStack.push(op1);
       operandStack.push(op2);
     }
-  }
-  
-  public static void main(String[] args) {
-    RPNCalc calc = new RPNCalc();
-    calc.push(5.0);
-    calc.push(4.0);
-    System.out.println(calc.peek(0));
-    System.out.println(calc);
-    
-  }
+  } 
 }
