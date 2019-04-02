@@ -35,11 +35,14 @@ public class RPNCalc {
   
   public void performOperation(char operator) {
     double op1 = operandStack.pop(), op2 = operandStack.pop();
-    if (operator != '~') {
-      operandStack.push(operators.get(operator).invoke(op1,  op2));      
-    } else {
+    
+    // Swap
+    if (operator == '~') {
       operandStack.push(op1);
       operandStack.push(op2);
-    }
+      
+    // Regular operands
+    } else {
+      operandStack.push(operators.get(operator).invoke(op1,  op2));
   } 
 }
