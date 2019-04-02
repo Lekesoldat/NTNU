@@ -6,11 +6,11 @@ import java.util.Stack;
 public class RPNCalc {
   private Stack<Double> operandStack = new Stack<Double>();
   private Map<Character, Operator<Double>> operators = Map.of(
-      '+', (a, b) -> a+b,
-      '-', (a, b) -> b-a,
-      '*', (a, b) -> a*b,
-      '/', (a, b) -> b/a  
-    );
+    '+', (a, b) -> a+b,
+    '-', (a, b) -> b-a,
+    '*', (a, b) -> a*b,
+    '/', (a, b) -> b/a  
+  );
   
   @Override
   public String toString() {
