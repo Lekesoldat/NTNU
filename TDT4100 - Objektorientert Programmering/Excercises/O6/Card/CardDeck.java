@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
+import java.util.function.Predicate;
+import java.util.stream.Collectors;
 
 public class CardDeck implements CardContainer {
 	private List<Card> deck = new ArrayList<Card>();
@@ -75,6 +77,33 @@ public class CardDeck implements CardContainer {
 			this.deck.remove(tmp);
 			hand.addCard(tmp);
 		}
+	}
+	
+	public boolean hasCard(Predicate<Card> p) {
+	  for (Card card : this.deck) {
+	    if (p.test(card)) {
+	      return true;
+	    }
+	  }
+	  
+	  return false;
+	}
+	
+	public int getCardCount(Predicate<Card> p) {
+	  int count = 0;
+	  for (Card card : this.deck) {
+	    if (p.test(card)) {
+	      count++;
+	    }
+	  }
+	  return count;
+	}
+
+	public List<Card> getCards(Predicate<Card> p) {
+	  return this.deck
+	      .stream()
+	      .filter(p)
+	      .collect(Collectors.toList());
 	}
 
 	public static void main(String[] args) {
