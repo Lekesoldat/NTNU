@@ -28,6 +28,29 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 - [TDT4180 - Menneskemaskin-interaksjon](https://github.com/Lekesoldat/NTNU/tree/master/TDT4180%20-%20Menneskemaskin-interaksjon)
 - [TDT4100 - Objektorientert Programmering](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering)
 
+## Autumn 2019 - Third Semester
+- [TDT4120 - Algoritmer og datastrukturer]()
+- [IT1901 - Informatikk prosjektarbeid I]()
+- [x]()
+- [x]()
+
+## Spring / Summer 2020 - Fourth Semester
+- [TDT4140 - Programvareutvikling]()
+- [TDT4145 - Datamodellering og databasesystemer](https://github.com/Lekesoldat/NTNU/tree/master/TDT4145%20-%20Datamodellering%20og%20databasesystemer)
+- [x]()
+- [x]()
+
+## Autumn 2020 - Fifth Semester
+- [x]()
+- [x]()
+- [x]()
+- [x]()
+
+## Spring / Summer 2021 - Sixth Semester
+- [IT2901 - Informatikk prosjektarbeid II]()
+- [x]()
+- [x]()
+- [x]()
 
 # Subjects not in a specific semester
 - [TDT4110 - Informasjonsteknologi, grunnkurs](https://github.com/Lekesoldat/NTNU/tree/master/TDT4110%20-%20Informasjonsteknologi%2C%20grunnkurs)
