@@ -5,4 +5,4 @@
   <img src="./img/junitMeme.jpg">
 </div>
 
-Funniest subject this semester. Sadly the task formulation was horrible. And the tests. THE TESTS!
+Funniest subject this semester. Sadly the task formulation was horrible. And the testing. The damn testing.
