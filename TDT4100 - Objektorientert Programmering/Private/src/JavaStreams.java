@@ -126,5 +126,11 @@ public class JavaStreams {
     IntSummaryStatistics summary = IntStream.of(7, 2, 19, 88, 73, 4, 10)
       .summaryStatistics();
     System.out.println(summary);
+
+    // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    System.out.println("\n\nRandom:");
+    Stream<String> myRows = Files.lines(Paths.get("../src/data.txt"));
+
+    Files.lines(Paths.get("../src/data.txt")).forEach(System.out::println);
     }
 }
