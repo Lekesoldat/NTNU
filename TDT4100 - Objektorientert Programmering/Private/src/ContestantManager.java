@@ -57,23 +57,25 @@ public class ContestantManager {
 
   public static void main(String[] args) throws IOException {
     ContestantManager manager = new ContestantManager();
-    // Add existing data
+    // Load
     manager.readFile(new File("../src/contestants.txt"));
 
-    // Add some more data
+    // Add more data
     manager.addContestant(new Contestant("Sigurd", 12.11));
     manager.addContestant(new Contestant("Ine", 2.00));
     manager.addContestant(new Contestant("Robert", 13.37));
     manager.addContestant(new Contestant("Kim", 100.00));
 
-    // 
+    // Print unodified data
     System.out.println("\u001B[32m" + "Initial list:" + "\u001B[0m");
     manager.printData();
 
+    // Sort data
     System.out.println("\n\u001B[32m" + "After sort:" + "\u001B[0m");
     manager.sortContestantsOnTime();
     manager.printData();
 
+    // Store
     manager.writeFile(new File("../src/contestants.txt"));
   }
 }
