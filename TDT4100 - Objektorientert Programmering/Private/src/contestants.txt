@@ -1,0 +1,8 @@
+Ine 2,000000
+Hilde 8,750000
+Magnus 10,110000
+Sigurd 12,110000
+Robert 13,370000
+Ingrid 15,320000
+Andreas 75,000000
+Kim 100,000000
