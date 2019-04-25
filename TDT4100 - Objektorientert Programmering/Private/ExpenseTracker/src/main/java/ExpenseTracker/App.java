@@ -16,7 +16,7 @@ public class App {
             String input = sc.next();
 
             while (input != "0") {
-                
+                System.out.println();
             }
         } 
 
