@@ -55,7 +55,7 @@ public class ExpenseManager {
       while (sc.hasNext()) {
         // Skip ID
         sc.next();
-        expenses.add(new Expense(sc.next(), Double.parseDouble(sc.next()), sc.next()));
+        expenses.add(new Expense(sc.next(), Double.parseDouble(sc.next()), sc.hasNext() ? sc.next() : ""));
       }
     } catch (IOException e) {
       System.err.println(e.getMessage());
@@ -71,7 +71,7 @@ public class ExpenseManager {
     Double total = expenses.stream().mapToDouble(Expense::getPrice).sum();
     pt.addRow("", "","","");
     
-    pt.addRow("Total", "", "", total.toString() + "kr");
+    pt.addRow("Total", "", "", String.format("%.2f kr", total));
 
     return pt;
   }
