@@ -24,6 +24,10 @@ public class ExpenseManager {
     expenses.removeIf(x -> (x.getExpenseID() == e.getExpenseID()));
   }
 
+  public void removeExpense(int id) {
+    expenses.removeIf(x -> x.getExpenseID() == id);
+  }
+
   public Collection<Expense> getExpenses() {
     return expenses;
   }
@@ -61,8 +65,13 @@ public class ExpenseManager {
   public PrettyTable showData() {
     PrettyTable pt = new PrettyTable("ID", "Title", "Price", "Description");
     expenses.forEach(
-      x -> pt.addRow(String.valueOf(x.getExpenseID()), x.getTitle(), x.getPriceAsString(), x.getDescription())
+      x -> pt.addRow(String.valueOf(x.getExpenseID()), x.getTitle(), x.getPriceAsString() + " kr", x.getDescription())
     );
+
+    Double total = expenses.stream().mapToDouble(Expense::getPrice).sum();
+    pt.addRow("", "","","");
+    
+    pt.addRow("Total", "", "", total.toString() + "kr");
 
     return pt;
   }

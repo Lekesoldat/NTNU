@@ -1,1 +1,4 @@
-0,A2 -> A,5675,Tatt hos Wright
+0,A2 -> A,5675.0,Tatt hos Wright
+1,Kawasaki ER6N,48000.0,Ny sykkel
+2,Nabobil,1043.49,Leiebil for tur til Namsos
+3,Annonse på Finn,299.0,Salg av KTM

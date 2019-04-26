@@ -4,21 +4,20 @@
 package ExpenseTracker;
 
 import java.io.File;
-import java.util.Scanner;
 
 public class App {
+  public static void main(String[] args) {
+    File myFile = new File("./testing.txt");
+    ExpenseManager manager = new ExpenseManager();
+    String menu = new StringBuilder()
+      .append("Welcome to the Expense Tracker!\n")
+      .append("1 - Add expense\n")
+      .append("2 - List expenses\n")
+      .append("\n")
+      .append("0 - Quit")
+      .toString();
     
-    public static void main(String[] args) {
-        File myFile = new File("./testing.txt");
-        ExpenseManager manager = new ExpenseManager();
-
-        try (Scanner sc = new Scanner(System.in)) {
-            String input = sc.next();
-
-            while (input != "0") {
-                System.out.println();
-            }
-        } 
-
-    }
+    manager.readFile(myFile);
+    System.out.println(manager.showData());
+  }
 }
