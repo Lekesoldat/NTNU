@@ -9,6 +9,8 @@ public class App {
   public static void main(String[] args) {
     File myFile = new File("./testing.txt");
     ExpenseManager manager = new ExpenseManager();
+    
+    // TODO: Make menu system and CLI
     String menu = new StringBuilder()
       .append("Welcome to the Expense Tracker!\n")
       .append("1 - Add expense\n")
