@@ -3,6 +3,10 @@ public class Seating {
   private Group group;
 
   public Seating(Table table, Group group) {
+    if (group.getGuestCount() > table.getCapacity()) {
+      throw new IllegalArgumentException("Cannot fit guests.");
+    }
+
     this.table = table;
     this.group = group;
   }
