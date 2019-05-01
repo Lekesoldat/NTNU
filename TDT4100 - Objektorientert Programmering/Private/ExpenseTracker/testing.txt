@@ -2,4 +2,4 @@
 1,Kawasaki ER6N,48000.0,Ny sykkel
 2,Nabobil,1043.49,Leiebil for tur til Namsos
 3,Annonse på Finn,299.0,Salg av KTM
-4,Salg av KTM,-45000.0
+4,Salg av KTM,-45500.0
