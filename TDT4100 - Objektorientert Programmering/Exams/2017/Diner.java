@@ -1,7 +1,5 @@
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Collections;
-import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -44,6 +42,7 @@ public class Diner {
   public void addTable(Table table) {
     if (!tables.contains(table)) {
       this.tables.add(table);
+      fireCapacityChanged();
     }
   }
 
@@ -59,6 +58,7 @@ public class Diner {
     }
 
     tables.remove(table);
+    fireCapacityChanged();
   }
   
   /**
@@ -76,27 +76,24 @@ public class Diner {
       throw new IllegalArgumentException("Table is occupied");
     }
 
-    addTable(new Table(table1.getCapacity() + table2.getCapacity() - lostCapacity));
     removeTable(table1);
     removeTable(table2);
+    addTable(new CompositeTable(table1, table2, lostCapacity));
   }
 
   /**
   * Splits a table into two, i.e. replaces one tables with two tables.
   * The two capacities are the capacities of the two new tables.
   * @param table
-  * @param capacity1
-  * @param capacity2
   * @throws IllegalArgumentException if the table is occupied
   */
-  public void splitTable(Table table, int capacity1, int capacity2) {
+  public void splitTable(CompositeTable table) {
     if (isOccupied(table)) {
       throw new IllegalArgumentException("Table is occupied");
     }
-
     removeTable(table);
-    addTable(new Table(capacity1));
-    addTable(new Table(capacity2));
+    addTable(table.getTable1());
+    addTable(table.getTable2());
   }
 
   /**
@@ -154,6 +151,7 @@ public class Diner {
       seatings.add(seating);
     }
 
+    fireCapacityChanged();
     return seating != null;
   }
   
@@ -163,6 +161,22 @@ public class Diner {
   */
   public void removeSeating(int tableNum) {
     seatings.removeIf(t -> t.getTable().getNum() == tableNum);
+    fireCapacityChanged();
+  }
+
+
+  public Collection<CapacityListener> listeners = new ArrayList<>();
+
+  public void addCapacityListener(CapacityListener listener) {
+    listeners.add(listener);
+  }
+
+  public void removeCapacityListener(CapacityListener listener) {
+    listeners.remove(listener);
+  }
+
+  public void fireCapacityChanged() {
+    listeners.forEach(l -> l.capacityChanged(this));
   }
 
   public static void main(String[] args) {

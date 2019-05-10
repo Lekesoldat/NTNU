@@ -14,6 +14,5 @@ public class Group {
   public int getGuestCount() {
     return this.guestCount;
   }
-
   
 }
