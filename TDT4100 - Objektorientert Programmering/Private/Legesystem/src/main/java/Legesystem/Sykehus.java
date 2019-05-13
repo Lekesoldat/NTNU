@@ -54,18 +54,19 @@ public class Sykehus {
     return false;
   }
 
-  /**
-   * @return the helsepersonell
-   */
   public List<Helsearbeider> getHelsepersonell() {
     return helsepersonell;
+  }
+
+  public List<Avdeling> getAvdelinger() {
+    return avdelinger;
   }
 
   @Override
   public String toString() {
     return
       new StringBuilder()
-      .append(Farge.gul("Sykehus") + "\n")
+      .append(Farge.gul("- - - - - - - - - - Sykehus start - - - - - - - - - -") + "\n")
       .append(Farge.groenn("Alt helsepersonell: ") + "\n")
       .append(
         helsepersonell
@@ -73,8 +74,9 @@ public class Sykehus {
         .map(h -> (h.getTittel() + ": " + h.getNavn()))
         .collect(Collectors.joining("\n"))
       )
-      .append(Farge.groenn("\nAvdelinger: ") + "\n")
+      .append(Farge.groenn("\n\nAvdelinger: ") + "\n")
       .append(avdelinger.stream().map(Avdeling::toString).collect(Collectors.joining("\n\n")))
+      .append(Farge.gul("\n- - - - - - - - - - Sykehus slutt - - - - - - - - - -") + "\n")
       .toString();
   }
 }

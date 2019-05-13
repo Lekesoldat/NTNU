@@ -53,12 +53,12 @@ public class Avdeling {
   public String toString() {
     return 
       new StringBuilder()
-      .append(Farge.rod("Prioritetsnivå: ") + this.prioritetsNivå + "\n")
+      .append(Farge.rod(this.prioritetsNivå + "-avdeling: ") + "\n")
       .append(
         IntStream
         .range(0, senger.length)
         .mapToObj(
-          i -> "Seng nummer: " + i + " er okkupert av: " + ((senger[i] == null) ? "ingen." : (senger[i].getNavn() + ", " + senger[i].hentPrioritet()))
+          i -> "Seng " + i + ": " + ((senger[i] == null) ? "tom." : senger[i].getNavn() + ".")
         )
         .collect(Collectors.joining("\n"))
       )

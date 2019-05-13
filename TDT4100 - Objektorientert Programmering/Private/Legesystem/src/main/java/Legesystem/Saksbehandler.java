@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class Saksbehandler implements KapasitetLytter {
   private List<Pasient> pasientKoe = new ArrayList<>();
@@ -39,14 +40,31 @@ public class Saksbehandler implements KapasitetLytter {
         it.remove();
       }
     }
-
     pasientKoe.addAll(midlertidigKoe);
   }
 
   public void printKoe() {
-    System.out.println("\nFortsatt i kø: ");
+    System.out.println("Fortsatt i kø: ");
     for (Pasient p : pasientKoe) {
       System.out.println(p.getNavn() + ", " + p.hentPrioritet());
     }
+  }
+
+  @Override
+  public String toString() {
+    return 
+      new StringBuilder()
+      .append(Farge.gul("- - - - - - - - - - Saksbehandler start - - - - - - - - - -") + "\n")
+      .append(Farge.groenn("Pasienter på avdeling: ") + "\n")
+      .append(sykehus.getAvdelinger().stream().map(Avdeling::toString).collect(Collectors.joining("\n\n")) + "\n\n")
+      .append(Farge.blaa("Resterende kø: ") + "\n")
+      .append(
+        pasientKoe
+        .stream()
+        .map(p -> String.format("%s (%s)", p.getNavn(), p.hentPrioritet()))
+        .collect(Collectors.joining("\n"))
+      )
+      .append(Farge.gul("\n- - - - - - - - - - Saksbehandler slutt - - - - - - - - - -") + "\n")
+      .toString();
   }
 }

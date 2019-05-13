@@ -88,14 +88,15 @@ public class App {
 
     // Legg til avdelinger
     sykehus.leggTilAvdeling(
-      new Avdeling(2, 1), // Haster
-      new Avdeling(1, 2), // Ikke like ille
-      new Avdeling(5, 0) // Standard
+      new Avdeling(5, 0), // Standard
+      new Avdeling(5, 1), // Haster
+      new Avdeling(5, 2), // Ikke like ille
+      new Avdeling(5, 3) // Ikke like ille
     );
 
     // Gir pasienter tilfeldig prioritet
     for (Pasient p : pasienter) {
-      p.setPrioritet(new Random().nextInt(3));
+      p.setPrioritet(new Random().nextInt(4));
     }
     
     // Forsøer å legge til alle pasienter
@@ -103,13 +104,9 @@ public class App {
       saksbehandler.pasientAnkommet(p);
     }
     
+    // Printing
     System.out.println(sykehus);
-    saksbehandler.printKoe();
-
-    System.out.println("Forsøker å fjerne! " + pasienter.get(2).getNavn());
-    saksbehandler.pasientForlatt(pasienter.get(2));
-
-    System.out.println(sykehus);
-    saksbehandler.printKoe();
+    System.out.println(apotek);
+    System.out.println(saksbehandler);
   }
 }

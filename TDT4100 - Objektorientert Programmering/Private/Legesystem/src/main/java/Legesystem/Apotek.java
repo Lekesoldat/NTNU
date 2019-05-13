@@ -15,6 +15,7 @@ public class Apotek {
       new Legemiddel("Nesespray", 15.0)
     )
   );
+  
   private List<Resept> resepter = new ArrayList<>();
   
   public void leggTilLegemiddel(Legemiddel l) {
@@ -43,7 +44,7 @@ public class Apotek {
   public String toString() {
     return 
       new StringBuilder()
-      .append(Farge.gul("Apotek:") + "\n")
+      .append(Farge.gul("- - - - - - - - - - Apotek start - - - - - - - - - -") + "\n")
       .append(Farge.groenn("Alle legemidler: ") + "\n")
       .append(
         legemiddelbank
@@ -52,13 +53,14 @@ public class Apotek {
         .collect(Collectors.joining(", "))
         .toString()
       )
-      .append("\n" + Farge.groenn("Alle resepter: ") + "\n")
+      .append("\n" + Farge.groenn("\nAlle resepter: ") + "\n")
       .append(
         resepter
         .stream()
         .map(Resept::toString)
         .collect(Collectors.joining("\n"))
       )
+      .append(Farge.gul("- - - - - - - - - - Apotek slutt - - - - - - - - - -") + "\n")
       .toString();
   }
 }
