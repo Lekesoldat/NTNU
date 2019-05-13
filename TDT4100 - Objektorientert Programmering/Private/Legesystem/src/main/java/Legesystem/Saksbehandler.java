@@ -10,7 +10,6 @@ public class Saksbehandler implements KapasitetLytter {
   private List<Pasient> pasientKoe = new ArrayList<>();
   private Sykehus sykehus;
 
-
   public Saksbehandler(Sykehus sykehus) {
     this.sykehus = sykehus;
     sykehus.leggTilLytter(this);
