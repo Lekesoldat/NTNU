@@ -83,14 +83,14 @@
 - Metoder for å legge til og fjerne pasienter på rom
 - Pen ```toString()```
 
-### ```Saksbehandler```som implementerer det funksjonelle grensesnittet ```KapasitetLytter```
+### ```Saksbehandler``` som implementerer det funksjonelle grensesnittet ```KapasitetLytter```
 - Skal fungere som en lytter på sykehuset.
 - Skal forsøke å plassere pasienter på sykehuset.
     - Om de ikke får plass, legg dem i kø.
 - Skal også kunne fjerne pasienter.
 
 
-### Temaer dekket:
+## Temaer dekket:
 - Modifikatorer
     - Synlighet, abstract, final, static
 - Arv
