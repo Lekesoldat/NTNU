@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Sykehus {
+  private List<Avdeling> avdelinger = new ArrayList<>();
+  private List<KapasitetLytter> lyttere = new ArrayList<>();
   private List<Helsearbeider> helsepersonell = new ArrayList<>(
     List.of(
       new Lege("Hans", "Hansen"),
@@ -12,22 +14,51 @@ public class Sykehus {
     )
   );
 
-  private List<Pasient> pasienter = new ArrayList<>(
-    List.of(
-      new Pasient("Ola", "Nordmann"),
-      new Pasient("Hong", "Pjong"),
-      new Pasient("Ali", "Bang"),
-      new Pasient("Martin", "Mongo")
-    )
-  );
-
-
-  public List<Helsearbeider> getHelsepersonell() {
-    return helsepersonell;
+  public void leggTilAvdeling(Avdeling ... avd) {
+    for (Avdeling avdeling : avd) {
+      avdelinger.add(avdeling);
+    }
   }
 
-  public List<Pasient> getPasienter() {
-    return pasienter;
+  public void leggTilLytter(KapasitetLytter kp) {
+    lyttere.add(kp);
+  }
+
+  public void fjernLytter(KapasitetLytter kp) {
+    lyttere.remove(kp);
+  }
+
+  public void invokeKapasitetEndret() {
+    lyttere.forEach(kp -> kp.kapasitetEndret(this));
+  }
+
+  public boolean leggInnPasient(Pasient p) {
+    for (Avdeling avd : avdelinger) {
+      if (avd.getPrioritetsNivå() == p.hentPrioritet() ) {
+        if (avd.plasserISeng(p)) {
+          invokeKapasitetEndret();
+          return true;
+        }
+      }
+    }
+    return false;
+  }
+
+  public boolean skrivUtPasient(Pasient p) {
+    for (Avdeling avd : avdelinger) {
+      if (avd.fjernFraSeng(p)) {
+        invokeKapasitetEndret();
+        return true;
+      }
+    }
+    return false;
+  }
+
+  /**
+   * @return the helsepersonell
+   */
+  public List<Helsearbeider> getHelsepersonell() {
+    return helsepersonell;
   }
 
   @Override
@@ -42,13 +73,8 @@ public class Sykehus {
         .map(h -> (h.getTittel() + ": " + h.getNavn()))
         .collect(Collectors.joining("\n"))
       )
-      .append(Farge.groenn("\nAlle pasienter:") + "\n")
-      .append(
-        pasienter
-        .stream()
-        .map(Pasient::getNavn)
-        .collect(Collectors.joining(", "))
-      )
+      .append(Farge.groenn("\nAvdelinger: ") + "\n")
+      .append(avdelinger.stream().map(Avdeling::toString).collect(Collectors.joining("\n\n")))
       .toString();
   }
 }

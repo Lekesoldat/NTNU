@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  */
 public class Pasient extends Person implements Prioritet {
   private List<Resept> resepter = new ArrayList<>();
-  private int prioritet = -1;
+  private int prioritet = 0;
   private Lege fastLege = null;
 
   /**
@@ -40,12 +40,19 @@ public class Pasient extends Person implements Prioritet {
     this.fastLege = fastlege;
   }
 
+
+  @Override
+  public int hentPrioritet() {
+    return this.prioritet;
+  }
+
   @Override
   public String toString() {
     return 
     new StringBuilder(super.toString())
     .append(Farge.gul("Pasient-data:") + "\n")
     .append("Fastlege: " + this.fastLege.getNavn() + "\n")
+    .append("Prioritet: " + this.prioritet + "\n")
     .append(Farge.groenn("Resepter: ") + "\n")
     .append(
       resepter
@@ -54,10 +61,5 @@ public class Pasient extends Person implements Prioritet {
       .collect(Collectors.joining("\n"))
     )
     .toString();
-  }
-
-  @Override
-  public int hentPrioritet() {
-    return this.prioritet;
   }
 }

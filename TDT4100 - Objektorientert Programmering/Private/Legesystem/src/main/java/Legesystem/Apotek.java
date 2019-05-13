@@ -31,16 +31,10 @@ public class Apotek {
     }
   }
 
-  /**
-   * @return the legemiddelbank
-   */
   public List<Legemiddel> getLegemiddelbank() {
     return legemiddelbank;
   }
 
-  /**
-   * @return the resepter
-   */
   public List<Resept> getResepter() {
     return resepter;
   }
@@ -67,5 +61,4 @@ public class Apotek {
       )
       .toString();
   }
-
 }
