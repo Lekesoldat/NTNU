@@ -67,32 +67,27 @@
 —————————————————————————————————
 
 ### ```Sykehus```:
-- Liste med alle leger
-- Liste med alle pasienter
+- Liste med alt helsepersonell
 - Liste med alle resepter (kan være i en apotek-klasse)
 - Liste med alle legemidler (kan være i en apotek-klasse)
 - Liste med alle avdelinger
-- Metoder for å legge til og fjerne pasienter på avdeling
-- Kø med pasienter som venter på rom
+- Liste over lyttere
+- Funksjonalitet for å gi en notifikasjon til lytterne dersom kapasiteten endres.
 - Pen ```toString()```
 
 ### ```Avdeling```:
 - Unik id
 - Prioritetsnivå (hva slags pasienter som er her)
 - Liste med rom
+    - La dette være representert ved et person-array med størrelse lik 'antallRom'.
 - Metoder for å legge til og fjerne pasienter på rom
 - Pen ```toString()```
 
-### ```Rom```:
-- Unik id
-- Liste med sengeplasser
-- Metoder for å legge til og fjerne pasienter i seng
-- Pen ```toString()```
-
-
-Tanken er å implementere noe observable-greier på sykehuset og avdelingene, så man kan få lagt til pasienter der det trengs basert på prioritet osv, - vet ikke helt enda.
-
-Om man er suicidal kan man prøve å skrive alt dette til fil og lese inn igjen.
+### ```Saksbehandler```som implementerer det funksjonelle grensesnittet ```KapasitetLytter```
+- Skal fungere som en lytter på sykehuset.
+- Skal forsøke å plassere pasienter på sykehuset.
+    - Om de ikke får plass, legg dem i kø.
+- Skal også kunne fjerne pasienter.
 
 
 ### Temaer dekket:
@@ -101,7 +96,7 @@ Om man er suicidal kan man prøve å skrive alt dette til fil og lese inn igjen.
 - Arv
 - Grensesnitt
     - Funksjonelt grensesnitt
-    - Comparator
+    - Comparator - DENNE MANGLER ENN SÅ LENGE
     - Iterator om ønsket
 - Observable og delegering
 - Konstruktører og metoder mm.
