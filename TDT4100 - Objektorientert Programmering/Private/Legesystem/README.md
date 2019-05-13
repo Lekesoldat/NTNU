@@ -56,7 +56,7 @@
 
 ### ```BlaaResept``` arver ```Resept```:
 - Implementerer type
-- Implementerer pris
+- Implementerer pris (rabattert)
 - Pen ```toString()```
 
 ### ```HvitResept``` arver ```Resept```:
