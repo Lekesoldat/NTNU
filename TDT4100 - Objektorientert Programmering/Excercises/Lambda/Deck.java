@@ -25,8 +25,8 @@ public class Deck {
     }
   }
 
-  public void taskOne() {
-    System.out.println(deck.stream().filter(c -> (c.getSuit() == 'S')).map(c -> c.toString()).collect(Collectors.joining(", ")));
+  public String taskOne() {
+    return deck.stream().filter(c -> (c.getSuit() == 'S')).map(c -> c.toString()).collect(Collectors.joining(", "));
   }
 
   public List<Card> taskTwo() {
@@ -58,25 +58,24 @@ public class Deck {
     Deck deck = new Deck();
 
     // Task 1
-    System.out.println("All spades: ");
-    deck.taskOne();
+    System.out.println("1: All spades: " + deck.taskOne());
 
     // Task 2
-    System.out.println("\nAll hearts: " + deck.taskTwo());
+    System.out.println("\n2: All hearts: " + deck.taskTwo());
 
     // Task 3
-    System.out.println("\nAll card suits: " + deck.taskThree());
+    System.out.println("\n3: All card suits: " + deck.taskThree());
 
     // Task 4
-    System.out.println("\nDeck summed: " + deck.taskFour());
+    System.out.println("\n4: Deck summed: " + deck.taskFour());
 
     // Task 5
-    System.out.println("\nQueen of Spades exists: " + deck.taskFive());
+    System.out.println("\n5: Queen of Spades exists: " + deck.taskFive());
 
     // Task 6
-    System.out.println("\nFlush hand: " + deck.taskSix());
+    System.out.println("\n6: Flush hand: " + deck.taskSix());
 
     // Task 7
-    System.out.println("\nAll colors represented: " + deck.taskSeven());
+    System.out.println("\n7: All colors represented: " + deck.taskSeven());
   }
 }
