@@ -1,6 +1,7 @@
 import java.util.Iterator;
 import java.util.function.BinaryOperator;
 import java.util.Arrays;
+import java.util.Map;
 
 public class BinaryComputingIterator implements Iterator<Double> {
   private Iterator<Double> it1, it2;
@@ -43,7 +44,15 @@ public class BinaryComputingIterator implements Iterator<Double> {
   public static void main(String[] args) {
     Iterator<Double> it1 = Arrays.asList(1.0, 2.0, 3.0, 4.0, 5.0).iterator();
     Iterator<Double> it2 = Arrays.asList(3.0, 2.0, 1.0).iterator();
-    BinaryComputingIterator bci = new BinaryComputingIterator(it1, it2, 15.0, 10.0, (a, b) -> a+b);
+    
+    Map<Character, BinaryOperator<Double>> operators = Map.of(
+      '+', (a, b) -> a + b,
+      '-', (a, b) -> a - b,
+      '*', (a, b) -> a * b,
+      '/', (a, b) -> a / b
+    );
+
+    BinaryComputingIterator bci = new BinaryComputingIterator(it1, it2, 15.0, 10.0, operators.get('+'));
 
     System.out.println("Bci.hasNext(): " + bci.hasNext()); // Should be true
     System.out.println("Bci.next(): " + bci.next()); // Should be 4.0
