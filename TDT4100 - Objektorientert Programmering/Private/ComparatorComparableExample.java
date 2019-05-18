@@ -1,9 +1,15 @@
 import java.util.*;
 
-// Comparator
+/*
+  Comparator<T> - et verktøy som lar deg sammenligne to ting som i utgangspunktet ikke lar seg sammenlignes uten videre.
+
+  Comparable<T> - en egenskap ved en klasse som gjør at den kan sammenlignes med en annen klasse på visse områder.
+
+  Man ønsker å sammenligne klasser for eksempelvis å kunne sortere.
+*/
 public class ComparatorComparableExample {
   public static void main(String[] args) {
-    // Implementerer Comparable slik at den kan sorteres
+    // Implementerer Comparable, - sammenligner seg selv med andre pølser. Det er lengden som sammenlignes.
     class Polse implements Comparable<Polse> {
       int lengde;
       public Polse(int lengde) {
@@ -21,7 +27,7 @@ public class ComparatorComparableExample {
       }
     }
 
-    // Implementerer ikke Comparable, men har en tilhørende Comparator for sortering
+    // Implementerer ikke Comparable, men har en tilhørende Comparator for sammenligning.
     class Burger {
       int vekt;
 
@@ -35,14 +41,14 @@ public class ComparatorComparableExample {
       }
     }
 
-    // Verktøy for å sammenligne burgere
+    // Verktøy for å sammenligne burgere, her sammenlignes det på vekt.
     class BurgerComparator implements Comparator<Burger> {
       @Override
       public int compare(Burger b1, Burger b2) {
         return b1.vekt - b2.vekt;
       }
     }
-
+    // Denne har ikke en Comparator, og den implementerer ikke Comparable. Den kan ikke sorteres uten videre.
     class KlasseSomIkkeKanSorteres {
       int etTall;
 
@@ -88,7 +94,7 @@ public class ComparatorComparableExample {
     // Sorterer på lengde
     Collections.sort(polser);
 
-    // Sorterer på vekt
+    // Sorterer på vekt, bruker et verktøy for å sammenligne.
     Collections.sort(burgere, new BurgerComparator());
 
     // Gir følgende feilmelding:
