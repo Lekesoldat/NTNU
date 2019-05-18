@@ -33,6 +33,7 @@ public class LinkedList<T> implements CustomList<T> {
             return this.tail;
         }
 
+        // For better performance, loop either from head or tail.
         if (pos  < this.size * 0.5) {
             Node node = this.head;
             for (int i = 0; i < pos; i++) {
@@ -79,9 +80,7 @@ public class LinkedList<T> implements CustomList<T> {
 
         // Any other position
         else {
-
             Node<T> existingNode = getNode(pos);
-
             Node<T> newNode = new Node(data, existingNode, existingNode.getPrev());
             existingNode.getPrev().setNext(newNode);
             existingNode.setPrev(newNode);
