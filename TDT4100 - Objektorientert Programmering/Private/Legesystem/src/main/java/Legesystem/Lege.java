@@ -1,7 +1,9 @@
 package Legesystem;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class Lege extends Helsearbeider {
@@ -44,7 +46,7 @@ public class Lege extends Helsearbeider {
   public void leggTilResept(Resept r) {
     resepter.add(r);
   }
-
+  
   @Override
   public String toString() {
     return 
