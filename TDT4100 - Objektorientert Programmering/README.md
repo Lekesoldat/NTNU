@@ -13,39 +13,39 @@ Funniest subject this semester. Fuck Eclipse.
 - [2017](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exams/2017)
 - [2016](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exams/2016)
 
-[Exercises](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises)
+[Exercises](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises)
 
-- [Exercise 1](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O1)
+- [Exercise 1](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O1)
   - Account
   - Digit
   - LineEditor
   - Location
   - UpOrDownCounter
-- [Exercise 2](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O2)
+- [Exercise 2](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O2)
   - Account
   - Person
   - Vehicle
-- [Exercise 3](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O3)
+- [Exercise 3](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O3)
   - Card
   - Nim
   - RPNCalc
-- [Exercise 4](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O4/app)
+- [Exercise 4](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O4/app)
   - An app for sleep tracking.
-- [Exercise 5](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O5)
+- [Exercise 5](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O5)
   - Card
   - Partner
   - Person
   - StopWatch
   - Twitter
-- [Exercise 6](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O6)
+- [Exercise 6](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O6)
   - Card
   - Twitter
   - BinaryComputingIterator
   - Named
   - StringMergeIterator
-- [Exercise 7](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O7/app)
+- [Exercise 7](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O7/app)
   - An app for sleep tracking continued.
-- [Exercise 8](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O8)
+- [Exercise 8](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O8)
   - Delegation
     - The Office
     - Logger
@@ -53,17 +53,17 @@ Funniest subject this semester. Fuck Eclipse.
   - Observable
     - Highscorelist
     - Stocklistener
-- [Exercise 9](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O9)
+- [Exercise 9](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O9)
   - Inheritance
     - Train
 
   - Observable
     - ObservableList
-- [Exercise 10](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/O10)
+- [Exercise 10](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/O10)
   - SleepEntryTest
   - WriteToFileTest
 
-- [Lambda exercise from wiki](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Excercises/Lambda)
+- [Lambda exercise from wiki](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/Lambda)
 
 
 [Private learning](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Private)
