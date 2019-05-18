@@ -35,27 +35,6 @@ public class StringMergingIterator implements Iterator<String> {
 			turnSwitch = true;
 		}
 		
-		/*
-		Jallakode som ikke funker
-		
-		if(!first.hasNext()){
-			result = first.next();
-		} 
-		// Fjerner ! foran statement
-		else if(!second.hasNext()){
-			result = second.next();
-		} 
-		else {
-			if(turnSwitch){
-				result = first.next();
-				turnSwitch = false;
-			}
-			if(!turnSwitch){
-				result = second.next();
-				turnSwitch = true;
-			}
-		}
-		*/
 		return result;
 	}
 }
