@@ -58,13 +58,12 @@ public class Human {
   }
 
   public void sortWithoutLambda() {
-    List<Human> humans = new ArrayList<>(
-      Arrays.asList(
-        new Human("Godzilla", 32),
-        new Human("Hilde", 20),
-        new Human("Magnus", 21),
-        new Human("Andreas", 21),
-        new Human("Zamot", 21))
+    List<Human> humans = Arrays.asList(
+      new Human("Godzilla", 32),
+      new Human("Hilde", 20),
+      new Human("Magnus", 21),
+      new Human("Andreas", 21),
+      new Human("Zamot", 21)
     );
 
     humans.sort(
