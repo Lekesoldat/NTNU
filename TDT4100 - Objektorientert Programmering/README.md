@@ -65,7 +65,7 @@ Funniest subject this semester. Fuck Eclipse.
   - SleepEntryTest
   - WriteToFileTest
 
-- [Lambda exercise from wiki](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Exercises/Lambda)
+- [Lambda exercise from wiki](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Private/Streams)
 
 
 [Private learning](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Private)
