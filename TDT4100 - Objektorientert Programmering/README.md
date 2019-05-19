@@ -72,7 +72,7 @@ Funniest subject this semester. Fuck Eclipse.
 
 - [[INTERMEDIATE] Self made linked list](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Private/LinkedListWithIterator/src)
 
-- [[Exam practice] Legesystem](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Private/LinkedListWithIterator/src)
+- [[Exam practice] Legesystem](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Private/Legesystem/src/main/java/Legesystem)
 
 - [Random files](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering/Private/src)
   - Practising Streams
