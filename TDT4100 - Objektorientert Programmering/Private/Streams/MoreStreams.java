@@ -47,10 +47,10 @@ public class MoreStreams {
     System.out.println("Sum of all ages: " + sumOfAllAges);
 
     people.forEach(p -> p.setName(p.getName().toUpperCase()));
-    System.err.println("All names capitalized: " + people);
+    System.out.println("All names capitalized: " + people);
 
     people.forEach(p -> p.setName(p.getName().substring(0,1) + p.getName().substring(1).toLowerCase()));
-    System.err.println("All names with capital first letter again: " + people);
+    System.out.println("All names with capital first letter again: " + people);
 
     System.out.print("People starting with 'M' and above 21 y/o: ");
     people.stream()
