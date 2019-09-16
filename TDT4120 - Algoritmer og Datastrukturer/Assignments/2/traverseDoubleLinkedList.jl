@@ -22,10 +22,12 @@ function createLinkedListDoublyLinked(length)
   return current
 end
 
+# TL;DR finn maks i en dobbelt-lenket liste, der du kan få et tilfeldig element i lista som argument.
 function maxofdoublelinkedlist(linkedlist)
+  max::Int = linkedlist.value
+  
   # Store refrence to starter node to avoid traversing some elements twice
   startingNode = linkedlist
-  max::Int = linkedlist.value
 
   # Forward
   while linkedlist != nothing
@@ -42,7 +44,7 @@ function maxofdoublelinkedlist(linkedlist)
     end
     startingNode = startingNode.prev
   end
-  
+
   return max
 end
 

@@ -15,6 +15,7 @@ function createlinkedlist(length)
   return node
 end
 
+# TL;DR findindexinlist skal returnere verdien i den linka listen med posisjon indeks, og om indeks er større enn lengden til den linka listen skal du returnere -1.
 function findindexinlist(linkedlist, index)
   for i = 1:index -1
     if linkedlist.next == nothing
