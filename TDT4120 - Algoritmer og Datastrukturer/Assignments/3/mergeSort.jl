@@ -48,8 +48,6 @@ function mergearrays(left::Array{Float64,2}, right::Array{Float64,2}, coordinate
     return resultArray
 end
 
-# mergearrays(AsortedOnX, BsortedOnX, 1)
-
 function mergesort(x::Array{Float64, 2}, coordinate::Int64)
   # Sjekk om det er siste element
   if size(x, 1) <= 1
