@@ -4,10 +4,10 @@
 AsortedOnX = [1 2; 2 1; 4 6; 5 5]
 BsortedOnX = [3 5; 8 2; 11 4; 12 5]
 
-unsorted = [2.0 1.0; 1.0 5.0; 3.0 9.0; 11.0 4.0; 5.0 25.0; 3.0 11.0; 8.0 7.0]
-
 AsortedOnY = [2 1; 1 2; 4 6]
 BsortedOnY = [1 3; 4 4; 6 5; 2 7]
+
+unsorted = [2.0 1.0; 1.0 5.0; 3.0 9.0; 11.0 4.0; 5.0 25.0; 3.0 11.0; 8.0 7.0]
 ############################
 
 function mergearrays(left::Array{Float64,2}, right::Array{Float64,2}, coordinate::Int64)
