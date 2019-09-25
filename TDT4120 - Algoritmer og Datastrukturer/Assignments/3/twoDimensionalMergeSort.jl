@@ -49,7 +49,7 @@ function mergearrays(left::Array{Float64,2}, right::Array{Float64,2}, coordinate
 end
 
 function mergesort(x::Array{Float64, 2}, coordinate::Int64)
-  # Sjekk om det er siste element
+  # Base case
   if size(x, 1) <= 1
     return x
   end
