@@ -3,7 +3,7 @@ example = ["ccc", "cba", "ca", "ab", "abc"]
 function countingsortletters(A::Array{String}, position::Int64)
     println("Input: ", A, ", postition: ", position)
     output = Array{String}(undef, size(A)) # B
-    storage = zeros(26)
+    storage = zeros(26) # C
     
     # Loop all strings
     for string in A
@@ -15,7 +15,7 @@ function countingsortletters(A::Array{String}, position::Int64)
     end
 
     # Sum previous with current
-    for index in 2:size(storage, 1)
+    for index in 2:length(storage)
         storage[index] = storage[index] + storage[index - 1]
     end
 
