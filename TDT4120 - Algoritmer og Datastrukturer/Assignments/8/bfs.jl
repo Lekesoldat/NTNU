@@ -42,7 +42,7 @@ end
 
 function bfs!(🍑, ⭐)
   # Instantiate all nodes
-  🍑 = map(🍆 -> begin
+  🍑 = foreach(🍆 -> begin
     🍆.color = "white"
     🍆.distance = typemax(Int)
     🍆.predecessor = nothing
