@@ -29,10 +29,10 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 - [TDT4100 - Objektorientert Programmering](https://github.com/Lekesoldat/NTNU/tree/master/TDT4100%20-%20Objektorientert%20Programmering)
 
 ## Autumn 2019 - Third Semester
-- [TDT4120 - Algoritmer og datastrukturer]()
+- [TDT4120 - Algoritmer og datastrukturer](https://github.com/Lekesoldat/NTNU/tree/master/TDT4120%20-%20Algoritmer%20og%20Datastrukturer/)
 - [IT1901 - Informatikk prosjektarbeid I]()
-- [x]()
-- [x]()
+- [TTM4185 - Sikkerhet og robusthet i IKT-systemer]()
+- [TIØ4252 - Teknologiledelse]()
 
 ## Spring / Summer 2020 - Fourth Semester
 - [TDT4140 - Programvareutvikling]()
