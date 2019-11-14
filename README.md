@@ -34,8 +34,8 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 ## Autumn 2019 - Third Semester
 
 - [TDT4120 - Algoritmer og datastrukturer](https://github.com/Lekesoldat/NTNU/tree/master/TDT4120%20-%20Algoritmer%20og%20Datastrukturer/)
-- [IT1901 - Informatikk prosjektarbeid I]()
-- [TTM4185 - Sikkerhet og robusthet i IKT-system](#)
+- [IT1901 - Informatikk prosjektarbeid I](https://github.com/Lekesoldat/backup)
+- [TTM4185 - Sikkerhet og robusthet i IKT-system](https://github.com/Lekesoldat/NTNU/tree/master/TTM4185%20-%20Sikkerhet%20og%20robusthet%20i%20IKT-system)
 - [TIØ4252 - Teknologiledelse](#)
 
 ## Spring / Summer 2020 - Fourth Semester
