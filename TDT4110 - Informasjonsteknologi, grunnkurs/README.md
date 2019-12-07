@@ -218,9 +218,9 @@ Start er valgri, om den ikke oppgis antas 0.
 Step er valgfri, men den angir hvor mange steg den tar om gangen.
 
 ```python
-range(5) -> 0, 1, 2, 3, 4
-range(1, 5) -> 1, 2, 3, 4
-range(1, 10, 2) -> 1, 3, 5, 7, 9
+range(5)        # 0, 1, 2, 3, 4
+range(1, 5)     # 1, 2, 3, 4
+range(1, 10, 2) # 1, 3, 5, 7, 9
 ```
 
 I stedet for å bruke indekser for å hente ut elementene når vi går igjennom en liste, så er det mulig å gjøre slik:
