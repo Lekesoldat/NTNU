@@ -4,11 +4,10 @@
   <img src="./img/plankekjoring.jpg">
 </div>
 
-Used to be fairly easy, - as we say in norwegian: 'Plankekjøring'.
+Used to be fairly easy, - as we say in norwegian: 'Plankekjøring'.  
+Did not take this course at NTNU, but did some of the tasks as I was asked to help. Below you will find a cheat sheet I made for the subject.
 
 ---
-
-Did not take this course at NTNU, but did some of the tasks as I was asked to help.
 
 # ITGK - Python Cheat Sheet
 
@@ -28,9 +27,9 @@ is_ready_for_exam: True
 ```
 
 **I eksempelet over:**  
-`price` en _`integer`_ (heltall).  
-`rating` en _`float`_ (desimaltall).  
-`course_name` en _`string`_ er (sekvens med tegn).  
+`price` er en _`integer`_ (heltall).  
+`rating` er en _`float`_ (desimaltall).  
+`course_name` er en _`string`_ er (sekvens med tegn).  
 `is_ready_for_exam` er en _`boolean`_ (sannhetsverdi som enten er **True** eller **False**).
 
 # Kommentarer
@@ -101,6 +100,7 @@ Vi kan formattere strenger for å dynamisk sette inn verdier i dem.
 ```python
 name = "Magnus"
 message = "Jeg heter {}".format(name)
+print(message) # "Jeg heter Magnus"
 ```
 
 Vi har også en del metoder for å behandle strenger:
