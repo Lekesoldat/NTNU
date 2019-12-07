@@ -4,7 +4,7 @@
   <img src="./img/plankekjoring.jpg">
 </div>
 
-Fairly easy, - as we say in norwegian: 'Plankekjøring'.
+Used to be fairly easy, - as we say in norwegian: 'Plankekjøring'.
 
 ---
 
