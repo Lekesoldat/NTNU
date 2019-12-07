@@ -275,3 +275,118 @@ x, y, z = koordinater # x = 1, y = 2, z = 3
 ```
 
 # Dictionaries
+
+Brukes for å lagre par med nøkler/verdier.
+
+```python
+customer = {
+  "name": "Magnus",
+  "age": 21,
+  "is_verified": True
+}
+```
+
+Vi bruker både strenger og tall som 'keys', og de bør være unike.
+
+Bruk av dictionaries:
+
+```python
+customer["name"] # returnerer "Magnus"
+customer["gender"] # gir feilmelding da det ikke finnes en key == "gender".
+customer["name"] = "Holtet" # Overskriver verdien som allerede ligger der.
+```
+
+Hvordan gå igjennom et dictionary med en loop:
+
+```python
+for key in customer:
+  print(key) # Printer "name", "age", "is_verified"
+
+  # Kan da hente ut verdiene
+  print(customer[key]) # Printer "Magnus", 21, True
+```
+
+Kan også gjøres slik:
+
+```python
+for key, value in customer.items():
+  print(key)    # Printer "name", "age", "is_verified"
+  print(value)  # Printer "Magnus", 21, True
+```
+
+# Funksjoner
+
+Vi lager funksjoner for å dele koden vår opp i mindre biter. Det er dårlig praksis å skrive samme kodebiter om igjen og om igjen, så da er det bedre å separere det i funksjoner man kan kjøre. En funksjon gjør ikke noe, før man 'kaller' (kjører) den.
+
+```python
+# DEFinerer funksjonen
+def si_hei():
+  print("Hei!")
+
+# Kaller funksjonen
+si_hei() # Printer "Hei!"
+```
+
+**En funksjon kan få input, kalt argumenter:**
+
+```python
+def hils_paa_person(navn):
+  print("Hallo, " + navn + "!")
+
+hils_paa_person("Magnus") # Printer "Hallo, Magnus!"
+
+# En funksjon kan ha flere argumenter
+def pluss(tall1, tall2):
+  print(tall1 + tall2)
+
+pluss(2, 5) # Printer 7
+```
+
+**En funksjon kan også _returnere_ en verdi som vi kan bruke videre:**
+
+```python
+def minus(tall1, tall2):
+  return tall1 - tall2
+
+svar = minus(5, 2)
+print(svar) # Printer 3
+```
+
+# Filbehandling
+
+```python
+# Ved å bruke "with open ... as ... slipper du å tenke på å 'close()' filen til slutt.
+with open("filnavn", "mode") as doc:
+  for line in doc:
+    print(line) # Printer alle linjer i filen
+
+with open("minFil.txt", "r")
+```
+
+| Mode | Hva den gjør                                                                 |
+| :--: | ---------------------------------------------------------------------------- |
+|  r   | Read-only. Leser fra start. Er standard i `open()`-metoden.                  |
+|  rb  | Åpner for lesing binært.                                                     |
+|  r+  | Åpner for lesing og skrving, setter markøren på starten av filen.            |
+|  w   | Åpner for skriving. Overskriver filen eller oppretter ny om den ikke finnes. |
+|  wb  | Åpner for skriving binært.                                                   |
+|  w+  | Åpner for skriving og lesing.                                                |
+|  a   | Åpner for appending, setter markør på slutten av filen                       |
+
+# Moduler
+
+En modul er en fil med Python-kode. Vi pleier å bruke moduler for å splitte opp programmene våre ytterligere, og i ITGK lager vi ingen sånne selv. Vi bruker derimot noen standard-moduler/biblioteker. Eksempler på dette er `random` og `math`.
+
+```python
+import random
+tilfeldig_tall = random.random() # Lagrer et tilfeldig desimaltall mellom 0 og 1 i variabelen.
+annet_tall = random.random(1, 6) # Lagrer et tilfeldig tall mellom 1 og 6 i variabelen.
+
+studenter = ["Magnus", "Snorre", "Eirik", "Synne"]
+leder = random.choice(studenter) # Velger et tilfeldig element i listen.
+```
+
+```python
+import math
+print("Verdien av π er: ", math.pi)
+```
