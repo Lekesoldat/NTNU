@@ -13,7 +13,7 @@ Did not take this course at NTNU, but did some of the tasks as I was asked to he
 
 Med forbehold om feil.
 
-![Cheat Sheet Logo](https://cdn.educba.com/academy/wp-content/uploads/2019/02/python3-cheat-sheet.jpg)
+![Cheat Sheet Logo](https://i.imgur.com/Per55Ez.png)
 
 # Variabler
 
