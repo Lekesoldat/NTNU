@@ -23,6 +23,8 @@ Isomorpic graphs: _Two identical graphs._
 **What is a central node in a graph (Centrality)?**  
 A node that is close to other nodes. The more central a node is, the closer it is to all other nodes. Its a measure of the importance of a vertex.
 
-Degree centrality: _The number of vertices that a given vertex is connected to._  
-Closeness centrality: _Total distance from a vertex to all other vertices in the network._  
+Degree centrality: _The number of vertices that a given vertex is connected to._
+
+Closeness centrality: _Total distance from a vertex to all other vertices in the network._
+
 Betweenness centrality: _Number of paths between each pair of vertices that pass through a vertex._
