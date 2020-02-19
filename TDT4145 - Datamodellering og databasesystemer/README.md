@@ -33,14 +33,14 @@ student_classes: class_id, student_id # the junction table
 
 Students
 | id | first | last |  
-|:-: |--- |--- |--- |
+|:-: |--- |--- |
 | 1 | John | Lee |
 | 2 | Jane | Wilson |  
 | 3 | Daniel | Gomez |
 
 Classes
 | id | name | teacher_id |  
-|:-: |--- |--- |--- |
+|:-: |--- |--- |
 | 1 | Biology | 2 |
 | 2 | Physics | 4 |  
 | 3 | English | 77 |
