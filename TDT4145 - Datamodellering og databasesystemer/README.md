@@ -2,6 +2,8 @@
 
 ## Implementing relations in SQL
 
+[Source](http://stackoverflow.com/a/7296873/396458)
+
 **One-to-one:** Use a foreign key to the refrence table.
 
 ```
