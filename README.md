@@ -40,17 +40,17 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 
 ## Spring / Summer 2020 - Fourth Semester
 
-- [TDT4140 - Programvareutvikling]()
+- [TDT4140 - Programvareutvikling](#)
 - [TDT4145 - Datamodellering og databasesystemer](https://github.com/Lekesoldat/NTNU/tree/master/TDT4145%20-%20Datamodellering%20og%20databasesystemer)
-- [x]()
-- [x]()
+- [MFEL1010 - Innføring i medisin for ikke-medisinere](#)
+- [TDT4300 Datavarehus og datagruvedrift](https://github.com/Lekesoldat/NTNU/tree/master/TDT4300%20-%20Datavarehus%20og%20datagruvedrift)
 
 ## Autumn 2020 - Fifth Semester
 
-- [x]()
-- [x]()
-- [x]()
-- [x]()
+- [IT2810 - Webutvikling]()
+- [TDT4117 - Informasjonsgjenfinning]()
+- [TDT4165 - Programmeringsspråk]()
+- [TIØ4146- Finans for teknisk-naturvitenskapelige studenter]()
 
 ## Spring / Summer 2021 - Sixth Semester
 
