@@ -1,0 +1,141 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  /* fallback for old browsers */
+  background: #ffefba;
+  /* Newer browserz */
+  background: linear-gradient(to left, #ffefba, #ffffff);
+  font-family: 'Source Code Pro', monospace;
+  font-size: 1.15em;
+}
+
+#content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#about {
+  grid-area: about;
+}
+
+#svgContainer {
+  grid-area: svg;
+}
+
+#canvasContainer {
+  grid-area: canvas;
+}
+
+#documentation {
+  grid-area: documentation;
+  margin-top: 2rem;
+}
+
+#documentationContent,
+#stopDiscoBackground {
+  display: none;
+}
+
+
+.artContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#actionsContainer,
+#discoBackgroundDiv {
+  grid-area: actions;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 200px;
+  font-size: 1.75rem;
+  font-family: 'Sedgwick Ave Display', cursive;
+  color: white;
+  background-image: url("smoke.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+header h1 {
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  margin: 1rem;
+  cursor: pointer;
+  background: #ffffff;
+  padding: 1rem 2rem;
+  border: 3px solid #484848;
+  transition: all 0.4s ease 0s;
+}
+
+button:hover {
+  color: #ffffff;
+  background: #FE8208;
+  border-color: #FE8208;
+  transition: all 0.4s ease 0s;
+}
+
+#content-grid {
+  width: 75%;
+  padding: 1rem;
+  display: grid;
+  gap: .75rem;
+  grid-template-columns: 3fr 1fr 3fr;
+  grid-template-areas:
+    "about about about"
+    "svg actions canvas"
+    "documentation documentation documentation";
+}
+
+.underline {
+  border-bottom: 2px solid black;
+}
+
+#svgBackground:hover {
+  fill: #086DAC
+}
+
+
+@media screen and (max-width: 1500px) {
+  #content-grid {
+    grid-template-areas:
+      "about about about"
+      "actions actions actions"
+      "svg svg svg"
+      "canvas canvas canvas"
+      "documentation documentation documentation";
+  }
+}
+
+@media screen and (max-width: 992px) {
+  #content-grid {
+    grid-template-areas:
+      "about about about"
+      "actions actions actions"
+      "svg svg svg"
+      "canvas canvas canvas"
+      "documentation documentation documentation";
+  }
+
+  body {
+    font-size: 1em
+  }
+
+  header {
+    font-size: 0.em;
+  }
+}
