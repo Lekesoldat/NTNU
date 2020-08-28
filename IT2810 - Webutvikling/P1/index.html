@@ -1,331 +1,254 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="styles.css" />
 
-    <!-- Font -->
-    <link
-      href="https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap"
-      rel="stylesheet"
-    />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap"
-      rel="stylesheet"
-    />
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" type="text/css" href="styles.css" />
 
-    <!-- jQuery -->
-    <script
-      src="https://code.jquery.com/jquery-3.5.1.min.js"
-      integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
-      crossorigin="anonymous"
-    ></script>
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet" />
 
-    <title>The Chameleon</title>
-  </head>
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 
-  <body>
-    <header>
-      <h1>The Chameleon</h1>
-    </header>
-    <div id="content">
-      <div id="content-grid">
-        <div id="about">
-          <h1>About</h1>
+  <title>The Chameleon</title>
+</head>
+
+<body>
+  <header>
+    <h1>The Chameleon</h1>
+  </header>
+  <div id="content">
+    <div id="content-grid">
+      <div id="about">
+        <h1>About</h1>
+        <p>
+          A late evening in 2013 the creative genius, Mr L., witnessed a wild
+          Chameleon change color, and he was hooked since then. As he was
+          unable to change the color of himself, he dedicated his life to
+          Chameleon inspired SVG- and Canvas Art.
+        </p>
+        <p>
+          Below is L's first ever creations, a true masterpiece:
+          <span style="font-weight: bold">"The
+            <span style="font-style: italic">HUMAN</span> Chameleon"</span>. The two different techniques display two
+          interpretations of what
+          a Chameleon is.
+        </p>
+      </div>
+
+      <div id="svgContainer" class="artContainer">
+        <h1>The <span style="font-style: italic">HUMAN</span> Chameleon</h1>
+        <p>- SVG -</p>
+        <svg id="svgChameleon" width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink">
+          <!-- Background -->
+          <rect id="svgBackground" width="100%" height="100%" fill="aliceblue" />
+
+          <!-- Head -->
+          <circle id="svgHead" cx="300" cy="95" r="40" />
+
+          <!-- Animatitons -->
+          <animate xlink:href="#svgHead" attributeName="fill"
+            values="#05E4D9;#086DAC;#040757;#ECEA00;#FE8208;#AA021B;#FB3AC6;#7E056D" dur="10s"
+            repeatCount="indefinite" />
+
+          <animate xlink:href="#svgLeftLeg" attributeName="stroke"
+            values="#05E4D9;#086DAC;#040757;#ECEA00;#FE8208;#AA021B;#FB3AC6;#7E056D" dur="10s"
+            repeatCount="indefinite" />
+
+          <animate xlink:href="#svgRightLeg" attributeName="stroke"
+            values="#05E4D9;#086DAC;#040757;#ECEA00;#FE8208;#AA021B;#FB3AC6;#7E056D" dur="10s"
+            repeatCount="indefinite" />
+
+          <!-- Left arm -->
+          <line id="svgLeftArm" x1="255" y1="200" x2="180" y2="150" stroke="black" stroke-linecap="round"
+            stroke-width=".5rem" />
+
+          <!-- Right arm -->
+          <line id="svgRightArm" x1="345" y1="200" x2="420" y2="150" stroke="black" stroke-linecap="round"
+            stroke-width=".5rem" />
+
+          <!-- Left leg -->
+          <line id="svgLeftLeg" x1="275" y1="250" x2="275" y2="300" stroke="black" stroke-linecap="round"
+            stroke-width=".5rem" />
+
+          <!-- Right leg -->
+          <line id="svgRightLeg" x1="325" y1="250" x2="350" y2="300" stroke="black" stroke-linecap="round"
+            stroke-width=".5rem" />
+
+          <!-- Body -->
+          <rect id="svgBody" x="250" y="150" width="100" height="100" />
+
+          <animateTransform id="bodyStart" xlink:href="#svgBody" attributeName="transform" type="rotate"
+            from="360 300 200" begin="0s;" to="0 300 200" dur="10s" repeatCount="indefinite" />
+        </svg>
+      </div>
+
+      <div id="actionsContainer">
+        <button id="randomBackground">RANDOM BACKGROUND</button>
+        <div id="discoBackgroundDiv">
+          <button id="discoBackground">DISCO</button>
           <p>
-            A late evening in 2013 the creative genius, Mr L., witnessed a wild
-            Chameleon change color, and he was hooked since then. As he was
-            unable to change the color of himself, he dedicated his life to
-            Chameleon inspired SVG- and Canvas Art.
+            (Play
+            <span style="font-style: italic">Losing it by Fisher</span> at
+            (2:01) before click)
           </p>
+        </div>
+        <button id="stopDiscoBackground">STOP DISCO</button>
+      </div>
+
+      <div id="canvasContainer" class="artContainer">
+        <h1>
+          The <span style="font-style: italic"> Moody HUMAN</span> Chameleon
+        </h1>
+        <p>- Canvas -</p>
+        <canvas id="canvasChameleon" width="600" height="400"></canvas>
+      </div>
+
+      <div id="documentation">
+        <button id="documentationButton">DISPLAY DOCUMENTATION</button>
+        <div id="documentationContent">
+          <h1>Documentation</h1>
+
+          <h2><span class="underline">Layout</span></h2>
           <p>
-            Below is L's first ever creations, a true masterpiece:
-            <span style="font-weight: bold"
-              >"The
-              <span style="font-style: italic">HUMAN</span> Chameleon"</span
-            >. The two different techniques display two interpretations of what
-            a Chameleon is.
+            I've used both Flexbox and CSS Grid in this project. I'm rather
+            familiar with Flexbox, so I wanted to use CSS Grid for practice.
+            CSS Grid is usually better than Flexbox when facing a 2D-layout
+            design or in general when a more complex layout is needed. Mine
+            isn't any complex, however I wanted the practice.
           </p>
-        </div>
 
-        <div id="svgContainer" class="artContainer">
-          <h1>The <span style="font-style: italic">HUMAN</span> Chameleon</h1>
-          <p>- SVG -</p>
-          <svg
-            id="svgChameleon"
-            width="600"
-            height="400"
-            viewBox="0 0 600 400"
-            xmlns="http://www.w3.org/2000/svg"
-            xmlns:xlink="http://www.w3.org/1999/xlink"
-          >
-            <!-- Background -->
-            <rect
-              id="svgBackground"
-              width="100%"
-              height="100%"
-              fill="aliceblue"
-            />
+          <p>
+            My grid holds and structures the main content. The page is divided
+            in three columns, where the outer ones each take up 3 times as
+            much space as the middle one. The about sections spans over all
+            the columns, the svg spans over the first column, the button the
+            next and the canvas the third. Lastly the documentation spans over
+            all columns. I've applied media queries to the page, making the
+            grid re-order the middle row on smaller screens. The SVG, button
+            and Canvas will stack when the screen is too small to display side
+            by side.
+          </p>
 
-            <!-- Head -->
-            <circle id="svgHead" cx="300" cy="95" r="40" />
+          <p>
+            Some of the div's holding content has Flexbox applied. This is
+            mainly for alignment as well as easy vertical and horizontal
+            center alignment, but also for responsiveness.
+          </p>
 
-            <!-- Animatitons -->
-            <animate
-              xlink:href="#svgHead"
-              attributeName="fill"
-              values="#05E4D9;#086DAC;#040757;#ECEA00;#FE8208;#AA021B;#FB3AC6;#7E056D"
-              dur="10s"
-              repeatCount="indefinite"
-            />
+          <h2><span class="underline">Art</span></h2>
+          <p>
+            The SVG is created inline in the HTML document, and the Canvas is
+            created in it's respective file. Both graphics utilize colors for
+            background, head and feet defined in the <code>art.js</code> file.
+            The random calculation of color is also done here.
+          </p>
 
-            <animate
-              xlink:href="#svgLeftLeg"
-              attributeName="stroke"
-              values="#05E4D9;#086DAC;#040757;#ECEA00;#FE8208;#AA021B;#FB3AC6;#7E056D"
-              dur="10s"
-              repeatCount="indefinite"
-            />
+          <h4>CSS</h4>
+          <p>Interactive-wise, CSS is used to target hovered SVG-elements changing colors and cursor.</p>
 
-            <animate
-              xlink:href="#svgRightLeg"
-              attributeName="stroke"
-              values="#05E4D9;#086DAC;#040757;#ECEA00;#FE8208;#AA021B;#FB3AC6;#7E056D"
-              dur="10s"
-              repeatCount="indefinite"
-            />
+          <h4>SVG</h4>
+          <p>
+            The SVG consists mainly of rectangles and lines. There's also a
+            circle and a square. The color changes is achieved by using
+            SVG-animations. The spinning body is created with
+            SVG-animation-transformations, - a really nice feature with great
+            and simple syntax. Compared to the Canvas-drawing, the SVG one was
+            rather easy to create. Not having to programatically create each
+            shape makes the code a lot easier to read and handle.
+          </p>
 
-            <!-- Left arm -->
-            <line
-              id="svgLeftArm"
-              x1="255"
-              y1="200"
-              x2="180"
-              y2="150"
-              stroke="black"
-              stroke-linecap="round"
-              stroke-width=".5rem"
-            />
+          <p>
+            Due to the built in animations and transformations, it was also
+            easier to make the code interractive. Being able to refer to
+            whatever SVG object needed in the CSS with simply an ID, is very
+            appreciated.
+          </p>
 
-            <!-- Right arm -->
-            <line
-              id="svgRightArm"
-              x1="345"
-              y1="200"
-              x2="420"
-              y2="150"
-              stroke="black"
-              stroke-linecap="round"
-              stroke-width=".5rem"
-            />
+          <h4>Canvas</h4>
+          <p>
+            The Canvas artwork, just as the SVG, consists of lines, squares
+            and a circle. The creation of the different shapes are split into
+            functions, as the canvas is being re-drawn continuously.
+          </p>
 
-            <!-- Left leg -->
-            <line
-              id="svgLeftLeg"
-              x1="275"
-              y1="250"
-              x2="275"
-              y2="300"
-              stroke="black"
-              stroke-linecap="round"
-              stroke-width=".5rem"
-            />
+          <p>
+            Two intervals are running in the background, one each 36th
+            millisecond, and one each 1,25th second. The first one makes the
+            body rotate at the same speed as the SVG, which is one full
+            rotation each 10th second. The second interval iterates a variable
+            making the colors of the head and legs change, - the same speed as
+            the SVG.
+          </p>
 
-            <!-- Right leg -->
-            <line
-              id="svgRightLeg"
-              x1="325"
-              y1="250"
-              x2="350"
-              y2="300"
-              stroke="black"
-              stroke-linecap="round"
-              stroke-width=".5rem"
-            />
+          <p>
+            To make the body spin, the canvas has to be rotated, a new shape
+            has to be drawn, and the canvas has to be rotated back to normal
+            to not de-align the other content. This happens inside one of the
+            loops, and the canvas has to be re-drawn each iteration. If the
+            canvas is not cleared, the shapes will stack on top of each other
+            resulting in the square body gradually drawing out a circle.
+          </p>
 
-            <!-- Body -->
-            <rect id="svgBody" x="250" y="150" width="100" height="100" />
+          <p>
+            Another functionality in the Canvas art is the mouse tracking, -
+            when a page visitor hovers the canvas and gets too close to the
+            Human Chameleons personal space, the mood is set to sad. This is
+            achieved by checking the mouse's x and y coordinates compared to
+            the "personal space".
+          </p>
 
-            <animateTransform
-              id="bodyStart"
-              xlink:href="#svgBody"
-              attributeName="transform"
-              type="rotate"
-              from="0 300 200"
-              begin="0s;"
-              to="360 300 200"
-              dur="10s"
-              repeatCount="indefinite"
-            />
-          </svg>
-        </div>
+          <h2><span class="underline">jQuery</span></h2>
+          <p>
+            jQuery makes manipulation, animation and especially event handling
+            easier in HTML.
+          </p>
 
-        <div id="actionsContainer">
-          <button id="randomBackground">RANDOM BACKGROUND</button>
-          <div id="discoBackgroundDiv">
-            <button id="discoBackground">DISCO</button>
-            <p>
-              (Play
-              <span style="font-style: italic">Losing it by Fisher</span> at
-              (2:01) before click)
-            </p>
-          </div>
-          <button id="stopDiscoBackground">STOP DISCO</button>
-        </div>
+          <p>
+            jQuery is here mainly used to select various elements on the page
+            and applying event handling. For instance the backgrounds are
+            changed by selecting parts of the SVG and the entire canvas with
+            jQuery, then applying the new color.
+          </p>
 
-        <div id="canvasContainer" class="artContainer">
-          <h1>
-            The <span style="font-style: italic"> Moody HUMAN</span> Chameleon
-          </h1>
-          <p>- Canvas -</p>
-          <canvas id="canvasChameleon" width="600" height="400"></canvas>
-        </div>
+          <p>
+            jQuery also offered some neat toggle functionality. With jQuery I
+            selected the documentation section, checked it's state (hidden or
+            not) and toggled which state was fitting. The jQuery slideToggle
+            applied a smooth expanding animation. I also used the library to
+            manipulate the text attribute of the buttons, as well as hiding
+            and showing disco buttons. Lastly jQuery was used to start/stop SVG-animations on click.
+          </p>
 
-        <div id="documentation">
-          <button id="documentationButton">DISPLAY DOCUMENTATION</button>
-          <div id="documentationContent">
-            <h1>Documentation</h1>
+          <h2><span class="underline">Cross-browser testing</span></h2>
+          <p>
+            I tested my page in both Chrome, FireFox, FireFox Dev. Edition and
+            Safari. I've also resized to simulate different screen sizes, and
+            the result looks good on all screens. I tried my best to force any
+            errors, but I was not successfull.
+          </p>
 
-            <h2><span class="underline">Layout</span></h2>
-            <p>
-              I've used both Flexbox and CSS Grid in this project. I'm rather
-              familiar with Flexbox, so I wanted to use CSS Grid for practice.
-              CSS Grid is usually better than Flexbox when facing a 2D-layout
-              design or in general when a more complex layout is needed. Mine
-              isn't any complex, however I wanted the practice.
-            </p>
-
-            <p>
-              My grid holds and structures the main content. The page is divided
-              in three columns, where the outer ones each take up 3 times as
-              much space as the middle one. The about sections spans over all
-              the columns, the svg spans over the first column, the button the
-              next and the canvas the third. Lastly the documentation spans over
-              all columns. I've applied media queries to the page, making the
-              grid re-order the middle row on smaller screens. The SVG, button
-              and Canvas will stack when the screen is too small to display side
-              by side.
-            </p>
-
-            <p>
-              Some of the div's holding content has Flexbox applied. This is
-              mainly for alignment as well as easy vertical and horizontal
-              center alignment, but also for responsiveness.
-            </p>
-
-            <h2><span class="underline">Art</span></h2>
-            <p>
-              The SVG is created inline in the HTML document, and the Canvas is
-              created in it's respective file. Both graphics utilize colors for
-              background, head and feet defined in the <code>art.js</code> file.
-              The random calculation of color is also done here.
-            </p>
-
-            <h4>CSS</h4>
-            <p>Interactive-wise, CSS is used to target hovered SVG-elements.</p>
-
-            <h4>SVG</h4>
-            <p>
-              The SVG consists mainly of rectangles and lines. There's also a
-              circle and a square. The color changes is achieved by using
-              SVG-animations. The spinning body is created with
-              SVG-animation-transformations, - a really nice feature with great
-              and simple syntax. Compared to the Canvas-drawing, the SVG one was
-              rather easy to create. Not having to programatically create each
-              shape makes the code a lot easier to read and handle.
-            </p>
-
-            <p>
-              Due to the built in animations and transformations, it was also
-              easier to make the code interractive. Being able to refer to
-              whatever SVG object needed in the CSS with simply an ID, is very
-              appreciated.
-            </p>
-
-            <h4>Canvas</h4>
-            <p>
-              The Canvas artwork, just as the SVG, consists of lines, squares
-              and a circle. The creation of the different shapes are split into
-              functions, as the canvas is being re-drawn continuously.
-            </p>
-
-            <p>
-              Two intervals are running in the background, one each 36th
-              millisecond, and one each 1,25th second. The first one makes the
-              body rotate at the same speed as the SVG, which is one full
-              rotation each 10th second. The second interval iterates a variable
-              making the colors of the head and legs change, - the same speed as
-              the SVG.
-            </p>
-
-            <p>
-              To make the body spin, the canvas has to be rotated, a new shape
-              has to be drawn, and the canvas has to be rotated back to normal
-              to not de-align the other content. This happens inside one of the
-              loops, and the canvas has to be re-drawn each iteration. If the
-              canvas is not cleared, the shapes will stack on top of each other
-              resulting in the square body gradually drawing out a circle.
-            </p>
-
-            <p>
-              Another functionality in the Canvas art is the mouse tracking, -
-              when a page visitor hovers the canvas and gets too close to the
-              Human Chameleons personal space, the mood is set to sad. This is
-              achieved by checking the mouse's x and y coordinates compared to
-              the "personal space".
-            </p>
-
-            <h2><span class="underline">jQuery</span></h2>
-            <p>
-              jQuery makes manipulation, animation and especially event handling
-              easier in HTML.
-            </p>
-
-            <p>
-              jQuery is here mainly used to select various elements on the page
-              and applying event handling. For instance the backgrounds are
-              changed by selecting parts of the SVG and the entire canvas with
-              jQuery, then applying the new color.
-            </p>
-
-            <p>
-              jQuery also offered some neat toggle functionality. With jQuery I
-              selected the documentation section, checked it's state (hidden or
-              not) and toggled which state was fitting. The jQuery slideToggle
-              applied a smooth expanding animation. I also used the library to
-              manipulate the text attribute of the buttons, as well as hiding
-              and showing disco buttons.
-            </p>
-
-            <h2><span class="underline">Cross-browser testing</span></h2>
-            <p>
-              I tested my page in both Chrome, FireFox, FireFox Dev. Edition and
-              Safari. I've also resized to simulate different screen sizes, and
-              the result looks good on all screens. I tried my best to force any
-              errors, but I was not successfull.
-            </p>
-
-            <h2><span class="underline">Resources</span></h2>
-            <ul>
-              <li>
-                <a
-                  href="https://css-tricks.com/snippets/css/complete-guide-grid/"
-                  >Complete Guide Grid</a
-                >
-              </li>
-              <li>
-                <a href="https://css-tricks.com/guide-svg-animations-smil/"
-                  >SVG Animations</a
-                >
-              </li>
-            </ul>
-          </div>
+          <h2><span class="underline">Resources</span></h2>
+          <ul>
+            <li>
+              <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">Complete Guide Grid</a>
+            </li>
+            <li>
+              <a href="https://css-tricks.com/guide-svg-animations-smil/">SVG Animations</a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>
+  </div>
 
-    <script src="main.js"></script>
-    <script src="art.js"></script>
-  </body>
+  <script src="main.js"></script>
+  <script src="art.js"></script>
+</body>
+
 </html>

@@ -51,6 +51,7 @@ const backgroundColors = [
   "#6666FF",
 ];
 
+// Apply random background
 $("#randomBackground").click(() => {
   const color =
     backgroundColors[Math.floor(Math.random() * backgroundColors.length)];
@@ -62,7 +63,19 @@ $("#randomBackground").click(() => {
   backgroundColor = color;
 });
 
-// Handle disco button clicks
+// Pause / unpause SVG animations
+let isPlaying = true;
+$("#svgChameleon").click(() => {
+  if (isPlaying) {
+    $("#svgChameleon").get(0).pauseAnimations();
+  } else {
+    $("#svgChameleon").get(0).unpauseAnimations();
+  }
+
+  isPlaying = !isPlaying;
+});
+
+// Disco mode
 let disco = null;
 $("#discoBackground").click(() => {
   $("#discoBackgroundDiv").hide();
@@ -85,6 +98,7 @@ $("#discoBackground").click(() => {
   }, 100);
 });
 
+// Stop disco mode
 $("#stopDiscoBackground").click(() => {
   $("#discoBackgroundDiv").show();
   $("#stopDiscoBackground").hide();

@@ -109,6 +109,10 @@ button:hover {
   fill: #086DAC
 }
 
+#svgChameleon {
+  cursor: pointer;
+}
+
 
 @media screen and (max-width: 1500px) {
   #content-grid {
