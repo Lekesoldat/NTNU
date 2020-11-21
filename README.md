@@ -49,7 +49,7 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 
 - [IT2810 - Webutvikling]()
 - [TDT4117 - Informasjonsgjenfinning]()
-- [TDT4165 - Programmeringsspråk]()
+- [TDT4165 - Informasjonssystemer]()
 - [TIØ4146 - Finans for teknisk-naturvitenskapelige studenter]()
 
 ## Spring / Summer 2021 - Sixth Semester
