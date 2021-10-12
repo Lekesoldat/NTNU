@@ -1,0 +1,22 @@
+[[business_entities]]
+== Business Entities 
+
+Identify the business entities around which you will capture data and analytics insight. 
+For each of these highlight the types of data that you will capture.
+
+Kunder
+Bruksmønster, prissensitivitet, lojalitet til merke
+
+Kjøretøyene
+kvalitet, lokasjon, levetid, 
+
+Søkemotorer
+hva gjør konkurrentene bedre, hva søker folk på for å finne oss
+
+konkurrenter
+prising, tilgjengelighet, ideer
+
+lokale myndigheter
+kan brukes som pr, kan gi god statistikk om ulykker og bruk i feks kombo med kollektiv transport
+
+

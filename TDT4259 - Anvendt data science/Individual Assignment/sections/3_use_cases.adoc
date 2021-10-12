@@ -1,0 +1,9 @@
+[[use_cases]]
+== Use Cases
+
+Develop a number of use cases that are necessary to support the targeted business initiative. 
+Start by a categorization of these based on the business function in which they belong if appropriate.
+
+=== Prioritization of use cases on matrix
+Place each of the use cases on the matrix and then develop a list of the sequence in which they will be addressed. 
+Explain why you developed this ordering and why the sequence makes sense.

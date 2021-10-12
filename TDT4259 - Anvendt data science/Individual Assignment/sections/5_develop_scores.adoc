@@ -1,0 +1,5 @@
+[[develop_scores]]
+== Develop Scores
+
+Describe 3-5 composite scores that make sense for your business initiative. 
+Present which variables they are comprised of and provide a rationale for their selection.

@@ -1,0 +1,6 @@
+
+[[data_sources]]
+== Data Sources
+
+For the top 3 prioritized use cases brainstorm the data sources that are relevant. 
+List them briefly per use case and then plot them on the table as per slide 68 of Lecture 3.

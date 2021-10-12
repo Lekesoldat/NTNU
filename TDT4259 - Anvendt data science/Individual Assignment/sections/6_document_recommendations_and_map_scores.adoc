@@ -1,0 +1,5 @@
+[[document_recs_and_scores]]
+== Document recommendations and map scores 
+
+For the three top prioritized use cases describe 3-5 recommendations and then map the appropriate scores to them that could help capture relevant data for decision-making. 
+The recommendations and the scores must be selected based on how well they target the selected business initiative.

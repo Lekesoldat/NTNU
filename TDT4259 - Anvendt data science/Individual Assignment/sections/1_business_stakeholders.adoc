@@ -1,0 +1,19 @@
+[[business_stakeholders]]
+== Business Stakeholders
+
+Here you need to introduce the business stakeholders that are impacted or impact the selected business initiative. 
+For each of the provide a description and explain why this initiative is important for them.
+
+Kunder
+
+Markedsføringsavdeling
+
+Ansatte
+
+Lokale myndigheter og politi
+
+Sårbare grupper
+https://www.voiscooters.com/no/kjor-trygt/vart-sikkerhetslofte/
+
+Samarbeidspartnere
+

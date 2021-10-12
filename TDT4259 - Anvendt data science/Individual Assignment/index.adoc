@@ -1,0 +1,45 @@
+// (C) Aslak Hollund & August Sollesnes Solvang
+:bibtex-file: library.bib
+:bibtex-order: alphabetical
+:bibtex-style: ieee
+:stem: asciimath
+:xrefstyle: short
+:sectnums:
+:toc: macro
+:stylesheet: style/empty.css
+:docinfo: shared,pivate-footer
+
+= Voi Technology
+Magnus Lauritzen Holtet
+
+[[byline]]
+Individual Assignment
+
+[[department]]
+Department of Computer Science
+
+[[ntnu_logo]]
+[.right]
+image:figures/ntnu.png[ntnu,100,float="right",align="center"]
+
+toc::[]
+
+include::sections/0_business_initiative.adoc[]
+
+include::sections/1_business_stakeholders.adoc[]
+
+include::sections/2_business_entities.adoc[]
+
+include::sections/3_use_cases.adoc[]
+
+include::sections/4_data_sources.adoc[]
+
+include::sections/5_develop_scores.adoc[]
+
+include::sections/6_document_recommendations_and_map_scores.adoc[]
+
+== Bibliography
+
+bibliography::[]
+
+include::sections/appendix.adoc[]
