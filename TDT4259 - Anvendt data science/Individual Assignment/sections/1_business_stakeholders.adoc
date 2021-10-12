@@ -1,19 +1,60 @@
 [[business_stakeholders]]
 == Business Stakeholders
 
-Here you need to introduce the business stakeholders that are impacted or impact the selected business initiative. 
-For each of the provide a description and explain why this initiative is important for them.
+A business stakeholder is a group or an individual with a relationship with the respective business. 
+The relationship is relevant if the stakeholder is either being impacted or impacts the business.
+To achieve the business initiative of 5% increased annual recurring revenue, Voi will need input and insight from, as well as impact, several stakeholders. 
 
-Kunder
+[discrete]
+==== Customers
+The customers are the essential stakeholders, and they can be split into groups.
 
-Markedsføringsavdeling
+- Commuters: These customers use the scooters either as the primary vehicle for their commute or the last-mile mobility solution. 
 
-Ansatte
+- Explorers: Ever wanted to explore a new area silently and swiftly? Then, Voi's scooters are your best friend. 
+Being available in over 40 cities, Voi offers a great way to from point A to point B in the blink of an eye.
 
-Lokale myndigheter og politi
+- Hobbyists: Riding the scooters are fun.
+Some customers use the scooters for pure enjoyment. 
+Riding around with friends and family can be a great experience.
 
-Sårbare grupper
-https://www.voiscooters.com/no/kjor-trygt/vart-sikkerhetslofte/
+Familiar to all customers is that they all generate income to Voi by using the service, thus supporting the business initiative.
+As long as the service is reasonably priced and meets quality expectations, the revenue is almost guaranteed.
 
-Samarbeidspartnere
+
+[discrete]
+==== Employees
+The employees are the foundation of a company.
+
+- The developers: Responsible for creating a good app, an excellent web page, and implementing the vehicle pool's software parts.
+
+- The designers: Responsible for creating an appealing design on the software and creating intuitive and user-friendly vehicles. 
+User-friendly design and experiences sell. 
+
+- The engineers: Responsible for creating durable, highly functioning, and maintainable products.
+Reliable vehicles cause less hassle and give customers a great experience.
+
+- The technicians: Responsible for maintenance and repairs and ensuring the fleet meets the highest safety and quality standards.
+Safe and always up-to-date vehicles can keep users subscribed and Voi their prioritization when scooting. 
+
+- The marketers: Responsible for increased awareness of the service. 
+Better publicity, more customers.
+
+Happy and satisfied employees perform the best.
+Each employee counts, and familiar to them is that their work impacts the business initiative, both combined and individually.
+
+
+[discrete]
+==== Local authorities
+To increase the annual recurring revenue, the company's expansion usually follows - at least for a startup like Voi.
+Accidents with el-scooters happen, and they can be of great danger to both the user and innocent bystanders.
+Collaboration with local authorities and regulations of the service is essential to move towards the business initiative.=
+
+
+[discrete]
+==== Vulnerable groups
+With the expansion, more scooters naturally follow on the market. 
+These scooters must have a place to stand, and they must have places to ride. 
+A quick google search shows that particularly vulnerable groups suffer from this. 
+For Voi to be able to meet its goals of increased annual recurring returns, it is essential that they, through dialogue and cooperation, ensure that the needs of this group are met sufficiently.
 

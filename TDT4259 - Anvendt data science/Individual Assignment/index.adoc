@@ -8,22 +8,23 @@
 :toc: macro
 :stylesheet: style/empty.css
 :docinfo: shared,pivate-footer
+:nofooter:
 
 = Voi Technology
 Magnus Lauritzen Holtet
 
 [[byline]]
-Individual Assignment
+Individual Assignment, October 2021
 
 [[department]]
 Department of Computer Science
 
 [[ntnu_logo]]
-[.right]
-image:figures/ntnu.png[ntnu,100,float="right",align="center"]
+image:figures/ntnu.png[ntnu,100]
 
 toc::[]
 
+<<<
 include::sections/0_business_initiative.adoc[]
 
 include::sections/1_business_stakeholders.adoc[]

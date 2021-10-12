@@ -11,38 +11,28 @@ Voi is the fastest-growing European micro-service provider, but they are also th
 Founded in 2018, the company has had tremendous growth, and as of 2021, they have over six million users. 
 What started as a small startup born in Sweden has become an international company with over five hundred employees from over fifty nationalities. 
 
-Voi intends to take responsibility for its environmental impact.
+Voi does not publicly publish annual reports detailing previous years' financial results or future strategic plans.
+However, Voi has published several reports regarding security and sustainability.
+Based on the publicly provided information cite:[SafetyPledge, Sustainability] and assumptions, one can create a list of important key performance indicators (KPI). 
+Using these KPIs, one can gauge the company's progress.
+
+.Key Performance Indicators
+[cols="^1,8"]
+|===
+2+|Key Performance Indicators (KPI)
+
+|1 | Increase annual recurring revenue
+
+|2 | Extend vehicle lifespan
+
+|3 | Reduce micro-mobility accidents
+|===
+
+
+The focus initiative of this report and the target business initiative will be increasing the annual recurring revenue by 5% by the end of 2022. 
+Voi is in a growth phase, and the initiative is essential to provide better solutions and products and prove to shareholders that their business model is viable. 
+The revenue stream encompasses revenue from a variety of scooter subscriptions and single trips.
+
+Further, Voi pursues and advocates for a zero-vision of micro-mobility accidents and being climate neutral cite:[SafetyPledge, Sustainability]. 
+Voi intends to take responsibility for its environmental impact and the user's safety.
 The micro-mobility sector is brand new, and as first-movers, Voi has a crystal clear action plan to improve their climate impact and leave a well-leading trail for aftercomers. 
-
-
-- øke antallet kunder
-- færre skadde
-- lengre levetid på scooterne
-
-
-
-
-
-
-In this section you will need to describe the organization you have selected and present some information about its main activities, its history and operations, as well as how it has been operating in the last years. 
-
-After this brief introduction you will identify a target business initiative and describe it in a bit more depth (what it includes, why it is important for the organization, what is its time-frame etc)
-
-Note: 
-The business initiative can be something broad enough so that it can be decomposed later into several use cases.
-
-- beskriv voi
-	- antall ansatte
-	- omsetning
-	- kort om bakgrunn
-	- noe om hvordan det har vokst?
-
-
-- noe om at det var vanskelig å definere spesifikke KPIier, men at man basert på egen forståelse kan definere selv
-	- sikkerhet
-	- kvalitet
-	- få flere til å ta trafikkskolen
-	- spredning til flere land og byer (krever da samarbeid med myndighetene)
-	- flere brukere
-
-- husk å sette dato
