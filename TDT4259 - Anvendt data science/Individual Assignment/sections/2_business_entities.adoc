@@ -1,22 +1,33 @@
 [[business_entities]]
 == Business Entities 
 
-Identify the business entities around which you will capture data and analytics insight. 
-For each of these highlight the types of data that you will capture.
+[discrete]
+==== Customers / users
+The customers are not only essential stakeholders but also significant business entities which can gather valuable insight.
+As a customer, one is a user of the service and can therefore provide great behavioral insight.
+Increasing the annual recurring revenue requires increased active users, increased usage per user, or higher prices per ride.
+By analyzing the customer's app and scooter usage, one can get a clear picture of their usage pattern, price sensitivity, and loyalty to the brand.
+Geographical data from the users may give insight into popular areas and the opposite and high traffic stretches. 
 
-Kunder
-Bruksmønster, prissensitivitet, lojalitet til merke
+[discrete]
+==== The vehicles
+The vehicles are one of the most important entities.
+All of Voi's vehicles are equipped with loads of sensors, GPS trackers, and more, giving valuable insight.
+Customers expect top-quality scooters offering safe and reliable rides. 
+By analyzing the data from sensors and trackers, service intervals, etc., one can act accordingly.
+It may result in design improvements, software changes, and so on. 
+By limiting the reasons for customers to look in an opponent's direction, one can move closer to the business initiative.
 
-Kjøretøyene
-kvalitet, lokasjon, levetid, 
+[discrete]
+==== Competitors
+Voi was in Europe the first micro-mobility provider, but today there are numerous new actors every month.
+The competition is getting tighter, and companies such as Ryde and Tier are prominent. 
+These companies offer excellent services, and as business entities, Voi can learn from them.
+Comparing and analyzing pricing and availability can give valuable business insight for Voi and optimize their models.
 
-Søkemotorer
-hva gjør konkurrentene bedre, hva søker folk på for å finne oss
-
-konkurrenter
-prising, tilgjengelighet, ideer
-
-lokale myndigheter
-kan brukes som pr, kan gi god statistikk om ulykker og bruk i feks kombo med kollektiv transport
-
-
+[discrete]
+==== Local authorities
+Local authorities may offer great value to the business initiative. 
+Data regarding accidents, crime, and use in combination with public transport may be obtained by Voi and analyzed.
+Voi is often a last-mile mobility solution, and data analysis may discover new areas and ways of achieving that, thus supporting the initiative.
+Great collaboration with authorities may also give great recognition and PR, naturally supporting the aim of increased annual recurring revenue as more customers are likely.

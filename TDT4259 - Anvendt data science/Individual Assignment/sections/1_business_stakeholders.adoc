@@ -6,7 +6,7 @@ The relationship is relevant if the stakeholder is either being impacted or impa
 To achieve the business initiative of 5% increased annual recurring revenue, Voi will need input and insight from, as well as impact, several stakeholders. 
 
 [discrete]
-==== Customers
+=== Customers
 The customers are the essential stakeholders, and they can be split into groups.
 
 - Commuters: These customers use the scooters either as the primary vehicle for their commute or the last-mile mobility solution. 
@@ -56,5 +56,5 @@ Collaboration with local authorities and regulations of the service is essential
 With the expansion, more scooters naturally follow on the market. 
 These scooters must have a place to stand, and they must have places to ride. 
 A quick google search shows that particularly vulnerable groups suffer from this. 
-For Voi to be able to meet its goals of increased annual recurring returns, it is essential that they, through dialogue and cooperation, ensure that the needs of this group are met sufficiently.
+For Voi to meet its goals of increased annual recurring returns, it is essential that they, through dialogue and cooperation, ensure that the needs of this group are met sufficiently.
 

@@ -1,6 +1,5 @@
 [[business_initiative]]
 == Business Initiative
-
 Voi Technology is the fastest-growing European micro-mobility provider. 
 The Scandinavian company offers electric scooters in collaboration and partnership with local communities around Europe cite:[RideVOIFuture]. 
 Voi envisions cities free from congestion, noise, and pollution. 
