@@ -1,8 +1,44 @@
 [[use_cases]]
 == Use Cases
+The business initiative, _increasing the annual recurring revenue by 5% by the end of 2022_, can as mentioned earlier be broken down into three different drivers of revenue.
 
-Develop a number of use cases that are necessary to support the targeted business initiative. 
-Start by a categorization of these based on the business function in which they belong if appropriate.
+1. Increase active users
+2. Increase usage per user
+3. Up prices per ride
+
+Any use case and key decision must support the initiative, and they are the following:
+
+[upperalpha]
+. Increase active users by x% (_Sales, Marketing_)
+** This use case is a merge of 'Expand existing market in cities by X%' and 'Expand market to new areas'. Both of these use cases would result in and increase of active users.
+** The users generate the greates portion of the revenue and therefore contributes to the business initiative.
+
+. Increase durability of scooters by x% (_Technology_)
+** Higly functioning scooters provide a great user experience. When the service at hand for the customer works well, there should be no need for the customer to look in an opponents direction.
+
+. Reduce churn rate by x% (_Sales, Marketing_)
+** The churn rate is the rate at which customers stop doing business with an entity cite:[ChurnRate]. With new actors on the market, Voi must keep their users away from cancelling their subscribtions and moving over to competetors.
+** Voi must ensure to keep their subscribers subscribed and satisfied.
+
+. Increase amount of payment plans (_Sales, Marketing_)
+** As of now users may only choose between a monthly subscription, 7-day pass, and a 24h pass as plans. One can also pay as you go.
+** Increasing the amounts of plans might target the users not willing to pay for what already exists. 
+
+. Increase app/web page traffic by x% (_Sales, Technology, Marketing_)
+** More traffic results in more common knowledge of Voi and their services. This might lead to new customers.
+
+. Increase usage per user by x% (_Technology, sales  _)
+** The more the service is used, the more revenue is generated. Users riding a lot create habits of riding, thus contributing to the business initiative.
+
+. Up ride prices by x% (_Sales_)
+** Increasing the prices will result in increased revenue from the already existing users. One must be extremely carefull doin so to avoid losing customers to competitors.
+
+. Increase acquisitions by x% (_Sales_)
+** With many new actors on the market, Voi may achieve their business initiative by buying their competitors. This allows Voi to dominate the market resulting in presumably more subscriptions. It is worth mentioning that this may be expensive.
+
+. Increase variety of vehicles in fleet (_Content, Technology, Sales, Marketing_)
+** As of now Voi's primary focus lies on their el-scooters. By increasing their fleet with different vehicles covering different needs, one can assume that their business initiative will be met easier.
+
 
 === Prioritization of use cases on matrix
 Place each of the use cases on the matrix and then develop a list of the sequence in which they will be addressed. 
