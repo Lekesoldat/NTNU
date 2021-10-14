@@ -14,8 +14,8 @@ Any use case and a critical decision must support the initiative, and they are t
 ** The users generate the most significant portion of the revenue and therefore contribute to the business initiative.
 ** The feasibility of this use case is relatively high as it is already an ongoing company process. In addition, they are constantly growing and expanding their markets.
 
-. Increase durability of scooters by x% (_Technology_)
-** Highly functioning scooters provide a great user experience. When the service at hand for the customer works well, there should be no need for the customer to look in an opponent's direction.
+. Increase safety and durability of scooters by x% (_Technology_)
+** Highly functioning and safe scooters provide a great user experience. When the service at hand for the customer works well, there should be no need for the customer to look in an opponent's direction.
 ** Voi has over 30 repair teams, as well as an excellent department continuously improving the scooters. The feasibility of this use case is relatively high.
 
 . Reduce churn rate by x% (_Sales, Marketing_)

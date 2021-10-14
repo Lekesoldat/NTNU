@@ -2,5 +2,35 @@
 [[data_sources]]
 == Data Sources
 
-For the top 3 prioritized use cases brainstorm the data sources that are relevant. 
-List them briefly per use case and then plot them on the table as per slide 68 of Lecture 3.
+*Relevant data sources for 'A. Increase active users by x%'*:
+
+- User data, Age, location, riding habits, and preferred mobile device. Does the existing solution fit the needs? What can be done?
+- Scooter location. What areas are hot? Where can Voi expand? Is there a demand somewhere?
+- Public transport hubs. Areas where Voi's scooters can be the last mile solution.
+- Price sensitivity. Is the price competitive in regards to competitors?
+- Revenue spread. What generates the most revenue? Subscriptions or single trip rides?
+- Feedback. Open feedback of the provided service from the customers.
+- Marketing reach. How efficient is the marketing? 
+- Local authorities. As earlier addressed, good relations with the authorities may result in new customers.
+- Quarters in a year. How is the service used when? More/less traffic?
+
+*Relevant data sources for 'B. Increase safety and durability of scooters by x%'*:
+
+- Local authorities. Access to accident statistics. Where are people hurt, and what are the circumstances?
+- Repair statistics. What is the expected lifespan of a scooter? How long does a repair take?
+- Training. Voi offers an online traffick school cite:[SafetyPledge]. How many are attending? What can attract more people?
+- Feedback. Do the scooters work as intended? Is there something wrong? Improvements?
+- Competition. Are other actors doing something Voi could learn from?
+- Technology. Sensors and software offer valuable insight into the wearing and stress of the vehicle.
+- Research. Voi pledge to use technology to find innovative ways of increasing road safety cite:[SafetyPledge].
+
+*Relevant data sources for 'C. Reduce churn rate by x%'*:
+
+- Feature data. What does the user like, what is missing?
+- Customer data. Age, location, riding habits, time spent.
+- Feedback. Do other companies offer something resulting in users swapping provider?
+- Quarters in a year. Does the different season result in users canceling subscriptions? How can this be countered?
+- Competitions. What do competitors do differently?
+
+.Data source relevance for use cases. 0-4 from least to most relevant
+image::figures/sources.png[sources]
