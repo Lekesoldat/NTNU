@@ -1,45 +1,58 @@
 [[use_cases]]
 == Use Cases
-The business initiative, _increasing the annual recurring revenue by 5% by the end of 2022_, can as mentioned earlier be broken down into three different drivers of revenue.
+The business initiative, _increasing the annual recurring revenue by 5% by the end of 2022_, can be broken down into three different revenue drivers.
 
 1. Increase active users
 2. Increase usage per user
 3. Up prices per ride
 
-Any use case and key decision must support the initiative, and they are the following:
+Any use case and a critical decision must support the initiative, and they are the following:
 
 [upperalpha]
 . Increase active users by x% (_Sales, Marketing_)
-** This use case is a merge of 'Expand existing market in cities by X%' and 'Expand market to new areas'. Both of these use cases would result in and increase of active users.
-** The users generate the greates portion of the revenue and therefore contributes to the business initiative.
+** This use case is a merge of 'Expand existing market in cities by X%' and 'Expand market to new areas.' Both of these use cases would increase active users.
+** The users generate the most significant portion of the revenue and therefore contribute to the business initiative.
+** The feasibility of this use case is relatively high as it is already an ongoing company process. In addition, they are constantly growing and expanding their markets.
 
 . Increase durability of scooters by x% (_Technology_)
-** Higly functioning scooters provide a great user experience. When the service at hand for the customer works well, there should be no need for the customer to look in an opponents direction.
+** Highly functioning scooters provide a great user experience. When the service at hand for the customer works well, there should be no need for the customer to look in an opponent's direction.
+** Voi has over 30 repair teams, as well as an excellent department continuously improving the scooters. The feasibility of this use case is relatively high.
 
 . Reduce churn rate by x% (_Sales, Marketing_)
-** The churn rate is the rate at which customers stop doing business with an entity cite:[ChurnRate]. With new actors on the market, Voi must keep their users away from cancelling their subscribtions and moving over to competetors.
+** The churn rate is the rate at which customers stop doing business with an entity cite:[ChurnRate]. With new actors on the market, Voi must keep its users away from canceling their subscriptions and moving over to competitors.
 ** Voi must ensure to keep their subscribers subscribed and satisfied.
+** As the leading provider in the micro-mobility sector, Voi has a good foothold in the current market, thus making this use case rather feasible as well.
 
-. Increase amount of payment plans (_Sales, Marketing_)
-** As of now users may only choose between a monthly subscription, 7-day pass, and a 24h pass as plans. One can also pay as you go.
+. Increase the number of payment plans (_Sales, Marketing_)
+** As of now, users may only choose between a monthly subscription, 7-day pass, and a 24h pass as plans. One can also pay as you go.
 ** Increasing the amounts of plans might target the users not willing to pay for what already exists. 
+** This use case is relatively easy to fulfill; however, it might not give the most significant value compared to the other use cases. The majority of the users are probably satisfied with the already existing plans.
 
 . Increase app/web page traffic by x% (_Sales, Technology, Marketing_)
-** More traffic results in more common knowledge of Voi and their services. This might lead to new customers.
+** More traffic results in more familiar knowledge of Voi and its services, which yields new customers.
+** Both the web page and app are well developed and already generating good traffic. One can constantly improve SEO, but the total value of doing so might not be the greatest.
 
-. Increase usage per user by x% (_Technology, sales  _)
+. Increase usage per user by x% (_Technology, sales_)
 ** The more the service is used, the more revenue is generated. Users riding a lot create habits of riding, thus contributing to the business initiative.
+** By analyzing available data, this use case is highly feasible, thus bringing great value to the company.
 
 . Up ride prices by x% (_Sales_)
-** Increasing the prices will result in increased revenue from the already existing users. One must be extremely carefull doin so to avoid losing customers to competitors.
+** Increasing the prices will result in increased revenue from the already existing users. 
+** One must be highly careful doing so to avoid losing customers to competitors. The price increment might not generate as much revenue as planned.
 
 . Increase acquisitions by x% (_Sales_)
-** With many new actors on the market, Voi may achieve their business initiative by buying their competitors. This allows Voi to dominate the market resulting in presumably more subscriptions. It is worth mentioning that this may be expensive.
+** With many new actors on the market, Voi may achieve their business initiative by buying their competitors. This allows Voi to dominate the market, resulting in presumably more subscriptions. 
+** The feasibility of this use case is relatively low, but it might generate value. It is costly, and local regulations might stay in the way.
 
-. Increase variety of vehicles in fleet (_Content, Technology, Sales, Marketing_)
-** As of now Voi's primary focus lies on their el-scooters. By increasing their fleet with different vehicles covering different needs, one can assume that their business initiative will be met easier.
+. Increase the variety of vehicles in the fleet (_Content, Technology, Sales, Marketing_)
+** As of now, Voi's primary focus lies on their el-scooters. By increasing their fleet with different vehicles covering different needs, one can assume that their business initiative will be met easier.
+** Voi's primary focus lies on the scooters, so developing new vehicles within the given time frame has low feasibility.
 
 
 === Prioritization of use cases on matrix
-Place each of the use cases on the matrix and then develop a list of the sequence in which they will be addressed. 
-Explain why you developed this ordering and why the sequence makes sense.
+In <<matrix>> below, the use case's feasibility and its value to the business are mapped. Use cases A, B, and C have the highest priority and will have the focus further in this report.
+
+
+[[matrix]]
+.Prioritization matrix
+image::figures/matrix.svg[matrix, 800]
