@@ -6,7 +6,7 @@
 The customers are not only essential stakeholders but also significant business entities which can gather valuable insight.
 As a customer, one is a user of the service and can therefore provide great behavioral insight.
 Increasing the annual recurring revenue requires increased active users, increased usage per user, or higher prices per ride.
-By analyzing the customer's app and scooter usage, one can get a clear picture of their usage pattern, price sensitivity, and loyalty to the brand.
+By analyzing the user's app and scooter usage, one can get a clear picture of their usage pattern, price sensitivity, and loyalty to the brand.
 Geographical data from the users may give insight into popular areas and the opposite and high traffic stretches. 
 
 [discrete]

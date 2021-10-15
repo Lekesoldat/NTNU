@@ -6,11 +6,11 @@ The business initiative, _increasing the annual recurring revenue by 5% by the e
 2. Increase usage per user
 3. Up prices per ride
 
-Any use case and a critical decision must support the initiative, and they are the following:
+The following use cases have been developed: 
 
 [upperalpha]
 . Increase active users by x% (_Sales, Marketing_)
-** This use case is a merge of 'Expand existing market in cities by X%' and 'Expand market to new areas.' Both of these use cases would increase active users.
+** This use case is a merge of 'Expand existing market in cities by x%' and 'Expand market to new areas.' Both of these use cases would increase active users.
 ** The users generate the most significant portion of the revenue and therefore contribute to the business initiative.
 ** The feasibility of this use case is relatively high as it is already an ongoing company process. In addition, they are constantly growing and expanding their markets.
 
@@ -26,7 +26,7 @@ Any use case and a critical decision must support the initiative, and they are t
 . Increase the number of payment plans (_Sales, Marketing_)
 ** As of now, users may only choose between a monthly subscription, 7-day pass, and a 24h pass as plans. One can also pay as you go.
 ** Increasing the amounts of plans might target the users not willing to pay for what already exists. 
-** This use case is relatively easy to fulfill; however, it might not give the most significant value compared to the other use cases. The majority of the users are probably satisfied with the already existing plans.
+** This use case is relatively easy to fulfill; however, it might not give the most significant value compared to the other use cases. The majority of the users are presumably satisfied with the already existing plans.
 
 . Increase app/web page traffic by x% (_Sales, Technology, Marketing_)
 ** More traffic results in more familiar knowledge of Voi and its services, which yields new customers.
@@ -45,12 +45,12 @@ Any use case and a critical decision must support the initiative, and they are t
 ** The feasibility of this use case is relatively low, but it might generate value. It is costly, and local regulations might stay in the way.
 
 . Increase the variety of vehicles in the fleet (_Content, Technology, Sales, Marketing_)
-** As of now, Voi's primary focus lies on their el-scooters. By increasing their fleet with different vehicles covering different needs, one can assume that their business initiative will be met easier.
+** As of now, Voi's primary focus lies on their el-scooters. By expanding their fleet with different vehicles covering different needs, one can assume that their business initiative will be met easier.
 ** Voi's primary focus lies on the scooters, so developing new vehicles within the given time frame has low feasibility.
 
 
 === Prioritization of use cases on matrix
-In <<matrix>> below, the use case's feasibility and its value to the business are mapped. Use cases A, B, and C have the highest priority and will have the focus further in this report.
+In <<matrix>> below, the use case's feasibility, and its value to the business, are mapped. Use cases A, B, and C have the highest priority and will have the focus further in this report.
 
 
 [[matrix]]

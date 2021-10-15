@@ -6,7 +6,7 @@ Voi envisions cities free from congestion, noise, and pollution.
 To accomplish this, Voi takes advanced technologies and makes them accessible to everyone.
 As a user, one should get from point A to point B in time, total silence, and free from fossil fuels cite:[VoiTechnologyShaping]. 
 
-Voi is the fastest-growing European micro-service provider, but they are also the first European scooter operator. 
+Voi is the fastest-growing European micro-mobility provider, but they are also the first European scooter operator. 
 Founded in 2018, the company has had tremendous growth, and as of 2021, they have over six million users. 
 What started as a small startup born in Sweden has become an international company with over five hundred employees from over fifty nationalities. 
 
@@ -28,8 +28,8 @@ Using these KPIs, one can gauge the company's progress.
 |===
 
 
-The focus initiative of this report and the target business initiative will be increasing the annual recurring revenue by 5% by the end of 2022. 
-Voi is in a growth phase, and the initiative is essential to provide better solutions and products and prove to shareholders that their business model is viable. 
+The focus initiative of this report and the target business initiative will be _increasing the annual recurring revenue by 5% by the end of 2022_. 
+Voi is in a growth phase, and the initiative is essential to provide better solutions and products, as well as increase market share. 
 The revenue stream encompasses revenue from a variety of scooter subscriptions and single trips.
 
 Further, Voi pursues and advocates for a zero-vision of micro-mobility accidents and being climate neutral cite:[SafetyPledge, Sustainability]. 

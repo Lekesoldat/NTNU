@@ -6,10 +6,10 @@
 
 - User data, Age, location, riding habits, and preferred mobile device. Does the existing solution fit the needs? What can be done?
 - Scooter location. What areas are hot? Where can Voi expand? Is there a demand somewhere?
-- Public transport hubs. Areas where Voi's scooters can be the last mile solution.
+- Public transport hubs. Areas where Voi's scooters can be the last-mile solution.
 - Price sensitivity. Is the price competitive in regards to competitors?
-- Revenue spread. What generates the most revenue? Subscriptions or single trip rides?
-- Feedback. Open feedback of the provided service from the customers.
+- Revenue spread. What generates the most revenue? Subscriptions or pay as you go rides?
+- Feedback. Open for feedback of the provided service from the customers.
 - Marketing reach. How efficient is the marketing? 
 - Local authorities. As earlier addressed, good relations with the authorities may result in new customers.
 - Quarters in a year. How is the service used when? More/less traffic
@@ -19,7 +19,7 @@
 
 - Local authorities. Access to accident statistics. Where are people hurt, and what are the circumstances?
 - Repair statistics. What is the expected lifespan of a scooter? How long does a repair take?
-- Training. Voi offers an online traffick school cite:[SafetyPledge]. How many are attending? What can attract more people?
+- Training. Voi offers an online traffick school cite:[SafetyPledge]. How many are attending? What can attract more people? Does it have an effect?
 - Feedback. Do the scooters work as intended? Is there something wrong? Improvements?
 - Competition. Are other actors doing something Voi could learn from?
 - Technology. Sensors and software offer valuable insight into the wearing and stress of the vehicle.

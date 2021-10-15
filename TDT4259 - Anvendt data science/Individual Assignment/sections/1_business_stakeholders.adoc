@@ -9,16 +9,16 @@ To achieve the business initiative of 5% increased annual recurring revenue, Voi
 === Customers
 The customers are the essential stakeholders, and they can be split into groups.
 
-- Commuters: These customers use the scooters either as the primary vehicle for their commute or the last-mile mobility solution. 
+- Commuters: These users use the scooters either as the primary vehicle for their commute or the last-mile mobility solution. 
 
 - Explorers: Ever wanted to explore a new area silently and swiftly? Then, Voi's scooters are your best friend. 
 Being available in over 40 cities, Voi offers a great way to from point A to point B in the blink of an eye.
 
 - Hobbyists: Riding the scooters are fun.
-Some customers use the scooters for pure enjoyment. 
+Some users use the scooters for pure enjoyment. 
 Riding around with friends and family can be a great experience.
 
-Familiar to all customers is that they all generate income to Voi by using the service, thus supporting the business initiative.
+Familiar to all users is that they all generate income to Voi by using the service, thus supporting the business initiative.
 As long as the service is reasonably priced and meets quality expectations, the revenue is almost guaranteed.
 
 
@@ -29,7 +29,7 @@ The employees are the foundation of a company.
 - The developers: Responsible for creating a good app, an excellent web page, and implementing the vehicle pool's software parts.
 
 - The designers: Responsible for creating an appealing design on the software and creating intuitive and user-friendly vehicles. 
-User-friendly design and experiences sell. 
+User-friendly design and excellent user experiences sell. 
 
 - The engineers: Responsible for creating durable, highly functioning, and maintainable products.
 Reliable vehicles cause less hassle and give customers a great experience.
@@ -46,9 +46,9 @@ Each employee counts, and familiar to them is that their work impacts the busine
 
 [discrete]
 ==== Local authorities
-To increase the annual recurring revenue, the company's expansion usually follows - at least for a startup like Voi.
+To increase the annual recurring revenue, company expansion is rather natural - at least for a startup like Voi.
 Accidents with el-scooters happen, and they can be of great danger to both the user and innocent bystanders.
-Collaboration with local authorities and regulations of the service is essential to move towards the business initiative.=
+Collaboration with local authorities and regulations of the service is essential to move towards the business initiative.
 
 
 [discrete]

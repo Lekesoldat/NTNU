@@ -42,5 +42,3 @@ include::sections/6_document_recommendations_and_map_scores.adoc[]
 == Bibliography
 
 bibliography::[]
-
-include::sections/appendix.adoc[]
