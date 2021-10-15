@@ -1,5 +1,39 @@
 [[develop_scores]]
-== Develop Scores
+== Scores
 
-Describe 3-5 composite scores that make sense for your business initiative. 
-Present which variables they are comprised of and provide a rationale for their selection.
+[discrete]
+==== User Satisfaction Score
+Scores the customer's satisfaction with the service Voi offers. 
+Through surveys, Voi can identify and take action based on the user feedback. 
+What works, what does not work? 
+Feedback can be given on both the services individually as well as the entire company.
+The feedback might also offer insight so the company can predict the number of users and possibly act to lower the churn rate.
+
+[discrete]
+==== Usage Score
+Scores the customer's usage of the service.
+Variables such as the total time the service is used, where it was used, when it was used and so on is relevant. 
+This score for instance enables Voi to predict high traffic areas and can act accordingly by making scooters available at relevant times.
+By knowing what the users demand from the satisfaction score and how their service is used, Voi can iptimize their business strategy, products and marketing, thus supporting the business initiative.
+
+[discrete]
+==== Expansion Score
+Voi's potential to expand their current market. 
+Expansion might result in new users, thus subscribers contributing to the business initiative. 
+Important variables will be local authorities and regulations, current actors and potential users. 
+Analysis will discover potential areas for expansion, and exclude others. 
+Further, the analysises might discover the need for Voi's services in the respective areas.
+
+[discrete]
+==== User's Will To Pay Score
+This score is very important for the business model. 
+A way of increasing the annual recurring revenue is modifying the prices. 
+Relevant variables are current prices, opponents prices as well as the user's willingness to pay.
+If Voi's services become too expensive, the user's probably move over to a competing company.
+
+[discrete]
+==== Vehicle Score
+Having a score of how the vehicles are performing and how safe they are, gives great insigt to the quality of the service.
+For instance, i Voi's vehicles tend to crash more often than competitors, action has to be taken.
+Further, if the vehicles tend to break down more often than others, action again has to be taken as a vehicle in repair does not generate revenue.
+Relevant variables are scooter lifetime, crash statistics, user satisfaction with vehicle.

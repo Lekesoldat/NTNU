@@ -12,7 +12,8 @@
 - Feedback. Open feedback of the provided service from the customers.
 - Marketing reach. How efficient is the marketing? 
 - Local authorities. As earlier addressed, good relations with the authorities may result in new customers.
-- Quarters in a year. How is the service used when? More/less traffic?
+- Quarters in a year. How is the service used when? More/less traffic
+
 
 *Relevant data sources for 'B. Increase safety and durability of scooters by x%'*:
 
