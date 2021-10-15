@@ -48,7 +48,7 @@ The following use cases have been developed:
 ** As of now, Voi's primary focus lies on their el-scooters. By expanding their fleet with different vehicles covering different needs, one can assume that their business initiative will be met easier.
 ** Voi's primary focus lies on the scooters, so developing new vehicles within the given time frame has low feasibility.
 
-
+[discrete]
 === Prioritization of use cases on matrix
 In <<matrix>> below, the use case's feasibility, and its value to the business, are mapped. Use cases A, B, and C have the highest priority and will have the focus further in this report.
 
