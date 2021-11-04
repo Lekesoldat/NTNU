@@ -9,11 +9,8 @@
 :docinfo: shared,private-footer
 :nofooter:
 
-
-
-
-= ASCI4209 ASCIDOC TEMPLATE
-Author
+= TDT4151 - Enterprise Architecture for Enterprise Innovation
+Magnus Lauritzen Holtet
 Department of Computer Science
 :title-page:
 :title-logo-image: image:figures/NTNU_logo.png[NTNU,400,400, align="center"]
