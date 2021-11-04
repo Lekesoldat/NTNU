@@ -1,0 +1,12 @@
+=== The Model
+|===
+| Expectations |Theory related
+
+| Models in ArchiMate AND 4EM. The actual model(s) must be submitted 
+along with the report (Visio, LucidChart, Archimate, etc.). The report should 
+include screen shots of the model with relevant explanations.
+
+| The textual descriptions of your model should explain the non-obvious parts. 
+The model should for the most part explain it self.  
+
+|===

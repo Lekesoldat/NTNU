@@ -1,0 +1,11 @@
+=== Reflections
+|===
+| Expectations |Theory related
+
+| 
+
+| Reflect on the revelance of innovation and the use of complementary of 
+modelling methods. Identify the main differences between service design and 
+enterprise modelling. Explain how service modelling complements enterprise 
+
+|===

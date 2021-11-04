@@ -1,0 +1,11 @@
+=== Blueprint
+|===
+| Expectations |Theory related
+
+| Model the blueprint for the service.  Include this in the report.
+
+| Describe the details of realising the service and where technology is relevant. 
+Describe in detail how the ICT components are affected or how any new 
+components will be integrated into te current Enterprise Architecture. 
+
+|===

@@ -1,0 +1,11 @@
+=== Enterprise Model & Enterprise Architecture
+|===
+| Expectations |Theory related
+
+| Structure model according to an Enterprise Architecture Framework, e.g. 
+TOGAF
+
+| Reflect on the relationship between Enterprise Modelling and Enterprise 
+Architecture. 
+
+|===

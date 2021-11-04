@@ -1,0 +1,16 @@
+=== Modeling Tools
+|===
+| Expectations |Theory related
+
+| At some point in the modelling process, you may notice that one of the 
+languages is better suited for your case. If so, after modelling 3 aspects in 
+both languages, you can select one of the languages to continue modelling 
+with. Explain the reasons for your choice.
+
+| You should be able to explain why you think one approach/language is better 
+suited to model your case. Note: it may be that both are equally suitable. 
+Reflect on the modelling choices you have made by comparing the two 
+modelling languages and explain. Are there other features that you would 
+have like to have in a modelling tool? 
+
+|===

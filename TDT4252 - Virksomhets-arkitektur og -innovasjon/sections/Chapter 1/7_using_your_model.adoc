@@ -1,0 +1,18 @@
+=== Using the Model
+|===
+| Expectations |Theory related
+
+| How would you use your model? "Views" are how you would "extract" 
+some information from your model for a particular purpose. E.g. A view that 
+serves a specific sub-goal for your model. Or what a specific 
+stakeholder/user would like to see or what is relevant in a specific situation. 
+How would you use the model to obtain such a view?  The answer expected 
+here must include a discussion of the view and how the model is used to get.
+
+| You should be able to explain why you think one approach/language is better 
+suited to model your case. Note: it may be that both are equally suitable. 
+Reflect on the modelling choices you have made by comparing the two 
+modelling languages and explain. Are there other features that you would 
+have like to have in a modelling tool? 
+
+|===

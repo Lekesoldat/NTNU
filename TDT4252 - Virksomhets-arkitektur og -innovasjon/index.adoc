@@ -1,0 +1,55 @@
+:bibtex-file: library.bib
+:bibtex-order: alphabetical
+:bibtex-style: ieee
+:stem: asciimath
+:xrefstyle: short
+:sectnums:
+:toc: macro
+:stylesheet: style/empty.css
+:docinfo: shared,private-footer
+:nofooter:
+
+
+
+
+= ASCI4209 ASCIDOC TEMPLATE
+Author
+Department of Computer Science
+:title-page:
+:title-logo-image: image:figures/NTNU_logo.png[NTNU,400,400, align="center"]
+
+toc::[]
+
+== Enterprise Modeling
+include::sections/Chapter 1/1_case_description.adoc[]
+include::sections/Chapter 1/2_purpose_and_goals.adoc[]
+include::sections/Chapter 1/3_the_model.adoc[]
+include::sections/Chapter 1/4_model_design.adoc[]
+include::sections/Chapter 1/5_perspectives.adoc[]
+include::sections/Chapter 1/6_modeling_tools.adoc[]
+include::sections/Chapter 1/7_using_your_model.adoc[]
+
+== Open Service Innovation and Service Design
+include::sections/Chapter 2/1_identify_innovation.adoc[]
+include::sections/Chapter 2/2_customer_journey.adoc[]
+include::sections/Chapter 2/3_blueprint.adoc[]
+include::sections/Chapter 2/4_reflections.adoc[]
+
+== Business modelling
+include::sections/Chapter 3/1_business_and_value.adoc[]
+
+== Redesigned enterprise model 
+include::sections/Chapter 4/1_changes_in_model.adoc[]
+include::sections/Chapter 4/2_relate_model_to_architecture.adoc[]
+
+== Reflection
+include::sections/Chapter 5/1_evaluate_model.adoc[]
+include::sections/Chapter 5/2_reflections.adoc[]
+
+
+== Bibliography
+
+bibliography::[]
+
+include::sections/appendix.adoc[]
+

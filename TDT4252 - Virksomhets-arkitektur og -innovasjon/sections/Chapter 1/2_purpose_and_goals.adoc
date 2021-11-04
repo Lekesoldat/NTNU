@@ -1,0 +1,16 @@
+=== Purpose/Goal of the Model
+
+|===
+| Expectations |Theory related
+
+| Why are you modeling? How would the model address your case? What 
+purpose would your model serve? Note: this is very important for evaluating 
+the model as your model should be evaluated against this.
+
+| This must be very clear and well scoped. Sub-goals are also important. (Note: 
+goals of the model, not the enterprise you're modelling.) What are the success 
+criteria for your model? How would you know if/when the purpose of the 
+model is fulfilled - connection to evaluation of the model? Who wil be the 
+main users and beneficiaries of the model?
+
+|===

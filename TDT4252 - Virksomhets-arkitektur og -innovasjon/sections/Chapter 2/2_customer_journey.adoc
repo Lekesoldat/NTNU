@@ -1,0 +1,12 @@
+=== Create a Customer Journey
+|===
+| Expectations |Theory related
+
+| Describe the service as a set of experience points (or touch points) or a 
+customer journey. Include this in the report.
+
+| Explain the idea behind the customer journey and how you envisage the 
+customers' experiences  (Innovation). Explain the customer journey from the 
+customers' and the enterprise's perspectives.
+
+|===

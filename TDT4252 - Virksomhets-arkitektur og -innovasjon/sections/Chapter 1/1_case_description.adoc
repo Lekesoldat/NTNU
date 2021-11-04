@@ -1,0 +1,13 @@
+=== Case Description
+
+|===
+| Expectations |Theory related
+
+| A good textual description of the case that you will model and your 
+motivations for selecting this case and modelling. Are there any challenges 
+you want to address? Is there something you want to clarify?
+
+| If the description is inadequate, unclear or incomplete, marks will be 
+deducted.
+
+|===

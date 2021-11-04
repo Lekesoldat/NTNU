@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.16">
+<meta name="author" content="Author">
+<title>ASCI4209 ASCIDOC TEMPLATE</title>
+<style>
+/* This file needs to be empty to avoid default styling */
+</style>
+<link rel="stylesheet" href="style/latex.css" />
+<link rel="stylesheet" href="style/tables.css" />
+<script type="text/javascript" src="https://livejs.com/live.js"></script>
+</head>
+<body class="article">
+<div id="header">
+<h1>ASCI4209 ASCIDOC TEMPLATE</h1>
+<div class="details">
+<span id="author" class="author">Author</span><br>
+<span id="revdate">Department of Computer Science</span>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div id="toc" class="toc">
+<div id="toctitle" class="title">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_enterprise_modeling">1. Enterprise Modeling</a>
+<ul class="sectlevel2">
+<li><a href="#_case_description">1.1. Case Description</a></li>
+<li><a href="#_purposegoal_of_the_model">1.2. Purpose/Goal of the Model</a></li>
+<li><a href="#_the_model">1.3. The Model</a></li>
+<li><a href="#_design_of_the_model">1.4. Design of the Model</a></li>
+<li><a href="#_perspectivesaspects">1.5. Perspectives/Aspects</a></li>
+<li><a href="#_modeling_tools">1.6. Modeling Tools</a></li>
+<li><a href="#_using_the_model">1.7. Using the Model</a></li>
+</ul>
+</li>
+<li><a href="#_open_service_innovation_and_service_design">2. Open Service Innovation and Service Design</a>
+<ul class="sectlevel2">
+<li><a href="#_identify_innovation">2.1. Identify Innovation</a></li>
+<li><a href="#_create_a_customer_journey">2.2. Create a Customer Journey</a></li>
+<li><a href="#_blueprint">2.3. Blueprint</a></li>
+<li><a href="#_reflections">2.4. Reflections</a></li>
+</ul>
+</li>
+<li><a href="#_business_modelling">3. Business modelling</a>
+<ul class="sectlevel2">
+<li><a href="#_business_and_value_modeling">3.1. Business and Value Modeling</a></li>
+</ul>
+</li>
+<li><a href="#_redesigned_enterprise_model">4. Redesigned enterprise model</a>
+<ul class="sectlevel2">
+<li><a href="#_changes_in_the_enterprise_model">4.1. Changes in the Enterprise Model</a></li>
+<li><a href="#_enterprise_model_enterprise_architecture">4.2. Enterprise Model &amp; Enterprise Architecture</a></li>
+</ul>
+</li>
+<li><a href="#_reflection">5. Reflection</a>
+<ul class="sectlevel2">
+<li><a href="#_model_evaluation">5.1. Model Evaluation</a></li>
+<li><a href="#_reflections_2">5.2. Reflections</a></li>
+</ul>
+</li>
+<li><a href="#_bibliography">6. Bibliography</a></li>
+<li><a href="#appendicies">7. Appendicies</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_enterprise_modeling">1. Enterprise Modeling</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_case_description">1.1. Case Description</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">A good textual description of the case that you will model and your
+motivations for selecting this case and modelling. Are there any challenges
+you want to address? Is there something you want to clarify?</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">If the description is inadequate, unclear or incomplete, marks will be
+deducted.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_purposegoal_of_the_model">1.2. Purpose/Goal of the Model</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Why are you modeling? How would the model address your case? What
+purpose would your model serve? Note: this is very important for evaluating
+the model as your model should be evaluated against this.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">This must be very clear and well scoped. Sub-goals are also important. (Note:
+goals of the model, not the enterprise you&#8217;re modelling.) What are the success
+criteria for your model? How would you know if/when the purpose of the
+model is fulfilled - connection to evaluation of the model? Who wil be the
+main users and beneficiaries of the model?</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_the_model">1.3. The Model</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Models in ArchiMate AND 4EM. The actual model(s) must be submitted
+along with the report (Visio, LucidChart, Archimate, etc.). The report should
+include screen shots of the model with relevant explanations.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">The textual descriptions of your model should explain the non-obvious parts.
+The model should for the most part explain it self.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_design_of_the_model">1.4. Design of the Model</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">This section should explain the design decisions and how you have designed
+your model to meet its purpose.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">How have you structured your model to reflect your case and the purpose?
+How does the choice of the enterprise aspects reflect your case?</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_perspectivesaspects">1.5. Perspectives/Aspects</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">The model should include at least three perspectives/aspects of an
+enterprise in both 4EM and ArchiMate. Enterprise models by definition
+contain models of several perspectives (referred to also as sub-models), and
+they relate to one another. Note that the relationships across the
+perspectives are very important.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">In your report, you should  explain them and how they relate to one another.
+An Enterprise model vs. several models of a single aspect is important here;
+hence the relationships across the different aspects and layers must be
+described and explained. The student should demonstrate that they
+understand the relevance of the relationships across the different aspects.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_modeling_tools">1.6. Modeling Tools</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">At some point in the modelling process, you may notice that one of the
+languages is better suited for your case. If so, after modelling 3 aspects in
+both languages, you can select one of the languages to continue modelling
+with. Explain the reasons for your choice.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">You should be able to explain why you think one approach/language is better
+suited to model your case. Note: it may be that both are equally suitable.
+Reflect on the modelling choices you have made by comparing the two
+modelling languages and explain. Are there other features that you would
+have like to have in a modelling tool?</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_using_the_model">1.7. Using the Model</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">How would you use your model? "Views" are how you would "extract"
+some information from your model for a particular purpose. E.g. A view that
+serves a specific sub-goal for your model. Or what a specific
+stakeholder/user would like to see or what is relevant in a specific situation.
+How would you use the model to obtain such a view?  The answer expected
+here must include a discussion of the view and how the model is used to get.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">You should be able to explain why you think one approach/language is better
+suited to model your case. Note: it may be that both are equally suitable.
+Reflect on the modelling choices you have made by comparing the two
+modelling languages and explain. Are there other features that you would
+have like to have in a modelling tool?</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_open_service_innovation_and_service_design">2. Open Service Innovation and Service Design</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_identify_innovation">2.1. Identify Innovation</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Describe a service-oriented approach to your enterprise, with one or a few
+services. (Innovation)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">How would your enterprise remain agile and innovate? Describe the service
+idea and how this could innovate your enterprise. Describe the type of
+innovation w.r.t. the theory; e.g. open or closed innovation, digital, process,
+etc. Reflect on the type of innovation(s), e.g. is this a service innovation,
+process, digital or a business innovation? What is the ICT or digital component
+of the innovation?</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_create_a_customer_journey">2.2. Create a Customer Journey</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Describe the service as a set of experience points (or touch points) or a
+customer journey. Include this in the report.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Explain the idea behind the customer journey and how you envisage the
+customers' experiences  (Innovation). Explain the customer journey from the
+customers' and the enterprise&#8217;s perspectives.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_blueprint">2.3. Blueprint</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Model the blueprint for the service.  Include this in the report.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Describe the details of realising the service and where technology is relevant.
+Describe in detail how the ICT components are affected or how any new
+components will be integrated into te current Enterprise Architecture.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_reflections">2.4. Reflections</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Reflect on the revelance of innovation and the use of complementary of
+modelling methods. Identify the main differences between service design and
+enterprise modelling. Explain how service modelling complements enterprise</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_business_modelling">3. Business modelling</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_business_and_value_modeling">3.1. Business and Value Modeling</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Create a sustainable business model or a value model for the new
+(innovative) services in your enterprise using the relevant templates.
+Include this in the report.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Explain the choice of your business modelling framework and why it is the
+most appropriate for your case. Explain the business or value model you have
+created and the value proposition.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_redesigned_enterprise_model">4. Redesigned enterprise model</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_changes_in_the_enterprise_model">4.1. Changes in the Enterprise Model</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Identify the changes that you have to make in your enterprise to realise the
+business model and deliver the services. Enhance your 4EM or Archimate
+model from part 1. The new model should be submitted. (Hint: did the
+service innovation create more goals for your enterprise? If so, are there
+implications for the processes, roles, technology, etc. in your enterprise?)</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Explain the changes in your enterprise model and how they would support the service innovation e.g. new or changed processes, new organisational
+structure, new competences and therefore new roles and actors, perhaps new
+technological solutions, etc.). Note: again, it&#8217;s important to be clear about the
+purpose of the model as was relevant for part 1.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_enterprise_model_enterprise_architecture">4.2. Enterprise Model &amp; Enterprise Architecture</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Structure model according to an Enterprise Architecture Framework, e.g.
+TOGAF</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Reflect on the relationship between Enterprise Modelling and Enterprise
+Architecture.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_reflection">5. Reflection</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_model_evaluation">5.1. Model Evaluation</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Assess if your model meets its purpose. You can use any of the methods we
+learned for evaluating models or any other means. (Hint - connect your
+model to its purposes and ask if it meets the purpose</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">How did you evaluate yur model - what evaluations methods (from theory) did
+you consider? Justify your choice of evaluation method(s). Describe how you
+evaluate your model, using the model and include screen shots of the relevant
+parts of the model. Describe why you think your model is good and meets the
+purpose (or not).</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_reflections_2">5.2. Reflections</h3>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Expectations</th>
+<th class="tableblock halign-left valign-top">Theory related</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Describe what you have done. Reflections and lessons learned. Reflect on
+the work, the process you followed and share some of your thoughts.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Also discuss the modelling experience. And what would you do anything
+different next time?</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_bibliography">6. Bibliography</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="appendicies">7. Appendicies</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+</div>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  messageStyle: "none",
+  tex2jax: {
+    inlineMath: [["\\(", "\\)"]],
+    displayMath: [["\\[", "\\]"]],
+    ignoreClass: "nostem|nolatexmath"
+  },
+  asciimath2jax: {
+    delimiters: [["\\$", "\\$"]],
+    ignoreClass: "nostem|noasciimath"
+  },
+  TeX: { equationNumbers: { autoNumber: "none" } }
+})
+MathJax.Hub.Register.StartupHook("AsciiMath Jax Ready", function () {
+  MathJax.InputJax.AsciiMath.postfilterHooks.Add(function (data, node) {
+    if ((node = data.script.parentNode) && (node = node.parentNode) && node.classList.contains("stemblock")) {
+      data.math.root.display = "block"
+    }
+    return data
+  })
+})
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
+</body>
+</html>

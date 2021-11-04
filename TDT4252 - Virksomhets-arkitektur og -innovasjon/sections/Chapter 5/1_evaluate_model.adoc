@@ -1,0 +1,15 @@
+=== Model Evaluation
+|===
+| Expectations |Theory related
+
+| Assess if your model meets its purpose. You can use any of the methods we 
+learned for evaluating models or any other means. (Hint - connect your 
+model to its purposes and ask if it meets the purpose
+
+| How did you evaluate yur model - what evaluations methods (from theory) did 
+you consider? Justify your choice of evaluation method(s). Describe how you 
+evaluate your model, using the model and include screen shots of the relevant 
+parts of the model. Describe why you think your model is good and meets the 
+purpose (or not). 
+
+|===

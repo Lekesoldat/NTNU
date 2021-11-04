@@ -1,0 +1,15 @@
+=== Identify Innovation
+|===
+| Expectations |Theory related
+
+| Describe a service-oriented approach to your enterprise, with one or a few 
+services. (Innovation)
+
+| How would your enterprise remain agile and innovate? Describe the service 
+idea and how this could innovate your enterprise. Describe the type of 
+innovation w.r.t. the theory; e.g. open or closed innovation, digital, process, 
+etc. Reflect on the type of innovation(s), e.g. is this a service innovation, 
+process, digital or a business innovation? What is the ICT or digital component 
+of the innovation?
+
+|===

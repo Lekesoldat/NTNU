@@ -1,0 +1,16 @@
+=== Changes in the Enterprise Model
+|===
+| Expectations |Theory related
+
+| Identify the changes that you have to make in your enterprise to realise the 
+business model and deliver the services. Enhance your 4EM or Archimate 
+model from part 1. The new model should be submitted. (Hint: did the 
+service innovation create more goals for your enterprise? If so, are there 
+implications for the processes, roles, technology, etc. in your enterprise?)
+
+| Explain the changes in your enterprise model and how they would support the service innovation e.g. new or changed processes, new organisational 
+structure, new competences and therefore new roles and actors, perhaps new 
+technological solutions, etc.). Note: again, it's important to be clear about the 
+purpose of the model as was relevant for part 1.
+
+|===

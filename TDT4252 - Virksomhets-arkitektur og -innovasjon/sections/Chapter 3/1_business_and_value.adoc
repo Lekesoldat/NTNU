@@ -1,0 +1,13 @@
+=== Business and Value Modeling
+|===
+| Expectations |Theory related
+
+| Create a sustainable business model or a value model for the new 
+(innovative) services in your enterprise using the relevant templates.  
+Include this in the report.
+
+| Explain the choice of your business modelling framework and why it is the 
+most appropriate for your case. Explain the business or value model you have 
+created and the value proposition.  
+
+|===
