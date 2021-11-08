@@ -7,7 +7,6 @@
 :toc: macro
 :stylesheet: style/empty.css
 :docinfo: shared,private-footer
-:nofooter:
 
 = TDT4151 - Enterprise Architecture for Enterprise Innovation
 Magnus Lauritzen Holtet

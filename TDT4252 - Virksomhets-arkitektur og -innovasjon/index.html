@@ -10,17 +10,55 @@
 <style>
 /* This file needs to be empty to avoid default styling */
 </style>
+<script type="text/javascript" src="https://livejs.com/live.js"></script>
 <link rel="stylesheet" href="style/latex.css" />
 <link rel="stylesheet" href="style/tables.css" />
-<script type="text/javascript" src="https://livejs.com/live.js"></script>
+<link rel="stylesheet" href="style/print.css" />
+<link rel="stylesheet" href="style/pagebreaks.css" />
+<script type="text/x-mathjax-config;executed=true">
+  MathJax.Hub.Config({
+    messageStyle: "none",
+    tex2jax: {
+      inlineMath: [["\\(", "\\)"]],
+      displayMath: [["\\[", "\\]"]],
+      ignoreClass: "nostem|nolatexmath"
+    },
+    asciimath2jax: {
+      delimiters: [["\\$", "\\$"]],
+      ignoreClass: "nostem|noasciimath"
+    },
+    TeX: { equationNumbers: { autoNumber: "none" } }
+  })
+  MathJax.Hub.Register.StartupHook("AsciiMath Jax Ready", function () {
+    MathJax.InputJax.AsciiMath.postfilterHooks.Add(function (data, node) {
+      if ((node = data.script.parentNode) && (node = node.parentNode) && node.classList.contains("stemblock")) {
+        data.math.root.display = "block"
+      }
+      return data
+    })
+  })
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_HTMLorMML"></script>
+
+<script>
+  window.PagedConfig = {
+    auto: false,
+  };
+</script>
+<script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+<script src="./configuration/print/scripts/table-headers.js"></script>
+<script>
+  MathJax.Hub.Queue(function () {
+    window.PagedPolyfill.preview();
+  });
+</script>
 </head>
 <body class="article">
 <div id="header">
 <h1>TDT4151 - Enterprise Architecture for Enterprise Innovation</h1>
 <div class="details">
 <span id="author" class="author">Magnus Lauritzen Holtet</span><br>
-<span id="revnumber">version ,</span>
-<span id="revdate">Autumn 2021</span>
+<span id="revdate">Department of Computer Science</span>
 </div>
 </div>
 <div id="content">
@@ -515,6 +553,11 @@ different next time?</p></td>
 <div class="sectionbody">
 
 </div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2021-11-04 14:38:37 +0100
 </div>
 </div>
 <script type="text/x-mathjax-config">

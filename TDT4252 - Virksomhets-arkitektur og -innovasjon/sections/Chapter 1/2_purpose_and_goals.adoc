@@ -14,3 +14,14 @@ model is fulfilled - connection to evaluation of the model? Who wil be the
 main users and beneficiaries of the model?
 
 |===
+
+
+// Dra inn teori fra Vernadat her. Skriv om hvorfor man lager modeller
+// Overfør til egen oppgave hvorfor det er relevant
+
+// Hvem skal bruke modellen og hvordan?
+
+// Suksesskriterier
+// Forståelig
+// Presis
+// Reell visualisering av business

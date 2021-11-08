@@ -10,3 +10,11 @@ include screen shots of the model with relevant explanations.
 The model should for the most part explain it self.  
 
 |===
+
+// Forklar modellene, screenshots av alle
+// Ta dem hver for seg og som enterprisemodeller
+
+// Husk archimate og 4em, forskjellige views mm. 
+// Dette er before views 
+
+// Det beskrives hvilke tools som brukes og hvorfor man går videre med tool x
