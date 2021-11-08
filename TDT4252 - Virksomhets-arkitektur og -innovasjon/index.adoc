@@ -6,6 +6,7 @@
 :sectnums:
 :toc: macro
 :stylesheet: style/empty.css
+:toclevels: 4
 :docinfo: shared,private-footer
 
 = TDT4151 - Enterprise Architecture for Enterprise Innovation
