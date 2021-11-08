@@ -9,12 +9,14 @@ The case will specifically target a process in one of the committees - Trikom.
 Trikom is the committee for well-being. 
 The committee is in charge of the kiosk at Online's office and organizes smaller social events, to mention some.
 
+'''
+
 The case itself regards the kiosk, hereafter called 'Kiosken.' 
 Kiosken has a relatively broad selection of both snacks and soft drinks. 
 Students purchase these items through an internal economy connected to the student ID cards.
 
-As a student, one would like to have all items available at all times. 
-However, through some research, it is clear that the availability of items is unpredictable. 
+Students would like to have all items available at all times. 
+However, through some research and personal experiences, it is clear that the availability of items is unpredictable. 
 Students experience empty shelves of their favorite snacks for an extensive period, and there is no
 way of knowing when a restock happens.
 
