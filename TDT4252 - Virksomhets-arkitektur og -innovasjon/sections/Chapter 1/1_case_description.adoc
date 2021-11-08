@@ -1,16 +1,45 @@
 === Case Description
 
-|===
-| Expectations |Theory related
+The selected case and its focus will be on the student association, Online. 
+Online is one of the most significant student associations at NTNU, with nearly a thousand active members. 
+Hierarchically, Online is built up by several committees, some larger than others. 
+Out of the nearly thousand active members, at least 160 of them are committee members powering Online. 
 
-| A good textual description of the case that you will model and your 
-motivations for selecting this case and modelling. Are there any challenges 
-you want to address? Is there something you want to clarify?
+The case will specifically target a process in one of the committees - Trikom. 
+Trikom is the committee for well-being. 
+The committee is in charge of the kiosk at Online's office and organizes smaller social events, to mention some.
 
-| If the description is inadequate, unclear or incomplete, marks will be 
-deducted.
+The case itself regards the kiosk, hereafter called 'Kiosken.' 
+Kiosken has a relatively broad selection of both snacks and soft drinks. 
+Students purchase these items through an internal economy connected to the student ID cards.
 
-|===
+As a student, one would like to have all items available at all times. 
+However, through some research, it is clear that the availability of items is unpredictable. 
+Students experience empty shelves of their favorite snacks for an extensive period, and there is no
+way of knowing when a restock happens.
+
+As for the committee members of Trikom, there are several annoyances as well.
+The restocking process appears to be quite comprehensive and unpredictable.
+'When will it happen,' 'who is responsible,' and 'who does what' are frequently asked questions. 
+Further, it appears to be much micromanagement which in an ideal world would not exist.
+
+As a member of Online, I am a frequent user of Kiosken. 
+The problems mentioned above significantly impact me as a regular customer. 
+My biggest motivation for the presented case is to figure out how to streamline the restocking process and thus provide better and more predictable availability of the goods in Kiosken. 
+
+By utilizing an enterprise model, from Trikom's perspective, one can hopefully understand the underlying processes of the restocking and identify innovations to streamline those.
+
+// |===
+// | Expectations |Theory related
+
+// | A good textual description of the case that you will model and your 
+// motivations for selecting this case and modelling. Are there any challenges 
+// you want to address? Is there something you want to clarify?
+
+// | If the description is inadequate, unclear or incomplete, marks will be 
+// deducted.
+
+// |===
 
 
 // Kontekst, hvem er organisasjonen, hvem er du i den, relasjon
