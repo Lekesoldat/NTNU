@@ -18,3 +18,24 @@ The model should for the most part explain it self.
 // Dette er before views 
 
 // Det beskrives hvilke tools som brukes og hvorfor man går videre med tool x
+
+.Goal Model || 4EM
+image:figures/ASIS/4EM_2-Goals.png[GOALS]
+
+This model is very interesting because of this and that
+
+.Business Process View || 4EM
+image:figures/ASIS/4EM_2-Process.png[PROCESS]
+
+This model is very interesting because of this and that
+
+.Actors and Resources Model || 4EM
+image:figures/ASIS/4EM_2-Actors.png[ACTORS]
+
+This model is very interesting because of this and that
+
+.Enterprise model || 4EM
+image:figures/ASIS/4EM_2-EM.png[EM]
+
+This model is very interesting because of this and that
+

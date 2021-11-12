@@ -6,7 +6,7 @@ Hierarchically, Online is built up by several committees, some larger than other
 Out of the nearly thousand active members, at least 160 of them are committee members powering Online. 
 
 The case will specifically target a process in one of the committees - Trikom. 
-Trikom is the committee for well-being. 
+Trikom is the committee for well-being.
 The committee is in charge of the kiosk at Online's office and organizes smaller social events, to mention some.
 
 '''
@@ -17,7 +17,7 @@ Students purchase these items through an internal economy connected to the stude
 
 Students would like to have all items available at all times. 
 However, through some research and personal experiences, it is clear that the availability of items is unpredictable. 
-Students experience empty shelves of their favorite snacks for an extensive period, and there is no
+For example, students experience empty shelves of their favorite snacks for an extensive period, and there is no
 way of knowing when a restock happens.
 
 As for the committee members of Trikom, there are several annoyances as well.
@@ -30,6 +30,13 @@ The problems mentioned above significantly impact me as a regular customer.
 My biggest motivation for the presented case is to figure out how to streamline the restocking process and thus provide better and more predictable availability of the goods in Kiosken. 
 
 By utilizing an enterprise model, from Trikom's perspective, one can hopefully understand the underlying processes of the restocking and identify innovations to streamline those.
+
+[discrete]
+=== Case Processes
+
+The overall process of keeping Kiosken restocked, is a combination of several smaller processes. The following paragraphs are meant to give a brief introduction to these. 
+
+
 
 // |===
 // | Expectations |Theory related

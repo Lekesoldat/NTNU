@@ -1,19 +1,26 @@
-=== Purpose/Goal of the Model
+=== Purpose/Goal 
 
-|===
-| Expectations |Theory related
+The current models give a precise overview of the relevant parts of the case AS IS.
+The purpose is to give valuable insight into the details of the restock process regarding essential actors, resources, goals, and processes. 
+No unnecessary information will surface, and the models have a logical easy-to-follow structure.
 
-| Why are you modeling? How would the model address your case? What 
-purpose would your model serve? Note: this is very important for evaluating 
-the model as your model should be evaluated against this.
+By following the models, one could hopefully discover weak points of the processes
+through analysis and research and adjust accordingly.
 
-| This must be very clear and well scoped. Sub-goals are also important. (Note: 
-goals of the model, not the enterprise you're modelling.) What are the success 
-criteria for your model? How would you know if/when the purpose of the 
-model is fulfilled - connection to evaluation of the model? Who wil be the 
-main users and beneficiaries of the model?
+// |===
+// | Expectations |Theory related
 
-|===
+// | Why are you modeling? How would the model address your case? What 
+// purpose would your model serve? Note: this is very important for evaluating 
+// the model as your model should be evaluated against this.
+
+// | This must be very clear and well scoped. Sub-goals are also important. (Note: 
+// goals of the model, not the enterprise you're modelling.) What are the success 
+// criteria for your model? How would you know if/when the purpose of the 
+// model is fulfilled - connection to evaluation of the model? Who wil be the 
+// main users and beneficiaries of the model?
+
+// |===
 
 
 // Dra inn teori fra Vernadat her. Skriv om hvorfor man lager modeller
@@ -21,7 +28,20 @@ main users and beneficiaries of the model?
 
 // Hvem skal bruke modellen og hvordan?
 
+// Sett opp goals og subgoals
+
+
+// !! EM for finding change
+// !! EM for process improvement
+// EM for aligning business and IT
+// EM for developing the strategic level of an IT-strategy
+
+
 // Suksesskriterier
 // Forståelig
 // Presis
 // Reell visualisering av business
+
+
+// Relevante slides:
+// Lecture 1 - Introduction to EM
