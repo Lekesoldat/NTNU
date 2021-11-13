@@ -19,11 +19,24 @@ There are many reasons to create enterprise models.
 A model is a generalized representation of a piece of reality, with only relevant real‐world properties taken into account during modeling. cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014]
 
 In other words, models help to represent and understand how an enterprise works. 
-The models represent a relevant piece of reality, aiming to give greater insight into information, functions, behaviour and further on.
+The model represent a relevant piece of reality, aiming to give greater insight into information, functions, behaviour and further on.
 
-In this case, the models will as mentioned be used to analyze the business processes. 
-To be precise, some sub goals will be *identifying possible innovation(s)* and *identifying potential threats to reaching the business goals*.
-Among the goals of the model, its *ability to visualize* the processes to give better understanding, is among the most important ones.
+In this case, the overall goal of the model is to be **beneficial to analyze the business processes**.
+Some sub goals will be to *identify possible innovation(s)* and *identify potential threats to reaching the business goals*.
+Further, a goal is to **visualize** the business processes to get a hands-on look at what is actually going on.
+Related to the vizualization-goal, a precise sub goal will be to *create the model in such a way that the committe members of Trikom is able to utilize it*.
+
+==== Success criteria
+
+* Goal 1: Beneficial to analyze the business processes
+** The model should be able to identify possible innovation(s). 
+To achieve such, it has to include enough information with relevant details and perspectives/views. The goal is not met if the model is designed in a way that does not provide sufficient perspectives to analyze for possible innovation(s)/
+
+** If Trikom is unable to identify potential risks, the model is not adequate enough. 
+
+* Goal 2: Visualization of business process
+** The models have to be precise and understandable. Only the relevant information should be provided, and it should be in such a way that the Trikom committee members can make use of it. The criteria is not met if the model leads to uncertainties or wrong conclusions.
+
 
 
 // |===
