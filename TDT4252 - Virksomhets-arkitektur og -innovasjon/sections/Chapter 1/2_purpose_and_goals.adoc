@@ -1,11 +1,19 @@
-=== Purpose/Goal 
+=== Purpose 
 
+Kiosken is not generating any income for Online. 
+Most business constantly aim to increase their profit.
+However, the operation of Kiosken is a zero-profit project for Online.
+Better availability will not generate more revenue, but the user satisfaction will greatly increase, which is in line with Trikoms goals. 
+
+This model should serve as a beneficial overview of the key processes of the restocking of Kiosken. 
 The current models give a precise overview of the relevant parts of the case AS IS.
-The purpose is to give valuable insight into the details of the restock process regarding essential actors, resources, goals, and processes. 
 No unnecessary information will surface, and the models have a logical easy-to-follow structure.
+By getting a overview of all sub process, actors and goaals, Trikom could identify steps and processes that could be greatly improved. 
+Through this, innovation can be applied, and Trikom optimize their processes, thus resulting in a better service for Onlines members.
 
-By following the models, one could hopefully discover weak points of the processes
-through analysis and research and adjust accordingly.
+==== Goals
+
+There are many reasons to create enterprise models. 
 
 // |===
 // | Expectations |Theory related
