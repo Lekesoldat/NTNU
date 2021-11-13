@@ -15,6 +15,17 @@ Through this, innovation can be applied, and Trikom optimize their processes, th
 
 There are many reasons to create enterprise models. 
 
+[quote, Sandkuhl et al.]
+A model is a generalized representation of a piece of reality, with only relevant real‐world properties taken into account during modeling. cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014]
+
+In other words, models help to represent and understand how an enterprise works. 
+The models represent a relevant piece of reality, aiming to give greater insight into information, functions, behaviour and further on.
+
+In this case, the models will as mentioned be used to analyze the business processes. 
+To be precise, some sub goals will be *identifying possible innovation(s)* and *identifying potential threats to reaching the business goals*.
+Among the goals of the model, its *ability to visualize* the processes to give better understanding, is among the most important ones.
+
+
 // |===
 // | Expectations |Theory related
 
