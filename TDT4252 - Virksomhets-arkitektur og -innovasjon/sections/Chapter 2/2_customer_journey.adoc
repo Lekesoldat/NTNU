@@ -10,3 +10,14 @@ customers' experiences  (Innovation). Explain the customer journey from the
 customers' and the enterprise's perspectives.
 
 |===
+
+.Before Innovation || Customer Journey
+image::figures/Before_innovation.png[]
+
+This model is very interesting because of this and that
+
+.After Innovation || Customer Journey
+image::figures/After_innovation.png[]
+
+This model is very interesting because of this and that
+

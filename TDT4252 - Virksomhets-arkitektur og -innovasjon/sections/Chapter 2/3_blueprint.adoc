@@ -1,4 +1,5 @@
 === Blueprint
+
 |===
 | Expectations |Theory related
 
@@ -9,3 +10,9 @@ Describe in detail how the ICT components are affected or how any new
 components will be integrated into te current Enterprise Architecture. 
 
 |===
+
+
+.Blueprint
+image::figures/Blueprint.png[]
+
+This model is very interesting because of this and that
