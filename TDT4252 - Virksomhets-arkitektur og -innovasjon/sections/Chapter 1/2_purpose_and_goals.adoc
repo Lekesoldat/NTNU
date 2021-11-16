@@ -1,6 +1,5 @@
 === Purpose 
 
-Kiosken is not generating any income for Online. 
 Most business constantly aim to increase their profit.
 However, the operation of Kiosken is a zero-profit project for Online.
 Better availability will not generate more revenue, but the user satisfaction will greatly increase, which is in line with Trikoms goals. 
@@ -28,14 +27,29 @@ Related to the vizualization-goal, a precise sub goal will be to *create the mod
 
 ==== Success criteria
 
-* Goal 1: Beneficial to analyze the business processes
+There are several ways to evaluate models. 
+For instance, Sandkuhl et al. cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014] mentions competency questions and quality criteria. One can also apply a framework such as SEQUAL. 
+Common to all, is how well the model fulfills the goals.
+For this case I will use the **quality criteria**.
+
+There are many possible quality criteria one can apply. 
+The criterias fitting the case the best are the following:
+
+* **Usability** (Goal 1): The ease with which the enterprise model can be used for its intended
+purpose cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014].
+
 ** The model should be able to identify possible innovation(s). 
-To achieve such, it has to include enough information with relevant details and perspectives/views. The goal is not met if the model is designed in a way that does not provide sufficient perspectives to analyze for possible innovation(s)/
+To achieve such, it has to include enough information with relevant details and perspectives/views. The goal is not met if the model is designed in a way that does not provide sufficient perspectives to analyze for possible innovation(s).
 
 ** If Trikom is unable to identify potential risks, the model is not adequate enough. 
 
-* Goal 2: Visualization of business process
-** The models have to be precise and understandable. Only the relevant information should be provided, and it should be in such a way that the Trikom committee members can make use of it. The criteria is not met if the model leads to uncertainties or wrong conclusions.
+
+* **Understanding** (Goal 2): The ease with which the concepts and structures in the enterprise
+model can be understood by the stakeholders cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014].
+
+** The models have to be precise and understandable. Only the relevant information should be provided, and it should be in such a way that the Trikom committee members can make use of it. 
+
+** The criteria is not met if the model leads to uncertainties or wrong conclusions.
 
 
 

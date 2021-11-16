@@ -9,8 +9,8 @@
 :toclevels: 4
 :docinfo: shared,private-footer
 
-= TDT4151 - Enterprise Architecture for Enterprise Innovation
-Magnus Lauritzen Holtet
+= TDT4252 - Enterprise Architecture for Enterprise Innovation
+Magnus Lauritzen Holtet <magnulho@stud.ntnu.no>
 Department of Computer Science
 :title-page:
 :title-logo-image: image:figures/NTNU_logo.png[NTNU,400,400, align="center"]
