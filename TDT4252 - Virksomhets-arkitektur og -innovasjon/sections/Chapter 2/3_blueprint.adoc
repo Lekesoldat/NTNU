@@ -12,7 +12,8 @@ components will be integrated into te current Enterprise Architecture.
 |===
 
 
-.Blueprint
+.Blueprint (will get better icons)
 image::figures/Blueprint.png[]
 
 This model is very interesting because of this and that
+
