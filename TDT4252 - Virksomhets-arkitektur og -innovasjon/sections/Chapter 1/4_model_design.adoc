@@ -9,5 +9,3 @@ your model to meet its purpose.
 How does the choice of the enterprise aspects reflect your case?  
 
 |===
-
-// Olavs 1.3

@@ -1,23 +1,13 @@
-=== The Model
-|===
-| Expectations |Theory related
+=== The Model and it's Design
 
-| Models in ArchiMate AND 4EM. The actual model(s) must be submitted 
-along with the report (Visio, LucidChart, Archimate, etc.). The report should 
-include screen shots of the model with relevant explanations.
+The presented enterprise models are primarily concerned with the business process.
+By concentrating on the business process, one may see both the important procedures and the individuals involved.
+The goals are also crucial since they act as the motivation for completing the duties.
 
-| The textual descriptions of your model should explain the non-obvious parts. 
-The model should for the most part explain it self.  
+Similar views are utilized in both 4EM and ArchiMate.
+The perspectives were the most appropriate for the model and case.
+As we were only going to use one modeling language for the report, having similar models helped me decide on a language. 
 
-|===
-
-// Forklar modellene, screenshots av alle
-// Ta dem hver for seg og som enterprisemodeller
-
-// Husk archimate og 4em, forskjellige views mm. 
-// Dette er before views 
-
-// Det beskrives hvilke tools som brukes og hvorfor man går videre med tool x
 
 .Goal Model || 4EM
 image::figures/ASIS/4EM_2-Goals.png[GOALS]
@@ -38,4 +28,24 @@ This model is very interesting because of this and that
 image::figures/ASIS/4EM_2-EM.png[EM]
 
 This model is very interesting because of this and that
+
+// |===
+// | Expectations |Theory related
+
+// | Models in ArchiMate AND 4EM. The actual model(s) must be submitted 
+// along with the report (Visio, LucidChart, Archimate, etc.). The report should 
+// include screen shots of the model with relevant explanations.
+
+// | The textual descriptions of your model should explain the non-obvious parts. 
+// The model should for the most part explain it self.  
+
+// |===
+
+// Forklar modellene, screenshots av alle
+// Ta dem hver for seg og som enterprisemodeller
+
+// Husk archimate og 4em, forskjellige views mm. 
+// Dette er before views 
+
+// Det beskrives hvilke tools som brukes og hvorfor man går videre med tool x
 
