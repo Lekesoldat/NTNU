@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.16">
 <meta name="author" content="Magnus Lauritzen Holtet">
-<title>TDT4151 - Enterprise Architecture for Enterprise Innovation</title>
+<title>TDT4252 - Enterprise Architecture for Enterprise Innovation</title>
 <style>
 /* This file needs to be empty to avoid default styling */
 </style>
@@ -16,9 +16,10 @@
 </head>
 <body class="article">
 <div id="header">
-<h1>TDT4151 - Enterprise Architecture for Enterprise Innovation</h1>
+<h1>TDT4252 - Enterprise Architecture for Enterprise Innovation</h1>
 <div class="details">
 <span id="author" class="author">Magnus Lauritzen Holtet</span><br>
+<span id="email" class="email"><a href="mailto:magnulho@stud.ntnu.no">magnulho@stud.ntnu.no</a></span><br>
 <span id="revdate">Department of Computer Science</span>
 </div>
 </div>
@@ -31,17 +32,23 @@
 <li><a href="#_enterprise_modeling">1. Enterprise Modeling</a>
 <ul class="sectlevel2">
 <li><a href="#_case_description">1.1. Case Description</a></li>
-<li><a href="#_purpose">1.2. Purpose</a>
+<li><a href="#_case_processes">1.2. Case Processes</a></li>
+<li><a href="#_purpose">1.3. Purpose</a>
 <ul class="sectlevel3">
-<li><a href="#_goals">1.2.1. Goals</a></li>
-<li><a href="#_success_criteria">1.2.2. Success criteria</a></li>
+<li><a href="#_goals">1.3.1. Goals</a></li>
+<li><a href="#_success_criteria">1.3.2. Success criteria</a></li>
 </ul>
 </li>
-<li><a href="#_the_model">1.3. The Model</a></li>
-<li><a href="#_design_of_the_model">1.4. Design of the Model</a></li>
-<li><a href="#_perspectivesaspects">1.5. Perspectives/Aspects</a></li>
-<li><a href="#_modeling_tools">1.6. Modeling Tools</a></li>
-<li><a href="#_using_the_model">1.7. Using the Model</a></li>
+<li><a href="#_model_design">1.4. Model Design</a></li>
+<li><a href="#_design_of_the_model">1.5. Design of the Model</a>
+<ul class="sectlevel3">
+<li><a href="#_4em_models">1.5.1. 4EM Models</a></li>
+<li><a href="#_archimate_models">1.5.2. ArchiMate Models</a></li>
+</ul>
+</li>
+<li><a href="#_perspectivesaspects">1.6. Perspectives/Aspects</a></li>
+<li><a href="#_modeling_tools">1.7. Modeling Tools</a></li>
+<li><a href="#_using_the_model">1.8. Using the Model</a></li>
 </ul>
 </li>
 <li><a href="#_open_service_innovation_and_service_design">2. Open Service Innovation and Service Design</a>
@@ -117,7 +124,10 @@ My biggest motivation for the presented case is to figure out how to streamline 
 <div class="paragraph">
 <p>By utilizing an enterprise model, from Trikom&#8217;s perspective, one can hopefully understand the underlying processes of the restocking and identify innovations to streamline those.</p>
 </div>
-<h3 id="_case_processes" class="discrete">Case Processes</h3>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect2">
+<h3 id="_case_processes">1.2. Case Processes</h3>
 <div class="paragraph">
 <p>The overall process of keeping Kiosken restocked, is a combination of several smaller processes.
 The following paragraphs are meant to give a brief introduction to these.</p>
@@ -155,10 +165,9 @@ Ideally certain sub processes can be be improved or even eliminated by innovatio
 </div>
 </div>
 <div class="sect2">
-<h3 id="_purpose">1.2. Purpose</h3>
+<h3 id="_purpose">1.3. Purpose</h3>
 <div class="paragraph">
-<p>Kiosken is not generating any income for Online.
-Most business constantly aim to increase their profit.
+<p>Most business constantly aim to increase their profit.
 However, the operation of Kiosken is a zero-profit project for Online.
 Better availability will not generate more revenue, but the user satisfaction will greatly increase, which is in line with Trikoms goals.</p>
 </div>
@@ -170,7 +179,7 @@ By getting a overview of all sub process, actors and goaals, Trikom could identi
 Through this, innovation can be applied, and Trikom optimize their processes, thus resulting in a better service for Onlines members.</p>
 </div>
 <div class="sect3">
-<h4 id="_goals">1.2.1. Goals</h4>
+<h4 id="_goals">1.3.1. Goals</h4>
 <div class="paragraph">
 <p>There are many reasons to create enterprise models.</p>
 </div>
@@ -194,16 +203,27 @@ Related to the vizualization-goal, a precise sub goal will be to <strong>create 
 </div>
 </div>
 <div class="sect3">
-<h4 id="_success_criteria">1.2.2. Success criteria</h4>
+<h4 id="_success_criteria">1.3.2. Success criteria</h4>
+<div class="paragraph">
+<p>There are several ways to evaluate models.
+For instance, Sandkuhl et al. [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">1</a>] mentions competency questions and quality criteria. One can also apply a framework such as SEQUAL.
+Common to all, is how well the model fulfills the goals.
+For this case I will use the <strong>quality criteria</strong>.</p>
+</div>
+<div class="paragraph">
+<p>There are many possible quality criteria one can apply.
+The criterias fitting the case the best are the following:</p>
+</div>
 <div class="ulist">
 <ul>
 <li>
-<p>Goal 1: Beneficial to analyze the business processes</p>
+<p><strong>Usability</strong> (Goal 1): The ease with which the enterprise model can be used for its intended
+purpose [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">1</a>].</p>
 <div class="ulist">
 <ul>
 <li>
 <p>The model should be able to identify possible innovation(s).
-To achieve such, it has to include enough information with relevant details and perspectives/views. The goal is not met if the model is designed in a way that does not provide sufficient perspectives to analyze for possible innovation(s)/</p>
+To achieve such, it has to include enough information with relevant details and perspectives/views. The goal is not met if the model is designed in a way that does not provide sufficient perspectives to analyze for possible innovation(s).</p>
 </li>
 <li>
 <p>If Trikom is unable to identify potential risks, the model is not adequate enough.</p>
@@ -212,11 +232,15 @@ To achieve such, it has to include enough information with relevant details and 
 </div>
 </li>
 <li>
-<p>Goal 2: Visualization of business process</p>
+<p><strong>Understanding</strong> (Goal 2): The ease with which the concepts and structures in the enterprise
+model can be understood by the stakeholders [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">1</a>].</p>
 <div class="ulist">
 <ul>
 <li>
-<p>The models have to be precise and understandable. Only the relevant information should be provided, and it should be in such a way that the Trikom committee members can make use of it. The criteria is not met if the model leads to uncertainties or wrong conclusions.</p>
+<p>The models have to be precise and understandable. Only the relevant information should be provided, and it should be in such a way that the Trikom committee members can make use of it.</p>
+</li>
+<li>
+<p>The criteria is not met if the model leads to uncertainties or wrong conclusions.</p>
 </li>
 </ul>
 </div>
@@ -226,82 +250,83 @@ To achieve such, it has to include enough information with relevant details and 
 </div>
 </div>
 <div class="sect2">
-<h3 id="_the_model">1.3. The Model</h3>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 50%;">
-<col style="width: 50%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Expectations</th>
-<th class="tableblock halign-left valign-top">Theory related</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Models in ArchiMate AND 4EM. The actual model(s) must be submitted
-along with the report (Visio, LucidChart, Archimate, etc.). The report should
-include screen shots of the model with relevant explanations.</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">The textual descriptions of your model should explain the non-obvious parts.
-The model should for the most part explain it self.</p></td>
-</tr>
-</tbody>
-</table>
+<h3 id="_model_design">1.4. Model Design</h3>
 <div class="paragraph">
-<div class="title">Goal Model || 4EM</div>
-<p><span class="image"><img src="figures/ASIS/4EM_2-Goals.png" alt="GOALS"></span></p>
+<p>The enterprise models presented are mostly concerned with the business process.
+By concentrating on the business process, one may see both the important procedures and the individuals involved.
+The goals are also significant since they serve as the reason why the tasks are carried out.</p>
 </div>
 <div class="paragraph">
-<p>This model is very interesting because of this and that</p>
+<p>To begin developing the models, I concentrated on the processes.
+It was critical to have a thorough grasp of how a Kiosken operates.
+When the processes with it&#8217;s sub processes was modeled, I focused on the goals.
+To begin, I had some rough thoughts about the goals, but when the processes was clear, the goals were concretized and split into subgoals.
+Once the processes were identified, the actors manifested themselves intuitively.
+To avoid extraneous information, the models incorporate just relevant actors.</p>
 </div>
 <div class="paragraph">
-<div class="title">Business Process View || 4EM</div>
-<p><span class="image"><img src="figures/ASIS/4EM_2-Process.png" alt="PROCESS"></span></p>
+<p>The enterprise model was created using a top-down method.
+The goals are provided first, followed by the procedures and the essential actors.
+The model&#8217;s user is supposed to first comprehend the goals, then what is currently happening and what may be improved.</p>
 </div>
 <div class="paragraph">
-<p>This model is very interesting because of this and that</p>
-</div>
-<div class="paragraph">
-<div class="title">Actors and Resources Model || 4EM</div>
-<p><span class="image"><img src="figures/ASIS/4EM_2-Actors.png" alt="ACTORS"></span></p>
-</div>
-<div class="paragraph">
-<p>This model is very interesting because of this and that</p>
-</div>
-<div class="paragraph">
-<div class="title">Enterprise model || 4EM</div>
-<p><span class="image"><img src="figures/ASIS/4EM_2-EM.png" alt="EM"></span></p>
-</div>
-<div class="paragraph">
-<p>This model is very interesting because of this and that</p>
+<p>Both 4EM and ArchiMate employ comparable perspectives in this case.
+The perspectives chosen were the most appropriate for the model and situation.
+Because we were only going to use one modeling language for the report, having similar models aided us in deciding on a language.</p>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_design_of_the_model">1.4. Design of the Model</h3>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 50%;">
-<col style="width: 50%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Expectations</th>
-<th class="tableblock halign-left valign-top">Theory related</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">This section should explain the design decisions and how you have designed
-your model to meet its purpose.</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">How have you structured your model to reflect your case and the purpose?
-How does the choice of the enterprise aspects reflect your case?</p></td>
-</tr>
-</tbody>
-</table>
+<h3 id="_design_of_the_model">1.5. Design of the Model</h3>
+<div class="sect3">
+<h4 id="_4em_models">1.5.1. 4EM Models</h4>
+<div class="imageblock">
+<div class="content">
+<img src="figures/ASIS/4EM_2-Goals.png" alt="GOALS">
+</div>
+<div class="title">Figure 1. Goal Model || 4EM</div>
+</div>
+<div class="paragraph">
+<p>This model is very interesting because of this and that</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="figures/ASIS/4EM_2-Process.png" alt="PROCESS">
+</div>
+<div class="title">Figure 2. Business Process View || 4EM</div>
+</div>
+<div class="paragraph">
+<p>This model is very interesting because of this and that</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="figures/ASIS/4EM_2-Actors.png" alt="ACTORS">
+</div>
+<div class="title">Figure 3. Actors and Resources Model || 4EM</div>
+</div>
+<div class="paragraph">
+<p>This model is very interesting because of this and that</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="figures/ASIS/4EM_2-EM.png" alt="EM">
+</div>
+<div class="title">Figure 4. Enterprise model || 4EM</div>
+</div>
+<div class="paragraph">
+<p>This model is very interesting because of this and that</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_archimate_models">1.5.2. ArchiMate Models</h4>
+<div class="imageblock">
+<div class="content">
+<img src="figures/ASIS/BusinessLayer.svg" alt="BUSINESS">
+</div>
+</div>
+</div>
 </div>
 <div class="sect2">
-<h3 id="_perspectivesaspects">1.5. Perspectives/Aspects</h3>
+<h3 id="_perspectivesaspects">1.6. Perspectives/Aspects</h3>
 <table class="tableblock frame-all grid-all stretch">
 <colgroup>
 <col style="width: 50%;">
@@ -330,7 +355,7 @@ understand the relevance of the relationships across the different aspects.</p><
 </table>
 </div>
 <div class="sect2">
-<h3 id="_modeling_tools">1.6. Modeling Tools</h3>
+<h3 id="_modeling_tools">1.7. Modeling Tools</h3>
 <table class="tableblock frame-all grid-all stretch">
 <colgroup>
 <col style="width: 50%;">
@@ -358,7 +383,7 @@ have like to have in a modelling tool?</p></td>
 </table>
 </div>
 <div class="sect2">
-<h3 id="_using_the_model">1.7. Using the Model</h3>
+<h3 id="_using_the_model">1.8. Using the Model</h3>
 <table class="tableblock frame-all grid-all stretch">
 <colgroup>
 <col style="width: 50%;">
@@ -649,7 +674,7 @@ different next time?</p></td>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2021-11-08 13:36:30 +0100
+Last updated 2021-11-16 23:00:19 +0100
 </div>
 </div>
 <script type="text/x-mathjax-config">

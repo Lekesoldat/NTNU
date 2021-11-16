@@ -1,4 +1,4 @@
-=== The Model and it's Design
+=== Model Design
 
 The enterprise models presented are mostly concerned with the business process.
 By concentrating on the business process, one may see both the important procedures and the individuals involved.
@@ -20,35 +20,15 @@ The perspectives chosen were the most appropriate for the model and situation.
 Because we were only going to use one modeling language for the report, having similar models aided us in deciding on a language. 
 
 
-.Goal Model || 4EM
-image::figures/ASIS/4EM_2-Goals.png[GOALS]
-
-This model is very interesting because of this and that
-
-.Business Process View || 4EM
-image::figures/ASIS/4EM_2-Process.png[PROCESS]
-
-This model is very interesting because of this and that
-
-.Actors and Resources Model || 4EM
-image::figures/ASIS/4EM_2-Actors.png[ACTORS]
-
-This model is very interesting because of this and that
-
-.Enterprise model || 4EM
-image::figures/ASIS/4EM_2-EM.png[EM]
-
-This model is very interesting because of this and that
 
 // |===
 // | Expectations |Theory related
 
-// | Models in ArchiMate AND 4EM. The actual model(s) must be submitted 
-// along with the report (Visio, LucidChart, Archimate, etc.). The report should 
-// include screen shots of the model with relevant explanations.
+// | This section should explain the design decisions and how you have designed 
+// your model to meet its purpose.
 
-// | The textual descriptions of your model should explain the non-obvious parts. 
-// The model should for the most part explain it self.  
+// | How have you structured your model to reflect your case and the purpose? 
+// How does the choice of the enterprise aspects reflect your case?  
 
 // |===
 
