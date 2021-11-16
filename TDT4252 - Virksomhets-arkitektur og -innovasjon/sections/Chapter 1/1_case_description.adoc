@@ -31,7 +31,8 @@ My biggest motivation for the presented case is to figure out how to streamline 
 
 By utilizing an enterprise model, from Trikom's perspective, one can hopefully understand the underlying processes of the restocking and identify innovations to streamline those.
 
-[discrete]
+<<<
+
 === Case Processes
 
 The overall process of keeping Kiosken restocked, is a combination of several smaller processes. 
