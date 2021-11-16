@@ -1,12 +1,23 @@
 === The Model and it's Design
 
-The presented enterprise models are primarily concerned with the business process.
+The enterprise models presented are mostly concerned with the business process.
 By concentrating on the business process, one may see both the important procedures and the individuals involved.
-The goals are also crucial since they act as the motivation for completing the duties.
+The goals are also significant since they serve as the reason why the tasks are carried out.
 
-Similar views are utilized in both 4EM and ArchiMate.
-The perspectives were the most appropriate for the model and case.
-As we were only going to use one modeling language for the report, having similar models helped me decide on a language. 
+To begin developing the models, I concentrated on the processes.
+It was critical to have a thorough grasp of how a Kiosken operates.
+When the processes with it's sub processes was modeled, I focused on the goals.
+To begin, I had some rough thoughts about the goals, but when the processes was clear, the goals were concretized and split into subgoals. 
+Once the processes were identified, the actors manifested themselves intuitively.
+To avoid extraneous information, the models incorporate just relevant actors. 
+
+The enterprise model was created using a top-down method.
+The goals are provided first, followed by the procedures and the essential actors.
+The model's user is supposed to first comprehend the goals, then what is currently happening and what may be improved. 
+
+Both 4EM and ArchiMate employ comparable perspectives in this case.
+The perspectives chosen were the most appropriate for the model and situation.
+Because we were only going to use one modeling language for the report, having similar models aided us in deciding on a language. 
 
 
 .Goal Model || 4EM
