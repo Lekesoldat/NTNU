@@ -12,22 +12,28 @@ Goals for streamlining the restocking process include reducing the number of ste
 Opportunities as well as threats are addressed.
 Further, possible constraints are highlighted. 
 
-.Business Process View || 4EM
+[[em_process]]
+.Business Process Model || 4EM
 image::figures/ASIS/4EM_2-Process.png[PROCESS]
 
-The business process view is more in-depth.
-The view depicts the case's important steps as well as the people involved.
-Section xref:processes[] provides a more detailed explanation of the processes. 
+The *Business Process View* is more in-depth.
+The view depicts the case's important processes as well as the actors involved.
+xref:processes[] provides a more detailed explanation of the processes and what is happening.
+It is worth noting that the information sets are important as the output of each process is essential for the next.
 
 .Actors and Resources Model || 4EM
 image::figures/ASIS/4EM_2-Actors.png[ACTORS]
 
-This model is very interesting because of this and that
+This perspective depicts the many organizational units, roles, and resources.
+Furthermore, the model's user gains an understanding of how the various pieces are linked. 
 
-.Enterprise model || 4EM
+[[em_em]]
+.Enterprise Model || 4EM
 image::figures/ASIS/4EM_2-EM.png[EM]
 
-This model is very interesting because of this and that
+The Enterprise View depicts all pertinent information about the case.
+The processes are linked to the goals, and which actors do what.
+The model provides a high-level overview of Trikom's operations. 
 
 
 ==== ArchiMate Models
@@ -35,22 +41,26 @@ This model is very interesting because of this and that
 .Organizational View || ArchiMatge
 image::figures/ASIS/AM_2_Organizational_View.svg[]
 
-This model is very interesting because of this and that
+This view is straightforward.
+It displays the case's relevant actors and the placement within the organization Online.
 
-.Motivational View || ArchiMatge
+.Motivational View || ArchiMatg
 image::figures/ASIS/AM_2_Motivational_Viewpoint.svg[]
 
-This model is very interesting because of this and that
+This view displays the drivers and overall goals. 
+Constraints and assessments are included.
 
 .Business Process View || ArchiMate
 image::figures/ASIS/AM_2_Business_Process_View.svg[]
 
-This model is very interesting because of this and that
+The important processes, as in the 4EM-model (xref:em_process[]), are presented, together with the appropriate actors.
+The absence of information sets is a significant distinction between this model and the 4EM model. 
 
 .Enterprise View || ArchiMate
 image::figures/ASIS/AM_2_EM.svg[]
 
-This model is very interesting because of this and that
+The enterprise model illustrated here, like xref:em_em[], incorporates all important information for the case.
+It is clear how the drives and goals are related to the actors and processes. 
 
 // |===
 // | Expectations |Theory related
