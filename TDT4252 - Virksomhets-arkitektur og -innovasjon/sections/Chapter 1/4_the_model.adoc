@@ -2,10 +2,15 @@
 
 ==== 4EM Models
 
+[[em_goal]]
 .Goal Model || 4EM
 image::figures/ASIS/4EM_2-Goals.png[GOALS]
 
-This model is very interesting because of this and that
+Trikom's overarching goal is to "increase the availability of items in Kiosken."
+The inefficient restocking process, which is the key bottleneck of item supply, must be streamlined. 
+Goals for streamlining the restocking process include reducing the number of steps in the restocking and automating the detection of need.
+Opportunities as well as threats are addressed.
+Further, possible constraints are highlighted. 
 
 .Business Process View || 4EM
 image::figures/ASIS/4EM_2-Process.png[PROCESS]

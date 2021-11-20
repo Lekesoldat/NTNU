@@ -22,9 +22,6 @@ include::sections/Chapter 1/1_case_description.adoc[]
 include::sections/Chapter 1/2_purpose_and_goals.adoc[]
 include::sections/Chapter 1/3_the_model_design.adoc[]
 include::sections/Chapter 1/4_the_model.adoc[]
-
-! THE NEXT SECTIONS ARE EMPTY, EXCEPT THE BLUEPRINT AND CUSTOMER JOURNEY, JUST PROVIDED TO SHOW OUTLINE OF REPORT !
-
 include::sections/Chapter 1/5_perspectives.adoc[]
 include::sections/Chapter 1/6_modeling_tools.adoc[]
 include::sections/Chapter 1/7_using_your_model.adoc[]
