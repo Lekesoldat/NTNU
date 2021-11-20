@@ -1,17 +1,36 @@
 === Modeling Tools
 
-|===
-| Expectations |Theory related
+4EM has been chosen as the language to use moving forward.
+The parts that follow provide some reflections and reasons behind this.
 
-| At some point in the modelling process, you may notice that one of the 
-languages is better suited for your case. If so, after modelling 3 aspects in 
-both languages, you can select one of the languages to continue modelling 
-with. Explain the reasons for your choice.
+**4EM**
 
-| You should be able to explain why you think one approach/language is better 
-suited to model your case. Note: it may be that both are equally suitable. 
-Reflect on the modelling choices you have made by comparing the two 
-modelling languages and explain. Are there other features that you would 
-have like to have in a modelling tool? 
+When I first started modeling in 4EM, I rapidly realized how much the language has to offer.
+4EM was simple to use, and I enjoyed how everything was structured.
 
-|===
+In contrast to ArchiMate, I quickly learned how to use 4EM because it was comparable to prior modeling languages I had used.
+The use of information sets fit my case perfectly, and the ability to compose and decompose processes was ideal.
+I utilized a program I was familiar with, [draw.io](draw.io), and altogether, modeling with 4EM was a positive experience.
+Its approach to process management was ideal for my situation, and when paired with a nice user experience, it quickly became my preferred language.
+
+I didn't have the most complex case, but I could imagine 4EM being a bit restricting with anything more sophisticated.
+Because the language has a somewhat rigid structure, I suppose it would be difficult to utilize in a situation including multiple processes, actors, and other notions. 
+
+**ArchiMate**
+
+
+// |===
+// | Expectations |Theory related
+
+// | At some point in the modelling process, you may notice that one of the 
+// languages is better suited for your case. If so, after modelling 3 aspects in 
+// both languages, you can select one of the languages to continue modelling 
+// with. Explain the reasons for your choice.
+
+// | You should be able to explain why you think one approach/language is better 
+// suited to model your case. Note: it may be that both are equally suitable. 
+// Reflect on the modelling choices you have made by comparing the two 
+// modelling languages and explain. Are there other features that you would 
+// have like to have in a modelling tool? 
+
+// |===
