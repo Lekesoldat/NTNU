@@ -10,7 +10,7 @@ When I first started modeling in 4EM, I rapidly realized how much the language h
 
 In contrast to ArchiMate, I quickly learned how to use 4EM because it was comparable to prior modeling languages I had used.
 The use of information sets fit my case perfectly, and the ability to compose and decompose processes was ideal.
-I utilized a program I was familiar with, [draw.io](draw.io), and altogether, modeling with 4EM was a positive experience.
+I utilized a program I was familiar with, https://draw.io[draw.io], and altogether, modeling with 4EM was a positive experience.
 Its approach to process management was ideal for my situation, and when paired with a nice user experience, it quickly became my preferred language.
 
 I didn't have the most complex case, but I could imagine 4EM being a bit restricting with anything more sophisticated.
