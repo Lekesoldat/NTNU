@@ -33,6 +33,7 @@ By utilizing an enterprise model, from Trikom's perspective, one can hopefully u
 
 <<<
 
+[[processes]]
 === Case Processes
 
 The overall process of keeping Kiosken restocked, is a combination of several smaller processes. 

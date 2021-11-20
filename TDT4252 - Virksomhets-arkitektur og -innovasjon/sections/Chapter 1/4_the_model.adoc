@@ -15,7 +15,9 @@ Further, possible constraints are highlighted.
 .Business Process View || 4EM
 image::figures/ASIS/4EM_2-Process.png[PROCESS]
 
-This model is very interesting because of this and that
+The business process view is more in-depth.
+The view depicts the case's important steps as well as the people involved.
+Section xref:processes[] provides a more detailed explanation of the processes. 
 
 .Actors and Resources Model || 4EM
 image::figures/ASIS/4EM_2-Actors.png[ACTORS]
