@@ -38,13 +38,13 @@ The model provides a high-level overview of Trikom's operations.
 
 ==== ArchiMate Models
 
-.Organizational View || ArchiMatge
+.Organizational View || ArchiMate
 image::figures/ASIS/AM_2_Organizational_View.svg[]
 
 This view is straightforward.
 It displays the case's relevant actors and the placement within the organization Online.
 
-.Motivational View || ArchiMatg
+.Motivational View || ArchiMate
 image::figures/ASIS/AM_2_Motivational_Viewpoint.svg[]
 
 This view displays the drivers and overall goals. 
