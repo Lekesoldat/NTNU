@@ -1,3 +1,4 @@
+[[purpose]]
 === Purpose 
 
 Most business constantly aim to increase their profit.

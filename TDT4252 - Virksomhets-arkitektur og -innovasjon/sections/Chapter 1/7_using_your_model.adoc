@@ -1,19 +1,40 @@
 === Using the Model
 
-|===
-| Expectations |Theory related
+Because I've decided to go with 4EM, I'll be referring to these models from now on. 
+As mentioned in xref:purpose[], the model should serve as '*a beneficial overview of the key processes of the restocking of Kiosken*.'
 
-| How would you use your model? "Views" are how you would "extract" 
-some information from your model for a particular purpose. E.g. A view that 
-serves a specific sub-goal for your model. Or what a specific 
-stakeholder/user would like to see or what is relevant in a specific situation. 
-How would you use the model to obtain such a view?  The answer expected 
-here must include a discussion of the view and how the model is used to get.
 
-| You should be able to explain why you think one approach/language is better 
-suited to model your case. Note: it may be that both are equally suitable. 
-Reflect on the modelling choices you have made by comparing the two 
-modelling languages and explain. Are there other features that you would 
-have like to have in a modelling tool? 
+Initially, the model is intended to be used to discover better solutions and potential improvements for the restocking process.
+However, it should not be overlooked that the model can be valuable for new members of the committee as well.
+By default, the committees' methods are introduced verbally, and most people learn by doing.
+Having something solid will ensure that everyone receives the same information.
 
-|===
+By putting the goals in print, all committee members will have a common foundation.
+This perspective of view can spark debate and issue solutions.
+It may be simpler to make choices and judgments if the goals are broken down into smaller sub-goals.
+The goal model highlights important weaknesses, opportunities and obstacles.
+Having them displayed aids in overall comprehension and ensures that potentially key events are not overlooked. 
+
+All essential actors and resources are shown in the Actors and Resources model.
+By illustrating the relationships between them, as well as how they are linked to the processes in the enterprise model, ambiguity about how duties are divided and who performs what is avoided. 
+
+The subprocesses depicted in the Business Process View allow model users to gain a clear picture of what is going on.
+This is where the potential for innovation are uncovered, and it is evident which stages could be shortened. 
+
+// |===
+// | Expectations |Theory related
+
+// | How would you use your model? "Views" are how you would "extract" 
+// some information from your model for a particular purpose. E.g. A view that 
+// serves a specific sub-goal for your model. Or what a specific 
+// stakeholder/user would like to see or what is relevant in a specific situation. 
+// How would you use the model to obtain such a view?  The answer expected 
+// here must include a discussion of the view and how the model is used to get.
+
+// | You should be able to explain why you think one approach/language is better 
+// suited to model your case. Note: it may be that both are equally suitable. 
+// Reflect on the modelling choices you have made by comparing the two 
+// modelling languages and explain. Are there other features that you would 
+// have like to have in a modelling tool? 
+
+// |===
