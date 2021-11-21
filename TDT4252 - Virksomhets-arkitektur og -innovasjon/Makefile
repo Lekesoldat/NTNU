@@ -2,5 +2,5 @@ PDVARS += --verbose
 PDVARS += --highlight-style=pygments # the default theme
 
 .PHONY: help
-pdf-print:
+pdf:
 	asciidoctor-pdf -r asciidoctor-bibtex -a stem -a docinfodir="./configuration/print" -a pdf-theme="./themes/ntnu-theme.yml" -a pdf-fontsdir="./fonts" index.adoc && open index.pdf
