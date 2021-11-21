@@ -25,8 +25,13 @@ I tried out the Archi Modeling Tool and had mixed thoughts about it.
 It was excellent to guarantee there were no technical faults, but I encountered several unexpected errors as well as problems with the general usage.
 The irritation associated with this may have influenced the conclusion of the preferred language, but I continue to feel 4EM was the greatest decision.
 
-In my perspective, 4EM excels in the process modeling, but ArchiMate is decent in all areas.
+In my perspective, 4EM excels in the process modeling, but ArchiMate is overall decent in all areas.
+Archimate's layers provide an advantage in that they indicate how processes are carried out and goals are attained from the business layer to the technology layer in a top-down approach. 
 Because my case was fairly process-oriented, I found ArchiMate to be a little weak, particularly in terms of the information shared between the processes. 
+4EM shines when it comes to showing how different views relate to eachother. 
+
+Because the models will be utilized by Trikoms members who may be unfamiliar with modeling languages, it is critical that what is provided is intelligible and does not cause misunderstanding. 
+ArchiMate, with its diverse variety of components and levels, may be harder to grasp for those unfamiliar.
 
 // |===
 // | Expectations |Theory related
