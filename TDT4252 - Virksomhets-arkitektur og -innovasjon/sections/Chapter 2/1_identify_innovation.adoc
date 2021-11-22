@@ -1,16 +1,31 @@
 === Identify Innovation
 
-|===
-| Expectations |Theory related
+As previously stated, Kiosken issues with product availability.
+Members of Online have additional possibilities outside Kiosken, although they are at competitive student associations.
+To keep students pleased and maintain a good reputation, Online and Trikom must be better in terms of item availability. 
 
-| Describe a service-oriented approach to your enterprise, with one or a few 
-services. (Innovation)
+[discrete]
+==== Method
 
-| How would your enterprise remain agile and innovate? Describe the service 
-idea and how this could innovate your enterprise. Describe the type of 
-innovation w.r.t. the theory; e.g. open or closed innovation, digital, process, 
-etc. Reflect on the type of innovation(s), e.g. is this a service innovation, 
-process, digital or a business innovation? What is the ICT or digital component 
-of the innovation?
+The Double Diamond Design approach was utilized to perform service innovation in an attempt to overcome the previously identified challenge.
+The approach, which is similar to the more generic Open Innovation process, comprises four separate phases.
+The relevant tools and methods provided by the Double Diamond Design process are detailed in the following paragraphs.
+In particular, the phases _discover_, _define_, and _develop_ will be covered.
+The _deployment_ phase will not be discussed because it is outside the scope of this exercise.  
 
-|===
+
+// |===
+// | Expectations |Theory related
+
+// | Describe a service-oriented approach to your enterprise, with one or a few 
+// services. (Innovation)
+
+// | How would your enterprise remain agile and innovate? Describe the service 
+// idea and how this could innovate your enterprise. Describe the type of 
+// innovation w.r.t. the theory; e.g. open or closed innovation, digital, process, 
+// etc. Reflect on the type of innovation(s), e.g. is this a service innovation, 
+// process, digital or a business innovation? What is the ICT or digital component 
+// of the innovation?
+
+// |===
+
