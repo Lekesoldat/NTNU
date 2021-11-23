@@ -5,7 +5,7 @@ Online is one of the most significant student associations at NTNU, with nearly 
 Hierarchically, Online is built up by several committees, some larger than others. 
 Out of the nearly thousand active members, at least 160 of them are committee members powering Online. 
 
-The case will specifically target a process in one of the committees - Trikom. 
+The case will specifically target a process in one of the committees - Trikom cite:[trikom]. 
 Trikom is the committee for well-being.
 The committee is in charge of the kiosk at Online's office and organizes smaller social events, to mention some.
 
