@@ -59,8 +59,6 @@ The solution does not need a massive reorganization of the restocking process, b
 
 
 
-
-
 // |===
 // | Expectations |Theory related
 
