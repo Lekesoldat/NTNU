@@ -52,9 +52,14 @@ Because Online's members are frequent Slack users, the service will also send a 
 Due to their comparable origins, the suggested solution should be able to tackle both of the identified problems.
 The service attempts to lessen the degree of uncertainty surrounding item availability while also eliminating human labor associated with item counting.
 
-The innovation will also make use of another committee in Online, Dotkom.
-Dotkom, has nothing to do with the process of restocking Kiosken, but the committee is in charge of technological solutions across all of Online's committees. 
-The solution does not need a massive reorganization of the restocking process, but its impact will be great. 
+Dotkom, another committee in Online, will be utilized in the development of the innovation.
+They are unrelated to Trikom's processes, but the committee is in charge of technology solutions for all of Online's committees.
+The presented solutions does not need a large rearrangement of the restocking process, but it will have a significant impact.
+The service will be referred to as the 'Stock Tracker' service from now on, and one sees that in xref:em_process[], the _Stock Tracker_ service will replace the first business process and parts of the second. 
+
+
+==== Develop
+A Blueprint is provided later in the report, in its own section, to add to the develop phase.
 
 
 
