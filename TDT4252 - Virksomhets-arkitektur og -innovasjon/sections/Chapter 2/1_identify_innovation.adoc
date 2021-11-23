@@ -39,10 +39,19 @@ The other is the time-consuming and human-error-prone procedure of organizing a 
 As the identified problems are experienced close to first hand, a few possible improvements has been thought of. 
 The idea is to implement a new digital service into the custom made Kiosk-app called Nibble4 cite:[Nibble4].
 
+The service is designed to maintain track of item stock at all times and alert Trikom when it is time to restock.
+Trikom will resupply more often, but in lower quantities.
+Shopping trips will be shorter, and transporting and arranging items in storage and shelves will be easier.
+Naturally, the availability of things will improve, as will consumer happiness.
 
+Trikom members update the current stock counts while restocking Kiosken.
+As time passes and items sell, the service will tell Trikom that a restock is imminent.
+Along with the message, a completed shopping list is sent, and there will be no need for extensive item counting.
+Because Online's members are frequent Slack users, the service will also send a message via Slack, letting everyone know when a restock is recommended and when it is accomplished. 
 
 Due to their comparable origins, the suggested solution should be able to tackle both of the identified problems.
-The service attempts to lessen the degree of uncertainty surrounding item availability while also eliminating human labor associated with item counting and date-checking. 
+The service attempts to lessen the degree of uncertainty surrounding item availability while also eliminating human labor associated with item counting.
+
 The innovation will also make use of another committee in Online, Dotkom.
 Dotkom, has nothing to do with the process of restocking Kiosken, but the committee is in charge of technological solutions across all of Online's committees. 
 The solution does not need a massive reorganization of the restocking process, but its impact will be great. 
