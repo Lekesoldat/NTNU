@@ -21,7 +21,19 @@ There is no set procedure for dealing with items that are out of stock, other th
 When such a mail is sent, or the message passed on, no more information surfaces until the kiosk is restocked.
 It is unknown when it will be completed or even if the notice is received.
 
-* 
+* Trikom must prepare ahead of time in order to carry out a restock.
+First and foremost, all items in Kiosken's shelves must be counted and date verified.
+The items in storage must then be counted and the dates must be confirmed.
+A shopping list must be created once the current supply is counted.
+The quantity of each item required must be estimated depending on both popularity and storage availability.
+A shopping session requires a lot of repetitive and manual labor.
+There is no computer aid, therefore it is time-consuming and prone to human mistake.
+In the worst-case scenario, purchasing too much of an item may result in it going bad and needing to be thrown out prior to sale owing to a lack of storage capacity.
+This is not beneficial for the economy as a non-profit kiosk. 
+
+
+==== Define
+
 
 
 

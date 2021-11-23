@@ -4,3 +4,6 @@ PDVARS += --highlight-style=pygments # the default theme
 .PHONY: help
 pdf:
 	asciidoctor-pdf -r asciidoctor-bibtex -a stem -a docinfodir="./configuration/print" -a pdf-theme="./themes/ntnu-theme.yml" -a pdf-fontsdir="./fonts" index.adoc && open index.pdf
+
+save:
+	asciidoctor-pdf -r asciidoctor-bibtex -a stem -a docinfodir="./configuration/print" -a pdf-theme="./themes/ntnu-theme.yml" -a pdf-fontsdir="./fonts" index.adoc && git dank
