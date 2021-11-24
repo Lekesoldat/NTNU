@@ -1,24 +1,32 @@
 === Create a Customer Journey
 
-|===
-| Expectations |Theory related
+The Stock Creation Service will be displayed from the perspective of a Trikom member.
+This is an actor who will be directly impacted by the innovation.
+Regular consumers at Kiosken will be impacted indirectly since item availability will be more consistent.
+Furthermore, clients may have a reduced wait time for a resupply.
+Even though the innovation benefits the customers, the focis lies on the Trikom members as the goal is to streamline their workflow.
+Customers' benefits are in-direct consequences of the invention, which has a direct impact on Trikoms members and their workflow.
+As a result, only customer journeys from the perspective of Trikom members will be offered. 
 
-| Describe the service as a set of experience points (or touch points) or a 
-customer journey. Include this in the report.
-
-| Explain the idea behind the customer journey and how you envisage the 
-customers' experiences  (Innovation). Explain the customer journey from the 
-customers' and the enterprise's perspectives.
-
-|===
 
 .Before Innovation || Customer Journey
-image::figures/Before_innovation.png[]
+image::figures/before_innovation.svg[]
 
 This model is very interesting because of this and that
 
 .After Innovation || Customer Journey
-image::figures/After_innovation.png[]
+image::figures/after_innovation.svg[]
 
 This model is very interesting because of this and that
 
+// |===
+// | Expectations |Theory related
+
+// | Describe the service as a set of experience points (or touch points) or a 
+// customer journey. Include this in the report.
+
+// | Explain the idea behind the customer journey and how you envisage the 
+// customers' experiences  (Innovation). Explain the customer journey from the 
+// customers' and the enterprise's perspectives.
+
+// |===
