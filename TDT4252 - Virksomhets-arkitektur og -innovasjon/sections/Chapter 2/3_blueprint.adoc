@@ -1,7 +1,13 @@
 === Blueprint
 
+[.landscape]
+<<<
 .Blueprint
-image::figures/Blueprint.svg[]
+image::figures/Blueprint.svg[scaledwidth=120%, align="center"]
+[.portrait]
+<<<
+
+
 
 The blueprint is created from the perspective of a Trikom committee member.
 It encompasses both indirect interaction with the customers and what happens at the back of the stage.

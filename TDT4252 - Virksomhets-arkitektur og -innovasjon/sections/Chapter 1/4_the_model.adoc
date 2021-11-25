@@ -28,9 +28,12 @@ image::figures/ASIS/4EM_2-Actors.png[ACTORS]
 This perspective depicts the many organizational units, roles, and resources.
 Furthermore, the model's user gains an understanding of how the various pieces are linked. 
 
-[[em_em]]
+[.landscape]
+<<<
 .Enterprise Model || 4EM
-image::figures/ASIS/4EM_2-EM.png[EM]
+image::figures/ASIS/4EM_2-EM.png[scaledwidth=120%, align="center"]
+[.portrait]
+<<<
 
 The Enterprise View depicts all pertinent information about the case.
 The processes are linked to the goals, and which actors do what.

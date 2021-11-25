@@ -48,5 +48,3 @@ include::sections/Chapter 5/2_reflections.adoc[]
 
 bibliography::[]
 
-include::sections/appendix.adoc[]
-

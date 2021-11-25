@@ -13,5 +13,9 @@ created and the value proposition.
 
 |===
 
-.The Business Model Canvas
-image::figures/canvas.jpg[]
+[.landscape]
+<<<
+.Blueprint
+image::figures/canvas.jpg[scaledwidth=120%, align="center"]
+[.portrait]
+<<<
