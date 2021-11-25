@@ -1,5 +1,4 @@
 === Case Description
-
 The selected case and its focus will be on the student association, Online cite:[LinjeforeningenOnline]. 
 Online is one of the most significant student associations at NTNU, with nearly a thousand active members. 
 Hierarchically, Online is built up by several committees, some larger than others. 

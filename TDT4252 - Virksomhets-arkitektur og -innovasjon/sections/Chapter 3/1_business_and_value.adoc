@@ -12,3 +12,6 @@ most appropriate for your case. Explain the business or value model you have
 created and the value proposition.  
 
 |===
+
+.The Business Model Canvas
+image::figures/canvas.jpg[]
