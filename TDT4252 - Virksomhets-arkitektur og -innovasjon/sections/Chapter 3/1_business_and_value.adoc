@@ -24,11 +24,72 @@ The _Value Proposition Model_ is another alternative.
 This approach is rather straightforward, focusing on value propositions and how they relate to the customer. 
 
 .Value Proposition Canvas || https://www.appropedia.org/File:The-value-proposition-canvas-1.pdf[Source]
-image::figures/value_prop.jpg[scaledwidth=100%, align="center"]
+image::figures/value_prop.jpg[align="center"]
 
 My model's goal is to investigate how innovation provides value for both customers and the business overall.
 I decided to use the _Business Model Canvas_ to do this.
 This model incorporates essential interactions with customers as well as how key partners, such as Dotkom, bring value to the service. 
+
+*Key Propositions*
+
+The propositions describe the value that the invention provides.
+The values range from reduced workload to reduced uncertainty for consumers.
+
+_Workload Reduction_ +
+Because the Stock Tracker service seeks to eliminate some manual tasks, the total workload is expected to be greatly reduced.
+It's great not to have to count stuff or make a shopping list.
+Furthermore, because the service allows for more frequent restocking in lower amounts, the total effort is decreased. 
+
+_Less uncertainty_ +
+The service includes notifications for all Online members, who are also the most frequent customers.
+This, along with more frequent restocking, allows customers to readily determine whether or not Kiosken is stocked.
+If an item is out of stock, it is realistic to anticipate it to be available in a reasonable length of time. 
+
+
+*Customer Segments*
+
+In terms of the value generated, customers are identified as the most significant.
+The innovation is primarily intended to benefit Trikom committee members, but regular customers are also included because they are heavily impacted. 
+
+
+*Channels*
+
+This section covers the channels that the Stock Tracker service will use to reach out to clients.
+The service is automated, and it will communicate via Slack.
+It is worth noting that the service will operate through two channels.
+One for messaging to Trikom, and another for public messages. 
+
+
+*Customer Relationships*
+
+
+
+
+
+*Revenue Streams*
+
+
+
+
+*Key Partners*
+
+
+
+
+*Key Activities*
+
+
+
+
+*Key Resources*
+
+
+
+
+*Cost Structure*
+
+
+
 
 [.landscape]
 <<<
@@ -36,10 +97,6 @@ This model incorporates essential interactions with customers as well as how key
 image::figures/canvas.jpg[scaledwidth=120%, align="center"]
 [.portrait]
 <<<
-
-*Key Propositions*
-
-lorem ipsum
 
 // |===
 // | Expectations |Theory related
