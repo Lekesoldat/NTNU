@@ -23,14 +23,14 @@ image::figures/lean_canvas.png[scaledwidth=80%, align="center"]
 The _Value Proposition Model_ is another alternative.
 This approach is rather straightforward, focusing on value propositions and how they relate to the customer. 
 
-.Value Proposition Canvas || https://www.appropedia.org/File:The-value-proposition-canvas-1.pdf[Source]
-image::figures/value_prop.jpg[align="center"]
+.Value Proposition Canvas || https://jaantollander.github.io/SCI-C1000/value-proposition.html[Source]
+image::figures/value_prop.png[align="center"]
 
 My model's goal is to investigate how innovation provides value for both customers and the business overall.
 I decided to use the _Business Model Canvas_ to do this.
 This model incorporates essential interactions with customers as well as how key partners, such as Dotkom, bring value to the service. 
 
-*Key Propositions*
+*Value Propositions*
 
 The propositions describe the value that the invention provides.
 The values range from reduced workload to reduced uncertainty for consumers.
