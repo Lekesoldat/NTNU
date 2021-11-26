@@ -1,17 +1,34 @@
 === Business and Value Modeling
 
-|===
-| Expectations |Theory related
+So far, it has been discussed how the proposed service would influence the users.
+The next chapter discusses how value is created from a business perspective.
+To prevent any ambiguity:
+The new service benefits both Trikom committee members, Online as an organization, and Kiosken users on a regular basis.
+These are critical distinctions to make.
 
-| Create a sustainable business model or a value model for the new 
-(innovative) services in your enterprise using the relevant templates.  
-Include this in the report.
+==== Business Model Canvas
 
-| Explain the choice of your business modelling framework and why it is the 
-most appropriate for your case. Explain the business or value model you have 
-created and the value proposition.  
+Business modeling is frequently concerned with increasing income.
+Because Online is a non-profit organization, presenting the immediate financial advantages of revenue streams was challenging, but other values are provided. 
+There are various business models that might be used.
 
-|===
+Because it is aimed at startups cite:[skowronLeanCanvasVs], a _Lean Business Canvas_, a version of the business model canvas, was not chosen.
+The lean business canvas includes a metric termed _unfair advantage,_ which tries to differentiate the company from competitors.
+This is not suitable for the provided scenario in this report, as the suggested service of the business model should be the focal point. 
+
+.Lean Business Canvas || Source: cite:[skowronLeanCanvasVs]
+image::figures/lean_canvas.png[scaledwidth=80%, align="center"]
+
+
+The _Value Proposition Model_ is another alternative.
+This approach is rather straightforward, focusing on value propositions and how they relate to the customer. 
+
+.Value Proposition Canvas || https://www.appropedia.org/File:The-value-proposition-canvas-1.pdf[Source]
+image::figures/value_prop.jpg[scaledwidth=80%, align="center"]
+
+My model's goal is to investigate how innovation provides value for both customers and the business overall.
+I decided to use the _Business Model Canvas_ to do this.
+This model incorporates essential interactions with customers as well as how key partners, such as Dotkom, bring value to the service. 
 
 [.landscape]
 <<<
@@ -19,3 +36,19 @@ created and the value proposition.
 image::figures/canvas.jpg[scaledwidth=120%, align="center"]
 [.portrait]
 <<<
+
+*Key Propositions*
+
+lorem ipsum
+
+// |===
+// | Expectations |Theory related
+
+// | Create a sustainable business model or a value model for the new 
+// (innovative) services in your enterprise using the relevant templates.  
+// Include this in the report.
+
+// | Explain the choice of your business modelling framework and why it is the 
+// most appropriate for your case. Explain the business or value model you have 
+// created and the value proposition.  
+// |===
