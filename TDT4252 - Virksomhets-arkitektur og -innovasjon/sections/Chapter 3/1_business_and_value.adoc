@@ -24,7 +24,7 @@ The _Value Proposition Model_ is another alternative.
 This approach is rather straightforward, focusing on value propositions and how they relate to the customer. 
 
 .Value Proposition Canvas || https://www.appropedia.org/File:The-value-proposition-canvas-1.pdf[Source]
-image::figures/value_prop.jpg[scaledwidth=80%, align="center"]
+image::figures/value_prop.jpg[scaledwidth=100%, align="center"]
 
 My model's goal is to investigate how innovation provides value for both customers and the business overall.
 I decided to use the _Business Model Canvas_ to do this.
