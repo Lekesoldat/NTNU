@@ -62,12 +62,20 @@ One for messaging to Trikom, and another for public messages.
 
 *Customer Relationships*
 
-
-
+The relationships describe how the service interacts with its users.
+Trikom needs to interact with the Stock Tracker.
+When a restock is done, they must update the current stock with the most recent numbers.
+Because the interraction part of the service is intended solely for those members, their preferences are critical to enhancements and usage. 
 
 
 *Revenue Streams*
 
+The revenue streams are not monetary, as stated in the introduction.
+However, revenue may be measured in terms of less time spent on monotonous and repetitive tasks.
+There is a significant reduction in the amount of time spent on such duties, which might inspire committee members.
+Furthermore, the time saved may be used to benefit other social contexts, such as online members.
+Another revenue may be the increased positive reputation for Online.
+Kiosken's good reputation may lead to increased sales and consequently pleased customers and members.
 
 
 
