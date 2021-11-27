@@ -1,7 +1,10 @@
 === Changes in the Enterprise Model
 
 The models will be redesigned in this section to complement the planned innovation.
-Changes will be made to the 4EM-model, which will have an impact on both the Actors and Resources Model and the Business Process Model.
+Changes will be made to the 4EM-models.
+The affected models are both the Actors and Resources Model and the Business Process Model. 
+Naturally this affects the Enterprise Model as well.
+All notable changes in the models are highlighted with red borders (does not include constraints in Goal model).
 
 
 ==== The Changed Actors and Resources Model
