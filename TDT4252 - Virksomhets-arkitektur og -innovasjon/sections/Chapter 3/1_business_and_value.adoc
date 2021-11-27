@@ -30,6 +30,41 @@ My model's goal is to investigate how innovation provides value for both custome
 I decided to use the _Business Model Canvas_ to do this.
 This model incorporates essential interactions with customers as well as how key partners, such as Dotkom, bring value to the service. 
 
+*Key Partners*
+
+The crucial partners are those who will help us bring the service to life and make the business model function.
+These are for the Stock Tracker service:
+
+_Software Developer_ +
+They are the ones who are in charge of developing and delivering the service.
+They play an important role in ensuring that the service operates properly at all times.
+
+_Trikom Member_ +
+They are the ones who will use the service after it is completed.
+They will be able to influence whether or not the service is good.
+It is critical that they provide timely feedback so that Dotkom can make required modifications to the service.
+
+_Partner at stores_ +
+Trikom has various partners in local stores who help them achieve lower prices on Kiosken items.
+They frequently plan their shopping with those partners ahead of time to ensure a seamless procedure.
+As the service results in more regular visits, a robust interaction with these partners is critical. 
+
+*Key Activities*
+
+The key activities are those that occur in Kiosken and are related to the proposed service.
+There is no need for the service if there are no sales because there is no need for restocking.
+The other process, restock planning, determines how a restock will be carried out.
+This is significant since it makes extensive use of the service's customized shopping list. 
+
+
+*Key Resources*
+
+These are the most significant assets necessary for the business model to function properly.
+There is no need for the service if there are no customers.
+The service will not be created until Dotkom developers are available.
+For the service to function properly it needs access to the stock data. Without this access it will not be able to notify when certain items are running out. 
+
+
 *Value Propositions*
 
 The propositions describe the value that the invention provides.
@@ -45,11 +80,12 @@ The service includes notifications for all Online members, who are also the most
 This, along with more frequent restocking, allows customers to readily determine whether or not Kiosken is stocked.
 If an item is out of stock, it is realistic to anticipate it to be available in a reasonable length of time. 
 
+*Customer Relationships*
 
-*Customer Segments*
-
-In terms of the value generated, customers are identified as the most significant.
-The innovation is primarily intended to benefit Trikom committee members, but regular customers are also included because they are heavily impacted. 
+The relationships describe how the service interacts with its users.
+Trikom needs to interact with the Stock Tracker.
+When a restock is done, they must update the current stock with the most recent numbers.
+Because the interraction part of the service is intended solely for those members, their preferences are critical to enhancements and usage. 
 
 
 *Channels*
@@ -60,12 +96,19 @@ It is worth noting that the service will operate through two channels.
 One for messaging to Trikom, and another for public messages. 
 
 
-*Customer Relationships*
+*Customer Segments*
 
-The relationships describe how the service interacts with its users.
-Trikom needs to interact with the Stock Tracker.
-When a restock is done, they must update the current stock with the most recent numbers.
-Because the interraction part of the service is intended solely for those members, their preferences are critical to enhancements and usage. 
+In terms of the value generated, customers are identified as the most significant.
+The innovation is primarily intended to benefit Trikom committee members, but regular customers are also included because they are heavily impacted. 
+
+
+*Cost Structure*
+
+The cost structure specifies which activities the business must be willing to dedicate resources to in order for the business model to succeed.
+As a non-profit organization run entirely by volunteers, Online will not have to budget for the service.
+However, in order for the model to be successful, time and effort must be invested.
+Once established and in use, the service must be maintained and maybe enhanced until it is excellent.
+Allocating additional time for the initial restocks with the new service may also be advisable, since the service may fail and unforeseen events occur. 
 
 
 *Revenue Streams*
@@ -76,27 +119,6 @@ There is a significant reduction in the amount of time spent on such duties, whi
 Furthermore, the time saved may be used to benefit other social contexts, such as online members.
 Another revenue may be the increased positive reputation for Online.
 Kiosken's good reputation may lead to increased sales and consequently pleased customers and members.
-
-
-
-*Key Partners*
-
-
-
-
-*Key Activities*
-
-
-
-
-*Key Resources*
-
-
-
-
-*Cost Structure*
-
-
 
 
 [.landscape]
