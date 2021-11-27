@@ -47,7 +47,7 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 
 ## Autumn 2020 - Fifth Semester
 
-- [IT2810 - Webutvikling]()
+- [IT2810 - Webutvikling](https://github.com/Lekesoldat/NTNU/tree/master/IT2810%20-%20Webutvikling)
 - [TDT4117 - Informasjonsgjenfinning]()
 - [TDT4165 - Informasjonssystemer]()
 - [TIØ4146 - Finans for teknisk-naturvitenskapelige studenter]()
@@ -57,13 +57,12 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 - [IT2901 - Informatikk prosjektarbeid II]()
 - [MFEL1050 - Innføring i idrettsfysiologi - Trening for prestasjon, helse og livskvalitet]()
 - [TPK4115 - Praktisk prosjektledelse]()
-- [x]()
 
 ## Autumn 2021 - Seventh Semester
 
 - [TMM4220 - Innovasjon ved Design Thinking]()
-- [TDT4252 - Virksomhets-arkitektur og -innovasjon]()
-- [TDT4259 Anvendt data science]()
+- [TDT4252 - Virksomhets-arkitektur og -innovasjon](https://github.com/Lekesoldat/NTNU/tree/master/TDT4252%20-%20Virksomhets-arkitektur%20og%20-innovasjon)
+- [TDT4259 - Anvendt data science](https://github.com/Lekesoldat/NTNU/tree/master/TDT4259%20-%20Anvendt%20data%20science/)
 
 # Subjects not in a specific semester
 
