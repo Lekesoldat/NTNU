@@ -55,9 +55,15 @@ On the other hand, - If you have any requests for improvement, feel free to add 
 ## Spring / Summer 2021 - Sixth Semester
 
 - [IT2901 - Informatikk prosjektarbeid II]()
+- [MFEL1050 - Innføring i idrettsfysiologi - Trening for prestasjon, helse og livskvalitet]()
+- [TPK4115 - Praktisk prosjektledelse]()
 - [x]()
-- [x]()
-- [x]()
+
+## Autumn 2021 - Seventh Semester
+
+- [TMM4220 - Innovasjon ved Design Thinking]()
+- [TDT4252 - Virksomhets-arkitektur og -innovasjon]()
+- [TDT4259 Anvendt data science]()
 
 # Subjects not in a specific semester
 
