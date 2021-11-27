@@ -123,7 +123,7 @@ Kiosken's good reputation may lead to increased sales and consequently pleased c
 
 [.landscape]
 <<<
-.Blueprint
+.The Business Model Canvas
 image::figures/canvas.jpg[scaledwidth=120%, align="center"]
 [.portrait]
 <<<
