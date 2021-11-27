@@ -4,10 +4,12 @@
 
 [[em_goal]]
 .Goal Model || 4EM
-image::figures/ASIS/4EM_2-Goals.png[GOALS]
+image::figures/ASIS/4EM_2-Goals.svg[GOALS]
 
-Trikom's overarching goal is to "increase the availability of items in Kiosken."
+Trikom's overarching goal is to 'Increase customer satisfaction.' 
+The identified sub-goals as of now to achieve this is by 'Increasing the variety of items in stock', or by 'increasing the availability of items.'
 The inefficient restocking process, which is the key bottleneck of item supply, must be streamlined. 
+It is the increased availability-part that will be the focus of this report.
 Goals for streamlining the restocking process include reducing the number of steps in the restocking and automating the detection of need.
 Opportunities as well as threats are addressed.
 Further, possible constraints are highlighted. 
@@ -23,7 +25,7 @@ It is worth noting that the information sets are important as the output of each
 
 [[em_actors]]
 .Actors and Resources Model || 4EM
-image::figures/ASIS/4EM_2-Actors.png[ACTORS]
+image::figures/ASIS/4EM_2-Actors.svg[ACTORS]
 
 This perspective depicts the many organizational units, roles, and resources.
 Furthermore, the model's user gains an understanding of how the various pieces are linked. 
@@ -31,7 +33,7 @@ Furthermore, the model's user gains an understanding of how the various pieces a
 [.landscape]
 <<<
 .Enterprise Model || 4EM
-image::figures/ASIS/4EM_2-EM.png[scaledwidth=120%, align="center"]
+image::figures/ASIS/4EM_2-EM.png[scaledwidth=150%, align="center"]
 [.portrait]
 <<<
 

@@ -1,17 +1,28 @@
 === Changes in the Enterprise Model
 
-In this part, the models will be redesigned to accompany for the proposed innovation. 
-The changes will be made to the 4EM-model, and it will affect the Goal Model as well as the Business Process Model. 
-The Actors and Resources model will not be changed as they remain the same. 
+The models will be redesigned in this section to complement the planned innovation.
+Changes will be made to the 4EM-model, which will have an impact on both the Actors and Resources Model and the Business Process Model.
 
 
-==== The Goal Model
-yes yes
+==== The Actors and Resources Model
+.The Actors and Resources Model|| 4EM
+image::figures/TOBE/changed_actors.svg[align='center']
 
 
 ==== The Business Process Model
-hello world
 
+.Changed Business Process Model || 4EM
+image::figures/TOBE/changed_process.svg[align='center']
+
+
+[.landscape]
+<<<
+==== The Enterprise Model
+
+.Changed Enterprise Model || 4EM
+image::figures/TOBE/changed_em.svg[scaledwidth=120%, align='center']
+[.portrait]
+<<<
 
 // |===
 // | Expectations |Theory related
