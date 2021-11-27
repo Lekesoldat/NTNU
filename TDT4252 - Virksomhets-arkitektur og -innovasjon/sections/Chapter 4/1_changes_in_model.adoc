@@ -4,21 +4,29 @@ The models will be redesigned in this section to complement the planned innovati
 Changes will be made to the 4EM-model, which will have an impact on both the Actors and Resources Model and the Business Process Model.
 
 
-==== The Actors and Resources Model
+==== The Changed Actors and Resources Model
+
+[[changed_actors]]
 .The Actors and Resources Model|| 4EM
 image::figures/TOBE/changed_actors.svg[align='center']
 
-
-==== The Business Process Model
-
-.Changed Business Process Model || 4EM
-image::figures/TOBE/changed_process.svg[align='center']
-
+==== The Changed Business Process Model
+lorem ipsum
 
 [.landscape]
 <<<
-==== The Enterprise Model
+[[changed_process]]
+.Changed Business Process Model || 4EM
+image::figures/TOBE/changed_process.svg[scaledwidth=90%, align='center']
+[.portrait]
+<<<
 
+==== The Changed Enterprise Model
+lorem ipsum 
+
+[.landscape]
+<<<
+[[changed_em]]
 .Changed Enterprise Model || 4EM
 image::figures/TOBE/changed_em.svg[scaledwidth=120%, align='center']
 [.portrait]
