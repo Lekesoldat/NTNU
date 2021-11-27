@@ -1,6 +1,6 @@
 # Norwegian University of Science and Technology
 
-Documents from Software Engineering studies.
+Documents from Software Engineering studies. Find something useful? A ⭐️ would be appreciated!
 
 # Disclaimer:
 
