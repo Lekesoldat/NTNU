@@ -81,7 +81,10 @@ Furthermore, because the model is not very complicated, the amount of work requi
 
 The _flexibility_ of the model is evaluated very good.
 
+*Overall quality*
 
+The model's _overall quality_ is rated as good, although there is space for improvement.
+More experienced architects might definitely use sections of 4EM that I am not familiar with, improving both understanding and accuracy. 
 
 // |===
 // | Expectations |Theory related
