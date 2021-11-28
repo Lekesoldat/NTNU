@@ -1,12 +1,33 @@
 === Enterprise Model & Enterprise Architecture
 
-|===
-| Expectations |Theory related
+To understand the relationship between Enterprise Modeling and Enterprise Architecture, the concepts must first be defined.
 
-| Structure model according to an Enterprise Architecture Framework, e.g. 
-TOGAF
+[quote, Sandkuhl et al.]
+_Enterprise Modeling_ can be understood as 'the process of creating an integrated enterprise model which captures the aspects of the enterprise required for the modeling purpose at hand', according to Sandkuhl et al. cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014].
 
-| Reflect on the relationship between Enterprise Modelling and Enterprise 
-Architecture. 
+This type of model is made up of related sub-models that cover various parts of the business.
+The model is created in such a way that all stakeholders participating in the modeling process understand it. 
 
-|===
+[quote, Lankhorst et al.]
+_Enterprise Architecture_ is a coherent whole of principles, methods, and models that are used in the design and realisation of an enterprise’s organisational structure, business processes, information systems and infrastructure cite:[Lankhorst_2017].
+
+An enterprise architecture, as described expressly by the TOGAF framework, gives an overview of business processes, with a priority on IT, and the infrastructure that supports these activities. 
+Enterprise Architecture functions as a map containing information about the existing situation (for instance, an enterprise) and its elements and dependencies cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014].
+
+The biggest difference is that an EA simply describes the different aspects of an enterprise, but that an EM focuses on goals and how IT systems may produce value.
+
+The models redesigned in xref:changes[] are considered to be enterprise architectures as well. 
+The redesigned xref:changed_em[enterprise model] shows how a digital innovation (Stock Tracker service) is implemented to create business value.
+This is supported by the overall goals defined in xref:goals[], namely for the model to be **beneficial to analyze the business processes** and to **visualize** the business processes.
+
+
+// |===
+// | Expectations |Theory related
+
+// | Structure model according to an Enterprise Architecture Framework, e.g. 
+// TOGAF
+
+// | Reflect on the relationship between Enterprise Modelling and Enterprise 
+// Architecture. 
+
+// |===

@@ -11,6 +11,7 @@ No unnecessary information will surface, and the models have a logical easy-to-f
 By getting a overview of all sub process, actors and goaals, Trikom could identify steps and processes that could be greatly improved. 
 Through this, innovation can be applied, and Trikom optimize their processes, thus resulting in a better service for Onlines members.
 
+[[goals]]
 ==== Goals
 
 There are many reasons to create enterprise models. 

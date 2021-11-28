@@ -1,3 +1,4 @@
+[[changes]]
 === Changes in the Enterprise Model
 
 The models will be redesigned in this section to complement the planned innovation.
