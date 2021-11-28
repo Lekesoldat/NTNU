@@ -26,25 +26,28 @@ include::sections/Chapter 1/5_perspectives.adoc[]
 include::sections/Chapter 1/6_modeling_tools.adoc[]
 include::sections/Chapter 1/7_using_your_model.adoc[]
 
+<<<
 == Open Service Innovation and Service Design
 include::sections/Chapter 2/1_identify_innovation.adoc[]
 include::sections/Chapter 2/2_customer_journey.adoc[]
 include::sections/Chapter 2/3_blueprint.adoc[]
 include::sections/Chapter 2/4_reflections.adoc[]
 
+<<<
 == Business modelling
 include::sections/Chapter 3/1_business_and_value.adoc[]
 
+<<<
 == Redesigned enterprise model 
 include::sections/Chapter 4/1_changes_in_model.adoc[]
 include::sections/Chapter 4/2_relate_model_to_architecture.adoc[]
 
+<<<
 == Reflection
 include::sections/Chapter 5/1_evaluate_model.adoc[]
 include::sections/Chapter 5/2_reflections.adoc[]
 
-
+<<<
 == Bibliography
-
 bibliography::[]
 

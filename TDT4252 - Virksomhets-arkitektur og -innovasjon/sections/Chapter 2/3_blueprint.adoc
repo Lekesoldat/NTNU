@@ -1,9 +1,9 @@
-=== Blueprint
-
 [.landscape]
 <<<
+=== Blueprint
+
 .Blueprint
-image::figures/Blueprint.svg[scaledwidth=120%, align="center"]
+image::figures/Blueprint.svg[scaledwidth=100%, align="center"]
 [.portrait]
 <<<
 
