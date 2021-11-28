@@ -27,6 +27,7 @@ Some sub goals will be to *identify possible innovation(s)* and *identify potent
 Further, a goal is to **visualize** the business processes to get a hands-on look at what is actually going on.
 Related to the vizualization-goal, a precise sub goal will be to *create the model in such a way that the committe members of Trikom is able to utilize it*.
 
+[[success_criteria]]
 ==== Success criteria
 
 There are several ways to evaluate models. 

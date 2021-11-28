@@ -1,16 +1,82 @@
 === Model Evaluation
+In this section I will evaluate the models created. In xref:goals[] I described the goals, sub-goals and purpose as the following:
 
-|===
-| Expectations |Theory related
+. The model should *be beneficial to analyze the business processes*
 
-| Assess if your model meets its purpose. You can use any of the methods we 
-learned for evaluating models or any other means. (Hint - connect your 
-model to its purposes and ask if it meets the purpose
+.. It should be able to *identify possible innovation(s)*
 
-| How did you evaluate yur model - what evaluations methods (from theory) did 
-you consider? Justify your choice of evaluation method(s). Describe how you 
-evaluate your model, using the model and include screen shots of the relevant 
-parts of the model. Describe why you think your model is good and meets the 
-purpose (or not). 
+.. 1.2 It should *identify potential threats to reach the business goals*
 
-|===
+. The model should overall *visualize*
+
+.. It should be *created in such a way that the committe members of Trikom is able to utilize it*
+
+To evaluate the models I will use *quality criteria*. 
+*Quality criteria* are utilized because, while it focuses on the models and how accurate they are in terms of modeling the business, it allows for subjective quality. 
+I.e it covers the models usability and understanding, which are very important parts for those going to utilize them.
+
+
+According to Krogstie et al., 'what quality criteria are relevant and how strictly they are to be followed depends on the purpose of modeling or goals of modeling' cite:[krogstie], and this is taken into consideration for this section. 
+In xref:success_criteria[] I aimed at *usability* and *understanding*, and followingly this will be the focus now.
+
+NOTE: All definitions in the following paragraphs are by Sandkuhl et al. cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014]
+
+*Usability*
+
+_The ease with which the enterprise model can be used for its intended purpose._ 
+
+The models were designed to be useful in analysing business processes.
+It has shown to be useful in identifying a potential innovation, namely the Stock Tracker service.
+It also covers potential threats that stakeholders / intended users should be aware of. 
+Its design is straightforward, and the Trikom committee members should be able to use it.
+The proposed service innovation should have a clear impact on the existing business process and it covers the required changes to achieve so.
+
+
+*Understanding*
+
+_The ease with which the concepts and structures in the enterprise model can be understood by the stakeholders._
+
+
+
+*Completeness*
+
+_The degree to which all relevant facts of the problem domain are included in the enterprise model._
+
+
+*Correctness*
+
+_How well the enterprise model conforms to the rules of the modeling technique._
+
+
+*Flexibility*
+
+_The ease with which the enterprise model can cope with changes in the modeling domain._
+
+
+*Integration*
+
+_The degree of consistency between the different sub-models (enterprise perspectives) that constitute the enterprise model._
+
+
+*Simplicity*
+
+_The degree of minimal use of modeling constructs for presenting
+knowledge in the enterprise model._
+
+
+
+
+// |===
+// | Expectations |Theory related
+
+// | Assess if your model meets its purpose. You can use any of the methods we 
+// learned for evaluating models or any other means. (Hint . connect your 
+// model to its purposes and ask if it meets the purpose
+
+// | How did you evaluate yur model . what evaluations methods (from theory) did 
+// you consider? Justify your choice of evaluation method(s). Describe how you 
+// evaluate your model, using the model and include screen shots of the relevant 
+// parts of the model. Describe why you think your model is good and meets the 
+// purpose (or not). 
+
+// |===
