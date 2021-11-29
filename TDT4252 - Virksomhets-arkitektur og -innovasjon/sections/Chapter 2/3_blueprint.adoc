@@ -7,10 +7,7 @@ image::figures/Blueprint.svg[scaledwidth=100%, align="center"]
 [.portrait]
 <<<
 
-
-
-The blueprint is created from the perspective of a Trikom committee member.
-It encompasses both indirect interaction with the customers and what happens at the back of the stage.
+The blueprint  encompasses both indirect interaction with the customers and what happens at the back of the stage.
 The red borders emphasize the significance of the new service.
 
 The notifications are the most visible difference for regular customers.

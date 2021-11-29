@@ -4,20 +4,39 @@ The Stock Creation Service will be displayed from the perspective of a Trikom me
 This is an actor who will be directly impacted by the innovation.
 Regular consumers at Kiosken will be impacted indirectly since item availability will be more consistent.
 Furthermore, clients may have a reduced wait time for a resupply.
-Even though the innovation benefits the customers, the focis lies on the Trikom members as the goal is to streamline their workflow.
+Even though the innovation benefits the customers, the focus lies on the Trikom members as the goal is to streamline their workflow.
 Customers' benefits are in-direct consequences of the invention, which has a direct impact on Trikoms members and their workflow.
 As a result, only customer journeys from the perspective of Trikom members will be offered. 
 
-
+[[before_innovation]]
 .Before Innovation || Customer Journey
-image::figures/before_innovation.svg[]
+image::figures/before_innovation.svg[align='center']
 
-This model is very interesting because of this and that
+xref:before_innovation[] shows the customer journey _before_ the innovation. 
 
+Before the actual restocking process begins, a Trikom committee member has to do a manual checkup on the current stock. 
+When a restock is determined to be necessary, the member must calculate how much of each item should be shopped.
+A shopping list is created, and then Trikom as a whole has to figure out how to perform the shopping.
+When the shopping is done, one has to finish the process with restocking the shelves and the storage.
+
+The important parts are those happening before and during the journey. 
+The discovered issues regard the manual check of the current stock and the manual counting and determination of a restock.
+This part is time consuming and very unpredictable for the customers of Kiosken.
+
+[[after_innovation]]
 .After Innovation || Customer Journey
-image::figures/after_innovation.svg[]
+image::figures/after_innovation.svg[align='center']
 
-This model is very interesting because of this and that
+xref:after_innovation[] shows the customer journey _after_ the innovation.
+
+There is one less step than in xref:before_innovation[], and the total steps are evenly distributed throughout _before_, _during_, and _after_.
+
+The most significant change occurs before the journey starts.
+There is no longer a manual step in which committee members must decide whether or not to restock.
+There is also no need to prepare a shopping list.
+A tailored shopping list is generated, along with a notification informing Trikom that a restock is required.
+
+In other words, a considerable portion of physical effort is eliminated, freeing up resources that may be used elsewhere. 
 
 // |===
 // | Expectations |Theory related
