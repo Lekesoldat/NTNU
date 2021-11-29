@@ -1,5 +1,5 @@
 === Model Evaluation
-In this section I will evaluate the models created. In xref:goals[] I described the goals, sub-goals and purpose as the following:
+In this section I will evaluate the models created. In xref:goals[] the goals, sub-goals and purpose is described as the following:
 
 . The model should *be beneficial to analyze the business processes*
 
@@ -15,7 +15,7 @@ To evaluate the models I will use *quality criteria*.
 *Quality criteria* are utilized because, while it focuses on the models and how accurate they are in terms of modeling the business, it allows for subjective quality. 
 I.e it covers the models usability and understanding, which are very important parts for those going to utilize them.
 
-According to Krogstie et al., 'what quality criteria are relevant and how strictly they are to be followed depends on the purpose of modeling or goals of modeling' cite:[krogstie], and this is taken into consideration for this section. 
+According to Krogstie et al., '_what quality criteria are relevant and how strictly they are to be followed depends on the purpose of modeling or goals of modeling_' cite:[krogstie], and this is taken into consideration for this section. 
 The criterias *simplicity* and *integration* is omitted as own paragraphs as they are covered sufficiently in the other criterias.
 
 NOTE: All definitions in the following paragraphs are by Sandkuhl et al. cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014]
@@ -24,7 +24,7 @@ NOTE: All definitions in the following paragraphs are by Sandkuhl et al. cite:[S
 
 _The ease with which the enterprise model can be used for its intended purpose._ 
 
-The models were designed to be useful in analysing business processes.
+The models were designed to be useful in analyzing business processes.
 It has shown to be useful in identifying a potential innovation, namely the Stock Tracker service.
 It also covers potential threats that stakeholders / intended users should be aware of. 
 Its design is straightforward, and the Trikom committee members should be able to use it.
@@ -53,7 +53,9 @@ The _understanding_ of the model is evaluated good.
 _The degree to which all relevant facts of the problem domain are included in the enterprise model._
 
 The case considers a specific process, namely the restocking of Kiosken. 
-All sub-processes and models included are related to this. The goals are realized by the processes and the proposed service. The actors presented are either performing actions related to the overall process, or essential to the Stock Tracker. 
+All sub-processes and models included are related to this. 
+The goals are realized by the processes and the proposed service. 
+The actors presented are either performing actions related to the overall process, or essential to the Stock Tracker. 
 
 The _completeness_ of the model is evaluated very good.
 
@@ -63,7 +65,6 @@ _How well the enterprise model conforms to the rules of the modeling technique._
 
 In my case, the modeling technique of choice was 4EM.
 This criterion assesses how effectively my model adheres to the language's scope and makes use of the language's current syntax and rules.
-
 
 The model adheres to the syntax and rules of the language.
 I may have overlooked certain elements of the language that would have made modeling easier, but the finished product should meet expectations. 
@@ -83,8 +84,8 @@ The _flexibility_ of the model is evaluated very good.
 
 *Overall quality*
 
-The model's _overall quality_ is rated as good, although there is space for improvement.
-More experienced architects might definitely use sections of 4EM that I am not familiar with, improving both understanding and accuracy. 
+The model's _overall quality_ is rated as good, but there is there is space for improvement.
+Someone more experienced  might use elements and aspects of 4EM that I am not familiar with, improving both understanding and accuracy. 
 
 // |===
 // | Expectations |Theory related

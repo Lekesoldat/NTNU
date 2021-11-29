@@ -7,9 +7,8 @@ Fortunately, this was mostly resolved during exercise lessons.
 
 It was a lot of fun brainstorming potential cases.
 I took one case early on, and worked on it extensively until I concluded it just would not work.
-Starting from scratch with a new case was a little discouraging, but I had learned a lot and the process went much more smoothly the second time.
+Starting from scratch with a new case was definitely discouraging, but I had learned a lot and the process went much more smoothly the second time.
 The largest advantage was taking detailed notes and describing the case thoroughly before modeling.
-
 
 I'm glad I have some prior experience with information systems and modeling.
 Modeling my case was challenging using new tools, but it became fun after I got the hang of it and the many elements fell into place.
@@ -17,10 +16,12 @@ It took several modeling iterations until I was satisfied, and I am pleased with
 
 If I had to do it all over again, I would surely do certains things differently.
 Before modeling, I would familiarize myself with both 4EM and ArchiMate so that I could have a better modeling experience.
-Even while it was fascinating at times, I spent a lot of time overwhelmed and confused by conventions and syntax.
+Even while it was exciting at times, I spent a lot of time overwhelmed and confused by conventions and syntax.
 I would also consider getting familiar with more of the frameworks for evaluation and enterprise architectures. 
 
 All in all i think it was a challenging process, but I feel I have gotten rather good insights into business and enterprise modelling, as well as service innovation and the methods for analyzing them cite:[CourseEnterpriseArchitecture].
+
+As I've never written anything longer than a few pages, writing such an extensive report was a great learning experience as well.
 
 // |===
 // | Expectations |Theory related
