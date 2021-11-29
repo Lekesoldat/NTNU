@@ -1,24 +1,23 @@
 === Reflections
 
 Online is a non-profit organization that prioritizes the well-being of its members.
-Online must be creative in order to receive financing from the institute, generate money to give back to members, and so on.
+The student association must be creative in order to receive financing from the institute, generate money to give back to members, and so on.
 The revenue is assured as long as the members are pleased; but, keeping it that way is difficult.
 There are several competing student organizations and associations vying for members.
-To maintain Online's long-term viability as a large student organization, they must always be the best option.
+To maintain Online's long-term viability as a popular and preferred student organization, they must always be the best option.
 
-To be innovative, it is not enough to just provide new services and retain existing members.
-It is also about expanding the member base.
-Through the Kiosken innovation with the Stock Tracker service, Online and Trikom may have the finest kiosk at NTNU.
+To be innovative, it is not enough to just provide new services and retain existing members, - it is also about expanding the member base.
+Through the Kiosken-innovation with the Stock Tracker service, Online and Trikom may have the finest kiosk at NTNU.
 It is available to members outside of Online as well, and it is an excellent marketing tool for both the association and the field of study, Informatics.
 
-The models undoubtedly aid in providing an overview.
+The models undoubtedly aid in providing an overview over ongoing processes, goals and those involved.
 The customer journeys aid in providing an overview of the steps for the various actors engaged at particular phases.
-Creating journeys before and after the innovation also provides valuable information into what changes and how they impact people.
+Creating journeys before and after the innovation also provides valuable information into what changes and how it impacts users.
 Enterprise models often focus on one point of view or generalized interactions, and as a complimentary service, such models help us grasp the many points of view more clearly. 
 
 The user experience and service appeal are at the forefront of service design.
-When compared to enterprise models that focus on higher-level insight into processes and services, it provides excellent, comprehensive information.
-The blueprint clearly conveys a sense of practicality and worth to the enterprise. 
+When compared to enterprise models that focus on higher-level insight into processes and services, service design provides excellent, comprehensive information and approaches giving insight into the customer's needs.
+I.e the blueprint clearly conveys a sense of practicality and worth to the enterprise. 
 
 // |===
 // | Expectations |Theory related

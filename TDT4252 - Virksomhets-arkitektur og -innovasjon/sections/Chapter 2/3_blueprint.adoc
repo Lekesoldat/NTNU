@@ -7,7 +7,7 @@ image::figures/Blueprint.svg[scaledwidth=100%, align="center"]
 [.portrait]
 <<<
 
-The blueprint  encompasses both indirect interaction with the customers and what happens at the back of the stage.
+The blueprint encompasses both indirect interaction with the customers and what happens at the back of the stage.
 The red borders emphasize the significance of the new service.
 
 The notifications are the most visible difference for regular customers.
@@ -15,7 +15,7 @@ They are now notified when a restock is planned as well as when it is finished.
 This may be seen at the _front of the stage_-part of the blueprint.
 
 The true strength of the new service may be seen at the _back of the stage_ and in the _support procedures and systems_.
-The tailored shopping list allows committee members to notify refill plans while also saving substantial time spent on creating the list.
+The tailored shopping list allows committee members to notify restock plans while also saving substantial time spent on creating the list.
 They may also notify customers when the restock is finished and update the Supply Tracker service with the new stock. 
 
 // |===

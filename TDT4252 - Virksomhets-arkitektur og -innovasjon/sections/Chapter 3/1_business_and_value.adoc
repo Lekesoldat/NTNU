@@ -10,11 +10,11 @@ These are critical distinctions to make.
 
 Business modeling is frequently concerned with increasing income.
 Because Online is a non-profit organization, presenting the immediate financial advantages of revenue streams was challenging, but other values are provided. 
-There are various business models that might be used.
 
-Because it is aimed at startups cite:[skowronLeanCanvasVs], a _Lean Business Canvas_, a version of the business model canvas, was not chosen.
+There are various business models that can be utilized.
+Because it is aimed at startups cite:[skowronLeanCanvasVs], a _Lean Business Canvas_, a version of the _Business Model Canvas_, was not chosen.
 The lean business canvas includes a metric termed _unfair advantage,_ which tries to differentiate the company from competitors.
-This is not suitable for the provided scenario in this report, as the suggested service of the business model should be the focal point. 
+This is not suitable for the provided scenario in this report, as the proposed service of the business model should be the focal point. 
 
 .Lean Business Canvas || Source: cite:[skowronLeanCanvasVs]
 image::figures/lean_canvas.png[scaledwidth=80%, align="center"]
@@ -32,7 +32,7 @@ This model incorporates essential interactions with customers as well as how key
 
 *Key Partners*
 
-The crucial partners are those who will help us bring the service to life and make the business model function.
+The key partners are those who will help bring the service to life and make the business model function.
 These are for the Stock Tracker service:
 
 _Software Developer_ +
@@ -54,15 +54,16 @@ As the service results in more regular visits, a robust interaction with these p
 The key activities are those that occur in Kiosken and are related to the proposed service.
 There is no need for the service if there are no sales because there is no need for restocking.
 The other process, restock planning, determines how a restock will be carried out.
-This is significant since it makes extensive use of the service's customized shopping list. 
+This is significant since it makes extensive use of the service's tailored shopping list. 
 
 
 *Key Resources*
 
 These are the most significant assets necessary for the business model to function properly.
-There is no need for the service if there are no customers.
+As mentioned, there is no need for the service if there are no customers.
 The service will not be created until Dotkom developers are available.
-For the service to function properly it needs access to the stock data. Without this access it will not be able to notify when certain items are running out. 
+For the service to function properly it needs access to the stock data. 
+Without this access it will not be able to notify when certain items are running out. 
 
 
 *Value Propositions*
@@ -72,20 +73,24 @@ The values range from reduced workload to reduced uncertainty for consumers.
 
 _Workload Reduction_ +
 Because the Stock Tracker service seeks to eliminate some manual tasks, the total workload is expected to be greatly reduced.
-It's great not to have to count stuff or make a shopping list.
+It's great not to have to count items or make a shopping list.
 Furthermore, because the service allows for more frequent restocking in lower amounts, the total effort is decreased. 
 
 _Less uncertainty_ +
 The service includes notifications for all Online members, who are also the most frequent customers.
 This, along with more frequent restocking, allows customers to readily determine whether or not Kiosken is stocked.
-If an item is out of stock, it is realistic to anticipate it to be available in a reasonable length of time. 
+If an item is out of stock, it is realistic to anticipate it to be available within a reasonable amount of time. 
 
 *Customer Relationships*
 
 The relationships describe how the service interacts with its users.
 Trikom needs to interact with the Stock Tracker.
-When a restock is done, they must update the current stock with the most recent numbers.
 Because the interraction part of the service is intended solely for those members, their preferences are critical to enhancements and usage. 
+When a restock is done, they must update the current stock with the most recent numbers.
+The service also initiates the entire restocking process with it's notification.
+
+One can mention the regular customers as well.
+Their loyalty to Kiosken will be strengthened if the service functions well and they are satisfied.
 
 
 *Channels*
@@ -98,8 +103,8 @@ One for messaging to Trikom, and another for public messages.
 
 *Customer Segments*
 
-In terms of the value generated, customers are identified as the most significant.
-The innovation is primarily intended to benefit Trikom committee members, but regular customers are also included because they are heavily impacted. 
+In terms of the value generated, Trikom members are identified as the most significant.
+The innovation is primarily intended to benefit these, but regular customers are also included because they are in-directly impacted. 
 
 
 *Cost Structure*
@@ -116,7 +121,7 @@ Allocating additional time for the initial restocks with the new service may als
 The revenue streams are not monetary, as stated in the introduction.
 However, revenue may be measured in terms of less time spent on monotonous and repetitive tasks.
 There is a significant reduction in the amount of time spent on such duties, which might inspire committee members.
-Furthermore, the time saved may be used to benefit other social contexts, such as online members.
+The time saved may be used to benefit other social contexts.
 Another revenue may be the increased positive reputation for Online.
 Kiosken's good reputation may lead to increased sales and consequently pleased customers and members.
 

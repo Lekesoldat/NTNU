@@ -26,18 +26,18 @@ In line with the goals defined in xref:em_goal[the Goal model], the proposed ser
 Previously the shopping list was created manually, and the need for a restock uncovered in the same manual way. 
 
 The notification,  _Information set 1, remains the same, however the way it is created is new. 
-This is not shown in the model, but described in this paragraph and earlier. 
+This is not shown in the model, but described in this paragraph and previously. 
 The proposed service, the Stock Tracker, keeps track of the items in stock. 
 When a certain threshold is reached, it sends a notification to Trikom with a tailored shopping list.
 
-A Slack notice (Information set 3) is issued as a new element in _Process 1_.
-This is to tell all Online members that a restock is in the works.
-As a result, they have a more predictable which is the overall problem, which motivates the goal of enhanced customer satisfaction. 
+A Slack-notice (_Information set 3_) is issued as a new element in _Process 1_.
+This tells all of Online's members that a restock is in the works.
+As a result, the stock is more predictable, which motivates the goal of enhanced customer satisfaction. 
 
 A new information set is shown in _Process 2_.
 This information set offers data about the current stock following the restock.
 This data is added to the Stock Tracker to keep it up to date.
-When this is accomplished, a notification is issued to all Online members informing them that Kiosken's items are once again available. 
+When this is accomplished, a notification is issued to all of Online's members informing them that Kiosken's items are once again available. 
 
 [.landscape]
 <<<
@@ -52,11 +52,11 @@ image::figures/TOBE/changed_process.svg[scaledwidth=90%, align='center']
 The modified Enterprise Model is depicted in xref:changed_em[].
 The components have been reorganized in order to improve readability.
 
-The goals' arrows have been revised to point to more particular areas of the processes, making it clearer how the innovation affects them.
+The goals' arrows have been revised to point to more specific areas of the processes, making it clearer how the innovation affects them.
 The same is applicable for the Trikom members' roles and interactions.
 xref:changed_actors_text[] highlighted the modifications for Dotkoms developers and their involvement in the maintenance of the Stock Tracker.
 
-The revised model should be easier to grasp and provide a more natural picture of the overall business and its processes, relevant to the case. 
+The revised model should be easier to grasp, and provide a more natural picture of the overall business and its processes, relevant to the case. 
 
 [.landscape]
 <<<
