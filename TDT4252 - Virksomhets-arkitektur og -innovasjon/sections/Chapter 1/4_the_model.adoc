@@ -21,6 +21,7 @@ Further, possible constraints are highlighted.
 .Business Process Model || 4EM
 image::figures/ASIS/4EM-Process.png[PROCESS]
 
+<<<
 The *Business Process Model* is more in-depth.
 The view depicts the case's important processes as well as the actor involved.
 xref:processes[] provides a more detailed explanation of the processes and what is happening.

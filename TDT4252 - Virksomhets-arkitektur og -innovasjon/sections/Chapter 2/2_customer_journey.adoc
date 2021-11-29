@@ -12,8 +12,8 @@ As a result, only customer journeys from the perspective of Trikom members will 
 .Before Innovation || Customer Journey
 image::figures/before_innovation.svg[align='center']
 
-xref:before_innovation[] shows the customer journey _before_ the innovation. 
-
+<<<
+xref:before_innovation[] shows the customer journey _before_ the innovation. + 
 Before the actual restocking process begins, a Trikom committee member has to do a manual checkup on the current stock. 
 When a restock is determined to be necessary, the member must calculate how much of each item should be shopped.
 A shopping list is created, and then Trikom has to figure out how to perform the shopping.
@@ -27,8 +27,7 @@ These parts are time consuming and very unpredictable for the customers of Kiosk
 .After Innovation || Customer Journey
 image::figures/after_innovation.svg[align='center']
 
-xref:after_innovation[] shows the customer journey _after_ the innovation.
-
+xref:after_innovation[] shows the customer journey _after_ the innovation. +
 There is one less step than in xref:before_innovation[], and the total steps are evenly distributed throughout _before_, _during_, and _after_.
 
 The most significant change occurs before the journey starts.

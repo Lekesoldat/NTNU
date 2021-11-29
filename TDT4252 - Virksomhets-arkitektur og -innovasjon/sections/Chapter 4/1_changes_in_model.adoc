@@ -15,7 +15,7 @@ The developers play a significant role in both the creation of the proposed serv
 
 
 [[changed_actors]]
-.The Actors and Resources Model|| 4EM
+.The Actors and Resources Model || 4EM
 image::figures/TOBE/changed_actors.svg[align='center']
 
 ==== The Changed Business Process Model
