@@ -64,10 +64,8 @@ The service will be referred to as the 'Stock Tracker' service from now on, and 
 
 
 [discrete]
-==== Develop
+==== Develop - The Stock Tracker Service
 A Blueprint is provided later in the report, in its own section, to add to the develop phase.
-
-*Stock Tracker Service*
 
 The service can be created with limited cooperation from Trikom's members.
 Other than to the Dotkom developers, how the service is implemented is unimportant as long as the end result is as desired.
