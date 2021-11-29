@@ -21,9 +21,9 @@ Because the language has a somewhat rigid structure, I suppose it would be diffi
 I started modeling in 4EM, thus ArchiMate was first perplexing to me.
 The concepts and their names were difficult to translate, but I eventually got the hang of it.
 
-I tried out the Archi Modeling Tool and had mixed thoughts about it.
+I tried the Archi Modeling Tool and had mixed thoughts about it.
 It was excellent to guarantee there were no technical faults, but I encountered several unexpected errors as well as problems with the general usage.
-The irritation associated with this may have influenced the conclusion of the preferred language, but I continue to feel 4EM was the greatest decision.
+The frustration associated with this may have influenced the conclusion of the preferred language, but I still feel 4EM was the greatest decision.
 
 In my perspective, 4EM excels in the process modeling, but ArchiMate is overall decent in all areas.
 Archimate's layers provide an advantage in that they indicate how processes are carried out and goals are attained from the business layer to the technology layer in a top-down approach. 

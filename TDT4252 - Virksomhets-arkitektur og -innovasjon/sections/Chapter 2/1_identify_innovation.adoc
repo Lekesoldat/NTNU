@@ -1,18 +1,20 @@
 As previously stated, Kiosken issues with product availability.
-Members of Online have additional possibilities outside Kiosken, although they are at competitive student associations.
+Members of Online have additional alternatives outside Kiosken, although they are at competitive student associations.
 To keep students pleased and maintain a good reputation, Online and Trikom must be better in terms of item availability. 
 
 === Method
 
-The Double Diamond Design approach cite:[doubleDiamond]  was utilized to perform service innovation in an attempt to overcome the previously identified challenge.
+The Double Diamond Design approach cite:[doubleDiamond] was utilized to perform service innovation in an attempt to overcome the previously identified challenge.
 The approach, which is similar to the more generic Open Innovation process, comprises four separate phases.
 The relevant tools and methods provided by the Double Diamond Design process are detailed in the following paragraphs.
 In particular, the phases _discover_, _define_, and _develop_ will be covered.
 
 [discrete]
 ==== Discover
+
 During the _discover_-phase, one creates an understanding of the issues in the enterprise cite:[DoubleDiamondDesign2021].
-We will look into various service innovations that can hopefully fix these issues later.
+We will look into a service innovation that can hopefully fix these issues later.
+
 As stated in the introduction, there are some issues with the restocking process.
 The following aspects can be improved: 
 
@@ -20,11 +22,11 @@ The following aspects can be improved:
 This is normally done at random by both committee members and ordinary Online members.
 There is no set procedure for dealing with items that are out of stock, other than sending an email to Trikom or addressing it to a committee member.
 When such a mail is sent, or the message passed on, no more information surfaces until the kiosk is restocked.
-It is unknown when it will be completed or even if the notice is received.
+To the customer, when it will be completed or even if the notice is received is unknown.
 
 * Trikom must prepare ahead of time in order to carry out a restock.
 First and foremost, all items in Kiosken's shelves must be counted and date verified.
-The items in storage must then be counted and the dates must be confirmed.
+The items in storage also has to be counted and the dates verified.
 A shopping list must be created once the current supply is counted.
 The quantity of each item required must be estimated depending on both popularity and storage availability.
 A shopping session requires a lot of repetitive and manual labor.
@@ -35,11 +37,12 @@ This is not beneficial for the economy as a non-profit kiosk.
 
 [discrete]
 ==== Define
+
 Two issues were discovered during the _discover_-phase.
 The first is the manual labor of checking item availability and registering a restocking request.
 The other is the time-consuming and human-error-prone procedure of organizing a shopping trip.
 As the identified problems are experienced close to first hand, a few possible improvements has been thought of. 
-The idea is to implement a new digital service into the custom made Kiosk-app called Nibble4 cite:[Nibble4].
+The idea is to implement a new _digital service_ into the custom made kiosk-app called Nibble cite:[Nibble4].
 
 The service is designed to maintain track of item stock at all times and alert Trikom when it is time to restock.
 Trikom will resupply more often, but in lower quantities.
@@ -49,7 +52,7 @@ Naturally, the availability of things will improve, as will consumer happiness.
 Trikom members update the current stock counts while restocking Kiosken.
 As time passes and items sell, the service will tell Trikom that a restock is imminent.
 Along with the message, a completed shopping list is sent, and there will be no need for extensive item counting.
-Because Online's members are frequent Slack users, the service will also send a message via Slack, letting everyone know when a restock is recommended and when it is accomplished. 
+Because Online's members are frequent Slack users, the service will also send a message there, letting everyone know when a restock is recommended and when it is accomplished. 
 
 Due to their comparable origins, the suggested solution should be able to tackle both of the identified problems.
 The service attempts to lessen the degree of uncertainty surrounding item availability while also eliminating human labor associated with item counting.
@@ -64,15 +67,15 @@ The service will be referred to as the 'Stock Tracker' service from now on, and 
 ==== Develop
 A Blueprint is provided later in the report, in its own section, to add to the develop phase.
 
-*Stock Monitoring Service*
+*Stock Tracker Service*
 
 The service can be created with limited cooperation from Trikom's members.
 Other than to the Dotkom developers, how the service is implemented is unimportant as long as the end result is as desired.
-Dotkom's sole involvement and contribution is required for the design of the notice and shopping list.
-Despite the fact that the service is customised in a way that is unique to Kiosken and Nibble4, the innovation is open.
+As for the development phase, Trikom's sole involvement and contribution is required for the design of the notice and shopping list.
+Despite the fact that the service is customised in a way that is unique to Kiosken and Nibble, the innovation is open.
 All code is open-source, and innovative ideas are gathered outside of the company's walls.
 The service will be created in-house, but with the assistance of existing external libraries.
-Many of Dotkom's services are cloud-based, however Nibble4 with the new service is run on a local server in Kiosken. 
+Many of Dotkom's services are cloud-based, however Nibble with the new service is run on a local server in Kiosken. 
 
 
 

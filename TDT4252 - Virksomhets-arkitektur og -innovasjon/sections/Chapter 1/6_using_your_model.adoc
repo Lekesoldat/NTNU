@@ -1,7 +1,7 @@
 === Using the Model
 
 Because I've decided to go with 4EM, I'll be referring to these models from now on. 
-As mentioned in xref:purpose[], the model should serve as '*a beneficial overview of the key processes of the restocking of Kiosken*.'
+As mentioned in xref:purpose[], the model should serve as _a beneficial overview of the key processes of the restocking of Kiosken_.
 
 
 Initially, the model is intended to be used to discover better solutions and potential improvements for the restocking process.
@@ -11,14 +11,14 @@ Having something solid will ensure that everyone receives the same information.
 
 By putting the xref:em_goals[goals] in print, all committee members will have a common foundation.
 This perspective of view can spark debate and issue solutions.
-It may be simpler to make choices and judgments if the goals are broken down into smaller sub-goals.
-The goal model highlights important weaknesses, opportunities and obstacles.
+It may also be simpler to make choices and judgments if the goals are broken down into smaller sub-goals.
+The xref:em_goals[goal model] highlights important weaknesses, opportunities and obstacles.
 Having them displayed aids in overall comprehension and ensures that potentially key events are not overlooked. 
 
-All essential actors and resources are shown in the xref:em_actor[Actors and Resources model].
+All essential actors and resources are shown in the xref:em_actor[Actors and Resources Model].
 By illustrating the relationships between them, as well as how they are linked to the processes in the enterprise model, ambiguity about how duties are divided and who performs what is avoided. 
 
-The subprocesses depicted in the xref:em_process[Business Process View] allow model users to gain a clear picture of what is going on.
+The sub-processes depicted in the xref:em_process[Business Process Model] allow model users to gain a clear picture of what is going on.
 This is where the potential for innovation are uncovered, and it is evident which stages could be shortened. 
 
 // |===

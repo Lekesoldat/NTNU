@@ -7,9 +7,9 @@
 image::figures/ASIS/4EM-Goals.svg[GOALS]
 
 Trikom's overarching goal is to 'Increase customer satisfaction.' 
-This goal is difficult to measure, and it may never be considered as _reached_. 
+This goal is difficult to measure, and it may never be considered as _reached_ simply because. 
 However, having this as the main goal makes a it easier to create supporting and achievable sub-goals.
-The identified sub-goals as of now to achieve this is by 'Increasing the variety of items in stock', or by 'increasing the availability of items.'
+The sub-goals to achieve this is given as 'Increasing the variety of items in stock', or by 'increasing the availability of items.'
 The inefficient restocking process, which is the key bottleneck of item supply, must be streamlined. 
 It is the increased availability-part that will be the focus of this report.
 Goals for streamlining the restocking process include reducing the number of steps in the restocking and automating the detection of need.
@@ -21,10 +21,10 @@ Further, possible constraints are highlighted.
 .Business Process Model || 4EM
 image::figures/ASIS/4EM-Process.png[PROCESS]
 
-The *Business Process View* is more in-depth.
+The *Business Process Model* is more in-depth.
 The view depicts the case's important processes as well as the actor involved.
 xref:processes[] provides a more detailed explanation of the processes and what is happening.
-It is worth noting that the information sets are important as the output of each process is essential for the next.
+It is worth noting that the _information sets_ are important, as the output of each process is essential for the next.
 
 
 [[em_actors]]
