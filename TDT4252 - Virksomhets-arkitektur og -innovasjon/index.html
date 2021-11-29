@@ -35,31 +35,24 @@
 <li><a href="#processes">1.2. Case Processes</a></li>
 <li><a href="#purpose">1.3. Purpose</a>
 <ul class="sectlevel3">
-<li><a href="#_goals">1.3.1. Goals</a></li>
-<li><a href="#_success_criteria">1.3.2. Success criteria</a></li>
+<li><a href="#goals">1.3.1. Goals</a></li>
+<li><a href="#success_criteria">1.3.2. Success criteria</a></li>
 </ul>
 </li>
-<li><a href="#_model_design">1.4. Model Design</a></li>
+<li><a href="#model_design">1.4. Model Design</a></li>
 <li><a href="#_design_of_the_model">1.5. Design of the Model</a>
 <ul class="sectlevel3">
 <li><a href="#_4em_models">1.5.1. 4EM Models</a></li>
 <li><a href="#_archimate_models">1.5.2. ArchiMate Models</a></li>
 </ul>
 </li>
-<li><a href="#_perspectivesaspects">1.6. Perspectives/Aspects</a></li>
-<li><a href="#_modeling_tools">1.7. Modeling Tools</a></li>
-<li><a href="#_using_the_model">1.8. Using the Model</a></li>
+<li><a href="#_modeling_tools">1.6. Modeling Tools</a></li>
+<li><a href="#_using_the_model">1.7. Using the Model</a></li>
 </ul>
 </li>
 <li><a href="#_open_service_innovation_and_service_design">2. Open Service Innovation and Service Design</a>
 <ul class="sectlevel2">
-<li><a href="#_method">2.1. Method</a>
-<ul class="sectlevel3">
-<li><a href="#_discover">2.1.1. Discover</a></li>
-<li><a href="#_define">2.1.2. Define</a></li>
-<li><a href="#_develop">2.1.3. Develop</a></li>
-</ul>
-</li>
+<li><a href="#_method">2.1. Method</a></li>
 <li><a href="#_create_a_customer_journey">2.2. Create a Customer Journey</a></li>
 <li><a href="#_blueprint">2.3. Blueprint</a></li>
 <li><a href="#_reflections">2.4. Reflections</a></li>
@@ -67,12 +60,22 @@
 </li>
 <li><a href="#_business_modelling">3. Business modelling</a>
 <ul class="sectlevel2">
-<li><a href="#_business_and_value_modeling">3.1. Business and Value Modeling</a></li>
+<li><a href="#_business_and_value_modeling">3.1. Business and Value Modeling</a>
+<ul class="sectlevel3">
+<li><a href="#_business_model_canvas">3.1.1. Business Model Canvas</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a href="#_redesigned_enterprise_model">4. Redesigned enterprise model</a>
 <ul class="sectlevel2">
-<li><a href="#_changes_in_the_enterprise_model">4.1. Changes in the Enterprise Model</a></li>
+<li><a href="#changes">4.1. Changes in the Enterprise Model</a>
+<ul class="sectlevel3">
+<li><a href="#changed_actors_text">4.1.1. The Changed Actors and Resources Model</a></li>
+<li><a href="#_the_changed_business_process_model">4.1.2. The Changed Business Process Model</a></li>
+<li><a href="#_the_changed_enterprise_model">4.1.3. The Changed Enterprise Model</a></li>
+</ul>
+</li>
 <li><a href="#_enterprise_model_enterprise_architecture">4.2. Enterprise Model &amp; Enterprise Architecture</a></li>
 </ul>
 </li>
@@ -83,7 +86,6 @@
 </ul>
 </li>
 <li><a href="#_bibliography">6. Bibliography</a></li>
-<li><a href="#appendicies">7. Appendicies</a></li>
 </ul>
 </div>
 </div>
@@ -94,7 +96,7 @@
 <div class="sect2">
 <h3 id="_case_description">1.1. Case Description</h3>
 <div class="paragraph">
-<p>The selected case and its focus will be on the student association, Online [<a href="#LinjeforeningenOnline">1</a>].
+<p>The selected case and its focus will be on the student association, Online [<a href="#LinjeforeningenOnline">3</a>].
 Online is one of the most significant student associations at NTNU, with nearly a thousand active members.
 Hierarchically, Online is built up by several committees, some larger than others.
 Out of the nearly thousand active members, at least 160 of them are committee members powering Online.</p>
@@ -125,7 +127,7 @@ Further, it appears to be much micromanagement which in an ideal world would not
 <div class="paragraph">
 <p>As a member of Online, I am a frequent user of Kiosken.
 The problems mentioned above significantly impact me as a regular customer.
-My biggest motivation for the presented case is to figure out how to streamline the restocking process and thus provide better and more predictable availability of the goods in Kiosken.</p>
+My biggest motivation for the presented case is to figure out how to streamline the restocking process and thus provide better and more predictable availability of the items in Kiosken.</p>
 </div>
 <div class="paragraph">
 <p>By utilizing an enterprise model, from Trikom&#8217;s perspective, one can hopefully understand the underlying processes of the restocking and identify innovations to streamline those.</p>
@@ -139,13 +141,13 @@ My biggest motivation for the presented case is to figure out how to streamline 
 The following paragraphs are meant to give a brief introduction to these.</p>
 </div>
 <div class="paragraph">
-<p><strong>The Process of Identifying a Need For a Restock</strong></p>
+<p><strong>The Process of Identifying a Need for a Restock</strong></p>
 </div>
 <div class="paragraph">
 <p>As of now, there is no concrete process of identifying the need for a restock.
 The need is identified by regular users reporting a lack of items, or by Trikom members checking manually.
 Even though regular users report few items, or they are identified as out of stock by Trikom themselves, the actually restock may not happen immediately.
-It is a common practice to wait for Kiosken to be almost out of stock of all items before a restock is even planned.</p>
+It is a common practice to wait for Kiosken to be almost out of all items before a restock is even planned.</p>
 </div>
 <div class="paragraph">
 <p><strong>The Process of Planning a Restock</strong></p>
@@ -162,12 +164,12 @@ Assigning different tasks to different Trikom members, varying from driving and 
 </div>
 <div class="paragraph">
 <p>A car has to be rented and several members have to perform the actual shopping.
-The shopping is done at a partner.
+The shopping is done at certain grocery stores with an agreement benefiting both parts.
 When the shopping is finished, either the same members as those who shopped, or others, have to carry all the new items into the storage unit and restock the shelves.</p>
 </div>
 <div class="paragraph">
 <p>Once the entire restocking process is initiated, it is time consuming and involves many parts.
-Ideally certain sub processes can be be improved or even eliminated by innovation.</p>
+Ideally certain sub-processes can be be improved or even eliminated by innovation.</p>
 </div>
 </div>
 <div class="sect2">
@@ -179,19 +181,18 @@ Better availability will not generate more revenue, but the user satisfaction wi
 </div>
 <div class="paragraph">
 <p>This model should serve as a beneficial overview of the key processes of the restocking of Kiosken.
-The current models give a precise overview of the relevant parts of the case AS IS.
 No unnecessary information will surface, and the models have a logical easy-to-follow structure.
-By getting a overview of all sub process, actors and goaals, Trikom could identify steps and processes that could be greatly improved.
+By getting an overview of all sub process, actors and goals, Trikom could identify steps and processes that could be greatly improved.
 Through this, innovation can be applied, and Trikom optimize their processes, thus resulting in a better service for Onlines members.</p>
 </div>
 <div class="sect3">
-<h4 id="_goals">1.3.1. Goals</h4>
+<h4 id="goals">1.3.1. Goals</h4>
 <div class="paragraph">
 <p>There are many reasons to create enterprise models.</p>
 </div>
 <div class="quoteblock">
 <blockquote>
-A model is a generalized representation of a piece of reality, with only relevant real‐world properties taken into account during modeling. [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">6</a>]
+A model is a generalized representation of a piece of reality, with only relevant real‐world properties taken into account during modeling. [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">9</a>]
 </blockquote>
 <div class="attribution">
 &#8212; Sandkuhl et al.
@@ -202,18 +203,18 @@ A model is a generalized representation of a piece of reality, with only relevan
 The model represent a relevant piece of reality, aiming to give greater insight into information, functions, behaviour and further on.</p>
 </div>
 <div class="paragraph">
-<p>In this case, the overall goal of the model is to be <strong>beneficial to analyze the business processes</strong>.
-Some sub goals will be to <strong>identify possible innovation(s)</strong> and <strong>identify potential threats to reaching the business goals</strong>.
-Further, a goal is to <strong>visualize</strong> the business processes to get a hands-on look at what is actually going on.
-Related to the vizualization-goal, a precise sub goal will be to <strong>create the model in such a way that the committe members of Trikom is able to utilize it</strong>.</p>
+<p>In this case, the overall goal of the model is to be <strong><em>beneficial to analyze the business processes</em></strong>.
+Some sub-goals will be to <strong>identify possible innovation(s)</strong> and <strong>identify potential threats to reaching the business goals</strong>.
+Further, a goal is to <strong><em>visualize</em></strong> the business processes to get a hands-on look at what is actually going on.
+Related to the vizualization-goal, a precise sub-goal will be to <strong>create the model in such a way that the committe members of Trikom is able to utilize it</strong>.</p>
 </div>
 </div>
 <div class="sect3">
-<h4 id="_success_criteria">1.3.2. Success criteria</h4>
+<h4 id="success_criteria">1.3.2. Success criteria</h4>
 <div class="paragraph">
 <p>There are several ways to evaluate models.
-For instance, Sandkuhl et al. [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">6</a>] mentions competency questions and quality criteria. One can also apply a framework such as SEQUAL.
-Common to all, is how well the model fulfills the goals.
+For instance, Sandkuhl et al. [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">9</a>] mentions competency questions and quality criteria. One can also apply a framework such as SEQUAL.
+Common to all, is to evaluate how well the model fulfills the defined goals.
 For this case I will use the <strong>quality criteria</strong>.</p>
 </div>
 <div class="paragraph">
@@ -224,7 +225,7 @@ The criterias fitting the case the best are the following:</p>
 <ul>
 <li>
 <p><strong>Usability</strong> (Goal 1): The ease with which the enterprise model can be used for its intended
-purpose [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">6</a>].</p>
+purpose [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">9</a>].</p>
 <div class="ulist">
 <ul>
 <li>
@@ -239,14 +240,14 @@ To achieve such, it has to include enough information with relevant details and 
 </li>
 <li>
 <p><strong>Understanding</strong> (Goal 2): The ease with which the concepts and structures in the enterprise
-model can be understood by the stakeholders [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">6</a>].</p>
+model can be understood by the stakeholders [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">9</a>].</p>
 <div class="ulist">
 <ul>
 <li>
 <p>The models have to be precise and understandable. Only the relevant information should be provided, and it should be in such a way that the Trikom committee members can make use of it.</p>
 </li>
 <li>
-<p>The criteria is not met if the model leads to uncertainties or wrong conclusions.</p>
+<p>The criteria is not met if the model leads to uncertainties and confusion, i.e regarding processes or involved actors.</p>
 </li>
 </ul>
 </div>
@@ -256,29 +257,33 @@ model can be understood by the stakeholders [<a href="#Sandkuhl_Stirna_Persson_W
 </div>
 </div>
 <div class="sect2">
-<h3 id="_model_design">1.4. Model Design</h3>
+<h3 id="model_design">1.4. Model Design</h3>
 <div class="paragraph">
 <p>The enterprise models presented are mostly concerned with the business process.
 By concentrating on the business process, one may see both the important procedures and the individuals involved.
 The goals are also significant since they serve as the reason why the tasks are carried out.</p>
 </div>
 <div class="paragraph">
-<p>To begin developing the models, I concentrated on the processes.
-It was critical to have a thorough grasp of how a Kiosken operates.
-When the processes with it&#8217;s sub processes was modeled, I focused on the goals.
-To begin, I had some rough thoughts about the goals, but when the processes was clear, the goals were concretized and split into subgoals.
-Once the processes were identified, the actors manifested themselves intuitively.
-To avoid extraneous information, the models incorporate just relevant actors.</p>
+<p>The enterprise model was created using a top-down method.
+The goals are provided first, followed by the processes and the essential actors.
+The model&#8217;s user is supposed to first comprehend the goals, then what is currently happening and what may be improved.</p>
 </div>
 <div class="paragraph">
-<p>The enterprise model was created using a top-down method.
-The goals are provided first, followed by the procedures and the essential actors.
-The model&#8217;s user is supposed to first comprehend the goals, then what is currently happening and what may be improved.</p>
+<p>To begin developing the models, I concentrated on the goals.
+Once I had an outline of the goals, i focused on the processes with it&#8217;s sub-processes.
+When the processes was finished, I had a few new ideas regarding how I could concretize the goals, and I did so by creating sub-goals and detailing a bit more.</p>
+</div>
+<div class="paragraph">
+<p>Once the processes were identified, the actors manifested themselves intuitively.
+To avoid extraneous information, the models incorporate just relevant actors.
+One may question why the actors are included when there is only one actor performing the actual tasks in the first models.
+The reason is to acknowledge the existence of Dotkom, as they bring the opportunity to create the proposed service.
+In the latter models, the actors include the very important developers both creating and maintaining the service.</p>
 </div>
 <div class="paragraph">
 <p>Both 4EM and ArchiMate employ comparable perspectives in this case.
 The perspectives chosen were the most appropriate for the model and situation.
-Because we were only going to use one modeling language for the report, having similar models aided us in deciding on a language.</p>
+Because we were only going to use one modeling language for the report, having similar models aided me in deciding on a language.</p>
 </div>
 </div>
 <div class="sect2">
@@ -287,78 +292,77 @@ Because we were only going to use one modeling language for the report, having s
 <h4 id="_4em_models">1.5.1. 4EM Models</h4>
 <div id="em_goal" class="imageblock">
 <div class="content">
-<img src="figures/ASIS/4EM_2-Goals.png" alt="GOALS">
+<img src="figures/ASIS/4EM-Goals.svg" alt="GOALS">
 </div>
 <div class="title">Figure 1. Goal Model || 4EM</div>
 </div>
 <div class="paragraph">
-<p>Trikom&#8217;s overarching goal is to "increase the availability of items in Kiosken."
+<p>Trikom&#8217;s overarching goal is to 'Increase customer satisfaction.'
+This goal is difficult to measure, and it may never be considered as <em>reached</em> simply because.
+However, having this as the main goal makes a it easier to create supporting and achievable sub-goals.
+The sub-goals to achieve this is given as 'Increasing the variety of items in stock', or by 'increasing the availability of items.'
 The inefficient restocking process, which is the key bottleneck of item supply, must be streamlined.
+It is the increased availability-part that will be the focus of this report.
 Goals for streamlining the restocking process include reducing the number of steps in the restocking and automating the detection of need.
 Opportunities as well as threats are addressed.
 Further, possible constraints are highlighted.</p>
 </div>
 <div id="em_process" class="imageblock">
 <div class="content">
-<img src="figures/ASIS/4EM_2-Process.png" alt="PROCESS">
+<img src="figures/ASIS/4EM-Process.png" alt="PROCESS">
 </div>
 <div class="title">Figure 2. Business Process Model || 4EM</div>
 </div>
+<div style="page-break-after: always;"></div>
 <div class="paragraph">
-<p>The <strong>Business Process View</strong> is more in-depth.
-The view depicts the case&#8217;s important processes as well as the actors involved.
+<p>The <strong>Business Process Model</strong> is more in-depth.
+The view depicts the case&#8217;s important processes as well as the actor involved.
 <a href="#processes">Section 1.2</a> provides a more detailed explanation of the processes and what is happening.
-It is worth noting that the information sets are important as the output of each process is essential for the next.</p>
+It is worth noting that the <em>information sets</em> are important, as the output of each process is essential for the next.</p>
 </div>
 <div id="em_actors" class="imageblock">
 <div class="content">
-<img src="figures/ASIS/4EM_2-Actors.png" alt="ACTORS">
+<img src="figures/ASIS/4EM-Actors.svg" alt="ACTORS">
 </div>
 <div class="title">Figure 3. Actors and Resources Model || 4EM</div>
 </div>
 <div class="paragraph">
 <p>This perspective depicts the many organizational units, roles, and resources.
-Furthermore, the model&#8217;s user gains an understanding of how the various pieces are linked.</p>
+Furthermore, the model&#8217;s user gains an understanding of how the various pieces are linked.
+<a href="#model_design">Section 1.4</a> goes a bit more into detail regarding the use of this model.</p>
 </div>
-<div id="em_em" class="imageblock">
+<div style="page-break-after: always;"></div>
+<div class="imageblock text-center">
 <div class="content">
-<img src="figures/ASIS/4EM_2-EM.png" alt="EM">
+<img src="figures/ASIS/4EM-EM.png" alt="4EM EM">
 </div>
 <div class="title">Figure 4. Enterprise Model || 4EM</div>
 </div>
+<div style="page-break-after: always;"></div>
 <div class="paragraph">
 <p>The Enterprise View depicts all pertinent information about the case.
 The processes are linked to the goals, and which actors do what.
-The model provides a high-level overview of Trikom&#8217;s operations.</p>
+The model provides a high-level overview of Trikom&#8217;s operations, and how Dotkom can be utilized to reach the goals.</p>
 </div>
 </div>
 <div class="sect3">
 <h4 id="_archimate_models">1.5.2. ArchiMate Models</h4>
 <div class="imageblock">
 <div class="content">
-<img src="figures/ASIS/AM_2_Organizational_View.svg" alt="AM 2 Organizational View">
+<img src="figures/ASIS/AM_Motivational_Viewpoint.svg" alt="AM Motivational Viewpoint">
 </div>
-<div class="title">Figure 5. Organizational View || ArchiMate</div>
-</div>
-<div class="paragraph">
-<p>This view is straightforward.
-It displays the case&#8217;s relevant actors and the placement within the organization Online.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="figures/ASIS/AM_2_Motivational_Viewpoint.svg" alt="AM 2 Motivational Viewpoint">
-</div>
-<div class="title">Figure 6. Motivational View || ArchiMate</div>
+<div class="title">Figure 5. Motivational View || ArchiMate</div>
 </div>
 <div class="paragraph">
 <p>This view displays the drivers and overall goals.
-Constraints and assessments are included.</p>
+Constraints and assessments are included.
+The description of the goals are the same as for <a href="#em_goal">Figure 1</a>.</p>
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="figures/ASIS/AM_2_Business_Process_View.svg" alt="AM 2 Business Process View">
+<img src="figures/ASIS/AM_Business_Process_View.svg" alt="AM Business Process View">
 </div>
-<div class="title">Figure 7. Business Process View || ArchiMate</div>
+<div class="title">Figure 6. Business Process View || ArchiMate</div>
 </div>
 <div class="paragraph">
 <p>The important processes, as in the 4EM-model (<a href="#em_process">Figure 2</a>), are presented, together with the appropriate actors.
@@ -366,47 +370,29 @@ The absence of information sets is a significant distinction between this model 
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="figures/ASIS/AM_2_EM.svg" alt="AM 2 EM">
+<img src="figures/ASIS/AM_Organizational_View.svg" alt="AM Organizational View">
+</div>
+<div class="title">Figure 7. Organizational View || ArchiMate</div>
+</div>
+<div class="paragraph">
+<p>This view is straightforward.
+It displays the case&#8217;s relevant actors and the placement within the organization Online.
+<a href="#model_design">Section 1.4</a> looks more into the utilization of this view.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="figures/ASIS/AM_EM.svg" alt="AM EM">
 </div>
 <div class="title">Figure 8. Enterprise View || ArchiMate</div>
 </div>
 <div class="paragraph">
-<p>The enterprise model illustrated here, like <a href="#em_em">Figure 4</a>, incorporates all important information for the case.
+<p>The enterprise model illustrated here, like <a href="#em_em">[em_em]</a>, incorporates all important information for the case.
 It is clear how the drives and goals are related to the actors and processes.</p>
 </div>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_perspectivesaspects">1.6. Perspectives/Aspects</h3>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 50%;">
-<col style="width: 50%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Expectations</th>
-<th class="tableblock halign-left valign-top">Theory related</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">The model should include at least three perspectives/aspects of an
-enterprise in both 4EM and ArchiMate. Enterprise models by definition
-contain models of several perspectives (referred to also as sub-models), and
-they relate to one another. Note that the relationships across the
-perspectives are very important.</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">In your report, you should  explain them and how they relate to one another.
-An Enterprise model vs. several models of a single aspect is important here;
-hence the relationships across the different aspects and layers must be
-described and explained. The student should demonstrate that they
-understand the relevance of the relationships across the different aspects.</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="sect2">
-<h3 id="_modeling_tools">1.7. Modeling Tools</h3>
+<h3 id="_modeling_tools">1.6. Modeling Tools</h3>
 <div class="paragraph">
 <p>4EM has been chosen as the language to use moving forward.
 The parts that follow provide some reflections and reasons behind this.</p>
@@ -436,9 +422,9 @@ Because the language has a somewhat rigid structure, I suppose it would be diffi
 The concepts and their names were difficult to translate, but I eventually got the hang of it.</p>
 </div>
 <div class="paragraph">
-<p>I tried out the Archi Modeling Tool and had mixed thoughts about it.
+<p>I tried the Archi Modeling Tool and had mixed thoughts about it.
 It was excellent to guarantee there were no technical faults, but I encountered several unexpected errors as well as problems with the general usage.
-The irritation associated with this may have influenced the conclusion of the preferred language, but I continue to feel 4EM was the greatest decision.</p>
+The frustration associated with this may have influenced the conclusion of the preferred language, but I still feel 4EM was the greatest decision.</p>
 </div>
 <div class="paragraph">
 <p>In my perspective, 4EM excels in the process modeling, but ArchiMate is overall decent in all areas.
@@ -452,10 +438,10 @@ ArchiMate, with its diverse variety of components and levels, may be harder to g
 </div>
 </div>
 <div class="sect2">
-<h3 id="_using_the_model">1.8. Using the Model</h3>
+<h3 id="_using_the_model">1.7. Using the Model</h3>
 <div class="paragraph">
 <p>Because I&#8217;ve decided to go with 4EM, I&#8217;ll be referring to these models from now on.
-As mentioned in <a href="#purpose">Section 1.3</a>, the model should serve as '<strong>a beneficial overview of the key processes of the restocking of Kiosken</strong>.'</p>
+As mentioned in <a href="#purpose">Section 1.3</a>, the model should serve as <em>a beneficial overview of the key processes of the restocking of Kiosken</em>.</p>
 </div>
 <div class="paragraph">
 <p>Initially, the model is intended to be used to discover better solutions and potential improvements for the restocking process.
@@ -466,18 +452,19 @@ Having something solid will ensure that everyone receives the same information.<
 <div class="paragraph">
 <p>By putting the <a href="#em_goals">goals</a> in print, all committee members will have a common foundation.
 This perspective of view can spark debate and issue solutions.
-It may be simpler to make choices and judgments if the goals are broken down into smaller sub-goals.
-The goal model highlights important weaknesses, opportunities and obstacles.
+It may also be simpler to make choices and judgments if the goals are broken down into smaller sub-goals.
+The <a href="#em_goals">goal model</a> highlights important weaknesses, opportunities and obstacles.
 Having them displayed aids in overall comprehension and ensures that potentially key events are not overlooked.</p>
 </div>
 <div class="paragraph">
-<p>All essential actors and resources are shown in the <a href="#em_actor">Actors and Resources model</a>.
+<p>All essential actors and resources are shown in the <a href="#em_actor">Actors and Resources Model</a>.
 By illustrating the relationships between them, as well as how they are linked to the processes in the enterprise model, ambiguity about how duties are divided and who performs what is avoided.</p>
 </div>
 <div class="paragraph">
-<p>The subprocesses depicted in the <a href="#em_process">Business Process View</a> allow model users to gain a clear picture of what is going on.
+<p>The sub-processes depicted in the <a href="#em_process">Business Process Model</a> allow model users to gain a clear picture of what is going on.
 This is where the potential for innovation are uncovered, and it is evident which stages could be shortened.</p>
 </div>
+<div style="page-break-after: always;"></div>
 </div>
 </div>
 </div>
@@ -486,23 +473,24 @@ This is where the potential for innovation are uncovered, and it is evident whic
 <div class="sectionbody">
 <div class="paragraph">
 <p>As previously stated, Kiosken issues with product availability.
-Members of Online have additional possibilities outside Kiosken, although they are at competitive student associations.
+Members of Online have additional alternatives outside Kiosken, although they are at competitive student associations.
 To keep students pleased and maintain a good reputation, Online and Trikom must be better in terms of item availability.</p>
 </div>
 <div class="sect2">
 <h3 id="_method">2.1. Method</h3>
 <div class="paragraph">
-<p>The Double Diamond Design approach [<a href="#doubleDiamond">5</a>]  was utilized to perform service innovation in an attempt to overcome the previously identified challenge.
+<p>The Double Diamond Design approach [<a href="#doubleDiamond">6</a>] was utilized to perform service innovation in an attempt to overcome the previously identified challenge.
 The approach, which is similar to the more generic Open Innovation process, comprises four separate phases.
 The relevant tools and methods provided by the Double Diamond Design process are detailed in the following paragraphs.
 In particular, the phases <em>discover</em>, <em>define</em>, and <em>develop</em> will be covered.</p>
 </div>
-<div class="sect3">
-<h4 id="_discover">2.1.1. Discover</h4>
+<h4 id="_discover" class="discrete">Discover</h4>
 <div class="paragraph">
-<p>During the <em>discover</em>-phase, one creates an understanding of the issues in the enterprise [<a href="#DoubleDiamondDesign2021">3</a>].
-We will look into various service innovations that can hopefully fix these issues later.
-As stated in the introduction, there are some issues with the restocking process.
+<p>During the <em>discover</em>-phase, one creates an understanding of the issues in the enterprise [<a href="#DoubleDiamondDesign2021">4</a>].
+We will look into a service innovation that can hopefully fix these issues later.</p>
+</div>
+<div class="paragraph">
+<p>As stated in the introduction, there are some issues with the restocking process.
 The following aspects can be improved:</p>
 </div>
 <div class="ulist">
@@ -512,12 +500,12 @@ The following aspects can be improved:</p>
 This is normally done at random by both committee members and ordinary Online members.
 There is no set procedure for dealing with items that are out of stock, other than sending an email to Trikom or addressing it to a committee member.
 When such a mail is sent, or the message passed on, no more information surfaces until the kiosk is restocked.
-It is unknown when it will be completed or even if the notice is received.</p>
+To the customer, when it will be completed or even if the notice is received is unknown.</p>
 </li>
 <li>
 <p>Trikom must prepare ahead of time in order to carry out a restock.
 First and foremost, all items in Kiosken&#8217;s shelves must be counted and date verified.
-The items in storage must then be counted and the dates must be confirmed.
+The items in storage also has to be counted and the dates verified.
 A shopping list must be created once the current supply is counted.
 The quantity of each item required must be estimated depending on both popularity and storage availability.
 A shopping session requires a lot of repetitive and manual labor.
@@ -527,15 +515,13 @@ This is not beneficial for the economy as a non-profit kiosk.</p>
 </li>
 </ul>
 </div>
-</div>
-<div class="sect3">
-<h4 id="_define">2.1.2. Define</h4>
+<h4 id="_define" class="discrete">Define</h4>
 <div class="paragraph">
 <p>Two issues were discovered during the <em>discover</em>-phase.
 The first is the manual labor of checking item availability and registering a restocking request.
 The other is the time-consuming and human-error-prone procedure of organizing a shopping trip.
 As the identified problems are experienced close to first hand, a few possible improvements has been thought of.
-The idea is to implement a new digital service into the custom made Kiosk-app called Nibble4 [<a href="#Nibble4">4</a>].</p>
+The idea is to implement a new <em>digital service</em> into the custom made kiosk-app called Nibble [<a href="#Nibble4">5</a>].</p>
 </div>
 <div class="paragraph">
 <p>The service is designed to maintain track of item stock at all times and alert Trikom when it is time to restock.
@@ -547,7 +533,7 @@ Naturally, the availability of things will improve, as will consumer happiness.<
 <p>Trikom members update the current stock counts while restocking Kiosken.
 As time passes and items sell, the service will tell Trikom that a restock is imminent.
 Along with the message, a completed shopping list is sent, and there will be no need for extensive item counting.
-Because Online&#8217;s members are frequent Slack users, the service will also send a message via Slack, letting everyone know when a restock is recommended and when it is accomplished.</p>
+Because Online&#8217;s members are frequent Slack users, the service will also send a message there, letting everyone know when a restock is recommended and when it is accomplished.</p>
 </div>
 <div class="paragraph">
 <p>Due to their comparable origins, the suggested solution should be able to tackle both of the identified problems.
@@ -559,67 +545,83 @@ They are unrelated to Trikom&#8217;s processes, but the committee is in charge o
 The presented solutions does not need a large rearrangement of the restocking process, but it will have a significant impact.
 The service will be referred to as the 'Stock Tracker' service from now on, and one sees that in <a href="#em_process">Figure 2</a>, the <em>Stock Tracker</em> service will replace the first business process and parts of the second.</p>
 </div>
-</div>
-<div class="sect3">
-<h4 id="_develop">2.1.3. Develop</h4>
+<h4 id="_develop_the_stock_tracker_service" class="discrete">Develop - The Stock Tracker Service</h4>
 <div class="paragraph">
 <p>A Blueprint is provided later in the report, in its own section, to add to the develop phase.</p>
 </div>
 <div class="paragraph">
-<p><strong>Stock Monitoring Service</strong></p>
-</div>
-<div class="paragraph">
 <p>The service can be created with limited cooperation from Trikom&#8217;s members.
 Other than to the Dotkom developers, how the service is implemented is unimportant as long as the end result is as desired.
-Dotkom&#8217;s sole involvement and contribution is required for the design of the notice and shopping list.
-Despite the fact that the service is customised in a way that is unique to Kiosken and Nibble4, the innovation is open.
+As for the development phase, Trikom&#8217;s sole involvement and contribution is required for the design of the notice and shopping list.
+Despite the fact that the service is customised in a way that is unique to Kiosken and Nibble, the innovation is open.
 All code is open-source, and innovative ideas are gathered outside of the company&#8217;s walls.
 The service will be created in-house, but with the assistance of existing external libraries.
-Many of Dotkom&#8217;s services are cloud-based, however Nibble4 with the new service is run on a local server in Kiosken.</p>
-</div>
+Many of Dotkom&#8217;s services are cloud-based, however Nibble with the new service is run on a local server in Kiosken.</p>
 </div>
 </div>
 <div class="sect2">
 <h3 id="_create_a_customer_journey">2.2. Create a Customer Journey</h3>
 <div class="paragraph">
-<p>The Stock Creation Service will be displayed from the perspective of a Trikom member.
+<p>The Stock Tracker service will be displayed from the perspective of a Trikom member.
 This is an actor who will be directly impacted by the innovation.
 Regular consumers at Kiosken will be impacted indirectly since item availability will be more consistent.
 Furthermore, clients may have a reduced wait time for a resupply.
-Even though the innovation benefits the customers, the focis lies on the Trikom members as the goal is to streamline their workflow.
-Customers' benefits are in-direct consequences of the invention, which has a direct impact on Trikoms members and their workflow.
+Even though the innovation benefits the customers, the focus lies on the Trikom members as the goal is to streamline their workflow.
+Customers' benefits are in-direct consequences of the innovation, which has a direct impact on Trikoms members and their workflow.
 As a result, only customer journeys from the perspective of Trikom members will be offered.</p>
 </div>
-<div class="imageblock">
+<div id="before_innovation" class="imageblock text-center">
 <div class="content">
 <img src="figures/before_innovation.svg" alt="before innovation">
 </div>
 <div class="title">Figure 9. Before Innovation || Customer Journey</div>
 </div>
+<div style="page-break-after: always;"></div>
 <div class="paragraph">
-<p>This model is very interesting because of this and that</p>
+<p><a href="#before_innovation">Figure 9</a> shows the customer journey <em>before</em> the innovation.<br>
+Before the actual restocking process begins, a Trikom committee member has to do a manual checkup on the current stock.
+When a restock is determined to be necessary, the member must calculate how much of each item should be shopped.
+A shopping list is created, and then Trikom has to figure out how to perform the shopping.
+When the shopping is done, one has to finish the process with restocking the shelves and the storage.</p>
 </div>
-<div class="imageblock">
+<div class="paragraph">
+<p>The important parts are those happening before and during the journey.
+The discovered issues regard the manual check of the current stock and the manual counting and determination of a restock.
+These parts are time consuming and very unpredictable for the customers of Kiosken.</p>
+</div>
+<div id="after_innovation" class="imageblock text-center">
 <div class="content">
 <img src="figures/after_innovation.svg" alt="after innovation">
 </div>
 <div class="title">Figure 10. After Innovation || Customer Journey</div>
 </div>
 <div class="paragraph">
-<p>This model is very interesting because of this and that</p>
+<p><a href="#after_innovation">Figure 10</a> shows the customer journey <em>after</em> the innovation.<br>
+There is one less step than in <a href="#before_innovation">Figure 9</a>, and the total steps are evenly distributed throughout <em>before</em>, <em>during</em>, and <em>after</em>.</p>
 </div>
+<div class="paragraph">
+<p>The most significant change occurs before the journey starts.
+There is no longer a manual step in which committee members must decide whether or not to restock.
+There is also no need to prepare a shopping list.
+A tailored shopping list is generated, along with a notification informing Trikom that a restock is required.
+The restocking goes as usual, however the customers will receive a notification telling them when Kiosken is restocked.</p>
+</div>
+<div class="paragraph">
+<p>In other words, a considerable portion of physical and time consuming effort is eliminated, freeing up resources that may be used elsewhere.</p>
+</div>
+<div style="page-break-after: always;"></div>
 </div>
 <div class="sect2">
 <h3 id="_blueprint">2.3. Blueprint</h3>
-<div class="imageblock">
+<div class="imageblock text-center">
 <div class="content">
 <img src="figures/Blueprint.svg" alt="Blueprint">
 </div>
 <div class="title">Figure 11. Blueprint</div>
 </div>
+<div style="page-break-after: always;"></div>
 <div class="paragraph">
-<p>The blueprint is created from the perspective of a Trikom committee member.
-It encompasses both indirect interaction with the customers and what happens at the back of the stage.
+<p>The blueprint encompasses both indirect interaction with the customers and what happens at the back of the stage.
 The red borders emphasize the significance of the new service.</p>
 </div>
 <div class="paragraph">
@@ -629,32 +631,36 @@ This may be seen at the <em>front of the stage</em>-part of the blueprint.</p>
 </div>
 <div class="paragraph">
 <p>The true strength of the new service may be seen at the <em>back of the stage</em> and in the <em>support procedures and systems</em>.
-The tailored shopping list allows committee members to notify refill plans while also saving substantial time spent on creating the list.
+The tailored shopping list allows committee members to notify restock plans while also saving substantial time spent on creating the list.
 They may also notify customers when the restock is finished and update the Supply Tracker service with the new stock.</p>
 </div>
 </div>
 <div class="sect2">
 <h3 id="_reflections">2.4. Reflections</h3>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 50%;">
-<col style="width: 50%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Expectations</th>
-<th class="tableblock halign-left valign-top">Theory related</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Reflect on the revelance of innovation and the use of complementary of
-modelling methods. Identify the main differences between service design and
-enterprise modelling. Explain how service modelling complements enterprise</p></td>
-</tr>
-</tbody>
-</table>
+<div class="paragraph">
+<p>Online is a non-profit organization that prioritizes the well-being of its members.
+The student association must be creative in order to receive financing from the institute, generate money to give back to members, and so on.
+The revenue is assured as long as the members are pleased; but, keeping it that way is difficult.
+There are several competing student organizations and associations vying for members.
+To maintain Online&#8217;s long-term viability as a popular and preferred student organization, they must always be the best option.</p>
+</div>
+<div class="paragraph">
+<p>To be innovative, it is not enough to just provide new services and retain existing members, - it is also about expanding the member base.
+Through the Kiosken-innovation with the Stock Tracker service, Online and Trikom may have the finest kiosk at NTNU.
+It is available to members outside of Online as well, and it is an excellent marketing tool for both the association and the field of study, Informatics.</p>
+</div>
+<div class="paragraph">
+<p>The models undoubtedly aid in providing an overview over ongoing processes, goals and those involved.
+The customer journeys aid in providing an overview of the steps for the various actors engaged at particular phases.
+Creating journeys before and after the innovation also provides valuable information into what changes and how it impacts users.
+Enterprise models often focus on one point of view or generalized interactions, and as a complimentary service, such models help us grasp the many points of view more clearly.</p>
+</div>
+<div class="paragraph">
+<p>The user experience and service appeal are at the forefront of service design.
+When compared to enterprise models that focus on higher-level insight into processes and services, service design provides excellent, comprehensive information and approaches giving insight into the customer&#8217;s needs.
+I.e the blueprint clearly conveys a sense of practicality and worth to the enterprise.</p>
+</div>
+<div style="page-break-after: always;"></div>
 </div>
 </div>
 </div>
@@ -663,28 +669,169 @@ enterprise modelling. Explain how service modelling complements enterprise</p></
 <div class="sectionbody">
 <div class="sect2">
 <h3 id="_business_and_value_modeling">3.1. Business and Value Modeling</h3>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 50%;">
-<col style="width: 50%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Expectations</th>
-<th class="tableblock halign-left valign-top">Theory related</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Create a sustainable business model or a value model for the new
-(innovative) services in your enterprise using the relevant templates.
-Include this in the report.</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Explain the choice of your business modelling framework and why it is the
-most appropriate for your case. Explain the business or value model you have
-created and the value proposition.</p></td>
-</tr>
-</tbody>
-</table>
+<div class="paragraph">
+<p>So far, it has been discussed how the proposed service would influence the users.
+The next chapter discusses how value is created from a business perspective.
+To prevent any ambiguity:
+The new service benefits both Trikom committee members, Online as an organization, and Kiosken users on a regular basis.
+These are critical distinctions to make.</p>
+</div>
+<div class="sect3">
+<h4 id="_business_model_canvas">3.1.1. Business Model Canvas</h4>
+<div class="paragraph">
+<p>Business modeling is frequently concerned with increasing income.
+Because Online is a non-profit organization, presenting the immediate financial advantages of revenue streams was challenging, but other values are provided.</p>
+</div>
+<div class="paragraph">
+<p>There are various business models that can be utilized.
+Because it is aimed at startups [<a href="#skowronLeanCanvasVs">10</a>], a <em>Lean Business Canvas</em>, a version of the <em>Business Model Canvas</em>, was not chosen.
+The lean business canvas includes a metric termed <em>unfair advantage,</em> which tries to differentiate the company from competitors.
+This is not suitable for the provided scenario in this report, as the proposed service of the business model should be the focal point.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="figures/lean_canvas.png" alt="lean canvas">
+</div>
+<div class="title">Figure 12. Lean Business Canvas || Source: [<a href="#skowronLeanCanvasVs">10</a>]</div>
+</div>
+<div class="paragraph">
+<p>The <em>Value Proposition Model</em> is another alternative.
+This approach is rather straightforward, focusing on value propositions and how they relate to the customer.</p>
+</div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="figures/value_prop.png" alt="value prop">
+</div>
+<div class="title">Figure 13. Value Proposition Canvas || <a href="https://jaantollander.github.io/SCI-C1000/value-proposition.html">Source</a></div>
+</div>
+<div class="paragraph">
+<p>My model&#8217;s goal is to investigate how innovation provides value for both customers and the business overall.
+I decided to use the <em>Business Model Canvas</em> to do this.
+This model incorporates essential interactions with customers as well as how key partners, such as Dotkom, bring value to the service.</p>
+</div>
+<div class="paragraph">
+<p><strong>Key Partners</strong></p>
+</div>
+<div class="paragraph">
+<p>The key partners are those who will help bring the service to life and make the business model function.
+These are for the Stock Tracker service:</p>
+</div>
+<div class="paragraph">
+<p><em>Software Developer</em><br>
+They are the ones who are in charge of developing and delivering the service.
+They play an important role in ensuring that the service operates properly at all times.</p>
+</div>
+<div class="paragraph">
+<p><em>Trikom Member</em><br>
+They are the ones who will use the service after it is completed.
+They will be able to influence whether or not the service is good.
+It is critical that they provide timely feedback so that Dotkom can make required modifications to the service.</p>
+</div>
+<div class="paragraph">
+<p><em>Partner at stores</em><br>
+Trikom has various partners in local stores who help them achieve lower prices on Kiosken items.
+They frequently plan their shopping with those partners ahead of time to ensure a seamless procedure.
+As the service results in more regular visits, a robust interaction with these partners is critical.</p>
+</div>
+<div class="paragraph">
+<p><strong>Key Activities</strong></p>
+</div>
+<div class="paragraph">
+<p>The key activities are those that occur in Kiosken and are related to the proposed service.
+There is no need for the service if there are no sales because there is no need for restocking.
+The other process, restock planning, determines how a restock will be carried out.
+This is significant since it makes extensive use of the service&#8217;s tailored shopping list.</p>
+</div>
+<div class="paragraph">
+<p><strong>Key Resources</strong></p>
+</div>
+<div class="paragraph">
+<p>These are the most significant assets necessary for the business model to function properly.
+As mentioned, there is no need for the service if there are no customers.
+The service will not be created until Dotkom developers are available.
+For the service to function properly it needs access to the stock data.
+Without this access it will not be able to notify when certain items are running out.</p>
+</div>
+<div class="paragraph">
+<p><strong>Value Propositions</strong></p>
+</div>
+<div class="paragraph">
+<p>The propositions describe the value that the invention provides.
+The values range from reduced workload to reduced uncertainty for consumers.</p>
+</div>
+<div class="paragraph">
+<p><em>Workload Reduction</em><br>
+Because the Stock Tracker service seeks to eliminate some manual tasks, the total workload is expected to be greatly reduced.
+It&#8217;s great not to have to count items or make a shopping list.
+Furthermore, because the service allows for more frequent restocking in lower amounts, the total effort is decreased.</p>
+</div>
+<div class="paragraph">
+<p><em>Less uncertainty</em><br>
+The service includes notifications for all Online members, who are also the most frequent customers.
+This, along with more frequent restocking, allows customers to readily determine whether or not Kiosken is stocked.
+If an item is out of stock, it is realistic to anticipate it to be available within a reasonable amount of time.</p>
+</div>
+<div class="paragraph">
+<p><strong>Customer Relationships</strong></p>
+</div>
+<div class="paragraph">
+<p>The relationships describe how the service interacts with its users.
+Trikom needs to interact with the Stock Tracker.
+Because the interraction part of the service is intended solely for those members, their preferences are critical to enhancements and usage.
+When a restock is done, they must update the current stock with the most recent numbers.
+The service also initiates the entire restocking process with it&#8217;s notification.</p>
+</div>
+<div class="paragraph">
+<p>One can mention the regular customers as well.
+Their loyalty to Kiosken will be strengthened if the service functions well and they are satisfied.</p>
+</div>
+<div class="paragraph">
+<p><strong>Channels</strong></p>
+</div>
+<div class="paragraph">
+<p>This section covers the channels that the Stock Tracker service will use to reach out to clients.
+The service is automated, and it will communicate via Slack.
+It is worth noting that the service will operate through two channels.
+One for messaging to Trikom, and another for public messages.</p>
+</div>
+<div class="paragraph">
+<p><strong>Customer Segments</strong></p>
+</div>
+<div class="paragraph">
+<p>In terms of the value generated, Trikom members are identified as the most significant.
+The innovation is primarily intended to benefit these, but regular customers are also included because they are in-directly impacted.</p>
+</div>
+<div class="paragraph">
+<p><strong>Cost Structure</strong></p>
+</div>
+<div class="paragraph">
+<p>The cost structure specifies which activities the business must be willing to dedicate resources to in order for the business model to succeed.
+As a non-profit organization run entirely by volunteers, Online will not have to budget for the service.
+However, in order for the model to be successful, time and effort must be invested.
+Once established and in use, the service must be maintained and maybe enhanced until it is excellent.
+Allocating additional time for the initial restocks with the new service may also be advisable, since the service may fail and unforeseen events occur.</p>
+</div>
+<div class="paragraph">
+<p><strong>Revenue Streams</strong></p>
+</div>
+<div class="paragraph">
+<p>The revenue streams are not monetary, as stated in the introduction.
+However, revenue may be measured in terms of less time spent on monotonous and repetitive tasks.
+There is a significant reduction in the amount of time spent on such duties, which might inspire committee members.
+The time saved may be used to benefit other social contexts.
+Another revenue may be the increased positive reputation for Online.
+Kiosken&#8217;s good reputation may lead to increased sales and consequently pleased customers and members.</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div class="imageblock text-center">
+<div class="content">
+<img src="figures/canvas.jpg" alt="canvas">
+</div>
+<div class="title">Figure 14. The Business Model Canvas</div>
+</div>
+<div style="page-break-after: always;"></div>
+<div style="page-break-after: always;"></div>
+</div>
 </div>
 </div>
 </div>
@@ -692,55 +839,123 @@ created and the value proposition.</p></td>
 <h2 id="_redesigned_enterprise_model">4. Redesigned enterprise model</h2>
 <div class="sectionbody">
 <div class="sect2">
-<h3 id="_changes_in_the_enterprise_model">4.1. Changes in the Enterprise Model</h3>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 50%;">
-<col style="width: 50%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Expectations</th>
-<th class="tableblock halign-left valign-top">Theory related</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Identify the changes that you have to make in your enterprise to realise the
-business model and deliver the services. Enhance your 4EM or Archimate
-model from part 1. The new model should be submitted. (Hint: did the
-service innovation create more goals for your enterprise? If so, are there
-implications for the processes, roles, technology, etc. in your enterprise?)</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Explain the changes in your enterprise model and how they would support the service innovation e.g. new or changed processes, new organisational
-structure, new competences and therefore new roles and actors, perhaps new
-technological solutions, etc.). Note: again, it&#8217;s important to be clear about the
-purpose of the model as was relevant for part 1.</p></td>
-</tr>
-</tbody>
-</table>
+<h3 id="changes">4.1. Changes in the Enterprise Model</h3>
+<div class="paragraph">
+<p>The models will be redesigned in this section to complement the planned innovation.
+Changes will be made to the 4EM-models.
+The affected models are both the Actors and Resources Model and the Business Process Model.
+Naturally this affects the Enterprise Model as well.
+All notable changes in the models are highlighted with red borders (does not include constraints in Goal model).</p>
+</div>
+<div class="sect3">
+<h4 id="changed_actors_text">4.1.1. The Changed Actors and Resources Model</h4>
+<div class="paragraph">
+<p>This model has been updated to include the developers from Dotkom.
+The developers play a significant role in both the creation of the proposed service as well as its maintenance.</p>
+</div>
+<div id="changed_actors" class="imageblock text-center">
+<div class="content">
+<img src="figures/TOBE/changed_actors.svg" alt="changed actors">
+</div>
+<div class="title">Figure 15. The Actors and Resources Model || 4EM</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_the_changed_business_process_model">4.1.2. The Changed Business Process Model</h4>
+<div class="paragraph">
+<p>The most significant change appears in this model.
+The first process is totally eliminated, and the new process starts with the old process' output, namely <em>Information set 2 - Shopping list</em>.
+In line with the goals defined in <a href="#em_goal">the Goal model</a>, the proposed service has streamlined certain parts of the restocking process.
+Previously the shopping list was created manually, and the need for a restock uncovered in the same manual way.</p>
+</div>
+<div class="paragraph">
+<p>The notification,  _Information set 1, remains the same, however the way it is created is new.
+This is not shown in the model, but described in this paragraph and previously.
+The proposed service, the Stock Tracker, keeps track of the items in stock.
+When a certain threshold is reached, it sends a notification to Trikom with a tailored shopping list.</p>
+</div>
+<div class="paragraph">
+<p>A Slack-notice (<em>Information set 3</em>) is issued as a new element in <em>Process 1</em>.
+This tells all of Online&#8217;s members that a restock is in the works.
+As a result, the stock is more predictable, which motivates the goal of enhanced customer satisfaction.</p>
+</div>
+<div class="paragraph">
+<p>A new information set is shown in <em>Process 2</em>.
+This information set offers data about the current stock following the restock.
+This data is added to the Stock Tracker to keep it up to date.
+When this is accomplished, a notification is issued to all of Online&#8217;s members informing them that Kiosken&#8217;s items are once again available.</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="changed_process" class="imageblock text-center">
+<div class="content">
+<img src="figures/TOBE/changed_process.svg" alt="changed process">
+</div>
+<div class="title">Figure 16. Changed Business Process Model || 4EM</div>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+<div class="sect3">
+<h4 id="_the_changed_enterprise_model">4.1.3. The Changed Enterprise Model</h4>
+<div class="paragraph">
+<p>The modified Enterprise Model is depicted in <a href="#changed_em">Figure 17</a>.
+The components have been reorganized in order to improve readability.</p>
+</div>
+<div class="paragraph">
+<p>The goals' arrows have been revised to point to more specific areas of the processes, making it clearer how the innovation affects them.
+The same is applicable for the Trikom members' roles and interactions.
+<a href="#changed_actors_text">Section 4.1.1</a> highlighted the modifications for Dotkoms developers and their involvement in the maintenance of the Stock Tracker.</p>
+</div>
+<div class="paragraph">
+<p>The revised model should be easier to grasp, and provide a more natural picture of the overall business and its processes, relevant to the case.</p>
+</div>
+<div style="page-break-after: always;"></div>
+<div id="changed_em" class="imageblock text-center">
+<div class="content">
+<img src="figures/TOBE/changed_em.svg" alt="changed em">
+</div>
+<div class="title">Figure 17. Changed Enterprise Model || 4EM</div>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_enterprise_model_enterprise_architecture">4.2. Enterprise Model &amp; Enterprise Architecture</h3>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 50%;">
-<col style="width: 50%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Expectations</th>
-<th class="tableblock halign-left valign-top">Theory related</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Structure model according to an Enterprise Architecture Framework, e.g.
-TOGAF</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Reflect on the relationship between Enterprise Modelling and Enterprise
-Architecture.</p></td>
-</tr>
-</tbody>
-</table>
+<div class="paragraph">
+<p>To understand the relationship between Enterprise Modeling and Enterprise Architecture, the concepts must first be defined.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<em>Enterprise Modeling</em> can be understood as 'the process of creating an integrated enterprise model which captures the aspects of the enterprise required for the modeling purpose at hand' [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">9</a>].
+</blockquote>
+<div class="attribution">
+&#8212; Sandkuhl et al.
+</div>
+</div>
+<div class="paragraph">
+<p>This type of model is made up of related sub-models that cover various parts of the business.
+The model is created in such a way that all stakeholders participating in the modeling process understand it.</p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<em>Enterprise Architecture</em> is a coherent whole of principles, methods, and models that are used in the design and realisation of an enterprise’s organisational structure, business processes, information systems and infrastructure [<a href="#Lankhorst_2017">8</a>].
+</blockquote>
+<div class="attribution">
+&#8212; Lankhorst et al.
+</div>
+</div>
+<div class="paragraph">
+<p>An enterprise architecture, as described expressly by the TOGAF framework, gives an overview of business processes, with a priority on IT, and the infrastructure that supports these activities.
+Enterprise Architecture functions as a map containing information about the existing situation (for instance, a business) and its elements and dependencies [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">9</a>].</p>
+</div>
+<div class="paragraph">
+<p>The biggest difference is that an EA simply describes the different aspects of an enterprise, but that an EM focuses on goals and how IT systems may produce value.</p>
+</div>
+<div class="paragraph">
+<p>The models redesigned in <a href="#changes">Section 4.1</a> are considered to be enterprise architectures as well.
+The redesigned <a href="#changed_em">enterprise model</a> shows how a digital innovation (Stock Tracker service) is implemented to create business value.
+This is supported by the overall goals defined in <a href="#goals">Section 1.3.1</a>, namely for the model to be <strong><em>beneficial to analyze the business processes</em></strong> and to <strong><em>visualize</em></strong> the business processes.</p>
+</div>
+<div style="page-break-after: always;"></div>
 </div>
 </div>
 </div>
@@ -749,53 +964,179 @@ Architecture.</p></td>
 <div class="sectionbody">
 <div class="sect2">
 <h3 id="_model_evaluation">5.1. Model Evaluation</h3>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 50%;">
-<col style="width: 50%;">
-</colgroup>
-<thead>
+<div class="paragraph">
+<p>In this section I will evaluate the models created. In <a href="#goals">Section 1.3.1</a> the goals, sub-goals and purpose is described as the following:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>The model should <strong>be beneficial to analyze the business processes</strong></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>It should be able to <strong>identify possible innovation(s)</strong></p>
+</li>
+<li>
+<p>1.2 It should <strong>identify potential threats to reach the business goals</strong></p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>The model should overall <strong>visualize</strong></p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>It should be <strong>created in such a way that the committe members of Trikom is able to utilize it</strong></p>
+</li>
+</ol>
+</div>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>To evaluate the models I will use <strong>quality criteria</strong>.
+<strong>Quality criteria</strong> are utilized because, while it focuses on the models and how accurate they are in terms of modeling the business, it allows for subjective quality.
+I.e it covers the models usability and understanding, which are very important parts for those going to utilize them.</p>
+</div>
+<div class="paragraph">
+<p>According to Krogstie et al., '<em>what quality criteria are relevant and how strictly they are to be followed depends on the purpose of modeling or goals of modeling</em>' [<a href="#krogstie">7</a>], and this is taken into consideration for this section.
+The criterias <strong>simplicity</strong> and <strong>integration</strong> is omitted as own paragraphs as they are covered sufficiently in the other criterias.</p>
+</div>
+<div class="admonitionblock note">
+<table>
 <tr>
-<th class="tableblock halign-left valign-top">Expectations</th>
-<th class="tableblock halign-left valign-top">Theory related</th>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+All definitions in the following paragraphs are by Sandkuhl et al. [<a href="#Sandkuhl_Stirna_Persson_Wißotzki_2014">9</a>]
+</td>
 </tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Assess if your model meets its purpose. You can use any of the methods we
-learned for evaluating models or any other means. (Hint - connect your
-model to its purposes and ask if it meets the purpose</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">How did you evaluate yur model - what evaluations methods (from theory) did
-you consider? Justify your choice of evaluation method(s). Describe how you
-evaluate your model, using the model and include screen shots of the relevant
-parts of the model. Describe why you think your model is good and meets the
-purpose (or not).</p></td>
-</tr>
-</tbody>
 </table>
+</div>
+<div class="paragraph">
+<p><strong>Usability</strong></p>
+</div>
+<div class="paragraph">
+<p><em>The ease with which the enterprise model can be used for its intended purpose.</em></p>
+</div>
+<div class="paragraph">
+<p>The models were designed to be useful in analyzing business processes.
+It has shown to be useful in identifying a potential innovation, namely the Stock Tracker service.
+It also covers potential threats that stakeholders / intended users should be aware of.
+Its design is straightforward, and the Trikom committee members should be able to use it.
+The proposed service innovation should have a clear impact on the existing business process and it covers the required changes to achieve so.</p>
+</div>
+<div class="paragraph">
+<p>The <em>usability</em> of the model is evaluated very good.</p>
+</div>
+<div class="paragraph">
+<p><strong>Understanding</strong></p>
+</div>
+<div class="paragraph">
+<p><em>The ease with which the concepts and structures in the enterprise model can be understood by the stakeholders.</em></p>
+</div>
+<div class="paragraph">
+<p>It is worth emphasizing that the stakeholders that use this model will be quite familiar with all of the existing Kiosken-processes.
+Because I was aware of this during the modeling process, I may have been less detailed than I would have been if the users were less familiar.
+This is compensated for by textual descriptions.</p>
+</div>
+<div class="paragraph">
+<p>Certain arrows in the Enterprise Model are a little difficult to follow.
+They are quite lengthy and have several pathways.
+Textual descriptions compensate for this as well.</p>
+</div>
+<div class="paragraph">
+<p>The <em>understanding</em> of the model is evaluated good.</p>
+</div>
+<div class="paragraph">
+<p><strong>Completeness</strong></p>
+</div>
+<div class="paragraph">
+<p><em>The degree to which all relevant facts of the problem domain are included in the enterprise model.</em></p>
+</div>
+<div class="paragraph">
+<p>The case considers a specific process, namely the restocking of Kiosken.
+All sub-processes and models included are related to this.
+The goals are realized by the processes and the proposed service.
+The actors presented are either performing actions related to the overall process, or essential to the Stock Tracker.</p>
+</div>
+<div class="paragraph">
+<p>The <em>completeness</em> of the model is evaluated very good.</p>
+</div>
+<div class="paragraph">
+<p><strong>Correctness</strong></p>
+</div>
+<div class="paragraph">
+<p><em>How well the enterprise model conforms to the rules of the modeling technique.</em></p>
+</div>
+<div class="paragraph">
+<p>In my case, the modeling technique of choice was 4EM.
+This criterion assesses how effectively my model adheres to the language&#8217;s scope and makes use of the language&#8217;s current syntax and rules.</p>
+</div>
+<div class="paragraph">
+<p>The model adheres to the syntax and rules of the language.
+I may have overlooked certain elements of the language that would have made modeling easier, but the finished product should meet expectations.</p>
+</div>
+<div class="paragraph">
+<p>The <em>correctness</em> of the model is evaluated good.</p>
+</div>
+<div class="paragraph">
+<p><strong>Flexibility</strong></p>
+</div>
+<div class="paragraph">
+<p><em>The ease with which the enterprise model can cope with changes in the modeling domain.</em></p>
+</div>
+<div class="paragraph">
+<p>Everything was created using <a href="https://draw.io">draw.io</a>.
+Within the tool, the various sub-models are separated into their own tabs, making it simple to make modifications to only certain components.
+As a consequence of the multiple sub-models being separate, the model is particularly adaptable and robust to dealing with changes within the domain.
+Furthermore, because the model is not very complicated, the amount of work required to make necessary adjustments would be manageable.</p>
+</div>
+<div class="paragraph">
+<p>The <em>flexibility</em> of the model is evaluated very good.</p>
+</div>
+<div class="paragraph">
+<p><strong>Overall quality</strong></p>
+</div>
+<div class="paragraph">
+<p>The model&#8217;s <em>overall quality</em> is rated as good, but there is there is space for improvement.
+Someone more experienced  might use elements and aspects of 4EM that I am not familiar with, improving both understanding and accuracy.</p>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_reflections_2">5.2. Reflections</h3>
-<table class="tableblock frame-all grid-all stretch">
-<colgroup>
-<col style="width: 50%;">
-<col style="width: 50%;">
-</colgroup>
-<thead>
-<tr>
-<th class="tableblock halign-left valign-top">Expectations</th>
-<th class="tableblock halign-left valign-top">Theory related</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Describe what you have done. Reflections and lessons learned. Reflect on
-the work, the process you followed and share some of your thoughts.</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Also discuss the modelling experience. And what would you do anything
-different next time?</p></td>
-</tr>
-</tbody>
-</table>
+<div class="paragraph">
+<p>I found the entire process to be rather challenging.
+I haven&#8217;t been able to attend as many lectures as I had anticipated, but I&#8217;ve done my best to stay up-to-date through available learning materials and engagement with fellow students.
+The main issue was connected to many big words and definitions I was not familiar with, and at some point had misunderstood.
+Fortunately, this was mostly resolved during exercise lessons.</p>
+</div>
+<div class="paragraph">
+<p>It was a lot of fun brainstorming potential cases.
+I took one case early on, and worked on it extensively until I concluded it just would not work.
+Starting from scratch with a new case was definitely discouraging, but I had learned a lot and the process went much more smoothly the second time.
+The largest advantage was taking detailed notes and describing the case thoroughly before modeling.</p>
+</div>
+<div class="paragraph">
+<p>I&#8217;m glad I have some prior experience with information systems and modeling.
+Modeling my case was challenging using new tools, but it became fun after I got the hang of it and the many elements fell into place.
+It took several modeling iterations until I was satisfied, and I am pleased with the outcome.</p>
+</div>
+<div class="paragraph">
+<p>If I had to do it all over again, I would surely do certains things differently.
+Before modeling, I would familiarize myself with both 4EM and ArchiMate so that I could have a better modeling experience.
+Even while it was exciting at times, I spent a lot of time overwhelmed and confused by conventions and syntax.
+I would also consider getting familiar with more of the frameworks for evaluation and enterprise architectures.</p>
+</div>
+<div class="paragraph">
+<p>All in all i think it was a challenging process, but I feel I have gotten rather good insights into business and enterprise modelling, as well as service innovation and the methods for analyzing them [<a href="#CourseEnterpriseArchitecture">1</a>].</p>
+</div>
+<div class="paragraph">
+<p>As I&#8217;ve never written anything longer than a few pages, writing such an extensive report was a great learning experience as well.</p>
+</div>
+<div style="page-break-after: always;"></div>
 </div>
 </div>
 </div>
@@ -803,35 +1144,41 @@ different next time?</p></td>
 <h2 id="_bibliography">6. Bibliography</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p><a id="LinjeforeningenOnline"></a>[1] “Linjeforeningen Online,” <em>Linjeforeningen Online</em>. <a href="https://online.ntnu.no/" class="bare">https://online.ntnu.no/</a>, Nov. 2021.</p>
+<p><a id="CourseEnterpriseArchitecture"></a>[1] “Course - Enterprise Architecture for Enterprise Innovation - TDT4252 - NTNU.” <a href="https://www.ntnu.edu/studies/courses/TDT4252#tab=omEmnet" class="bare">https://www.ntnu.edu/studies/courses/TDT4252#tab=omEmnet</a>.</p>
 </div>
 <div class="paragraph">
 <p><a id="trikom"></a>[2] “Trivselskomiteen,” <em>Linjeforeningen Online</em>. <a href="https://old.online.ntnu.no/wiki/online/historie/trikom/" class="bare">https://old.online.ntnu.no/wiki/online/historie/trikom/</a>, Nov. 2021.</p>
 </div>
 <div class="paragraph">
-<p><a id="DoubleDiamondDesign2021"></a>[3] “Double Diamond (Design Process Model),” <em>Wikipedia</em>, Nov. 2021.</p>
+<p><a id="LinjeforeningenOnline"></a>[3] “Linjeforeningen Online,” <em>Linjeforeningen Online</em>. <a href="https://online.ntnu.no/" class="bare">https://online.ntnu.no/</a>, Nov. 2021.</p>
 </div>
 <div class="paragraph">
-<p><a id="Nibble4"></a>[4] “Nibble4.” Appkom, Nov. 2021.</p>
+<p><a id="DoubleDiamondDesign2021"></a>[4] “Double Diamond (Design Process Model),” <em>Wikipedia</em>, Nov. 2021.</p>
 </div>
 <div class="paragraph">
-<p><a id="doubleDiamond"></a>[5] D. Council, “What Is the Framework for Innovation? Design Council’s Evolved Double Diamond,” <em>Design Council</em>. <a href="https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond" class="bare">https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond</a>, Mar. 2015.</p>
+<p><a id="Nibble4"></a>[5] AppKom, “Nibble4.” <a href="https://github.com/appKom/nibble4" class="bare">https://github.com/appKom/nibble4</a>, Nov. 2021.</p>
 </div>
 <div class="paragraph">
-<p><a id="Sandkuhl_Stirna_Persson_Wißotzki_2014"></a>[6] K. Sandkuhl, J. Stirna, A. Persson, and M. Wißotzki, <em>Enterprise Modeling: Tackling Business Challenges with the 4EM Method</em>, Two thousand, fourteenth. Berlin, Germany: Springer, 2014.</p>
+<p><a id="doubleDiamond"></a>[6] D. Council, “What Is the Framework for Innovation? Design Council’s Evolved Double Diamond,” <em>Design Council</em>. <a href="https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond" class="bare">https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond</a>, Mar. 2015.</p>
 </div>
+<div class="paragraph">
+<p><a id="krogstie"></a>[7] J. Krogstie, “Quality of Business Process Models,” in <em>Lecture Notes in Business Information Processing</em>, Nov. 2012, vol. 134, pp. 76–90, doi: 10.1007/978-3-642-34549-4_6.</p>
 </div>
+<div class="paragraph">
+<p><a id="Lankhorst_2017"></a>[8] M. Lankhorst, <em>Enterprise Architecture at Work: Modelling, Communication and Analysis</em>, Fourth. Berlin, Germany: Springer, 2017.</p>
 </div>
-<div class="sect1">
-<h2 id="appendicies">7. Appendicies</h2>
-<div class="sectionbody">
-
+<div class="paragraph">
+<p><a id="Sandkuhl_Stirna_Persson_Wißotzki_2014"></a>[9] K. Sandkuhl, J. Stirna, A. Persson, and M. Wißotzki, <em>Enterprise Modeling: Tackling Business Challenges with the 4EM Method</em>, Two thousand, fourteenth. Berlin, Germany: Springer, 2014.</p>
+</div>
+<div class="paragraph">
+<p><a id="skowronLeanCanvasVs"></a>[10] M. Skowron, “Lean Canvas vs Business Model Canvas: Which Should You Choose?,” <em>UIG Studio</em>. <a href="https://uigstudio.com/insights/lean-canvas-vs-business-model-canvas-which-should-you-choose" class="bare">https://uigstudio.com/insights/lean-canvas-vs-business-model-canvas-which-should-you-choose</a>.</p>
+</div>
 </div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2021-11-23 09:36:15 +0100
+Last updated 2021-11-29 20:19:25 +0100
 </div>
 </div>
 <script type="text/x-mathjax-config">
