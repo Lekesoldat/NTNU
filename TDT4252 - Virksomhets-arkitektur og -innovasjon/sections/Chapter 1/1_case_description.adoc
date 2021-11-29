@@ -58,7 +58,7 @@ Assigning different tasks to different Trikom members, varying from driving and 
 *The Process of Restocking*
 
 A car has to be rented and several members have to perform the actual shopping.
-The shopping is done at a partner.
+The shopping is done at certain grocery stores with an agreement benefiting both parts.
 When the shopping is finished, either the same members as those who shopped, or others, have to carry all the new items into the storage unit and restock the shelves. 
 
 Once the entire restocking process is initiated, it is time consuming and involves many parts. 

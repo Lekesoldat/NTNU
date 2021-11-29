@@ -1,3 +1,4 @@
+[[model_design]]
 === Model Design
 
 The enterprise models presented are mostly concerned with the business process.
@@ -7,9 +8,13 @@ The goals are also significant since they serve as the reason why the tasks are 
 To begin developing the models, I concentrated on the processes.
 It was critical to have a thorough grasp of how a Kiosken operates.
 When the processes with it's sub processes was modeled, I focused on the goals.
-To begin, I had some rough thoughts about the goals, but when the processes was clear, the goals were concretized and split into subgoals. 
+To begin, I had some rough thoughts about the goals, but when the processes was clear, the goals were concretized and split into sub-goals. 
+
 Once the processes were identified, the actors manifested themselves intuitively.
 To avoid extraneous information, the models incorporate just relevant actors. 
+One may question why the actors are included when there is only one actor performing the actual tasks in the first models. 
+The reason is to acknowledge the existence Dotkom, as they bring the opportunity to create the proposed service. 
+In the latter models, the actors include the very important developers both creating and maintaining the service.
 
 The enterprise model was created using a top-down method.
 The goals are provided first, followed by the procedures and the essential actors.

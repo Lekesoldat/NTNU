@@ -52,7 +52,7 @@ model can be understood by the stakeholders cite:[Sandkuhl_Stirna_Persson_Wißot
 
 ** The models have to be precise and understandable. Only the relevant information should be provided, and it should be in such a way that the Trikom committee members can make use of it. 
 
-** The criteria is not met if the model leads to uncertainties or wrong conclusions.
+** The criteria is not met if the model leads to uncertainties and confusion, i.e regaring processes or involved actors.
 
 
 

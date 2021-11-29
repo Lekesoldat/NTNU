@@ -20,7 +20,7 @@ Before modeling, I would familiarize myself with both 4EM and ArchiMate so that 
 Even while it was fascinating at times, I spent a lot of time overwhelmed and confused by conventions and syntax.
 I would also consider getting familiar with more of the frameworks for evaluation and enterprise architectures. 
 
-All in all i think it was a challenging process, but I feel I have gotten rather good insights into business and enterprise modelling, as well as service innovation and the methods for analyzing them.
+All in all i think it was a challenging process, but I feel I have gotten rather good insights into business and enterprise modelling, as well as service innovation and the methods for analyzing them cite:[CourseEnterpriseArchitecture].
 
 // |===
 // | Expectations |Theory related
@@ -33,20 +33,3 @@ All in all i think it was a challenging process, but I feel I have gotten rather
 
 // |===
 
-
-
-
-
-
-
-
-
-// I found the entire process quite difficult. I have not attended as many lectures as I hoped for, but I've tried my best to keep up to date through the posted learning material and collaboration with fellow students. The main issue was connected to many big words and definitions I was not familiar with, and at some point had misunderstood. This was luckily solved for the most part during exercise lectures.
-
-// Brainstorming the potential cases was very exciting. I chose one case very early and did a significant amount of work on that, until i realized it just would not work. Starting from scratch with a new case was a bit demotivating, however, I had learned a lot and the second time the process went much smoother. The greatest benefit was taking notes and describing the case thoroughly before modeling. 
-
-// I am very happy that I was a bit familiar with information systems and modeling from earlier. Modeling my case was difficult with new tools, however it became exciting once I got the hang of it, and the different pieces came in place. It took many iterations with modeling until I was satisfied, and I am happy with the results. 
-
-// I would definitely do certain things different if I was to do the process all over. I would make myself more familiar with both 4EM and ArchiMate, before modeling, so I could have a better modeling experience. Even though it was exciting at times, I spent a significant amount of time being frustrated and confused with conventions and syntax. I would also consider getting familiar with more of the frameworks for evaluation and enterprise architectures. 
-
-// All in all i think it was a challenging process, but I feel I have gotten rather good theoretical insights into business and enterprise modelling, as well as service innovation and the methods for analysing them.
