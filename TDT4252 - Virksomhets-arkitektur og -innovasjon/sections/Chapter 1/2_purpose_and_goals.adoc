@@ -6,9 +6,8 @@ However, the operation of Kiosken is a zero-profit project for Online.
 Better availability will not generate more revenue, but the user satisfaction will greatly increase, which is in line with Trikoms goals. 
 
 This model should serve as a beneficial overview of the key processes of the restocking of Kiosken. 
-The current models give a precise overview of the relevant parts of the case AS IS.
 No unnecessary information will surface, and the models have a logical easy-to-follow structure.
-By getting a overview of all sub process, actors and goaals, Trikom could identify steps and processes that could be greatly improved. 
+By getting an overview of all sub process, actors and goals, Trikom could identify steps and processes that could be greatly improved. 
 Through this, innovation can be applied, and Trikom optimize their processes, thus resulting in a better service for Onlines members.
 
 [[goals]]
@@ -22,17 +21,17 @@ A model is a generalized representation of a piece of reality, with only relevan
 In other words, models help to represent and understand how an enterprise works. 
 The model represent a relevant piece of reality, aiming to give greater insight into information, functions, behaviour and further on.
 
-In this case, the overall goal of the model is to be **beneficial to analyze the business processes**.
-Some sub goals will be to *identify possible innovation(s)* and *identify potential threats to reaching the business goals*.
-Further, a goal is to **visualize** the business processes to get a hands-on look at what is actually going on.
-Related to the vizualization-goal, a precise sub goal will be to *create the model in such a way that the committe members of Trikom is able to utilize it*.
+In this case, the overall goal of the model is to be *_beneficial to analyze the business processes_*.
+Some sub-goals will be to *identify possible innovation(s)* and *identify potential threats to reaching the business goals*.
+Further, a goal is to *_visualize_* the business processes to get a hands-on look at what is actually going on.
+Related to the vizualization-goal, a precise sub-goal will be to *create the model in such a way that the committe members of Trikom is able to utilize it*.
 
 [[success_criteria]]
 ==== Success criteria
 
 There are several ways to evaluate models. 
 For instance, Sandkuhl et al. cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014] mentions competency questions and quality criteria. One can also apply a framework such as SEQUAL. 
-Common to all, is how well the model fulfills the goals.
+Common to all, is to evaluate how well the model fulfills the defined goals.
 For this case I will use the **quality criteria**.
 
 There are many possible quality criteria one can apply. 
@@ -52,7 +51,7 @@ model can be understood by the stakeholders cite:[Sandkuhl_Stirna_Persson_Wißot
 
 ** The models have to be precise and understandable. Only the relevant information should be provided, and it should be in such a way that the Trikom committee members can make use of it. 
 
-** The criteria is not met if the model leads to uncertainties and confusion, i.e regaring processes or involved actors.
+** The criteria is not met if the model leads to uncertainties and confusion, i.e regarding processes or involved actors.
 
 
 

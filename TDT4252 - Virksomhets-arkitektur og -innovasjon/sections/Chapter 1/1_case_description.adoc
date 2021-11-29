@@ -26,7 +26,7 @@ Further, it appears to be much micromanagement which in an ideal world would not
 
 As a member of Online, I am a frequent user of Kiosken. 
 The problems mentioned above significantly impact me as a regular customer. 
-My biggest motivation for the presented case is to figure out how to streamline the restocking process and thus provide better and more predictable availability of the goods in Kiosken. 
+My biggest motivation for the presented case is to figure out how to streamline the restocking process and thus provide better and more predictable availability of the items in Kiosken. 
 
 By utilizing an enterprise model, from Trikom's perspective, one can hopefully understand the underlying processes of the restocking and identify innovations to streamline those.
 
@@ -38,12 +38,12 @@ By utilizing an enterprise model, from Trikom's perspective, one can hopefully u
 The overall process of keeping Kiosken restocked, is a combination of several smaller processes. 
 The following paragraphs are meant to give a brief introduction to these.
 
-*The Process of Identifying a Need For a Restock*
+*The Process of Identifying a Need for a Restock*
 
 As of now, there is no concrete process of identifying the need for a restock. 
 The need is identified by regular users reporting a lack of items, or by Trikom members checking manually. 
 Even though regular users report few items, or they are identified as out of stock by Trikom themselves, the actually restock may not happen immediately. 
-It is a common practice to wait for Kiosken to be almost out of stock of all items before a restock is even planned. 
+It is a common practice to wait for Kiosken to be almost out of all items before a restock is even planned. 
 
 
 *The Process of Planning a Restock*
@@ -62,7 +62,7 @@ The shopping is done at certain grocery stores with an agreement benefiting both
 When the shopping is finished, either the same members as those who shopped, or others, have to carry all the new items into the storage unit and restock the shelves. 
 
 Once the entire restocking process is initiated, it is time consuming and involves many parts. 
-Ideally certain sub processes can be be improved or even eliminated by innovation.
+Ideally certain sub-processes can be be improved or even eliminated by innovation.
 
 
 
