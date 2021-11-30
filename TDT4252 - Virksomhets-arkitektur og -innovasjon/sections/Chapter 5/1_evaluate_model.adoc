@@ -5,7 +5,7 @@ In this section I will evaluate the models created. In xref:goals[] the goals, s
 
 .. It should be able to *identify possible innovation(s)*
 
-.. 1.2 It should *identify potential threats to reach the business goals*
+.. It should *identify potential threats to reach the business goals*
 
 . The model should overall *visualize*
 
@@ -20,6 +20,7 @@ The criterias *simplicity* and *integration* is omitted as own paragraphs as the
 
 NOTE: All definitions in the following paragraphs are by Sandkuhl et al. cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014]
 
+<<<
 *Usability*
 
 _The ease with which the enterprise model can be used for its intended purpose._ 

@@ -17,7 +17,7 @@ Enterprise Architecture functions as a map containing information about the exis
 The biggest difference is that an EA simply describes the different aspects of an enterprise, but that an EM focuses on goals and how IT systems may produce value.
 
 The models redesigned in xref:changes[] are considered to be enterprise architectures as well. 
-The redesigned xref:changed_em[enterprise model] shows how a digital innovation (Stock Tracker service) is implemented to create business value.
+The redesigned xref:changed_em[Enterprise Model] shows how a digital innovation (The Stock Tracker service) is implemented to create business value.
 This is supported by the overall goals defined in xref:goals[], namely for the model to be *_beneficial to analyze the business processes_* and to *_visualize_* the business processes.
 
 
