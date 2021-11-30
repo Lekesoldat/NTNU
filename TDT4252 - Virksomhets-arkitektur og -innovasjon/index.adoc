@@ -33,11 +33,11 @@ include::sections/Chapter 2/3_blueprint.adoc[]
 include::sections/Chapter 2/4_reflections.adoc[]
 
 <<<
-== Business modelling
+== Business Modelling
 include::sections/Chapter 3/1_business_and_value.adoc[]
 
 <<<
-== Redesigned enterprise model 
+== Redesigned Enterprise Model 
 include::sections/Chapter 4/1_changes_in_model.adoc[]
 include::sections/Chapter 4/2_relate_model_to_architecture.adoc[]
 

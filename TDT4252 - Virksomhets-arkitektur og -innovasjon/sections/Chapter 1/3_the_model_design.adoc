@@ -3,7 +3,7 @@
 
 The enterprise models presented are mostly concerned with the business process.
 By concentrating on the business process, one may see both the important procedures and the individuals involved.
-The goals are also significant since they serve as the reason why the tasks are carried out.
+The goals are also significant since they serve as a motivation to why tasks are carried out.
 
 The enterprise model was created using a top-down method.
 The goals are provided first, followed by the processes and the essential actors.

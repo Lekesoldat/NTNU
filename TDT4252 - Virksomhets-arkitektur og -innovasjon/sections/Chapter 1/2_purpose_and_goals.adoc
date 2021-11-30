@@ -31,7 +31,7 @@ Related to the vizualization-goal, a precise sub-goal will be to *create the mod
 
 There are several ways to evaluate models. 
 For instance, Sandkuhl et al. cite:[Sandkuhl_Stirna_Persson_Wißotzki_2014] mentions competency questions and quality criteria. One can also apply a framework such as SEQUAL. 
-Common to all, is to evaluate how well the model fulfills the defined goals.
+Common to all, is to evaluate how well the model fulfills its purpose.
 For this case I will use the **quality criteria**.
 
 There are many possible quality criteria one can apply. 

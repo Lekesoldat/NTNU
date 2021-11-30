@@ -25,12 +25,12 @@ The first process is totally eliminated, and the new process starts with the old
 In line with the goals defined in xref:em_goal[the Goal model], the proposed service has streamlined certain parts of the restocking process. 
 Previously the shopping list was created manually, and the need for a restock uncovered in the same manual way. 
 
-The notification,  _Information set 1, remains the same, however the way it is created is new. 
+The notification,  _Information set 1_, remains the same, however the way it is created is new. 
 This is not shown in the model, but described in this paragraph and previously. 
 The proposed service, the Stock Tracker, keeps track of the items in stock. 
-When a certain threshold is reached, it sends a notification to Trikom with a tailored shopping list.
+When a certain threshold of items in stock is reached, it sends a notification to Trikom with a tailored shopping list.
 
-A Slack-notice (_Information set 3_) is issued as a new element in _Process 1_.
+A Slack-notice, _Information set 3_, is issued as a new element in _Process 1_.
 This tells all of Online's members that a restock is in the works.
 As a result, the stock is more predictable, which motivates the goal of enhanced customer satisfaction. 
 

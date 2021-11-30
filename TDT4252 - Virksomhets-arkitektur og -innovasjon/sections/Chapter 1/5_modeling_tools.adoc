@@ -14,21 +14,20 @@ I utilized a program I was familiar with, https://draw.io[draw.io], and altogeth
 Its approach to process management was ideal for my situation, and when paired with a nice user experience, it quickly became my preferred language.
 
 I didn't have the most complex case, but I could imagine 4EM being a bit restricting with anything more sophisticated.
-Because the language has a somewhat rigid structure, I suppose it would be difficult to utilize in a situation including multiple processes, actors, and other notions. 
+Because the language has a somewhat rigid structure, I suppose it would be difficult to utilize in a situation including multiple extensive processes, actors, and other notions. 
 
 **ArchiMate**
 
 I started modeling in 4EM, thus ArchiMate was first perplexing to me.
-The concepts and their names were difficult to translate, but I eventually got the hang of it.
+The concepts and their names were difficult to grasp, but I eventually got the hang of it.
 
 I tried the Archi Modeling Tool and had mixed thoughts about it.
 It was excellent to guarantee there were no technical faults, but I encountered several unexpected errors as well as problems with the general usage.
-The frustration associated with this may have influenced the conclusion of the preferred language, but I still feel 4EM was the greatest decision.
+The frustration associated with this may have influenced the conclusion of the preferred language, but I still would argue 4EM was the greatest decision.
 
 In my perspective, 4EM excels in the process modeling, but ArchiMate is overall decent in all areas.
 Archimate's layers provide an advantage in that they indicate how processes are carried out and goals are attained from the business layer to the technology layer in a top-down approach. 
 Because my case was fairly process-oriented, I found ArchiMate to be a little weak, particularly in terms of the information shared between the processes. 
-4EM shines when it comes to showing how different views relate to eachother. 
 
 Because the models will be utilized by Trikoms members who may be unfamiliar with modeling languages, it is critical that what is provided is intelligible and does not cause misunderstanding. 
 ArchiMate, with its diverse variety of components and levels, may be harder to grasp for those unfamiliar.

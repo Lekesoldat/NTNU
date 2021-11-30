@@ -25,12 +25,10 @@ When such a mail is sent, or the message passed on, no more information surfaces
 To the customer, when it will be completed or even if the notice is received is unknown.
 
 * Trikom must prepare ahead of time in order to carry out a restock.
-First and foremost, all items in Kiosken's shelves must be counted and date verified.
-The items in storage also has to be counted and the dates verified.
+First and foremost, all items in Kiosken's shelves must be counted, as well as the storage.
 A shopping list must be created once the current supply is counted.
 The quantity of each item required must be estimated depending on both popularity and storage availability.
-A shopping session requires a lot of repetitive and manual labor.
-There is no computer aid, therefore it is time-consuming and prone to human mistake.
+A shopping session requires a lot of repetitive and manual labor, and as there is no computer aid, it is time-consuming and prone to human mistake.
 In the worst-case scenario, purchasing too much of an item may result in it going bad and needing to be thrown out prior to sale owing to a lack of storage capacity.
 This is not beneficial for the economy as a non-profit kiosk. 
 
@@ -40,7 +38,7 @@ This is not beneficial for the economy as a non-profit kiosk.
 
 Two issues were discovered during the _discover_-phase.
 The first is the manual labor of checking item availability and registering a restocking request.
-The other is the time-consuming and human-error-prone procedure of organizing a shopping trip.
+The other is the time-consuming and human-error-prone process of organizing a shopping trip.
 As the identified problems are experienced close to first hand, a few possible improvements has been thought of. 
 The idea is to implement a new _digital service_ into the custom made kiosk-app called Nibble cite:[Nibble4].
 
@@ -60,11 +58,11 @@ The service attempts to lessen the degree of uncertainty surrounding item availa
 Dotkom, another committee in Online, will be utilized in the development of the innovation.
 They are unrelated to Trikom's processes, but the committee is in charge of technology solutions for all of Online's committees.
 The presented solutions does not need a large rearrangement of the restocking process, but it will have a significant impact.
-The service will be referred to as the 'Stock Tracker' service from now on, and one sees that in xref:em_process[], the _Stock Tracker_ service will replace the first business process and parts of the second. 
+The service will be referred to as the 'Stock Tracker' from now on, and one sees that in xref:em_process[], the _Stock Tracker_ service will replace the first business process and parts of the second. 
 
 
 [discrete]
-==== Develop - The Stock Tracker Service
+==== Develop
 A Blueprint is provided later in the report, in its own section, to add to the develop phase.
 
 The service can be created with limited cooperation from Trikom's members.

@@ -3,7 +3,7 @@
 So far, it has been discussed how the proposed service would influence the users.
 The next chapter discusses how value is created from a business perspective.
 To prevent any ambiguity:
-The new service benefits both Trikom committee members, Online as an organization, and Kiosken users on a regular basis.
+The new service benefits Trikom committee members, Online as an organization, and Kiosken customers on a regular basis.
 These are critical distinctions to make.
 
 ==== Business Model Canvas
@@ -45,7 +45,7 @@ They will be able to influence whether or not the service is good.
 It is critical that they provide timely feedback so that Dotkom can make required modifications to the service.
 
 _Partner at stores_ +
-Trikom has various partners in local stores who help them achieve lower prices on Kiosken items.
+Trikom has various partners in local stores who help them achieve lower prices on Kioskens items.
 They frequently plan their shopping with those partners ahead of time to ensure a seamless procedure.
 As the service results in more regular visits, a robust interaction with these partners is critical. 
 

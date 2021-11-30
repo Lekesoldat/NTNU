@@ -7,9 +7,10 @@
 image::figures/ASIS/4EM-Goals.svg[GOALS]
 
 Trikom's overarching goal is to 'Increase customer satisfaction.' 
-This goal is difficult to measure, and it may never be considered as _reached_ simply because. 
+This goal is difficult to measure, and it may never be considered as _reached_ due to its nature. 
 However, having this as the main goal makes a it easier to create supporting and achievable sub-goals.
 The sub-goals to achieve this is given as 'Increasing the variety of items in stock', or by 'increasing the availability of items.'
+
 The inefficient restocking process, which is the key bottleneck of item supply, must be streamlined. 
 It is the increased availability-part that will be the focus of this report.
 Goals for streamlining the restocking process include reducing the number of steps in the restocking and automating the detection of need.
@@ -22,8 +23,8 @@ Further, possible constraints are highlighted.
 image::figures/ASIS/4EM-Process.png[PROCESS]
 
 <<<
-The *Business Process Model* is more in-depth.
-The view depicts the case's important processes as well as the actor involved.
+The Business Process Model is more in-depth.
+The model depicts the case's important processes as well as the actor involved.
 xref:processes[] provides a more detailed explanation of the processes and what is happening.
 It is worth noting that the _information sets_ are important, as the output of each process is essential for the next.
 
@@ -39,12 +40,13 @@ xref:model_design[] goes a bit more into detail regarding the use of this model.
 
 [.landscape]
 <<<
+[[em_em]]
 .Enterprise Model || 4EM
 image::figures/ASIS/4EM-EM.png[scaledwidth=170%, align="center"]
 [.portrait]
 <<<
 
-The Enterprise View depicts all pertinent information about the case.
+The Enterprise Model depicts all pertinent information about the case.
 The processes are linked to the goals, and which actors do what.
 The model provides a high-level overview of Trikom's operations, and how Dotkom can be utilized to reach the goals. 
 
@@ -61,7 +63,7 @@ The description of the goals are the same as for xref:em_goal[].
 .Business Process View || ArchiMate
 image::figures/ASIS/AM_Business_Process_View.svg[]
 
-The important processes, as in the 4EM-model (xref:em_process[]), are presented, together with the appropriate actors.
+The important processes, as in the 4EM model (xref:em_process[]), are presented, together with the appropriate actors.
 The absence of information sets is a significant distinction between this model and the 4EM model. 
 
 
@@ -77,7 +79,7 @@ xref:model_design[] looks more into the utilization of this view.
 image::figures/ASIS/AM_EM.svg[]
 
 The enterprise model illustrated here, like xref:em_em[], incorporates all important information for the case.
-It is clear how the drives and goals are related to the actors and processes. 
+It is clear how the drivers and goals are related to the actors and processes. 
 
 // |===
 // | Expectations |Theory related

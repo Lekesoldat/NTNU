@@ -2,7 +2,7 @@
 
 The Stock Tracker service will be displayed from the perspective of a Trikom member.
 This is an actor who will be directly impacted by the innovation.
-Regular consumers at Kiosken will be impacted indirectly since item availability will be more consistent.
+Regular customers at Kiosken will be impacted indirectly since item availability will be more consistent.
 Furthermore, clients may have a reduced wait time for a resupply.
 Even though the innovation benefits the customers, the focus lies on the Trikom members as the goal is to streamline their workflow.
 Customers' benefits are in-direct consequences of the innovation, which has a direct impact on Trikoms members and their workflow.

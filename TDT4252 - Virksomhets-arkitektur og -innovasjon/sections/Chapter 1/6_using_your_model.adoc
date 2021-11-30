@@ -11,7 +11,7 @@ Having something solid will ensure that everyone receives the same information.
 
 By putting the xref:em_goals[goals] in print, all committee members will have a common foundation.
 This perspective of view can spark debate and issue solutions.
-It may also be simpler to make choices and judgments if the goals are broken down into smaller sub-goals.
+It may also be simpler to make choices and decisions if the goals are broken down into smaller sub-goals.
 The xref:em_goals[goal model] highlights important weaknesses, opportunities and obstacles.
 Having them displayed aids in overall comprehension and ensures that potentially key events are not overlooked. 
 
